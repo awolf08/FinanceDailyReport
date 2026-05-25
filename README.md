@@ -1,0 +1,73 @@
+# Finance Daily Report
+
+Personal daily market brief generator.
+
+It creates a Markdown report with:
+
+- Premarket / active stocks and movers from Nasdaq market movers
+- Latest market news from public RSS feeds
+- Today and tomorrow economic calendar checks
+- NYSE market status so holidays and closed sessions are clearly labeled
+- After-hours and next pre-market earnings calendar from Nasdaq
+
+## Setup
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
+```
+
+Email delivery is optional. If you want email, fill in `SMTP_*` and `REPORT_RECIPIENT` in `.env`.
+
+For Gmail, use an app password instead of your normal account password.
+
+## Run
+
+```bash
+python -m finance_daily_report
+```
+
+The report is saved under `reports/`.
+By default, it writes both Markdown (`.md`) and browser-friendly HTML (`.html`).
+
+To send email as well:
+
+```bash
+python -m finance_daily_report --email
+```
+
+For automation-friendly behavior, send only when email settings are present:
+
+```bash
+python -m finance_daily_report --email-if-configured
+```
+
+Run for a specific date:
+
+```bash
+python -m finance_daily_report --date 2026-05-25
+```
+
+Choose one output format:
+
+```bash
+python -m finance_daily_report --format html
+python -m finance_daily_report --format md
+```
+
+## Daily automation
+
+For a daily premarket email, schedule this command around 6:00 AM Pacific:
+
+```bash
+cd /path/to/FinanceDailyReport
+python -m finance_daily_report --email-if-configured
+```
+
+On US market holidays the report still sends, but the active-stock section is skipped and marked as closed.
+
+## Notes
+
+This first version avoids paid API keys. Public finance endpoints sometimes rate-limit or change shape, so each section degrades independently and shows a clear note when a source is unavailable.
