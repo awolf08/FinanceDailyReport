@@ -4,9 +4,10 @@ import html
 import re
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, time, timedelta
 from email.utils import parsedate_to_datetime
 from typing import Any
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -68,6 +69,7 @@ class SourceNote:
 class ReportData:
     report_date: date
     market_status: dict[str, str] = field(default_factory=dict)
+    market_phase: str = "unknown"
     active_stocks: dict[str, list[dict[str, str]]] = field(default_factory=dict)
     news: list[dict[str, str]] = field(default_factory=list)
     economic_events: dict[str, list[dict[str, str]]] = field(default_factory=dict)
@@ -78,6 +80,7 @@ class ReportData:
 def collect_report_data(report_date: date, settings: Settings) -> ReportData:
     data = ReportData(report_date=report_date)
     data.market_status = fetch_market_status(report_date, data.notes)
+    data.market_phase = determine_market_phase(report_date, settings, data.market_status)
     if data.market_status.get("is_open") == "no":
         data.notes.append(SourceNote("Nasdaq market movers", "skipped", data.market_status.get("reason", "Market closed")))
     else:
@@ -92,6 +95,25 @@ def collect_report_data(report_date: date, settings: Settings) -> ReportData:
         "tomorrow": fetch_earnings(report_date + timedelta(days=1), settings.stock_limit, data.notes),
     }
     return data
+
+
+def determine_market_phase(report_date: date, settings: Settings, market_status: dict[str, str]) -> str:
+    if market_status.get("is_open") != "yes":
+        return "closed"
+
+    now_et = datetime.now(ZoneInfo("America/New_York"))
+
+    if report_date != now_et.date():
+        return "open_day"
+
+    current_time = now_et.timetz().replace(tzinfo=None)
+    if current_time < time(9, 30):
+        return "premarket"
+    if current_time <= time(16, 0):
+        return "regular"
+    if current_time <= time(20, 0):
+        return "after_hours"
+    return "closed"
 
 
 def fetch_market_status(target_date: date, notes: list[SourceNote]) -> dict[str, str]:

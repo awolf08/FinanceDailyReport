@@ -10,6 +10,8 @@ from .fetchers import ReportData
 def render_markdown(data: ReportData, settings: Settings) -> str:
     today = data.report_date
     tomorrow = today + timedelta(days=1)
+    active_section_title = get_active_section_title(data)
+    active_section_note = get_active_section_note(data)
     lines: list[str] = [
         f"# Finance Daily Report - {today.isoformat()}",
         "",
@@ -19,9 +21,13 @@ def render_markdown(data: ReportData, settings: Settings) -> str:
         "",
         format_market_status(data),
         "",
-        "## 1. Premarket / Active Stocks",
+        f"## 1. {active_section_title}",
         "",
     ]
+
+    if active_section_note:
+        lines.append(f"- {active_section_note}")
+        lines.append("")
 
     if data.market_status.get("is_open") == "no":
         lines.append(f"- Skipped because {data.market_status.get('reason', 'US market is closed')}.")
@@ -81,6 +87,8 @@ def render_html(data: ReportData, settings: Settings) -> str:
     today = data.report_date
     tomorrow = today + timedelta(days=1)
     title = f"Finance Daily Report - {today.isoformat()}"
+    active_section_title = get_active_section_title(data)
+    active_section_note = get_active_section_note(data)
     parts: list[str] = [
         "<!doctype html>",
         '<html lang="en">',
@@ -114,8 +122,11 @@ def render_html(data: ReportData, settings: Settings) -> str:
         "</header>",
         "<h2>Market Status</h2>",
         f'<div class="status">{inline_markdown(format_market_status(data).lstrip("- "))}</div>',
-        "<h2>1. Premarket / Active Stocks</h2>",
+        f"<h2>1. {escape(active_section_title)}</h2>",
     ]
+
+    if active_section_note:
+        parts.append(f'<div class="section"><ul><li>{escape(active_section_note)}</li></ul></div>')
 
     if data.market_status.get("is_open") == "no":
         parts.append(f'<div class="section"><ul><li>Skipped because {escape(data.market_status.get("reason", "US market is closed"))}.</li></ul></div>')
@@ -244,6 +255,32 @@ def format_number(value: str) -> str:
     except ValueError:
         return value
     return f"{number:,.0f}"
+
+
+def get_active_section_title(data: ReportData) -> str:
+    phase = data.market_phase
+    if phase == "premarket":
+        return "Premarket Active Stocks"
+    if phase == "regular":
+        return "Regular Session Active Stocks"
+    if phase == "after_hours":
+        return "After-hours / Closing Movers"
+    if phase == "open_day":
+        return "Active Stocks"
+    return "Market Movers"
+
+
+def get_active_section_note(data: ReportData) -> str:
+    phase = data.market_phase
+    if phase == "premarket":
+        return "This section uses Nasdaq market movers during premarket hours."
+    if phase == "regular":
+        return "Premarket-only movers are no longer available after 9:30 AM ET. This section falls back to Nasdaq regular-session market movers."
+    if phase == "after_hours":
+        return "Premarket-only movers are no longer available after the close. This section shows the latest Nasdaq movers instead."
+    if phase == "open_day":
+        return "This report is for a market-open date outside the live session, so the movers source is labeled generically."
+    return ""
 
 
 def append_economic_day(lines: list[str], title: str, events: list[dict[str, str]]) -> None:
