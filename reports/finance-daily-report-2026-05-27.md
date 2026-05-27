@@ -11,59 +11,59 @@ _Timezone: America/Los_Angeles. Not financial advice._
 - Premarket-only movers are no longer available after 9:30 AM ET. This section falls back to Nasdaq regular-session market movers.
 
 ### Most Active
-- **SOXS** Direxion Daily Semiconductor Bear 3x Shares | Last: $6.7899 | Move: +0.4999 | Volume: 346,599,287
-- **BRTX** BioRestorative Therapies, Inc. | Last: $0.5487 | Move: +0.2989 | Volume: 343,131,100
-- **SNGX** Soligenix, Inc. | Last: $0.991 | Move: +0.478 | Volume: 137,094,294
-- **AIM** AIM ImmunoTech Inc. Common Stock | Last: $0.4206 | Move: +0.1879 | Volume: 88,654,149
-- **WOK** WORK Medical Technology Group LTD | Last: $0.1032 | Move: -0.0078 | Volume: 84,065,579
-- **TZA** Direxion Small Cap Bear 3X Shares | Last: $4.2901 | Move: -0.0199 | Volume: 64,140,001
-- **RDW** Redwire Corporation | Last: $23.03 | Move: +0.99 | Volume: 60,426,676
-- **NOK** Nokia Corporation | Last: $15.7528 | Move: -0.7072 | Volume: 58,727,167
+- **BRTX** BioRestorative Therapies, Inc. | Last: $0.5279 | Move: +0.2781 | Volume: 424,974,375
+- **SOXS** Direxion Daily Semiconductor Bear 3x Shares | Last: $6.74 | Move: +0.45 | Volume: 408,752,326
+- **AIM** AIM ImmunoTech Inc. Common Stock | Last: $0.395 | Move: +0.1623 | Volume: 226,923,744
+- **SNGX** Soligenix, Inc. | Last: $0.9878 | Move: +0.4748 | Volume: 155,433,562
+- **TZA** Direxion Small Cap Bear 3X Shares | Last: $4.3001 | Move: -0.0099 | Volume: 108,306,499
+- **WOK** WORK Medical Technology Group LTD | Last: $0.1069 | Move: -0.0041 | Volume: 90,367,011
+- **ASTC** Astrotech Corporation | Last: $11.995 | Move: +9.525 | Volume: 79,469,452
+- **NOK** Nokia Corporation | Last: $15.725 | Move: -0.735 | Volume: 73,390,660
 
 ### Gainers
-- **TDACW** Translational Development Acquisition Corp. Warrants | Last: $0.9075 | Move: +0.8075 | Change %: +807.5%
-- **ASTC** Astrotech Corporation | Last: $6.4407 | Move: +3.9707 | Change %: +160.7571%
-- **NHICW** NewHold Investment Corp III Warrants | Last: $2.2978 | Move: +1.4068 | Change %: +157.89%
-- **BRTX** BioRestorative Therapies, Inc. | Last: $0.5487 | Move: +0.2989 | Change %: +119.6557%
-- **MNTSW** Momentus Inc. | Last: $0.0889 | Move: +0.0439 | Change %: +97.5556%
-- **SNGX** Soligenix, Inc. | Last: $0.991 | Move: +0.478 | Change %: +93.1774%
-- **AMSS** AMASS Brands Inc. Common Stock | Last: $6.5701 | Move: +3.0601 | Change %: +87.1823%
-- **AIM** AIM ImmunoTech Inc. Common Stock | Last: $0.4206 | Move: +0.1879 | Change %: +80.7477%
+- **TDACW** Translational Development Acquisition Corp. Warrants | Last: $0.95 | Move: +0.85 | Change %: +850%
+- **ASTC** Astrotech Corporation | Last: $11.995 | Move: +9.525 | Change %: +385.6275%
+- **NHICW** NewHold Investment Corp III Warrants | Last: $2.3 | Move: +1.409 | Change %: +158.1369%
+- **BRTX** BioRestorative Therapies, Inc. | Last: $0.5279 | Move: +0.2781 | Change %: +111.3291%
+- **PDYNW** Palladyne AI Corp. | Last: $0.082 | Move: +0.0412 | Change %: +100.9804%
+- **MNTSW** Momentus Inc. | Last: $0.088 | Move: +0.043 | Change %: +95.5556%
+- **SNGX** Soligenix, Inc. | Last: $0.9878 | Move: +0.4748 | Change %: +92.5536%
+- **AMSS** AMASS Brands Inc. Common Stock | Last: $6.6499 | Move: +3.1399 | Change %: +89.4558%
 
 ### Decliners
-- **VRRM** Verra Mobility Corporation | Last: $3.785 | Move: -9.295 | Change %: -71.0627%
-- **FSHPR** Flag Ship Acquisition Corp. | Last: $0.0812 | Move: -0.0688 | Change %: -45.8667%
+- **VRRM** Verra Mobility Corporation | Last: $3.755 | Move: -9.325 | Change %: -71.292%
 - **ASPCR** A SPAC III Acquisition Corp. Right | Last: $0.1 | Move: -0.0829 | Change %: -45.3253%
-- **DSX** Diana Shipping inc. | Last: $0.385 | Move: -0.1981 | Change %: -33.9736%
-- **BNAIW** Brand Engagement Network Inc. | Last: $0.08 | Move: -0.04 | Change %: -33.3333%
-- **ZS** Zscaler, Inc. | Last: $127.64 | Move: -56.96 | Change %: -30.8559%
-- **ARTL** Artelo Biosciences, Inc. | Last: $1.255 | Move: -0.455 | Change %: -26.6082%
-- **AIMD** Ainos, Inc. | Last: $2.35 | Move: -0.81 | Change %: -25.6329%
+- **NXPLW** NextPlat Corp | Last: $0.0035 | Move: -0.0024 | Change %: -40.678%
+- **SAGU** Shreya Acquisition Group Class A Ordinary Shares | Last: $0.0299 | Move: -0.0201 | Change %: -40.2%
+- **FSHPR** Flag Ship Acquisition Corp. | Last: $0.09 | Move: -0.06 | Change %: -40%
+- **QTEXW** QTREX Quantum Ltd. Warrant | Last: $0.162 | Move: -0.078 | Change %: -32.5%
+- **YMAT** J-Star Holding Co., Ltd. Class A Ordinary Shares | Last: $0.9422 | Move: -0.4378 | Change %: -31.7246%
+- **ZS** Zscaler, Inc. | Last: $126.218 | Move: -58.382 | Change %: -31.6262%
 
 ### Nasdaq 100 Movers
-- **ADBE** Adobe Inc. | Last: 243.8 | Move: +3.31 | Change %: +1.38%
-- **AMD** Advanced Micro Devices, Inc. Common Stock | Last: 493.37 | Move: -10.52 | Change %: -2.09%
-- **ABNB** Airbnb, Inc. | Last: 134.205 | Move: +1.525 | Change %: +1.15%
-- **ALNY** Alnylam Pharmaceuticals, Inc. | Last: 297.21 | Move: +1.71 | Change %: +0.58%
-- **GOOGL** Alphabet Inc. Class A Common Stock | Last: 392.23 | Move: +3.35 | Change %: +0.86%
-- **GOOG** Alphabet Inc. Class C Capital Stock | Last: 387.9717 | Move: +3.1317 | Change %: +0.81%
-- **AMZN** Amazon.com, Inc. Common Stock | Last: 269.982 | Move: +4.692 | Change %: +1.77%
-- **AEP** American Electric Power Company, Inc. | Last: 130.115 | Move: -0.785 | Change %: -0.60%
+- **ADBE** Adobe Inc. Common Stock | Last: 240.92 | Move: +0.43 | Change %: +0.18%
+- **AMD** Advanced Micro Devices, Inc. Common Stock | Last: 491.42 | Move: -12.47 | Change %: -2.47%
+- **ABNB** Airbnb, Inc. | Last: 134.03 | Move: +1.35 | Change %: +1.02%
+- **ALNY** Alnylam Pharmaceuticals, Inc. | Last: 294.775 | Move: -0.725 | Change %: -0.25%
+- **GOOGL** Alphabet Inc. Class A Common Stock | Last: 391.84 | Move: +2.96 | Change %: +0.76%
+- **GOOG** Alphabet Inc. Class C Capital Stock | Last: 387.6854 | Move: +2.8454 | Change %: +0.74%
+- **AMZN** Amazon.com, Inc. Common Stock | Last: 270.91 | Move: +5.62 | Change %: +2.12%
+- **AEP** American Electric Power Company, Inc. | Last: 130.33 | Move: -0.57 | Change %: -0.44%
 
 ## 2. Latest Market News
 
-- **Google News Markets** (Tue, 26 May 2026 15:38:07 GMT): High priority | [US Stock Market Today [26 May, 2026]: Dow, Nasdaq & S&P 500 Edge Higher On Iran Peace Hopes, Oil Surges $106 as AI Rally; Gold & Silver Drop, Bitcoin Retreats $77k | What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMizAJBVV95cUxQMUhuNU9VbzFKalY1WDlET3dCdTBNSVVnc25qOFZkY0ZpMmJheXNZT3V4Z0hDbndKblJKdVJISlBUOEFyclNDZlBzRDNGOHI2WlRDQXFsNUd1THlhaFZJdDZ4ZkcwRzN4SS1oYnN2SjhUX3RNYTI0QU8wVUJONEhqLXR0YUpRTEUtTG80cWoyV2ZlcllMODFJTnpCWFQzNkwxVlp2cWJ1RkxwMVhPd3QyZDc1MWRWMmRoZ1Rpc3ZHdEJwSEhFLXVNZTVsQTBQUjNoSnZMYzBON1N0dkY2XzU4LUthOVVpWTRiWUpzekc5YmZxLXRCZHBvUDJvNndzT2VCNmxDMG5Lc1RYMkNRT1FLYzJlYXpyYzBuMmtsby1XZ0tBRHN5NTgxbkNsYzZnUHR0SnQ1dlVaSXFvbDcybXFZWE51LUtYOEE2TzBiMtIBzAJBVV95cUxQMUhuNU9VbzFKalY1WDlET3dCdTBNSVVnc25qOFZkY0ZpMmJheXNZT3V4Z0hDbndKblJKdVJISlBUOEFyclNDZlBzRDNGOHI2WlRDQXFsNUd1THlhaFZJdDZ4ZkcwRzN4SS1oYnN2SjhUX3RNYTI0QU8wVUJONEhqLXR0YUpRTEUtTG80cWoyV2ZlcllMODFJTnpCWFQzNkwxVlp2cWJ1RkxwMVhPd3QyZDc1MWRWMmRoZ1Rpc3ZHdEJwSEhFLXVNZTVsQTBQUjNoSnZMYzBON1N0dkY2XzU4LUthOVVpWTRiWUpzekc5YmZxLXRCZHBvUDJvNndzT2VCNmxDMG5Lc1RYMkNRT1FLYzJlYXpyYzBuMmtsby1XZ0tBRHN5NTgxbkNsYzZnUHR0SnQ1dlVaSXFvbDcybXFZWE51LUtYOEE2TzBiMg?oc=5)
 - **Google News Markets** (Tue, 26 May 2026 15:43:14 GMT): High priority | [If the Federal Reserve warns of a possible rate hike, the euro may fall against the US dollar. - Bitget](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNQl9YQUNiOHNJcnRQM3JCVVZRWXdDWnJ6SGZLTDl1amljMENnMXFIazh5OWl1cE1reFR6UDZueExHV0tRN3BrU2cwVWlBak1Xc3MzV1Q1SVJUWDRfYXhqRVk1cjlEM1nSAWdBVV95cUxQTUJfWEFDYjhzSXJ0UDNyQlVWUVl3Q1pyekhmS0w5dWppYzBDZzFxSGs4eTlpdXBNa3hUelA2bnhMR1dLUTdwa1NnMFVpQWpNV3NzM1dUNUlSVFg0X2F4akVZNXI5RDNZ?oc=5)
+- **Google News Markets** (Wed, 27 May 2026 15:33:16 GMT): High priority | [Stock market news today: S&P 500, Nasdaq hit records as Micron surges 19% - eciks.org](https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3BfY2oxWkpQYUJvS0RXYzYwLXprSnpDWUJnQU9tVDh4REp1bmw1TFh5T0RsaHN6MVQzZVh2Nm9jRDlMSGF5R0ctSTU4aEZ1dWxHR1dSZlJkOG1sdVBWOVJaTVVmcjh3em1DcWthN0hzaGpQRDdObFE2TmJhTjc5dlNiMm5Wc0gyWDA1YUNDNnhaOTJ1THRhd2NJdk5DdWVT?oc=5)
 - **Google News Markets** (Wed, 27 May 2026 12:56:41 GMT): High priority | [Powell out, Warsh in as new chair of Federal Reserve - AOL.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE5fd1pJOHNSSHJTTXhRR1VRYTgtMXp0YXZjWGRtYnhZemtwY080NWZzTlVpUXRBNWo5eTVyNTU4SDJvRENWeWJvUEp2bDVBcmRuN0wxWmNlbTZQN2FJemUyVWljeGZCRFpwb1VZTEI2TmotWWFITTh2djln?oc=5)
-- **Google News Markets** (Wed, 27 May 2026 11:01:59 GMT): High priority | [Stock market closes mixed after Nasdaq hits record high, S&P 500 gains 0.12% - eciks.org](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUlLRF9mdEtEVTU3SzRUUnFrZ1NsTjlTajhSai14dHNTbXUwdHdNVHZhaHhiREVFVGx5bS1kMGFWbUhJMTFXMDljOFNQaTd3QmpQQWFRNEFMVWtpQmxseWtuTFBITVlQRzdVT0hpVzhwQlF4UEE2QkNNUDYycWRSTEdJazIzTzZ3eHlXMV9PTlBZVWpZVUlqX1pGcEJDR1hTSk05dmhn?oc=5)
-- **Google News Markets** (Wed, 27 May 2026 03:38:04 GMT): High priority | [Middle East Turmoil Affects Inflation Expectations, Two Wall Street Giants Bullish on U.S. Stocks - NAI500](https://news.google.com/rss/articles/CBMixwFBVV95cUxPX015VXZielJhQXdVWHdWNDh0NjJieVF4WUpsS2MwNnJrck5wcnd3Q2g4WDQzRHpwWGtRbVlpbG1NZ01zbTgwWDJlaEV0OXJHYk1FaW5zczFBS2ZjTF9MQUU1MXV3WU5mT3hNeUotc0NKcjRCa1pBb20tZ3ZpUjBUSVpwZURZcUdvMDlENEhXeDlpemg5SWZ6YmhVV0dLODBZS0phN3BUeE11REVEbl9FeW9vaUF6Ymp3N1k3ZEd1dmM5VmNmSDFn?oc=5)
+- **Google News Markets** (Wed, 27 May 2026 11:04:16 GMT): High priority | [Stock market closes mixed after Nasdaq hits record high, S&P 500 gains 0.12% - eciks.org](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUlLRF9mdEtEVTU3SzRUUnFrZ1NsTjlTajhSai14dHNTbXUwdHdNVHZhaHhiREVFVGx5bS1kMGFWbUhJMTFXMDljOFNQaTd3QmpQQWFRNEFMVWtpQmxseWtuTFBITVlQRzdVT0hpVzhwQlF4UEE2QkNNUDYycWRSTEdJazIzTzZ3eHlXMV9PTlBZVWpZVUlqX1pGcEJDR1hTSk05dmhn?oc=5)
 - **Google News Markets** (Tue, 26 May 2026 21:00:54 GMT): High priority | [AutoZone's Earnings Drag Down Competitors -- Market Talk - Moomoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEhKakZxcG1SdVk3XzJVcXRXS2J1YldlUTJIMmlfaVc4ZUhLMlNmZk5Td1hwY2V5cUl6SlNJVjF3UW5GWVllQ2tfRHdPaUNhN21UMzVGQWJlS2t4bW5VOE9fUm91a0tTZl80bDRRSU9XaDY5ZDNYZklSZER4U1JHd2V1cTZqelBYUkJ4RXljbXBiSTBYMlRDc0E0Zw?oc=5)
 - **Federal Reserve** (Tue, 26 May 2026 18:00:00 GMT): High priority | [Minutes of the Board's discount rate meeting on April 20 and 29, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm)
 - **Google News Markets** (Tue, 26 May 2026 17:45:12 GMT): High priority | [Ryan Detrick: Do stocks test new Federal Reserve chairs - Traders Union](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMVN4Q3cyR0VFaDc3aW9uYi15QVFIRjBXVngydzg0VzFIMGs0ODg0ckVmUl94S1Z0UHVEazBrZDdjZnVaTERvZG5rdUI2NDBFLWpza1drNEdMZ0JXazdtOFVNTlBPTXpRMmZkVFFfYVRrNy1CaWtRaFNta283Y0p5TWZGZFNXNjg?oc=5)
 - **Google News Markets** (Tue, 26 May 2026 16:06:38 GMT): High priority | [FEMO Stock Market Rally 2026: Why Earnings Drive the S&P 500 Above 7,500 - Intellectia AI](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11b01aSHhrRFZxTFZFRmhmQzJIRHN5S0NGTFZlOFZOVlBRdmNKVFREdWZNMXRiNm5tTGcwVWJvM1hWZ2VsQ3NZRUliTWI3d1FsZE1KMUswUEY1XzlDbFdMSHl1N0tJV2s?oc=5)
 - **Google News Markets** (Tue, 26 May 2026 15:38:08 GMT): High priority | [Citigroup analysts: The market underestimates the possibility of the Federal Reserve cutting interest rates - Bitget](https://news.google.com/rss/articles/CBMiakFVX3lxTE14aW03ZndiRUQ1OXUyRmszTGg5Vm91eVdXRkQ2UHJ4ZEZvWjFFNmdJanhvcHVyMkJjcHNQSzFKaUJxckozQWQtcGlud3F1OGVPZkJ4VzBQQ2o1T09uMzdpaVVaSGstQTBIelHSAWpBVV95cUxNeGltN2Z3YkVENTl1MkZrM0xoOVZvdXlXV0ZENlByeGRGb1oxRTZnSWp4b3B1cjJCY3BzUEsxSmlCcXJKM0FkLXBpbndxdThlT2ZCeFcwUENqNU9PbjM3aWlVWkhrLUEwSHpR?oc=5)
-- **Google News Markets** (Tue, 26 May 2026 15:31:23 GMT): High priority | [Stock Market Today, May 20: Nvidia Climbs Ahead of Earnings as Investors Await AI Guidance - AOL.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE8zZGtNQm1KZURadDdMVXZLVVNWRHo4RnVuTklaTlgwemZBRzlXZktZMzVqbV9HZmx0NFI2bzBCTlZXbE5vNFNIQXpNbC1WZWNNU3B4NzFUNXR1LVlqeFhfV18yMVZOZlg0dkw4eVpIX0pSSHVOM0Jr?oc=5)
-- **Google News Markets** (Tue, 26 May 2026 15:22:36 GMT): High priority | [Figma Stock PLUNGES After Earnings: A Sell Case Analyst Breakdown (FIG) Ant And Dec (P0SyD25lbD) - Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTE55cm1sTndtSXFfWUZvZzY5alhZVlA5aTVOUjJ6YV9vOUFCenhtTXNpSTM5N0RrUVQtamE4SkVudVFPeEhWQ1FZMXgtRTdhTTJkTEpCNHB3Z0pHTTg?oc=5)
+- **MarketWatch Top Stories** (Wed, 27 May 2026 14:17:00 GMT): [Marvell’s stock has soared ahead of earnings. Why analysts say it’s still ‘underestimated.’](https://www.marketwatch.com/story/marvells-stock-has-soared-ahead-of-earnings-why-analysts-say-its-still-underestimated-b0cf924c?mod=mw_rss_topstories)
+- **Google News Markets** (Wed, 27 May 2026 15:19:36 GMT): [The market with 15 years of earnings growth the world has ignored - Trustnet](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUNVdFJRQ3FRLXh3N19FWUdtU3hib2R1ZUxMdm9vS1Aydm1oTm9malQzYkI3UTRqd0VXdGZzV3JuZHhPai1TUTM4VjhjNDdxUGRRNXZkVDdlLWQzcFotMzdiTk13djRTdDVxNEhZVk1OLWxRbkJaSkZHZ18yTU9GMFA4SjV4bXdUcmYyelJhQmUxTGlLbnVHbW1ITHRpb0g2NUc3WU5hTQ?oc=5)
+- **Google News Markets** (Wed, 27 May 2026 14:23:33 GMT): [Fed Chair Kevin Warsh Was Just Sworn In at the White House. The Last Time This Happened, the Stock Market Crashed - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi6wFBVV95cUxORHNQdWNDYkZodDZuUGNjamMwaEY2TUFjaHEyUXQ5T1N3ajdYRDRCWjVnSTRUVFFuaFFjeVo1MjZhbVlmc2VlaXA3QklYZ1FhVHhZUWJPYlNOZHVUMi11WDg4YUViMWt3el9KYzhRbGFfYmdSLWN3S2tkWFRVc0QzTmgzRmVacnZKdnJrd081NjBGWnBkb3NnS3QtUmZOWU5PcDhLbFBRVTkyVnJFNDdzbEpzNHQxRmRVcXdQWFpvTlRxRXZuUHNFNGtpRWU3RjhRYlU5cHFCdkJQV0NfMXlYcE5MWV85aTktbVNN?oc=5)
 
 ## 3. Economic Calendar
 
