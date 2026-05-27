@@ -68,6 +68,25 @@ python -m finance_daily_report --email-if-configured
 
 On US market holidays the report still sends, but the active-stock section is skipped and marked as closed.
 
+This repo also includes a GitHub Actions workflow at [`.github/workflows/daily-report.yml`](/Users/weicheng/Desktop/Projects/FinanceDailyReport/.github/workflows/daily-report.yml) that runs automatically on weekdays at `13:05 UTC`, which is `6:05 AM` in Los Angeles during daylight saving time.
+
+To let the scheduled run send email, add these repository secrets in GitHub:
+
+- `SMTP_HOST`
+- `SMTP_PORT`
+- `SMTP_USER`
+- `SMTP_PASSWORD`
+- `REPORT_RECIPIENT`
+
+Optional repository variables:
+
+- `REPORT_TIMEZONE`
+- `REPORT_NEWS_LIMIT`
+- `REPORT_STOCK_LIMIT`
+- `REPORT_WATCHLIST`
+
+The workflow force-adds the generated `reports/*.md` and `reports/*.html`, commits them to `main`, and your GitHub Pages site updates from that push automatically.
+
 ## Notes
 
 This first version avoids paid API keys. Public finance endpoints sometimes rate-limit or change shape, so each section degrades independently and shows a clear note when a source is unavailable.
