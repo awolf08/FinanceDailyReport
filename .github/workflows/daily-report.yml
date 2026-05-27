@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: "daily-report"
@@ -50,7 +52,68 @@ jobs:
           git add -f reports/*.md reports/*.html
           if git diff --cached --quiet; then
             echo "No report changes to commit."
-            exit 0
+          else
+            git commit -m "Add daily report for $(date -u +%F)"
+            git push origin HEAD:main
           fi
-          git commit -m "Add daily report for $(date -u +%F)"
-          git push origin HEAD:main
+
+      - name: Build Pages site
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p _site/reports
+          cp reports/*.html _site/reports/
+          cp reports/*.md _site/reports/ 2>/dev/null || true
+          touch _site/.nojekyll
+
+          latest_report="$(find reports -maxdepth 1 -type f -name 'finance-daily-report-*.html' | sort | tail -n 1)"
+          latest_name="$(basename "$latest_report")"
+
+          cat > _site/index.html <<EOF
+          <!doctype html>
+          <html lang="en">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Finance Daily Report</title>
+            <meta http-equiv="refresh" content="0; url=./reports/${latest_name}">
+            <style>
+              :root { color-scheme: light; }
+              body {
+                margin: 0;
+                font-family: Georgia, "Times New Roman", serif;
+                background: linear-gradient(180deg, #f5f0e8 0%, #fdfbf8 100%);
+                color: #1f2937;
+              }
+              main {
+                max-width: 760px;
+                margin: 8vh auto;
+                padding: 32px 24px;
+                background: rgba(255,255,255,0.86);
+                border: 1px solid #dccfb8;
+                border-radius: 18px;
+                box-shadow: 0 16px 50px rgba(64, 45, 21, 0.08);
+              }
+              h1 { margin-top: 0; font-size: 2rem; }
+              a { color: #0f4c5c; }
+              p { line-height: 1.6; }
+            </style>
+          </head>
+          <body>
+            <main>
+              <h1>Finance Daily Report</h1>
+              <p>Redirecting to the latest published report:</p>
+              <p><a href="./reports/${latest_name}">${latest_name}</a></p>
+            </main>
+          </body>
+          </html>
+          EOF
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
