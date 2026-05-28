@@ -87,7 +87,7 @@ Optional repository variables:
 - `REPORT_STOCK_LIMIT`
 - `REPORT_WATCHLIST`
 
-The workflow force-adds the generated `reports/*.md` and `reports/*.html`, commits them to `main`, and publishes the newest HTML report into the separate `awolf08/reports` site repository under `daily-finance/`.
+The workflow force-adds the generated `reports/*.md` and `reports/*.html`, commits them to `main`, and publishes the newest HTML report into the separate `awolf08/reports` site repository under `daily-finance/`. Catch-up runs also retry publishing an already-generated report, so a temporary cross-repo publish failure can recover on the next scheduled check.
 
 To publish into `awolf08/reports`, add the private half of a writable deploy key as this repository secret:
 

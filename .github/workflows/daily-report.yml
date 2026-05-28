@@ -97,7 +97,7 @@ jobs:
           fi
 
       - name: Publish report to reports site
-        if: steps.gate.outputs.should_run == 'true'
+        if: ${{ always() && steps.gate.outputs.report_date != '' }}
         shell: bash
         env:
           REPORTS_DEPLOY_KEY: ${{ secrets.REPORTS_DEPLOY_KEY }}
