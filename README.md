@@ -89,6 +89,12 @@ Optional repository variables:
 
 The workflow force-adds the generated `reports/*.md` and `reports/*.html`, commits them to `main`, and your GitHub Pages site updates from that push automatically.
 
+For a stable public URL that always opens the newest published report, use:
+
+- `https://awolf08.github.io/FinanceDailyReport/latest/`
+
+The dated report URLs still exist under `reports/`, but `latest/` is the easiest link to bookmark or share.
+
 ## Notes
 
 This first version avoids paid API keys. Public finance endpoints sometimes rate-limit or change shape, so each section degrades independently and shows a clear note when a source is unavailable.

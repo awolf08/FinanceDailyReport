@@ -102,13 +102,27 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p _site/reports
+          mkdir -p _site/reports _site/latest
           cp reports/*.html _site/reports/
           cp reports/*.md _site/reports/ 2>/dev/null || true
           touch _site/.nojekyll
 
           latest_report="$(find reports -maxdepth 1 -type f -name 'finance-daily-report-*.html' | sort | tail -n 1)"
           latest_name="$(basename "$latest_report")"
+          cp "$latest_report" _site/latest/index.html
+
+          cat > _site/latest.html <<EOF
+          <!doctype html>
+          <html lang="en">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Latest Finance Daily Report</title>
+            <meta http-equiv="refresh" content="0; url=./latest/">
+          </head>
+          <body></body>
+          </html>
+          EOF
 
           cat > _site/index.html <<EOF
           <!doctype html>
@@ -117,7 +131,7 @@ jobs:
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
             <title>Finance Daily Report</title>
-            <meta http-equiv="refresh" content="0; url=./reports/${latest_name}">
+            <meta http-equiv="refresh" content="0; url=./latest/">
             <style>
               :root { color-scheme: light; }
               body {
@@ -144,7 +158,8 @@ jobs:
             <main>
               <h1>Finance Daily Report</h1>
               <p>Redirecting to the latest published report:</p>
-              <p><a href="./reports/${latest_name}">${latest_name}</a></p>
+              <p><a href="./latest/">Open latest report</a></p>
+              <p>Direct dated file: <a href="./reports/${latest_name}">${latest_name}</a></p>
             </main>
           </body>
           </html>
