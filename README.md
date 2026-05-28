@@ -87,13 +87,17 @@ Optional repository variables:
 - `REPORT_STOCK_LIMIT`
 - `REPORT_WATCHLIST`
 
-The workflow force-adds the generated `reports/*.md` and `reports/*.html`, commits them to `main`, and your GitHub Pages site updates from that push automatically.
+The workflow force-adds the generated `reports/*.md` and `reports/*.html`, commits them to `main`, and publishes the newest HTML report into the separate `awolf08/reports` site repository under `daily-finance/`.
+
+To publish into `awolf08/reports`, add the private half of a writable deploy key as this repository secret:
+
+- `REPORTS_DEPLOY_KEY`
 
 For a stable public URL that always opens the newest published report, use:
 
-- `https://awolf08.github.io/FinanceDailyReport/latest/`
+- `https://baybell.com/daily-finance/`
 
-The dated report URLs still exist under `reports/`, but `latest/` is the easiest link to bookmark or share.
+The dated report URLs still exist in both repositories. In the reports site, they are published as `daily-finance/YYYY-MM-DD.html`.
 
 ## Notes
 

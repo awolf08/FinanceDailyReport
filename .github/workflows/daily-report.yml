@@ -14,8 +14,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: "daily-report"
@@ -98,78 +96,39 @@ jobs:
             git push origin HEAD:main
           fi
 
-      - name: Build Pages site
+      - name: Publish report to reports site
+        if: steps.gate.outputs.should_run == 'true'
         shell: bash
+        env:
+          REPORTS_DEPLOY_KEY: ${{ secrets.REPORTS_DEPLOY_KEY }}
         run: |
           set -euo pipefail
-          mkdir -p _site/reports _site/latest
-          cp reports/*.html _site/reports/
-          cp reports/*.md _site/reports/ 2>/dev/null || true
-          touch _site/.nojekyll
+          if [ -z "$REPORTS_DEPLOY_KEY" ]; then
+            echo "REPORTS_DEPLOY_KEY is not configured; skipping publish to awolf08/reports."
+            exit 0
+          fi
 
-          latest_report="$(find reports -maxdepth 1 -type f -name 'finance-daily-report-*.html' | sort | tail -n 1)"
-          latest_name="$(basename "$latest_report")"
-          cp "$latest_report" _site/latest/index.html
+          mkdir -p ~/.ssh
+          chmod 700 ~/.ssh
+          printf '%s\n' "$REPORTS_DEPLOY_KEY" > ~/.ssh/reports_deploy_key
+          chmod 600 ~/.ssh/reports_deploy_key
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
 
-          cat > _site/latest.html <<EOF
-          <!doctype html>
-          <html lang="en">
-          <head>
-            <meta charset="utf-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <title>Latest Finance Daily Report</title>
-            <meta http-equiv="refresh" content="0; url=./latest/">
-          </head>
-          <body></body>
-          </html>
-          EOF
+          GIT_SSH_COMMAND="ssh -i ~/.ssh/reports_deploy_key -o IdentitiesOnly=yes" git clone git@github.com:awolf08/reports.git reports-site
 
-          cat > _site/index.html <<EOF
-          <!doctype html>
-          <html lang="en">
-          <head>
-            <meta charset="utf-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <title>Finance Daily Report</title>
-            <meta http-equiv="refresh" content="0; url=./latest/">
-            <style>
-              :root { color-scheme: light; }
-              body {
-                margin: 0;
-                font-family: Georgia, "Times New Roman", serif;
-                background: linear-gradient(180deg, #f5f0e8 0%, #fdfbf8 100%);
-                color: #1f2937;
-              }
-              main {
-                max-width: 760px;
-                margin: 8vh auto;
-                padding: 32px 24px;
-                background: rgba(255,255,255,0.86);
-                border: 1px solid #dccfb8;
-                border-radius: 18px;
-                box-shadow: 0 16px 50px rgba(64, 45, 21, 0.08);
-              }
-              h1 { margin-top: 0; font-size: 2rem; }
-              a { color: #0f4c5c; }
-              p { line-height: 1.6; }
-            </style>
-          </head>
-          <body>
-            <main>
-              <h1>Finance Daily Report</h1>
-              <p>Redirecting to the latest published report:</p>
-              <p><a href="./latest/">Open latest report</a></p>
-              <p>Direct dated file: <a href="./reports/${latest_name}">${latest_name}</a></p>
-            </main>
-          </body>
-          </html>
-          EOF
+          report_date="${{ steps.gate.outputs.report_date }}"
+          mkdir -p reports-site/daily-finance
+          cp "reports/finance-daily-report-${report_date}.html" "reports-site/daily-finance/${report_date}.html"
+          cp "reports/finance-daily-report-${report_date}.html" "reports-site/daily-finance/index.html"
+          cp "reports/finance-daily-report-${report_date}.md" "reports-site/daily-finance/${report_date}.md"
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          cd reports-site
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily-finance/
+          if git diff --cached --quiet; then
+            echo "No reports site changes to commit."
+          else
+            git commit -m "Publish daily finance report for ${report_date}"
+            GIT_SSH_COMMAND="ssh -i ~/.ssh/reports_deploy_key -o IdentitiesOnly=yes" git push origin HEAD:main
+          fi
