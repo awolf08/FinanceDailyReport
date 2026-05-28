@@ -3,7 +3,14 @@ name: Generate Daily Report
 on:
   schedule:
     - cron: "5 13 * * 1-5"
+    - cron: "35 13-20 * * 1-5"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Generate even if today's report already exists"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -17,21 +24,54 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    env:
+      REPORT_TIMEZONE: ${{ vars.REPORT_TIMEZONE || 'America/Los_Angeles' }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Decide whether generation is needed
+        id: gate
+        shell: bash
+        env:
+          FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.force || false }}
+        run: |
+          set -euo pipefail
+          report_date="$(TZ="$REPORT_TIMEZONE" date +%F)"
+          report_html="reports/finance-daily-report-${report_date}.html"
+          report_md="reports/finance-daily-report-${report_date}.md"
+
+          echo "report_date=${report_date}" >> "$GITHUB_OUTPUT"
+          echo "report_html=${report_html}" >> "$GITHUB_OUTPUT"
+          echo "report_md=${report_md}" >> "$GITHUB_OUTPUT"
+
+          if [ "$FORCE_RUN" = "true" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            echo "Forcing generation for ${report_date}."
+            exit 0
+          fi
+
+          if [ -f "$report_html" ] && [ -f "$report_md" ]; then
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            echo "Report for ${report_date} already exists in the repo. Skipping generation."
+          else
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            echo "Report for ${report_date} is missing. Generating now."
+          fi
+
       - name: Set up Python
+        if: steps.gate.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install dependencies
+        if: steps.gate.outputs.should_run == 'true'
         run: pip install -r requirements.txt
 
       - name: Generate report
+        if: steps.gate.outputs.should_run == 'true'
         env:
-          REPORT_TIMEZONE: ${{ vars.REPORT_TIMEZONE || 'America/Los_Angeles' }}
           REPORT_OUTPUT_DIR: reports
           REPORT_NEWS_LIMIT: ${{ vars.REPORT_NEWS_LIMIT || '12' }}
           REPORT_STOCK_LIMIT: ${{ vars.REPORT_STOCK_LIMIT || '8' }}
@@ -44,6 +84,7 @@ jobs:
         run: python -m finance_daily_report --email-if-configured
 
       - name: Commit and push report
+        if: steps.gate.outputs.should_run == 'true'
         shell: bash
         run: |
           set -euo pipefail
@@ -53,7 +94,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No report changes to commit."
           else
-            git commit -m "Add daily report for $(date -u +%F)"
+            git commit -m "Add daily report for ${{ steps.gate.outputs.report_date }}"
             git push origin HEAD:main
           fi
 

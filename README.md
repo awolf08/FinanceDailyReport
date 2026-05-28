@@ -70,6 +70,8 @@ On US market holidays the report still sends, but the active-stock section is sk
 
 This repo also includes a GitHub Actions workflow at [`.github/workflows/daily-report.yml`](/Users/weicheng/Desktop/Projects/FinanceDailyReport/.github/workflows/daily-report.yml) that runs automatically on weekdays at `13:05 UTC`, which is `6:05 AM` in Los Angeles during daylight saving time.
 
+To reduce missed-report risk from a single dropped cron trigger, the workflow also runs hourly catch-up checks on weekdays from `13:35 UTC` through `20:35 UTC`. Those catch-up runs skip themselves once that day's Markdown and HTML report already exist, so you get a fallback without duplicate daily publishes.
+
 To let the scheduled run send email, add these repository secrets in GitHub:
 
 - `SMTP_HOST`
