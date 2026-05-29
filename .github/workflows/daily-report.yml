@@ -2,8 +2,8 @@ name: Generate Daily Report
 
 on:
   schedule:
-    - cron: "5 13 * * 1-5"
-    - cron: "35 13-20 * * 1-5"
+    - cron: "17 13 * * 1-5"
+    - cron: "47 13-20 * * 1-5"
   workflow_dispatch:
     inputs:
       force:

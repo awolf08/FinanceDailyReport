@@ -68,9 +68,9 @@ python -m finance_daily_report --email-if-configured
 
 On US market holidays the report still sends, but the active-stock section is skipped and marked as closed.
 
-This repo also includes a GitHub Actions workflow at [`.github/workflows/daily-report.yml`](/Users/weicheng/Desktop/Projects/FinanceDailyReport/.github/workflows/daily-report.yml) that runs automatically on weekdays at `13:05 UTC`, which is `6:05 AM` in Los Angeles during daylight saving time.
+This repo also includes a GitHub Actions workflow at [`.github/workflows/daily-report.yml`](/Users/weicheng/Desktop/Projects/FinanceDailyReport/.github/workflows/daily-report.yml) that runs automatically on weekdays at `13:17 UTC`, which is `6:17 AM` in Los Angeles during daylight saving time.
 
-To reduce missed-report risk from a single dropped cron trigger, the workflow also runs hourly catch-up checks on weekdays from `13:35 UTC` through `20:35 UTC`. Those catch-up runs skip themselves once that day's Markdown and HTML report already exist, so you get a fallback without duplicate daily publishes.
+To reduce missed-report risk from a single dropped cron trigger, the workflow also runs hourly catch-up checks on weekdays from `13:47 UTC` through `20:47 UTC`. Those catch-up runs skip themselves once that day's Markdown and HTML report already exist, so you get a fallback without duplicate daily publishes. These non-round minutes are intentional because GitHub scheduled workflows can be delayed or dropped during high-load periods near common cron times.
 
 To let the scheduled run send email, add these repository secrets in GitHub:
 
