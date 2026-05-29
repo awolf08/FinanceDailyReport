@@ -202,6 +202,10 @@ def fetch_earnings(target_date: date, limit: int, notes: list[SourceNote]) -> li
         notes.append(SourceNote(f"Nasdaq earnings {target_date.isoformat()}", "unavailable", str(exc)))
         return []
 
+    if not isinstance(rows, list):
+        notes.append(SourceNote(f"Nasdaq earnings {target_date.isoformat()}", "unavailable", "Unexpected response shape"))
+        return []
+
     notes.append(SourceNote(f"Nasdaq earnings {target_date.isoformat()}", "ok"))
     return [clean_dict(row) for row in rows[:limit]]
 

@@ -118,6 +118,11 @@ jobs:
 
           report_date="${{ steps.gate.outputs.report_date }}"
           mkdir -p reports-site/daily-finance
+          if [ ! -f "reports/finance-daily-report-${report_date}.html" ] || [ ! -f "reports/finance-daily-report-${report_date}.md" ]; then
+            echo "Generated report files for ${report_date} are missing; skipping publish to awolf08/reports."
+            exit 1
+          fi
+
           cp "reports/finance-daily-report-${report_date}.html" "reports-site/daily-finance/${report_date}.html"
           cp "reports/finance-daily-report-${report_date}.html" "reports-site/daily-finance/index.html"
           cp "reports/finance-daily-report-${report_date}.md" "reports-site/daily-finance/${report_date}.md"
