@@ -124,8 +124,23 @@ jobs:
           fi
 
           cp "reports/finance-daily-report-${report_date}.html" "reports-site/daily-finance/${report_date}.html"
-          cp "reports/finance-daily-report-${report_date}.html" "reports-site/daily-finance/index.html"
           cp "reports/finance-daily-report-${report_date}.md" "reports-site/daily-finance/${report_date}.md"
+          cat > reports-site/daily-finance/index.html <<EOF
+          <!doctype html>
+          <html lang="en">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Latest Finance Daily Report</title>
+            <link rel="canonical" href="./${report_date}.html">
+            <meta http-equiv="refresh" content="0; url=./${report_date}.html">
+            <script>location.replace("./${report_date}.html");</script>
+          </head>
+          <body>
+            <p><a href="./${report_date}.html">Open latest Finance Daily Report</a></p>
+          </body>
+          </html>
+          EOF
 
           cd reports-site
           git config user.name "github-actions[bot]"
