@@ -65,27 +65,33 @@ cat > "$reports_site_dir/daily-finance/index.html" <<EOF
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Latest Finance Daily Report</title>
-  <link rel="canonical" href="./${report_date}.html">
-  <meta http-equiv="refresh" content="0; url=./${report_date}.html">
-  <script>location.replace("./${report_date}.html");</script>
+  <title>Daily Finance Report</title>
+  <script>
+    const date = new Intl.DateTimeFormat("en-CA", {
+      timeZone: "America/Los_Angeles",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit"
+    }).format(new Date());
+    location.replace("./" + date + ".html");
+  </script>
 </head>
 <body>
-  <p><a href="./${report_date}.html">Open latest Finance Daily Report</a></p>
+  <p>Opening today's Finance Daily Report.</p>
 </body>
 </html>
 EOF
 
-python3 - "$reports_site_dir/index.html" "$report_date" <<'PY'
+python3 - "$reports_site_dir/index.html" <<'PY'
 from pathlib import Path
 import sys
 
 path = Path(sys.argv[1])
-report_date = sys.argv[2]
 if path.exists():
     html = path.read_text(encoding="utf-8")
-    html = html.replace('href="./daily-finance/"', f'href="./daily-finance/{report_date}.html"')
-    html = html.replace('href="./daily-finance/index.html"', f'href="./daily-finance/{report_date}.html"')
+    html = html.replace('href="./daily-finance/index.html"', 'href="./daily-finance/"')
+    import re
+    html = re.sub(r'href="\.\/daily-finance\/\d{4}-\d{2}-\d{2}\.html"', 'href="./daily-finance/"', html)
     path.write_text(html, encoding="utf-8")
 PY
 
