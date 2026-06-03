@@ -59,26 +59,24 @@ python -m finance_daily_report --format md
 
 ## Daily automation
 
-For a daily premarket email, schedule this command around 6:00 AM Pacific:
+Use the local fallback publisher as the primary daily automation around 7:00 AM Pacific:
 
 ```bash
 cd /path/to/FinanceDailyReport
-python -m finance_daily_report --email-if-configured
-```
-
-On US market holidays the report still sends, but the active-stock section is skipped and marked as closed.
-
-This repo also includes a GitHub Actions workflow at [`.github/workflows/daily-report.yml`](/Users/weicheng/Desktop/Projects/FinanceDailyReport/.github/workflows/daily-report.yml) that runs automatically on weekdays at `13:17 UTC`, which is `6:17 AM` in Los Angeles during daylight saving time.
-
-To reduce missed-report risk from a single dropped cron trigger, the workflow also runs hourly catch-up checks on weekdays from `13:47 UTC` through `20:47 UTC`. Those catch-up runs skip themselves once that day's Markdown and HTML report already exist, so you get a fallback without duplicate daily publishes. These non-round minutes are intentional because GitHub scheduled workflows can be delayed or dropped during high-load periods near common cron times.
-
-If GitHub does not create a scheduled run at all, use the local fallback publisher:
-
-```bash
 scripts/fallback-publish-report.sh
 ```
 
-It rebases local `main` onto `origin/main`, generates the report with `--email-if-configured`, refuses to publish reports that still show DNS/network failures, force-adds the ignored report files, commits them, and pushes to `main`.
+It rebases local `main` onto `origin/main`, generates the report with `--email-if-configured` when needed, refuses to publish reports that still show DNS/network failures, force-adds the ignored report files, commits and pushes them, and syncs the public `awolf08/reports` site. If today's report already exists on GitHub, it skips generation and still makes sure the public site is current.
+
+On US market holidays the report still sends, but the active-stock section is skipped and marked as closed.
+
+This repo also includes a best-effort GitHub Actions backup at [`.github/workflows/daily-report.yml`](/Users/weicheng/Desktop/Projects/FinanceDailyReport/.github/workflows/daily-report.yml). GitHub scheduled workflows can be delayed or dropped, so do not treat that schedule as the primary delivery path.
+
+To run the GitHub backup manually:
+
+```bash
+gh workflow run daily-report.yml --repo awolf08/FinanceDailyReport -f force=true
+```
 
 To let the scheduled run send email, add these repository secrets in GitHub:
 
