@@ -72,6 +72,14 @@ This repo also includes a GitHub Actions workflow at [`.github/workflows/daily-r
 
 To reduce missed-report risk from a single dropped cron trigger, the workflow also runs hourly catch-up checks on weekdays from `13:47 UTC` through `20:47 UTC`. Those catch-up runs skip themselves once that day's Markdown and HTML report already exist, so you get a fallback without duplicate daily publishes. These non-round minutes are intentional because GitHub scheduled workflows can be delayed or dropped during high-load periods near common cron times.
 
+If GitHub does not create a scheduled run at all, use the local fallback publisher:
+
+```bash
+scripts/fallback-publish-report.sh
+```
+
+It rebases local `main` onto `origin/main`, generates the report with `--email-if-configured`, refuses to publish reports that still show DNS/network failures, force-adds the ignored report files, commits them, and pushes to `main`.
+
 To let the scheduled run send email, add these repository secrets in GitHub:
 
 - `SMTP_HOST`
