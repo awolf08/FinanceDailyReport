@@ -59,7 +59,7 @@ python -m finance_daily_report --format md
 
 ## Daily automation
 
-Use the local fallback publisher as the primary daily automation around 7:00 AM Pacific:
+Use the local fallback publisher as the primary daily automation around 5:55 AM Pacific:
 
 ```bash
 cd /path/to/FinanceDailyReport
@@ -70,7 +70,7 @@ It rebases local `main` onto `origin/main`, generates the report with `--email-i
 
 On US market holidays the report still sends, but the active-stock section is skipped and marked as closed.
 
-This repo also includes a best-effort GitHub Actions backup at [`.github/workflows/daily-report.yml`](/Users/weicheng/Desktop/Projects/FinanceDailyReport/.github/workflows/daily-report.yml). GitHub scheduled workflows can be delayed or dropped, so do not treat that schedule as the primary delivery path.
+This repo also includes a best-effort GitHub Actions backup at [`.github/workflows/daily-report.yml`](/Users/weicheng/Desktop/Projects/FinanceDailyReport/.github/workflows/daily-report.yml). It checks shortly after the local run window and generates/publishes only if the day's report is still missing. GitHub scheduled workflows can be delayed or dropped, so do not treat that schedule as the primary delivery path.
 
 To run the GitHub backup manually:
 
