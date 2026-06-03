@@ -40,6 +40,12 @@ if [ "$report_exists_on_origin" = "false" ]; then
     exit 1
   fi
 
+  if grep -Eq "Market movers source unavailable|No news items returned|No major events returned by configured sources|No earnings returned|: unavailable" "$report_md"; then
+    echo "Generated report is missing one or more core data sections; refusing to publish a partial/empty report." >&2
+    echo "Likely fix: rerun after data sources are reachable, or inspect the Source Health section in ${report_md}." >&2
+    exit 1
+  fi
+
   git add -f "$report_md" "$report_html"
   if git diff --cached --quiet; then
     echo "Generated report has no commit-worthy changes."
