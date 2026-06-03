@@ -2,6 +2,8 @@ from __future__ import annotations
 
 import html
 import re
+import socket
+import time as time_module
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
 from datetime import date, datetime, time, timedelta
@@ -57,6 +59,12 @@ NOISY_NEWS_TERMS = (
     "stock market today:",
 )
 
+NETWORK_READY_HOSTS = (
+    "api.nasdaq.com",
+    "news.google.com",
+    "www.federalreserve.gov",
+)
+
 
 @dataclass
 class SourceNote:
@@ -71,6 +79,8 @@ class ReportData:
     market_status: dict[str, str] = field(default_factory=dict)
     market_phase: str = "unknown"
     active_stocks: dict[str, list[dict[str, str]]] = field(default_factory=dict)
+    active_stocks_as_of: str = ""
+    active_stocks_source: str = "market_movers"
     news: list[dict[str, str]] = field(default_factory=list)
     economic_events: dict[str, list[dict[str, str]]] = field(default_factory=dict)
     earnings: dict[str, list[dict[str, str]]] = field(default_factory=dict)
@@ -81,10 +91,17 @@ def collect_report_data(report_date: date, settings: Settings) -> ReportData:
     data = ReportData(report_date=report_date)
     data.market_status = fetch_market_status(report_date, data.notes)
     data.market_phase = determine_market_phase(report_date, settings, data.market_status)
+    wait_for_network(settings.network_wait_seconds, data.notes)
     if data.market_status.get("is_open") == "no":
         data.notes.append(SourceNote("Nasdaq market movers", "skipped", data.market_status.get("reason", "Market closed")))
     else:
-        data.active_stocks = fetch_market_movers(settings.stock_limit, data.notes)
+        data.active_stocks, data.active_stocks_as_of = fetch_market_movers(settings.stock_limit, data.notes)
+        if data.market_phase == "after_hours":
+            after_hours_rows, after_hours_as_of = fetch_after_hours_most_active(report_date, settings.stock_limit, data.notes)
+            if after_hours_rows:
+                data.active_stocks = {"After-Hours Most Active": after_hours_rows}
+                data.active_stocks_as_of = after_hours_as_of
+                data.active_stocks_source = "after_hours_article"
     data.news = fetch_news(settings.news_limit, data.notes, report_date)
     data.economic_events = {
         "today": fetch_economic_events(report_date, data.notes),
@@ -95,6 +112,29 @@ def collect_report_data(report_date: date, settings: Settings) -> ReportData:
         "tomorrow": fetch_earnings(report_date + timedelta(days=1), settings.stock_limit, data.notes),
     }
     return data
+
+
+def wait_for_network(wait_seconds: int, notes: list[SourceNote]) -> None:
+    if wait_seconds <= 0:
+        notes.append(SourceNote("Network readiness", "skipped", "REPORT_NETWORK_WAIT_SECONDS <= 0"))
+        return
+
+    deadline = time_module.monotonic() + wait_seconds
+    last_error = ""
+    while True:
+        for host in NETWORK_READY_HOSTS:
+            try:
+                with socket.create_connection((host, 443), timeout=5):
+                    notes.append(SourceNote("Network readiness", "ok", f"connected to {host}:443"))
+                    return
+            except OSError as exc:
+                last_error = f"{host}: {exc}"
+
+        remaining = deadline - time_module.monotonic()
+        if remaining <= 0:
+            notes.append(SourceNote("Network readiness", "unavailable", last_error))
+            return
+        time_module.sleep(min(10, remaining))
 
 
 def determine_market_phase(report_date: date, settings: Settings, market_status: dict[str, str]) -> str:
@@ -169,14 +209,14 @@ def fetch_text(url: str, *, headers: dict[str, str] | None = None) -> str:
     return response.content.decode(response.encoding or "utf-8-sig", errors="replace")
 
 
-def fetch_market_movers(limit: int, notes: list[SourceNote]) -> dict[str, list[dict[str, str]]]:
+def fetch_market_movers(limit: int, notes: list[SourceNote]) -> tuple[dict[str, list[dict[str, str]]], str]:
     url = "https://api.nasdaq.com/api/marketmovers?assetclass=stocks&exchange=NASDAQ"
     try:
         payload = fetch_json(url)
         stocks = payload["data"]["STOCKS"]
     except Exception as exc:
         notes.append(SourceNote("Nasdaq market movers", "unavailable", str(exc)))
-        return {}
+        return {}, ""
 
     mapping = {
         "MostActiveByShareVolume": "Most Active",
@@ -189,8 +229,100 @@ def fetch_market_movers(limit: int, notes: list[SourceNote]) -> dict[str, list[d
         rows = stocks.get(key, {}).get("table", {}).get("rows", [])
         result[title] = [clean_dict(row) for row in rows[:limit]]
 
-    notes.append(SourceNote("Nasdaq market movers", "ok"))
-    return result
+    as_of = clean(
+        stocks.get("MostActiveByShareVolume", {}).get("dataAsOf")
+        or stocks.get("MostActiveByShareVolume", {}).get("lastTradeTimestamp")
+    )
+    notes.append(SourceNote("Nasdaq market movers", "ok", as_of))
+    return result, as_of
+
+
+def fetch_after_hours_most_active(target_date: date, limit: int, notes: list[SourceNote]) -> tuple[list[dict[str, str]], str]:
+    try:
+        article_url, article_title = find_after_hours_article_url(target_date)
+    except Exception as exc:
+        notes.append(SourceNote(f"Nasdaq after-hours article {target_date.isoformat()}", "unavailable", str(exc)))
+        return [], ""
+
+    if not article_url:
+        notes.append(
+            SourceNote(
+                f"Nasdaq after-hours article {target_date.isoformat()}",
+                "skipped",
+                "No matching After Hours Most Active article found yet",
+            )
+        )
+        return [], ""
+
+    try:
+        article_html = fetch_text(article_url)
+        rows = parse_after_hours_article(article_html, limit)
+    except Exception as exc:
+        notes.append(SourceNote(f"Nasdaq after-hours article {target_date.isoformat()}", "unavailable", str(exc)))
+        return [], ""
+
+    if not rows:
+        notes.append(
+            SourceNote(
+                f"Nasdaq after-hours article {target_date.isoformat()}",
+                "unavailable",
+                "Article found, but no after-hours rows were parsed",
+            )
+        )
+        return [], ""
+
+    published = clean(find_meta_content(article_html, "article:published_time") or "")
+    as_of = clean(article_title.replace("After Hours Most Active for ", "", 1))
+    detail = published or as_of
+    notes.append(SourceNote(f"Nasdaq after-hours article {target_date.isoformat()}", "ok", detail))
+    return rows, detail
+
+
+def find_after_hours_article_url(target_date: date) -> tuple[str, str]:
+    html_text = fetch_text("https://www.nasdaq.com/authors/nasdaqcom")
+    matches = re.findall(
+        r'<a class="content-feed__card-title-link" href="([^"]+)">(After Hours Most Active for [^<]+)</a>',
+        html_text,
+        flags=re.IGNORECASE,
+    )
+    target_label = target_date.strftime("%b %d, %Y").replace(" 0", " ")
+    for href, title in matches:
+        if target_label in clean(title):
+            return absolutize_nasdaq_url(href), clean(title)
+    return "", ""
+
+
+def parse_after_hours_article(html_text: str, limit: int) -> list[dict[str, str]]:
+    match = re.search(
+        r'<div class="body__content">\s*<p>(.*?)</p>',
+        html_text,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    if not match:
+        return []
+
+    body_html = match.group(1)
+    rows: list[dict[str, str]] = []
+    pattern = re.compile(
+        r'(?:<br\s*/?>\s*)*(?P<name>[^<]+?)\s*\(<a [^>]*>(?P<symbol>[A-Z.\-]+)</a>\)\s+is\s+'
+        r'(?P<move>unchanged|[+\-]?[0-9.]+)\s+at\s+\$(?P<last>[0-9.]+),\s+with\s+'
+        r'(?P<volume>[0-9,]+)\s+shares traded\.',
+        flags=re.IGNORECASE,
+    )
+    for parsed in pattern.finditer(body_html):
+        move = clean(parsed.group("move"))
+        rows.append(
+            {
+                "symbol": clean(parsed.group("symbol")),
+                "name": clean(strip_tags(parsed.group("name"))),
+                "lastSalePrice": f"${clean(parsed.group('last'))}",
+                "lastSaleChange": "0" if move.lower() == "unchanged" else move,
+                "change": clean(parsed.group("volume")),
+            }
+        )
+        if len(rows) >= limit:
+            break
+    return rows
 
 
 def fetch_earnings(target_date: date, limit: int, notes: list[SourceNote]) -> list[dict[str, str]]:
@@ -398,3 +530,21 @@ def clean_dict(row: dict[str, Any]) -> dict[str, str]:
 
 def strip_tags(value: str) -> str:
     return re.sub(r"<[^>]+>", " ", value or "")
+
+
+def absolutize_nasdaq_url(url: str) -> str:
+    if url.startswith("http://") or url.startswith("https://"):
+        return url
+    return f"https://www.nasdaq.com{url}"
+
+
+def find_meta_content(html_text: str, name: str) -> str:
+    patterns = [
+        rf'<meta[^>]+property="{re.escape(name)}"[^>]+content="([^"]+)"',
+        rf'<meta[^>]+name="{re.escape(name)}"[^>]+content="([^"]+)"',
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, html_text, flags=re.IGNORECASE)
+        if match:
+            return html.unescape(match.group(1))
+    return ""

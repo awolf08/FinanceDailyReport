@@ -244,7 +244,7 @@ def format_market_status(data: ReportData) -> str:
 
 def format_stock_detail(section: str, row: dict[str, str]) -> str:
     change = row.get("change", "")
-    if section == "Most Active":
+    if section in {"Most Active", "After-Hours Most Active"}:
         return f"Volume: {format_number(change)}" if change else "Volume: N/A"
     return f"Change %: {change or 'N/A'}"
 
@@ -272,14 +272,29 @@ def get_active_section_title(data: ReportData) -> str:
 
 def get_active_section_note(data: ReportData) -> str:
     phase = data.market_phase
+    as_of = f" Latest source timestamp: {data.active_stocks_as_of}." if data.active_stocks_as_of else ""
     if phase == "premarket":
-        return "This section uses Nasdaq market movers during premarket hours."
+        return f"This section uses Nasdaq market movers during premarket hours.{as_of}"
     if phase == "regular":
-        return "Premarket-only movers are no longer available after 9:30 AM ET. This section falls back to Nasdaq regular-session market movers."
+        return (
+            "Premarket-only movers are no longer available after 9:30 AM ET. "
+            f"This section falls back to Nasdaq regular-session market movers.{as_of}"
+        )
     if phase == "after_hours":
-        return "Premarket-only movers are no longer available after the close. This section shows the latest Nasdaq movers instead."
+        if data.active_stocks_source == "after_hours_article":
+            return (
+                "This section uses Nasdaq's published After Hours Most Active article. "
+                f"It is a real after-hours leaderboard, but it may post after the live session has already started.{as_of}"
+            )
+        return (
+            "Nasdaq's public market movers endpoint does not expose a separate after-hours activity list. "
+            f"This section shows the latest overall Nasdaq movers after the close instead.{as_of}"
+        )
     if phase == "open_day":
-        return "This report is for a market-open date outside the live session, so the movers source is labeled generically."
+        return (
+            "This report is for a market-open date outside the live session, "
+            f"so the movers source is labeled generically.{as_of}"
+        )
     return ""
 
 
