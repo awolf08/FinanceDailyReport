@@ -18,10 +18,6 @@ def render_markdown(data: ReportData, settings: Settings) -> str:
         "",
         f"_Generated: {generated_at}. Timezone: {settings.timezone}. Not financial advice._",
         "",
-        "## Market Status",
-        "",
-        format_market_status(data),
-        "",
         "## 1. Earnings",
         "",
     ]
@@ -30,10 +26,12 @@ def render_markdown(data: ReportData, settings: Settings) -> str:
     append_earnings_group(lines, f"Tomorrow before open ({tomorrow.isoformat()})", data.earnings.get("tomorrow", []), "time-pre-market")
     append_earnings_group(lines, f"Other scheduled earnings ({today.isoformat()} to {tomorrow.isoformat()})", data.earnings.get("today", []) + data.earnings.get("tomorrow", []), "")
 
-    lines.extend(["## 2. Intraday Active Stock Snapshots", ""])
+    lines.extend(["## 2. Market Status", "", format_market_status(data), ""])
+
+    lines.extend(["## 3. Intraday Active Stock Snapshots", ""])
     append_snapshot_markdown(lines, data)
 
-    lines.extend(["## 3. Latest Market News", ""])
+    lines.extend(["## 4. Latest Market News", ""])
     if data.news:
         for item in data.news:
             published = f" ({item['published']})" if item.get("published") else ""
@@ -49,7 +47,7 @@ def render_markdown(data: ReportData, settings: Settings) -> str:
         lines.append("- No news items returned.")
     lines.append("")
 
-    lines.extend(["## 4. Economic Calendar", ""])
+    lines.extend(["## 5. Economic Calendar", ""])
     append_economic_day(lines, f"Today ({today.isoformat()})", data.economic_events.get("today", []))
     append_economic_day(lines, f"Tomorrow ({tomorrow.isoformat()})", data.economic_events.get("tomorrow", []))
 
@@ -108,8 +106,6 @@ def render_html(data: ReportData, settings: Settings) -> str:
         f"<h1>{escape(title)}</h1>",
         f'<div class="meta">Generated: {escape(generated_at)}. Timezone: {escape(settings.timezone)}. Not financial advice.</div>',
         "</header>",
-        "<h2>Market Status</h2>",
-        f'<div class="status">{inline_markdown(format_market_status(data).lstrip("- "))}</div>',
         "<h2>1. Earnings</h2>",
     ]
 
@@ -117,10 +113,12 @@ def render_html(data: ReportData, settings: Settings) -> str:
     append_earnings_html(parts, f"Tomorrow before open ({tomorrow.isoformat()})", data.earnings.get("tomorrow", []), "time-pre-market")
     append_earnings_html(parts, f"Other scheduled earnings ({today.isoformat()} to {tomorrow.isoformat()})", data.earnings.get("today", []) + data.earnings.get("tomorrow", []), "")
 
-    parts.append("<h2>2. Intraday Active Stock Snapshots</h2>")
+    parts.extend(["<h2>2. Market Status</h2>", f'<div class="status">{inline_markdown(format_market_status(data).lstrip("- "))}</div>'])
+
+    parts.append("<h2>3. Intraday Active Stock Snapshots</h2>")
     append_snapshot_html(parts, data)
 
-    parts.extend(["<h2>3. Latest Market News</h2>", '<div class="section"><ul>'])
+    parts.extend(["<h2>4. Latest Market News</h2>", '<div class="section"><ul>'])
     if data.news:
         for item in data.news:
             parts.append(render_news_html(item))
@@ -128,7 +126,7 @@ def render_html(data: ReportData, settings: Settings) -> str:
         parts.append("<li>No news items returned.</li>")
     parts.extend(["</ul>", "</div>"])
 
-    parts.append("<h2>4. Economic Calendar</h2>")
+    parts.append("<h2>5. Economic Calendar</h2>")
     append_economic_html(parts, f"Today ({today.isoformat()})", data.economic_events.get("today", []))
     append_economic_html(parts, f"Tomorrow ({tomorrow.isoformat()})", data.economic_events.get("tomorrow", []))
 
