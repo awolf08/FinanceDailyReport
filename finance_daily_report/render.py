@@ -1,7 +1,8 @@
 from __future__ import annotations
 
 import html
-from datetime import timedelta
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 from .config import Settings
 from .fetchers import ReportData
@@ -10,12 +11,13 @@ from .fetchers import ReportData
 def render_markdown(data: ReportData, settings: Settings) -> str:
     today = data.report_date
     tomorrow = today + timedelta(days=1)
+    generated_at = format_generated_at(settings)
     active_section_title = get_active_section_title(data)
     active_section_note = get_active_section_note(data)
     lines: list[str] = [
         f"# Finance Daily Report - {today.isoformat()}",
         "",
-        f"_Timezone: {settings.timezone}. Not financial advice._",
+        f"_Generated: {generated_at}. Timezone: {settings.timezone}. Not financial advice._",
         "",
         "## Market Status",
         "",
@@ -86,6 +88,7 @@ def render_markdown(data: ReportData, settings: Settings) -> str:
 def render_html(data: ReportData, settings: Settings) -> str:
     today = data.report_date
     tomorrow = today + timedelta(days=1)
+    generated_at = format_generated_at(settings)
     title = f"Finance Daily Report - {today.isoformat()}"
     active_section_title = get_active_section_title(data)
     active_section_note = get_active_section_note(data)
@@ -118,7 +121,7 @@ def render_html(data: ReportData, settings: Settings) -> str:
         '<main class="wrap">',
         "<header>",
         f"<h1>{escape(title)}</h1>",
-        f'<div class="meta">Timezone: {escape(settings.timezone)}. Not financial advice.</div>',
+        f'<div class="meta">Generated: {escape(generated_at)}. Timezone: {escape(settings.timezone)}. Not financial advice.</div>',
         "</header>",
         "<h2>Market Status</h2>",
         f'<div class="status">{inline_markdown(format_market_status(data).lstrip("- "))}</div>',
@@ -182,6 +185,10 @@ def render_news_html(item: dict[str, str]) -> str:
     else:
         title_html = escape(title)
     return f"<li><strong>{escape(source)}</strong>{escape(published)}: {priority}{title_html}</li>"
+
+
+def format_generated_at(settings: Settings) -> str:
+    return datetime.now(ZoneInfo(settings.timezone)).strftime("%Y-%m-%d %H:%M:%S %Z")
 
 
 def append_economic_html(parts: list[str], title: str, events: list[dict[str, str]]) -> None:

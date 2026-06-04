@@ -27,13 +27,19 @@ if [ "$(git branch --show-current)" != "main" ]; then
   exit 1
 fi
 
-if [ -n "$(git status --porcelain --untracked-files=no)" ]; then
+git fetch --prune origin
+
+if [ -n "$(git status --porcelain --untracked-files=no -- . ':(exclude)reports')" ]; then
   echo "Working tree has tracked changes. Commit or stash them before fallback publish." >&2
   git status --short
   exit 1
 fi
 
-git fetch --prune origin
+if [ -n "$(git status --porcelain --untracked-files=no -- reports)" ]; then
+  echo "Restoring report archive from origin/main before generation."
+  git restore --source origin/main -- reports
+fi
+
 git pull --rebase origin main
 
 report_exists_on_origin=false
