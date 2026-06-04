@@ -22,13 +22,18 @@ def render_markdown(data: ReportData, settings: Settings) -> str:
         "",
         format_market_status(data),
         "",
-        "## 1. Intraday Active Stock Snapshots",
+        "## 1. Earnings",
         "",
     ]
 
+    append_earnings_group(lines, f"Today after close ({today.isoformat()})", data.earnings.get("today", []), "time-after-hours")
+    append_earnings_group(lines, f"Tomorrow before open ({tomorrow.isoformat()})", data.earnings.get("tomorrow", []), "time-pre-market")
+    append_earnings_group(lines, f"Other scheduled earnings ({today.isoformat()} to {tomorrow.isoformat()})", data.earnings.get("today", []) + data.earnings.get("tomorrow", []), "")
+
+    lines.extend(["## 2. Intraday Active Stock Snapshots", ""])
     append_snapshot_markdown(lines, data)
 
-    lines.extend(["## 2. Latest Market News", ""])
+    lines.extend(["## 3. Latest Market News", ""])
     if data.news:
         for item in data.news:
             published = f" ({item['published']})" if item.get("published") else ""
@@ -44,14 +49,9 @@ def render_markdown(data: ReportData, settings: Settings) -> str:
         lines.append("- No news items returned.")
     lines.append("")
 
-    lines.extend(["## 3. Economic Calendar", ""])
+    lines.extend(["## 4. Economic Calendar", ""])
     append_economic_day(lines, f"Today ({today.isoformat()})", data.economic_events.get("today", []))
     append_economic_day(lines, f"Tomorrow ({tomorrow.isoformat()})", data.economic_events.get("tomorrow", []))
-
-    lines.extend(["## 4. After-hours Earnings", ""])
-    append_earnings_group(lines, f"Today after close ({today.isoformat()})", data.earnings.get("today", []), "time-after-hours")
-    append_earnings_group(lines, f"Tomorrow before open ({tomorrow.isoformat()})", data.earnings.get("tomorrow", []), "time-pre-market")
-    append_earnings_group(lines, f"Other scheduled earnings ({today.isoformat()} to {tomorrow.isoformat()})", data.earnings.get("today", []) + data.earnings.get("tomorrow", []), "")
 
     lines.extend(["## Source Health", ""])
     for note in data.notes:
@@ -81,6 +81,7 @@ def render_html(data: ReportData, settings: Settings) -> str:
         "h1{font-size:30px;margin:0 0 8px;color:#102a43}",
         "h2{font-size:20px;margin:28px 0 12px;color:#183b56;border-bottom:1px solid #d9e2ec;padding-bottom:6px}",
         "h3{font-size:16px;margin:18px 0 8px;color:#334e68}",
+        "h4{font-size:15px;margin:18px 0 8px;color:#243b53}",
         ".meta{color:#627d98;font-size:14px}",
         ".status{background:#fff;border-left:5px solid #1b4d89;padding:12px 14px;margin:12px 0;border-radius:6px}",
         "ul{margin:8px 0 18px;padding-left:20px}",
@@ -90,6 +91,15 @@ def render_html(data: ReportData, settings: Settings) -> str:
         ".section{background:#fff;border:1px solid #d9e2ec;border-radius:8px;padding:14px 18px;margin:14px 0}",
         ".source-health{font-size:13px;color:#52616f}",
         ".priority{font-weight:700;color:#8a4b00}",
+        ".table-wrap{overflow-x:auto;border:1px solid #d9e2ec;border-radius:8px;background:#fff;margin:10px 0 18px}",
+        "table{width:100%;border-collapse:collapse;min-width:760px}",
+        "th,td{border-bottom:1px solid #d9e2ec;padding:9px 10px;text-align:right;white-space:nowrap}",
+        "th{background:#fbfcfe;color:#334e68;font-weight:700}",
+        "td.symbol,td.name,th.symbol,th.name{text-align:left}",
+        "td.name{max-width:260px;overflow:hidden;text-overflow:ellipsis}",
+        "tr:last-child td{border-bottom:0}",
+        ".positive{color:#0f8a6a}",
+        ".negative{color:#d7263d}",
         "</style>",
         "</head>",
         "<body>",
@@ -100,12 +110,17 @@ def render_html(data: ReportData, settings: Settings) -> str:
         "</header>",
         "<h2>Market Status</h2>",
         f'<div class="status">{inline_markdown(format_market_status(data).lstrip("- "))}</div>',
-        "<h2>1. Intraday Active Stock Snapshots</h2>",
+        "<h2>1. Earnings</h2>",
     ]
 
+    append_earnings_html(parts, f"Today after close ({today.isoformat()})", data.earnings.get("today", []), "time-after-hours")
+    append_earnings_html(parts, f"Tomorrow before open ({tomorrow.isoformat()})", data.earnings.get("tomorrow", []), "time-pre-market")
+    append_earnings_html(parts, f"Other scheduled earnings ({today.isoformat()} to {tomorrow.isoformat()})", data.earnings.get("today", []) + data.earnings.get("tomorrow", []), "")
+
+    parts.append("<h2>2. Intraday Active Stock Snapshots</h2>")
     append_snapshot_html(parts, data)
 
-    parts.extend(["<h2>2. Latest Market News</h2>", '<div class="section"><ul>'])
+    parts.extend(["<h2>3. Latest Market News</h2>", '<div class="section"><ul>'])
     if data.news:
         for item in data.news:
             parts.append(render_news_html(item))
@@ -113,14 +128,9 @@ def render_html(data: ReportData, settings: Settings) -> str:
         parts.append("<li>No news items returned.</li>")
     parts.extend(["</ul>", "</div>"])
 
-    parts.append("<h2>3. Economic Calendar</h2>")
+    parts.append("<h2>4. Economic Calendar</h2>")
     append_economic_html(parts, f"Today ({today.isoformat()})", data.economic_events.get("today", []))
     append_economic_html(parts, f"Tomorrow ({tomorrow.isoformat()})", data.economic_events.get("tomorrow", []))
-
-    parts.append("<h2>4. After-hours Earnings</h2>")
-    append_earnings_html(parts, f"Today after close ({today.isoformat()})", data.earnings.get("today", []), "time-after-hours")
-    append_earnings_html(parts, f"Tomorrow before open ({tomorrow.isoformat()})", data.earnings.get("tomorrow", []), "time-pre-market")
-    append_earnings_html(parts, f"Other scheduled earnings ({today.isoformat()} to {tomorrow.isoformat()})", data.earnings.get("today", []) + data.earnings.get("tomorrow", []), "")
 
     parts.extend(["<h2>Source Health</h2>", '<div class="section source-health"><ul>'])
     for note in data.notes:
@@ -322,14 +332,9 @@ def append_snapshot_markdown(lines: list[str], data: ReportData) -> None:
                 lines.append(f"#### {section}")
                 if not rows:
                     lines.append("- No rows at or above $5 returned.")
-                for row in rows:
-                    symbol = row.get("symbol", "")
-                    name = row.get("name", "")
-                    last = row.get("lastSalePrice", "")
-                    change_value = row.get("lastSaleChange", "")
-                    detail = format_stock_detail(section, row)
-                    lines.append(f"- {symbol_link_markdown(symbol)} {name} | Last: {last} | Move: {change_value} | {detail}")
-                lines.append("")
+                    lines.append("")
+                else:
+                    append_stock_table_markdown(lines, section, rows)
         else:
             lines.append("- Market movers source unavailable.")
             lines.append("")
@@ -357,17 +362,11 @@ def append_snapshot_html(parts: list[str], data: ReportData) -> None:
         elif active_stocks:
             for section, rows in active_stocks.items():
                 rows = visible_stock_rows(rows)
-                parts.extend([f"<h4>{escape(section)}</h4>", "<ul>"])
+                parts.append(f"<h4>{escape(section)}</h4>")
                 if not rows:
-                    parts.append("<li>No rows at or above $5 returned.</li>")
-                for row in rows:
-                    symbol = row.get("symbol", "")
-                    name = row.get("name", "")
-                    last = row.get("lastSalePrice", "")
-                    change_value = row.get("lastSaleChange", "")
-                    detail = format_stock_detail(section, row)
-                    parts.append(f"<li>{symbol_link_html(symbol)} {escape(name)} | Last: {escape(last)} | Move: {escape(change_value)} | {escape(detail)}</li>")
-                parts.append("</ul>")
+                    parts.append("<p>No rows at or above $5 returned.</p>")
+                else:
+                    append_stock_table_html(parts, section, rows)
         else:
             parts.append("<ul><li>Market movers source unavailable.</li></ul>")
 
@@ -378,6 +377,91 @@ def append_snapshot_html(parts: list[str], data: ReportData) -> None:
                 parts.append(f"<li>{escape(item)}</li>")
             parts.append("</ul>")
         parts.append("</div>")
+
+
+def append_stock_table_markdown(lines: list[str], section: str, rows: list[dict[str, str]]) -> None:
+    lines.append("| Symbol | Name | Price | Change | Change % | Volume |")
+    lines.append("|---|---|---:|---:|---:|---:|")
+    for row in rows:
+        symbol = row.get("symbol", "")
+        name = row.get("name", "")
+        price = row.get("lastSalePrice", "")
+        change_value = row.get("lastSaleChange", "")
+        change_percent = stock_change_percent(section, row)
+        volume = stock_volume(section, row)
+        lines.append(
+            f"| {symbol_link_markdown(symbol)} | {escape_markdown_table(name)} | "
+            f"{escape_markdown_table(price)} | {escape_markdown_table(change_value)} | "
+            f"{escape_markdown_table(change_percent)} | {escape_markdown_table(volume)} |"
+        )
+    lines.append("")
+
+
+def append_stock_table_html(parts: list[str], section: str, rows: list[dict[str, str]]) -> None:
+    parts.extend(
+        [
+            '<div class="table-wrap">',
+            "<table>",
+            "<thead><tr>",
+            '<th class="symbol">Symbol</th>',
+            '<th class="name">Name</th>',
+            "<th>Price</th>",
+            "<th>Change</th>",
+            "<th>Change %</th>",
+            "<th>Volume</th>",
+            "</tr></thead>",
+            "<tbody>",
+        ]
+    )
+    for row in rows:
+        symbol = row.get("symbol", "")
+        name = row.get("name", "")
+        price = row.get("lastSalePrice", "")
+        change_value = row.get("lastSaleChange", "")
+        change_percent = stock_change_percent(section, row)
+        volume = stock_volume(section, row)
+        parts.extend(
+            [
+                "<tr>",
+                f'<td class="symbol">{symbol_link_html(symbol)}</td>',
+                f'<td class="name">{escape(name)}</td>',
+                f"<td>{escape(price)}</td>",
+                f'<td class="{value_class(change_value)}">{escape(change_value)}</td>',
+                f'<td class="{value_class(change_percent)}">{escape(change_percent)}</td>',
+                f"<td>{escape(volume)}</td>",
+                "</tr>",
+            ]
+        )
+    parts.extend(["</tbody>", "</table>", "</div>"])
+
+
+def stock_change_percent(section: str, row: dict[str, str]) -> str:
+    if row.get("changePercent"):
+        return row["changePercent"]
+    if section not in {"Most Active", "Most Active Stocks", "Most Active ETFs", "After-Hours Most Active"}:
+        return row.get("change", "")
+    return ""
+
+
+def stock_volume(section: str, row: dict[str, str]) -> str:
+    if row.get("changePercent"):
+        return format_number(row.get("change", ""))
+    if section in {"Most Active", "Most Active Stocks", "Most Active ETFs", "After-Hours Most Active"}:
+        return format_number(row.get("change", ""))
+    return ""
+
+
+def value_class(value: str) -> str:
+    stripped = value.strip()
+    if stripped.startswith("+"):
+        return "positive"
+    if stripped.startswith("-"):
+        return "negative"
+    return ""
+
+
+def escape_markdown_table(value: str) -> str:
+    return str(value).replace("|", "\\|")
 
 
 def current_snapshot(data: ReportData) -> dict[str, object]:
