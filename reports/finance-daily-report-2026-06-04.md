@@ -1,6 +1,8 @@
 # Finance Daily Report - 2026-06-04
 
-_Generated: 2026-06-04 12:15:36 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-04 12:21:59 PDT. Timezone: America/Los_Angeles. Not financial advice._
+
+[Baybell Home](https://www.baybell.com/)
 
 ## 1. Earnings
 
@@ -428,6 +430,73 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
+### 12:21 PM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 3:21 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $220.24 | +5.49 | +2.56% | 130,688,246 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $16.44 | -0.29 | -1.73% | 113,407,400 |
+| **[BB](https://finance.yahoo.com/quote/BB/)** | BlackBerry Limited | $10.77 | +0.59 | +5.80% | 80,965,011 |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $314.45 | +12.80 | +4.24% | 72,727,190 |
+| **[AVGO](https://finance.yahoo.com/quote/AVGO/)** | Broadcom Inc. | $415.64 | -63.60 | -13.27% | 68,125,285 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $22.02 | +3.40 | +18.29% | 65,476,350 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $111.67 | -1.04 | -0.92% | 62,542,103 |
+| **[T](https://finance.yahoo.com/quote/T/)** | AT&T Inc. | $22.69 | -0.85 | -3.63% | 58,253,790 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $13.24 | -0.33 | -2.43% | 58,091,911 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $12.08 | +0.47 | +4.05% | 56,241,673 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $5.17 | +0.26 | +5.30% | 586,261,843 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.70 | -0.20 | -2.25% | 252,260,838 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $36.20 | -0.80 | -2.16% | 63,940,309 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $37.55 | +0.36 | +0.95% | 53,915,333 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $85.75 | -0.81 | -0.94% | 52,488,218 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $264.75 | -15.79 | -5.63% | 51,193,761 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $7.41 | +0.01 | +0.07% | 43,868,958 |
+| **[XLF](https://finance.yahoo.com/quote/XLF/)** | State Street Financial Select S | $52.17 | +1.30 | +2.55% | 43,530,463 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $66.18 | -3.53 | -5.06% | 43,184,602 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $14.73 | -0.28 | -1.87% | 40,578,262 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CHRN](https://finance.yahoo.com/quote/CHRN/)** | ChronoScale Corporation | $22.89 | +3.85 | +20.22% | 485,789 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $22.02 | +3.40 | +18.29% | 65,476,353 |
+| **[OSCR](https://finance.yahoo.com/quote/OSCR/)** | Oscar Health, Inc. | $23.82 | +3.32 | +16.19% | 7,971,957 |
+| **[ABVX](https://finance.yahoo.com/quote/ABVX/)** | Abivax SA | $104.99 | +14.84 | +16.46% | 4,065,910 |
+| **[CAI](https://finance.yahoo.com/quote/CAI/)** | Caris Life Sciences, Inc. | $17.75 | +2.27 | +14.66% | 2,220,037 |
+| **[INOD](https://finance.yahoo.com/quote/INOD/)** | Innodata Inc. | $123.08 | +14.81 | +13.68% | 2,356,045 |
+| **[TEM](https://finance.yahoo.com/quote/TEM/)** | Tempus AI, Inc. | $53.29 | +5.78 | +12.18% | 11,061,684 |
+| **[LQDA](https://finance.yahoo.com/quote/LQDA/)** | Liquidia Corporation | $61.99 | +6.30 | +11.31% | 3,565,891 |
+| **[WOLF](https://finance.yahoo.com/quote/WOLF/)** | Wolfspeed, Inc. | $68.80 | +7.13 | +11.57% | 6,494,098 |
+| **[NVCR](https://finance.yahoo.com/quote/NVCR/)** | NovoCure Limited | $18.01 | +1.86 | +11.55% | 1,570,281 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PVH](https://finance.yahoo.com/quote/PVH/)** | PVH Corp. | $76.33 | -21.67 | -22.11% | 4,116,714 |
+| **[NTSK](https://finance.yahoo.com/quote/NTSK/)** | Netskope, Inc. | $10.27 | -2.13 | -17.22% | 11,452,761 |
+| **[CIEN](https://finance.yahoo.com/quote/CIEN/)** | Ciena Corporation | $533.14 | -87.23 | -14.06% | 6,322,420 |
+| **[AVGO](https://finance.yahoo.com/quote/AVGO/)** | Broadcom Inc. | $415.64 | -63.59 | -13.27% | 68,126,679 |
+| **[FIVE](https://finance.yahoo.com/quote/FIVE/)** | Five Below, Inc. | $193.58 | -29.31 | -13.15% | 3,945,486 |
+| **[TAC](https://finance.yahoo.com/quote/TAC/)** | TransAlta Corporation | $12.93 | -1.53 | -10.58% | 3,116,030 |
+| **[XE](https://finance.yahoo.com/quote/XE/)** | X-Energy, Inc. | $23.65 | -2.62 | -9.97% | 6,080,722 |
+| **[THR](https://finance.yahoo.com/quote/THR/)** | Thermon Group Holdings, Inc. | $61.14 | -5.67 | -8.49% | 2,869,759 |
+| **[SKM](https://finance.yahoo.com/quote/SKM/)** | SK Telecom Co., Ltd. | $41.25 | -3.79 | -8.41% | 3,827,152 |
+| **[WRD](https://finance.yahoo.com/quote/WRD/)** | WERIDE INC. | $7.30 | -0.66 | -8.23% | 2,638,512 |
+
+Source health:
+- NYSE calendar 2026-06-04: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
 ## 4. Latest Market News
 
 - **Google News Markets** (Thu, 04 Jun 2026 15:21:07 GMT): High priority | [The International Monetary Fund expects the US Federal Reserve's 2% inflation target to be delayed until the end of 2027. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xaF9yQVRQdlJ0MXcwbXNzTWZpdnoyVmk3SFpQaXNtU1cyR1BYZzhXMGtzTm9BTHdNZzZXNGVnN1U5dldlaFNNREN4YTNpaGJVZkZ2YzByNDc0VldIVEtBZFZDc9IBY0FVX3lxTE0xaF9yQVRQdlJ0MXcwbXNzTWZpdnoyVmk3SFpQaXNtU1cyR1BYZzhXMGtzTm9BTHdNZzZXNGVnN1U5dldlaFNNREN4YTNpaGJVZkZ2YzByNDc0VldIVEtBZFZDcw?oc=5)
@@ -437,11 +506,11 @@ Source health:
 - **Google News Markets** (Thu, 04 Jun 2026 16:25:00 GMT): High priority | [Ciena Stock Falls On Strong Earnings, Guidance After Huge 2026 Gain - Investor's Business Daily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVllQ1pnTEpQT0gwbWh5amxoc1lGaTdKX3hlTnlEczQ5MUtMR1A1ZHVDTzlvMDVBMEZwcmVaak41dEg1eWJJMGlDNmhhaHh3SDg3M1FsUmlTZU1UWjJfdDZUY01LRExyZm5Bbk9hMGtvMzQzN1I1NGJ6aGRMNlVUMWtzbl9yVHd1?oc=5)
 - **Google News Markets** (Thu, 04 Jun 2026 12:39:00 GMT): High priority | [CrowdStrike Falls On Earnings As Guidance Underwhelms Amid Big 2026 Gain - Investor's Business Daily](https://news.google.com/rss/articles/CBMinwFBVV95cUxQemF4dGlvbTRrVTRzQ3JvRXZXSEZUZkJxenNfS0lIU2RQTDMwbk9nWVZHcEFmSm1ibElsYnJET2ZiZUw1dHhuSG5pQ1RpSnVoVUpvTnlXbkVwbzBzZ0tRT3dpMlBBUkxUVlA4aTRYNFROS1NpQlN1ekhBT09WaU9WS0J0aTdNM1psbS14THBNUm5qZVNIcW5xYXFhWmV4LTQ?oc=5)
 - **Google News Markets** (Thu, 04 Jun 2026 12:18:21 GMT): High priority | [ADC Therapeutics Posts Downbeat Q1 Earnings, Joins Julong Holding And Other Big Stocks Moving Lower In Th - Benzinga](https://news.google.com/rss/articles/CBMilgJBVV95cUxQbmgtOHJjcXEwbFhpLWJKQmxzSmNMWUEySXNLY0NiUnVkMWtmZzVnQnpPZktYX1ZpVTl3bjB2UlZHaXlpZ19pWlVGdEpvZ0NuMUxZUEdUT08tQ0xuanF4QW5lRDQ4TnB1bzJTRk43T3dtdzdMaHlqM2M2dVQzaF9ESGhYWFpSZ1ZiczNzdkdnQUtLQ19NMEJ4MWc2UG9DZm04c1d1aDRTWEZ3dHB2cVF6Y1RCckxBeXNfTm53d1NWNFBiNi1YSG9pbHVBcjNDc3N2SHFYN1lfVllZMndvUjlvUUtVUFc5SDdwaFhRd0duamMzZHBpWDR1SkY2MDRtNTE1Z1ZWQW02bXJTZThncjVYMlEwRGZUQQ?oc=5)
+- **Google News Markets** (Thu, 04 Jun 2026 11:38:58 GMT): High priority | [Broadcom Q2 earnings miss drags Nasdaq futures lower - qz.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE9nVUZBejRlWVBQRzhGSXR2R3pFNC10R0I3RzBXRHJKMlBiRVRrUnNacl9rY2hOTHRqNzF4RkVLdVUtbVhLWDRBUXBuMUx4NEVvTGNYdU02QmtCbERYMDRYYkR0ZUpfcWRySE96M05ibGtpUUswaEh0Nw?oc=5)
 - **Google News Markets** (Thu, 04 Jun 2026 00:24:58 GMT): High priority | [Federal Reserve’s Logan: Monetary policy has not suppressed the economy - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWHFUUERfZHByNk53bThrZ2lfUDRUU0VWQVZXM3RIbmRtcDJzMTBITmhKc05Qc2ZHUFkxZVNySmg0T21nZi1QQmxKREpRRTZYZUdhTDktcHc2T2JHdmh0VHAxa9IBY0FVX3lxTE5VWHFUUERfZHByNk53bThrZ2lfUDRUU0VWQVZXM3RIbmRtcDJzMTBITmhKc05Qc2ZHUFkxZVNySmg0T21nZi1QQmxKREpRRTZYZUdhTDktcHc2T2JHdmh0VHAxaw?oc=5)
 - **Google News Markets** (Wed, 03 Jun 2026 20:31:03 GMT): High priority | [Broadcom stock falls despite Q2 earnings, guidance beat - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVpGOHNhUTBNVlRBNEJmZk1FZ0ZXUjR3ZWw1Uy00Y1dUanItVllhM3pXSXdUQ1o1SlRsZGNjbXBLQmduNjNQQ0RPQkNkZ1JQUVItU2lMZEZQSzZ3bnhEQTE3MTJvNzhyQm9oSExRT0R6Uzc4OFZTTERLV2x6a09IOHliSlFiaDVfU21qNk5SY1BxYXN4ZU1CRzZSekJPWVJ4bnBj?oc=5)
 - **Federal Reserve** (Tue, 2 Jun 2026 15:00:00 GMT): High priority | [Agencies remove additional references to reputation risk](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm)
 - **Google News Markets** (Thu, 04 Jun 2026 18:02:12 GMT): [Opinion: The Stock Market May Have Dodged a Bullet With Jerome Powell Staying at the Fed - AOL.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1owN0Z4b09YV0pmTVdRY3RJazdpRml0SVVLVWw1bXRON3JsSUZoaG5xUkI0YWJNRUFCYmxhem5YTGpXOEotV2lpWjA2NlpMLS1CeENyNnlFUXVlLWI3cHFkWFYyX3J0LVpwczhlODRZZk9zMFplNXQ5dThFVVBuUw?oc=5)
-- **Google News Markets** (Thu, 04 Jun 2026 17:37:30 GMT): [Ciena stock sinks despite earnings beat as investors seek bigger AI upside - Invezz](https://news.google.com/rss/articles/CBMirwFBVV95cUxObDhmdk9lc2ZQNXVUVzFwcDVrazFPa3dHZTFVUG9wb3A3N3Jwb21FRkttdnZLUEY2Y1dKcUgyS2NXZDZQTUI3bVRteXphc0VUSmFJOUprNTZpZlN2WmFhb0ZTNTc4OUM5Y0Uzb0ZCTS1rc0JHZkdmQ2IwdHlPQ0NHWWdXQlVvZG8yLTNRQS1ZUTVUa2Mwd0NSaWNYaU4yQzhsSnBvWHJReEUyZlN4dnZJ?oc=5)
 
 ## 5. Economic Calendar
 
