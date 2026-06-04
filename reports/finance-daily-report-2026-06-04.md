@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-04
 
-_Generated: 2026-06-04 11:16:47 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-04 11:26:20 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 ## Market Status
 
@@ -72,17 +72,17 @@ Source health:
 ### 11:16 AM Regular Snapshot
 - Nasdaq market movers captured during the regular session. Latest source timestamp: Data as of Jun 4, 2026 2:15 PM ET.
 
-#### Most Active
-- **[SOXS](https://finance.yahoo.com/quote/SOXS/)** Direxion Daily Semiconductor Bear 3x Shares | Last: $5.02 | Move: +0.11 | Volume: 528,386,634
-- **[BITO](https://finance.yahoo.com/quote/BITO/)** ProShares Bitcoin ETF | Last: $8.5913 | Move: -0.3087 | Volume: 211,412,068
+#### Decliners
+- No rows at or above $5 returned.
 
 #### Gainers
 - **[STI](https://finance.yahoo.com/quote/STI/)** Solidion Technology, Inc. | Last: $20.0003 | Move: +14.9603 | Change %: +296.8313%
 - **[SDOT](https://finance.yahoo.com/quote/SDOT/)** Sadot Group Inc. | Last: $13.5 | Move: +6.75 | Change %: +100%
 - **[FOXX](https://finance.yahoo.com/quote/FOXX/)** Foxx Development Holdings Inc. | Last: $5.33 | Move: +2.47 | Change %: +86.3636%
 
-#### Decliners
-- No rows at or above $5 returned.
+#### Most Active
+- **[SOXS](https://finance.yahoo.com/quote/SOXS/)** Direxion Daily Semiconductor Bear 3x Shares | Last: $5.02 | Move: +0.11 | Volume: 528,386,634
+- **[BITO](https://finance.yahoo.com/quote/BITO/)** ProShares Bitcoin ETF | Last: $8.5913 | Move: -0.3087 | Volume: 211,412,068
 
 #### Nasdaq 100 Movers
 - **[ADBE](https://finance.yahoo.com/quote/ADBE/)** Adobe Inc. | Last: 260.04 | Move: +3.80 | Change %: +1.48%
@@ -99,20 +99,39 @@ Source health:
 - Network readiness: ok - connected to api.nasdaq.com:443
 - Nasdaq market movers: ok - Data as of Jun 4, 2026 2:15 PM ET
 
+### 11:26 AM Regular Snapshot
+- Yahoo Finance Most Active top regular-session stocks captured during the regular session. Latest source timestamp: Yahoo Finance Most Active as of 2:26 PM ET.
+
+#### Yahoo Finance Most Active
+- **[NVDA](https://finance.yahoo.com/quote/NVDA/)** NVIDIA Corporation | Last: $220.29 | Move: +5.54 | Volume: 115,790,363
+- **[NOK](https://finance.yahoo.com/quote/NOK/)** Nokia Corporation Sponsored | Last: $16.49 | Move: -0.24 | Volume: 108,197,132
+- **[BB](https://finance.yahoo.com/quote/BB/)** BlackBerry Limited | Last: $10.77 | Move: +0.59 | Volume: 72,362,884
+- **[MRVL](https://finance.yahoo.com/quote/MRVL/)** Marvell Technology, Inc. | Last: $315.85 | Move: +14.20 | Volume: 66,687,670
+- **[AVGO](https://finance.yahoo.com/quote/AVGO/)** Broadcom Inc. | Last: $418.30 | Move: -60.93 | Volume: 62,228,224
+- **[RDW](https://finance.yahoo.com/quote/RDW/)** Redwire Corporation | Last: $21.99 | Move: +3.37 | Volume: 61,691,113
+- **[INTC](https://finance.yahoo.com/quote/INTC/)** Intel Corporation | Last: $112.21 | Move: -0.50 | Volume: 56,642,395
+- **[T](https://finance.yahoo.com/quote/T/)** AT&T Inc. | Last: $22.56 | Move: -0.99 | Volume: 50,362,977
+- **[ONDS](https://finance.yahoo.com/quote/ONDS/)** Ondas Inc | Last: $12.37 | Move: +0.76 | Volume: 49,359,425
+- **[AAL](https://finance.yahoo.com/quote/AAL/)** American Airlines Group, Inc. | Last: $13.31 | Move: -0.26 | Volume: 48,545,135
+
+Source health:
+- NYSE calendar 2026-06-04: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active: ok - Yahoo Finance Most Active as of 2:26 PM ET
+
 ## 2. Latest Market News
 
-- **Google News Markets** (Thu, 04 Jun 2026 15:21:07 GMT): High priority | [The International Monetary Fund expects the US Federal Reserve's 2% inflation target to be delayed until the end of 2027. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xaF9yQVRQdlJ0MXcwbXNzTWZpdnoyVmk3SFpQaXNtU1cyR1BYZzhXMGtzTm9BTHdNZzZXNGVnN1U5dldlaFNNREN4YTNpaGJVZkZ2YzByNDc0VldIVEtBZFZDc9IBY0FVX3lxTE0xaF9yQVRQdlJ0MXcwbXNzTWZpdnoyVmk3SFpQaXNtU1cyR1BYZzhXMGtzTm9BTHdNZzZXNGVnN1U5dldlaFNNREN4YTNpaGJVZkZ2YzByNDc0VldIVEtBZFZDcw?oc=5)
-- **Google News Markets** (Thu, 04 Jun 2026 12:20:50 GMT): High priority | [Dow Futures Rise 0.5%, Nasdaq Futures Sink 1% After Broadcom Earnings Disappoint - Meyka](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelc0SFhSYXk4YTJIcms1djBoampkVUdtQ3htZWVoRXdFcTJuMTNXeXJ4cmFCa2xmb1ZwWmZyUHVVN0FYVnpYemhnNUhTd2pvWWJtS2NBM1hXekd2aEp2Y2VUX2VSWDV1U3o2RU9jZk1seEF4TzJfWHhKZXFac293UVBOU0tIbnFVNFRPYzBodjlhbUFicUQxNERzN3k4a214TkNmTWZleXYwZw?oc=5)
-- **Google News Markets** (Thu, 04 Jun 2026 00:24:59 GMT): High priority | [Lorie Logan, President of the Federal Reserve Bank of Dallas (2026 FOMC voting member): Inflation is taking too long to return to the 2% target. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE02LTBBbDZWQmRadDhqM19fQVpPRlFPU3czcVFKcVhheFJMaDBXVmREQThqQ3AxMkNVUG5rY0xnRlFYRWpXTElmMWltb1p5amtFZ3U4VmVWdjVsVnlxSnA1VEVLNNIBY0FVX3lxTE02LTBBbDZWQmRadDhqM19fQVpPRlFPU3czcVFKcVhheFJMaDBXVmREQThqQ3AxMkNVUG5rY0xnRlFYRWpXTElmMWltb1p5amtFZ3U4VmVWdjVsVnlxSnA1VEVLNA?oc=5)
 - **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:32:00 GMT): High priority | [Micron flirts with record market-cap wipeout as Broadcom casts a shadow over chip stocks](https://www.marketwatch.com/story/micron-flirts-with-record-market-cap-wipeout-as-broadcom-casts-a-shadow-over-chip-stocks-b08f64ed?mod=mw_rss_topstories)
 - **MarketWatch Top Stories** (Thu, 04 Jun 2026 16:46:00 GMT): High priority | [A war-weary Treasury market faces a fresh test with Friday’s jobs report](https://www.marketwatch.com/story/a-war-weary-treasury-market-faces-a-fresh-test-with-fridays-jobs-report-73789d8a?mod=mw_rss_topstories)
-- **Google News Markets** (Thu, 04 Jun 2026 16:25:00 GMT): High priority | [Ciena Stock Falls On Strong Earnings, Guidance After Huge 2026 Gain - Investor's Business Daily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVllQ1pnTEpQT0gwbWh5amxoc1lGaTdKX3hlTnlEczQ5MUtMR1A1ZHVDTzlvMDVBMEZwcmVaak41dEg1eWJJMGlDNmhhaHh3SDg3M1FsUmlTZU1UWjJfdDZUY01LRExyZm5Bbk9hMGtvMzQzN1I1NGJ6aGRMNlVUMWtzbl9yVHd1?oc=5)
-- **Google News Markets** (Thu, 04 Jun 2026 12:39:00 GMT): High priority | [CrowdStrike Falls On Earnings As Guidance Underwhelms Amid Big 2026 Gain - Investor's Business Daily](https://news.google.com/rss/articles/CBMinwFBVV95cUxQemF4dGlvbTRrVTRzQ3JvRXZXSEZUZkJxenNfS0lIU2RQTDMwbk9nWVZHcEFmSm1ibElsYnJET2ZiZUw1dHhuSG5pQ1RpSnVoVUpvTnlXbkVwbzBzZ0tRT3dpMlBBUkxUVlA4aTRYNFROS1NpQlN1ekhBT09WaU9WS0J0aTdNM1psbS14THBNUm5qZVNIcW5xYXFhWmV4LTQ?oc=5)
-- **Google News Markets** (Thu, 04 Jun 2026 12:18:21 GMT): High priority | [ADC Therapeutics Posts Downbeat Q1 Earnings, Joins Julong Holding And Other Big Stocks Moving Lower In Th - Benzinga](https://news.google.com/rss/articles/CBMilgJBVV95cUxQbmgtOHJjcXEwbFhpLWJKQmxzSmNMWUEySXNLY0NiUnVkMWtmZzVnQnpPZktYX1ZpVTl3bjB2UlZHaXlpZ19pWlVGdEpvZ0NuMUxZUEdUT08tQ0xuanF4QW5lRDQ4TnB1bzJTRk43T3dtdzdMaHlqM2M2dVQzaF9ESGhYWFpSZ1ZiczNzdkdnQUtLQ19NMEJ4MWc2UG9DZm04c1d1aDRTWEZ3dHB2cVF6Y1RCckxBeXNfTm53d1NWNFBiNi1YSG9pbHVBcjNDc3N2SHFYN1lfVllZMndvUjlvUUtVUFc5SDdwaFhRd0duamMzZHBpWDR1SkY2MDRtNTE1Z1ZWQW02bXJTZThncjVYMlEwRGZUQQ?oc=5)
-- **Google News Markets** (Thu, 04 Jun 2026 11:38:58 GMT): High priority | [Broadcom Q2 earnings miss drags Nasdaq futures lower - qz.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE9nVUZBejRlWVBQRzhGSXR2R3pFNC10R0I3RzBXRHJKMlBiRVRrUnNacl9rY2hOTHRqNzF4RkVLdVUtbVhLWDRBUXBuMUx4NEVvTGNYdU02QmtCbERYMDRYYkR0ZUpfcWRySE96M05ibGtpUUswaEh0Nw?oc=5)
-- **Google News Markets** (Thu, 04 Jun 2026 00:24:58 GMT): High priority | [Federal Reserve’s Logan: Monetary policy has not suppressed the economy - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWHFUUERfZHByNk53bThrZ2lfUDRUU0VWQVZXM3RIbmRtcDJzMTBITmhKc05Qc2ZHUFkxZVNySmg0T21nZi1QQmxKREpRRTZYZUdhTDktcHc2T2JHdmh0VHAxa9IBY0FVX3lxTE5VWHFUUERfZHByNk53bThrZ2lfUDRUU0VWQVZXM3RIbmRtcDJzMTBITmhKc05Qc2ZHUFkxZVNySmg0T21nZi1QQmxKREpRRTZYZUdhTDktcHc2T2JHdmh0VHAxaw?oc=5)
-- **Google News Markets** (Wed, 03 Jun 2026 20:31:03 GMT): High priority | [Broadcom stock falls despite Q2 earnings, guidance beat - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVpGOHNhUTBNVlRBNEJmZk1FZ0ZXUjR3ZWw1Uy00Y1dUanItVllhM3pXSXdUQ1o1SlRsZGNjbXBLQmduNjNQQ0RPQkNkZ1JQUVItU2lMZEZQSzZ3bnhEQTE3MTJvNzhyQm9oSExRT0R6Uzc4OFZTTERLV2x6a09IOHliSlFiaDVfU21qNk5SY1BxYXN4ZU1CRzZSekJPWVJ4bnBj?oc=5)
 - **Federal Reserve** (Tue, 2 Jun 2026 15:00:00 GMT): High priority | [Agencies remove additional references to reputation risk](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm)
+- **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:11:00 GMT): [Netflix investors are getting squeamish as Amazon makes inroads in the battle for streaming dominance](https://www.marketwatch.com/story/netflix-investors-are-getting-squeamish-as-amazon-makes-inroads-in-the-battle-for-streaming-dominance-c1c04278?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:54:00 GMT): [‘This is a tricky subject’: We’re in our 70s and our only child is 40. Do we reveal that we’re leaving her everything?](https://www.marketwatch.com/story/it-makes-us-feel-uncomfortable-were-in-our-70s-and-our-only-child-is-40-do-we-tell-her-were-leaving-her-everything-28421776?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:53:00 GMT): [Elon Musk’s Social Security audit was an embarrassment. The real fraud is political.](https://www.marketwatch.com/story/elon-musks-social-security-audit-was-an-embarrassment-the-real-fraud-is-political-c087b4b1?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:42:00 GMT): [Quantinuum’s stock pops after IPO as Wall Street buys into the quantum boom](https://www.marketwatch.com/story/quantinuums-stock-set-to-pop-after-ipo-as-wall-street-buys-into-the-quantum-boom-8f2e83b9?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:22:00 GMT): [I’m 73 and living 100% off dividends from my stocks. How can I create even more income?](https://www.marketwatch.com/story/im-73-and-living-100-off-dividends-from-my-stocks-how-can-i-create-even-more-income-74b372f1?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 04 Jun 2026 16:52:00 GMT): [Some singles now expect their dates to pay for their Ubers while gas prices are so high](https://www.marketwatch.com/story/high-gas-prices-are-limiting-how-far-singles-will-go-for-love-literally-53e760ad?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 04 Jun 2026 16:51:00 GMT): [Here’s how SpaceX is pitching its IPO to everyday investors](https://www.marketwatch.com/story/heres-how-spacex-is-pitching-its-ipo-to-everyday-investors-4aea097b?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 04 Jun 2026 16:49:00 GMT): [The job market is actually getting a boost from AI: Turns out human workers are cheaper](https://www.marketwatch.com/story/the-job-market-is-actually-getting-a-boost-from-ai-turns-out-human-workers-are-cheaper-35b03640?mod=mw_rss_topstories)
 
 ## 3. Economic Calendar
 
@@ -195,7 +214,7 @@ Source health:
 
 - NYSE calendar 2026-06-04: open
 - Network readiness: ok - connected to api.nasdaq.com:443
-- Nasdaq market movers: ok - Data as of Jun 4, 2026 2:15 PM ET
+- Yahoo Finance Most Active: ok - Yahoo Finance Most Active as of 2:26 PM ET
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
