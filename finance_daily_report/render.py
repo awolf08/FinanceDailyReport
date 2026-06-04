@@ -18,6 +18,8 @@ def render_markdown(data: ReportData, settings: Settings) -> str:
         "",
         f"_Generated: {generated_at}. Timezone: {settings.timezone}. Not financial advice._",
         "",
+        "[Baybell Home](https://www.baybell.com/)",
+        "",
         "## 1. Earnings",
         "",
     ]
@@ -81,6 +83,7 @@ def render_html(data: ReportData, settings: Settings) -> str:
         "h3{font-size:16px;margin:18px 0 8px;color:#334e68}",
         "h4{font-size:15px;margin:18px 0 8px;color:#243b53}",
         ".meta{color:#627d98;font-size:14px}",
+        ".home-link{display:inline-block;margin-top:10px;font-weight:700}",
         ".status{background:#fff;border-left:5px solid #1b4d89;padding:12px 14px;margin:12px 0;border-radius:6px}",
         "ul{margin:8px 0 18px;padding-left:20px}",
         "li{margin:7px 0}",
@@ -105,6 +108,7 @@ def render_html(data: ReportData, settings: Settings) -> str:
         "<header>",
         f"<h1>{escape(title)}</h1>",
         f'<div class="meta">Generated: {escape(generated_at)}. Timezone: {escape(settings.timezone)}. Not financial advice.</div>',
+        '<a class="home-link" href="https://www.baybell.com/">Baybell Home</a>',
         "</header>",
         "<h2>1. Earnings</h2>",
     ]
