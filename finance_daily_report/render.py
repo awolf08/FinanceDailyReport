@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import html
+from urllib.parse import quote
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
@@ -176,7 +177,7 @@ def append_earnings_html(parts: list[str], title: str, rows: list[dict[str, str]
         when = row.get("time", "")
         eps = row.get("epsForecast", "")
         quarter = row.get("fiscalQuarterEnding", "")
-        parts.append(f"<li><strong>{escape(symbol)}</strong> {escape(name)} | Time: {escape(when or 'N/A')} | EPS est: {escape(eps or 'N/A')} | Quarter: {escape(quarter or 'N/A')}</li>")
+        parts.append(f"<li>{symbol_link_html(symbol)} {escape(name)} | Time: {escape(when or 'N/A')} | EPS est: {escape(eps or 'N/A')} | Quarter: {escape(quarter or 'N/A')}</li>")
     parts.extend(["</ul>", "</div>"])
 
 
@@ -217,6 +218,24 @@ def format_number(value: str) -> str:
     except ValueError:
         return value
     return f"{number:,.0f}"
+
+
+def symbol_link_markdown(symbol: str) -> str:
+    clean_symbol = symbol.strip()
+    if not clean_symbol:
+        return "**N/A**"
+    return f"**[{clean_symbol}]({yahoo_finance_url(clean_symbol)})**"
+
+
+def symbol_link_html(symbol: str) -> str:
+    clean_symbol = symbol.strip()
+    if not clean_symbol:
+        return "<strong>N/A</strong>"
+    return f'<strong><a href="{escape_attr(yahoo_finance_url(clean_symbol))}">{escape(clean_symbol)}</a></strong>'
+
+
+def yahoo_finance_url(symbol: str) -> str:
+    return f"https://finance.yahoo.com/quote/{quote(symbol.strip(), safe='')}/"
 
 
 def get_active_section_title(data: ReportData) -> str:
@@ -285,7 +304,7 @@ def append_snapshot_markdown(lines: list[str], data: ReportData) -> None:
                     last = row.get("lastSalePrice", "")
                     change_value = row.get("lastSaleChange", "")
                     detail = format_stock_detail(section, row)
-                    lines.append(f"- **{symbol}** {name} | Last: {last} | Move: {change_value} | {detail}")
+                    lines.append(f"- {symbol_link_markdown(symbol)} {name} | Last: {last} | Move: {change_value} | {detail}")
                 lines.append("")
         else:
             lines.append("- Market movers source unavailable.")
@@ -322,7 +341,7 @@ def append_snapshot_html(parts: list[str], data: ReportData) -> None:
                     last = row.get("lastSalePrice", "")
                     change_value = row.get("lastSaleChange", "")
                     detail = format_stock_detail(section, row)
-                    parts.append(f"<li><strong>{escape(symbol)}</strong> {escape(name)} | Last: {escape(last)} | Move: {escape(change_value)} | {escape(detail)}</li>")
+                    parts.append(f"<li>{symbol_link_html(symbol)} {escape(name)} | Last: {escape(last)} | Move: {escape(change_value)} | {escape(detail)}</li>")
                 parts.append("</ul>")
         else:
             parts.append("<ul><li>Market movers source unavailable.</li></ul>")
@@ -451,7 +470,7 @@ def append_earnings_group(lines: list[str], title: str, rows: list[dict[str, str
         when = row.get("time", "")
         eps = row.get("epsForecast", "")
         quarter = row.get("fiscalQuarterEnding", "")
-        lines.append(f"- **{symbol}** {name} | Time: {when or 'N/A'} | EPS est: {eps or 'N/A'} | Quarter: {quarter or 'N/A'}")
+        lines.append(f"- {symbol_link_markdown(symbol)} {name} | Time: {when or 'N/A'} | EPS est: {eps or 'N/A'} | Quarter: {quarter or 'N/A'}")
     lines.append("")
 
 
