@@ -6,9 +6,20 @@ cd "$repo_root"
 
 timezone="${REPORT_TIMEZONE:-America/Los_Angeles}"
 report_date="${REPORT_DATE:-$(TZ="$timezone" date +%F)}"
-report_stem="reports/finance-daily-report-${report_date}"
+force_generate="${REPORT_FORCE_GENERATE:-false}"
+dry_run="${REPORT_DRY_RUN:-false}"
+if [ "$dry_run" = "true" ]; then
+  output_dir="${REPORT_OUTPUT_DIR:-$(mktemp -d)}"
+  echo "Dry run enabled. Writing generated report to ${output_dir}."
+else
+  output_dir="${REPORT_OUTPUT_DIR:-reports}"
+fi
+report_stem="${output_dir}/finance-daily-report-${report_date}"
 report_md="${report_stem}.md"
 report_html="${report_stem}.html"
+repo_report_stem="reports/finance-daily-report-${report_date}"
+repo_report_md="${repo_report_stem}.md"
+repo_report_html="${repo_report_stem}.html"
 reports_site_repo="${REPORTS_SITE_REPO:-https://github.com/awolf08/reports.git}"
 
 if [ "$(git branch --show-current)" != "main" ]; then
@@ -26,13 +37,17 @@ git fetch --prune origin
 git pull --rebase origin main
 
 report_exists_on_origin=false
-if git cat-file -e "origin/main:${report_md}" 2>/dev/null && git cat-file -e "origin/main:${report_html}" 2>/dev/null; then
+if git cat-file -e "origin/main:${repo_report_md}" 2>/dev/null && git cat-file -e "origin/main:${repo_report_html}" 2>/dev/null; then
   report_exists_on_origin=true
-  echo "Report for ${report_date} already exists on origin/main. Skipping local generation."
+  if [ "$force_generate" = "true" ]; then
+    echo "Report for ${report_date} already exists on origin/main. Force-generating for test."
+  else
+    echo "Report for ${report_date} already exists on origin/main. Skipping local generation."
+  fi
 fi
 
-if [ "$report_exists_on_origin" = "false" ]; then
-  python3 -m finance_daily_report --date "$report_date" --email-if-configured
+if [ "$report_exists_on_origin" = "false" ] || [ "$force_generate" = "true" ]; then
+  python3 -m finance_daily_report --date "$report_date" --email-if-configured --output-dir "$output_dir"
 
   if grep -Eq "Network readiness: unavailable|Failed to resolve|NameResolutionError" "$report_md"; then
     echo "Generated report still shows network/DNS failure; refusing to publish an empty report." >&2
@@ -44,6 +59,11 @@ if [ "$report_exists_on_origin" = "false" ]; then
     echo "Generated report is missing one or more core data sections; refusing to publish a partial/empty report." >&2
     echo "Likely fix: rerun after data sources are reachable, or inspect the Source Health section in ${report_md}." >&2
     exit 1
+  fi
+
+  if [ "$dry_run" = "true" ]; then
+    echo "Dry run passed quality checks. Skipping commit, push, and reports-site sync."
+    exit 0
   fi
 
   git add -f "$report_md" "$report_html"
