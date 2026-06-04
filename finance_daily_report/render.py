@@ -207,7 +207,11 @@ def format_market_status(data: ReportData) -> str:
 
 def format_stock_detail(section: str, row: dict[str, str]) -> str:
     change = row.get("change", "")
-    if section in {"Most Active", "Yahoo Finance Most Active", "After-Hours Most Active"}:
+    change_percent = row.get("changePercent", "")
+    if change_percent:
+        volume = f"Volume: {format_number(change)}" if change else "Volume: N/A"
+        return f"Change %: {change_percent} | {volume}"
+    if section in {"Most Active", "Most Active Stocks", "Most Active ETFs", "After-Hours Most Active"}:
         return f"Volume: {format_number(change)}" if change else "Volume: N/A"
     return f"Change %: {change or 'N/A'}"
 
@@ -420,8 +424,8 @@ def snapshot_note(snapshot: dict[str, object]) -> str:
     if phase == "premarket":
         return f"Nasdaq market movers captured during premarket hours.{suffix}"
     if phase == "regular":
-        if snapshot.get("active_stocks_source") == "yahoo_most_active":
-            return f"Yahoo Finance Most Active top regular-session stocks captured during the regular session.{suffix}"
+        if snapshot.get("active_stocks_source") in {"yahoo_most_active", "yahoo_regular_market_lists"}:
+            return f"Yahoo Finance regular-session market lists captured during the regular session.{suffix}"
         return f"Nasdaq market movers captured during the regular session.{suffix}"
     if phase == "after_hours":
         if snapshot.get("active_stocks_source") == "after_hours_article":
@@ -442,7 +446,10 @@ def compact_snapshot_health(snapshot: dict[str, object]) -> list[str]:
         "NYSE calendar",
         "Network readiness",
         "Nasdaq market movers",
-        "Yahoo Finance Most Active",
+        "Yahoo Finance Most Active Stocks",
+        "Yahoo Finance Most Active ETFs",
+        "Yahoo Finance Stock Gainers",
+        "Yahoo Finance Stock Losers",
         "Nasdaq after-hours article",
     )
     for note in notes:

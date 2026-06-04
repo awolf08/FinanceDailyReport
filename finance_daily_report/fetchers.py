@@ -98,8 +98,8 @@ def collect_report_data(report_date: date, settings: Settings) -> ReportData:
         data.notes.append(SourceNote("Nasdaq market movers", "skipped", data.market_status.get("reason", "Market closed")))
     else:
         if data.market_phase == "regular":
-            data.active_stocks, data.active_stocks_as_of = fetch_yahoo_most_active(10, data.notes)
-            data.active_stocks_source = "yahoo_most_active"
+            data.active_stocks, data.active_stocks_as_of = fetch_yahoo_regular_market_lists(10, data.notes)
+            data.active_stocks_source = "yahoo_regular_market_lists"
         else:
             data.active_stocks, data.active_stocks_as_of = fetch_market_movers(settings.stock_limit, data.notes)
         if data.market_phase == "after_hours":
@@ -243,17 +243,36 @@ def fetch_market_movers(limit: int, notes: list[SourceNote]) -> tuple[dict[str, 
     return result, as_of
 
 
-def fetch_yahoo_most_active(limit: int, notes: list[SourceNote]) -> tuple[dict[str, list[dict[str, str]]], str]:
+def fetch_yahoo_regular_market_lists(limit: int, notes: list[SourceNote]) -> tuple[dict[str, list[dict[str, str]]], str]:
+    screeners = (
+        ("most_actives", "Most Active Stocks", "Yahoo Finance Most Active Stocks"),
+        ("most_actives_etfs", "Most Active ETFs", "Yahoo Finance Most Active ETFs"),
+        ("day_gainers", "Top Gaining Stocks", "Yahoo Finance Stock Gainers"),
+        ("day_losers", "Top Declining Stocks", "Yahoo Finance Stock Losers"),
+    )
+    result: dict[str, list[dict[str, str]]] = {}
+    for scr_id, section_title, note_source in screeners:
+        rows = fetch_yahoo_screener_rows(scr_id, note_source, limit, notes)
+        if rows:
+            result[section_title] = rows
+
+    as_of = datetime.now(ZoneInfo("America/New_York")).strftime("Yahoo Finance market lists as of %-I:%M %p ET")
+    if result:
+        return result, as_of
+    return {}, ""
+
+
+def fetch_yahoo_screener_rows(scr_id: str, note_source: str, limit: int, notes: list[SourceNote]) -> list[dict[str, str]]:
     url = (
         "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved"
-        "?formatted=true&lang=en-US&region=US&scrIds=most_actives&count=25"
+        f"?formatted=true&lang=en-US&region=US&scrIds={scr_id}&count=40"
     )
     try:
         payload = fetch_json(url, headers={"User-Agent": NASDAQ_HEADERS["User-Agent"]})
         quotes = payload["finance"]["result"][0]["quotes"]
     except Exception as exc:
-        notes.append(SourceNote("Yahoo Finance Most Active", "unavailable", str(exc)))
-        return {}, ""
+        notes.append(SourceNote(note_source, "unavailable", str(exc)))
+        return []
 
     rows: list[dict[str, str]] = []
     for quote in quotes:
@@ -261,29 +280,28 @@ def fetch_yahoo_most_active(limit: int, notes: list[SourceNote]) -> tuple[dict[s
         if price is not None and price < 5:
             continue
 
-        symbol = clean(str(quote.get("symbol") or ""))
+        symbol = clean(str(quote.get("symbol") or quote.get("ticker") or ""))
         if not symbol:
             continue
 
         rows.append(
             {
                 "symbol": symbol,
-                "name": clean(str(quote.get("shortName") or quote.get("longName") or quote.get("displayName") or "")),
+                "name": clean(str(quote.get("shortName") or quote.get("longName") or quote.get("companyName") or quote.get("displayName") or "")),
                 "lastSalePrice": yahoo_money(quote.get("regularMarketPrice")),
                 "lastSaleChange": yahoo_signed(quote.get("regularMarketChange")),
+                "changePercent": yahoo_signed(quote.get("regularMarketChangePercent")),
                 "change": yahoo_long_format(quote.get("regularMarketVolume")),
             }
         )
         if len(rows) >= limit:
             break
 
-    if not rows:
-        notes.append(SourceNote("Yahoo Finance Most Active", "unavailable", "No rows at or above $5 returned"))
-        return {}, ""
-
-    as_of = datetime.now(ZoneInfo("America/New_York")).strftime("Yahoo Finance Most Active as of %-I:%M %p ET")
-    notes.append(SourceNote("Yahoo Finance Most Active", "ok", as_of))
-    return {"Yahoo Finance Most Active": rows}, as_of
+    if rows:
+        notes.append(SourceNote(note_source, "ok", f"{len(rows)} rows at or above $5"))
+    else:
+        notes.append(SourceNote(note_source, "unavailable", "No rows at or above $5 returned"))
+    return rows
 
 
 def fetch_after_hours_most_active(target_date: date, limit: int, notes: list[SourceNote]) -> tuple[list[dict[str, str]], str]:

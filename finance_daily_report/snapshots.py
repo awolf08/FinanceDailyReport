@@ -47,7 +47,7 @@ def update_snapshot_file(data: ReportData, settings: Settings, snapshot_path: Pa
 
     document["snapshots"] = snapshots
     snapshot_path.parent.mkdir(parents=True, exist_ok=True)
-    snapshot_path.write_text(json.dumps(document, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    snapshot_path.write_text(json.dumps(document, indent=2) + "\n", encoding="utf-8")
     return snapshots
 
 
