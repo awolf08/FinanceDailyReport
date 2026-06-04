@@ -1,12 +1,34 @@
 # Finance Daily Report - 2026-06-04
 
-_Generated: 2026-06-04 11:40:09 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-04 11:47:43 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 ## Market Status
 
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
-## 1. Intraday Active Stock Snapshots
+## 1. Earnings
+
+### Today after close (2026-06-04)
+- **[IOT](https://finance.yahoo.com/quote/IOT/)** Samsara Inc. | Time: time-after-hours | EPS est: ($0.02) | Quarter: Apr/2026
+- **[RBRK](https://finance.yahoo.com/quote/RBRK/)** Rubrik, Inc. | Time: time-after-hours | EPS est: ($0.44) | Quarter: Apr/2026
+- **[PL](https://finance.yahoo.com/quote/PL/)** Planet Labs PBC | Time: time-after-hours | EPS est: ($0.13) | Quarter: Apr/2026
+- **[LULU](https://finance.yahoo.com/quote/LULU/)** lululemon athletica inc. | Time: time-after-hours | EPS est: $1.67 | Quarter: Apr/2026
+- **[GWRE](https://finance.yahoo.com/quote/GWRE/)** Guidewire Software, Inc. | Time: time-after-hours | EPS est: $0.35 | Quarter: Apr/2026
+- **[COO](https://finance.yahoo.com/quote/COO/)** The Cooper Companies, Inc. | Time: time-after-hours | EPS est: $1.10 | Quarter: Apr/2026
+
+### Tomorrow before open (2026-06-05)
+- **[ABM](https://finance.yahoo.com/quote/ABM/)** ABM Industries Incorporated | Time: time-pre-market | EPS est: $0.92 | Quarter: Apr/2026
+- **[GIII](https://finance.yahoo.com/quote/GIII/)** G-III Apparel Group, LTD. | Time: time-pre-market | EPS est: ($0.30) | Quarter: Apr/2026
+- **[GASS](https://finance.yahoo.com/quote/GASS/)** StealthGas, Inc. | Time: time-pre-market | EPS est: N/A | Quarter: Mar/2026
+
+### Other scheduled earnings (2026-06-04 to 2026-06-05)
+- **[SBSW](https://finance.yahoo.com/quote/SBSW/)** Sibanye Stillwater Limited | Time: time-not-supplied | EPS est: N/A | Quarter: Mar/2026
+- **[HTT](https://finance.yahoo.com/quote/HTT/)** High Templar Tech Limited | Time: time-not-supplied | EPS est: N/A | Quarter: Mar/2026
+- **[GDEV](https://finance.yahoo.com/quote/GDEV/)** GDEV Inc. | Time: time-not-supplied | EPS est: $0.67 | Quarter: Mar/2026
+- **[ENLV](https://finance.yahoo.com/quote/ENLV/)** Enlivex Ltd. | Time: time-not-supplied | EPS est: ($0.02) | Quarter: Mar/2026
+- **[BHM](https://finance.yahoo.com/quote/BHM/)** Bluerock Homes Trust, Inc. | Time: time-not-supplied | EPS est: N/A | Quarter: Mar/2026
+
+## 2. Intraday Active Stock Snapshots
 
 ### 10:59 AM Regular Snapshot
 - Nasdaq market movers captured during the regular session. Latest source timestamp: Data as of Jun 4, 2026 1:57 PM ET.
@@ -15,23 +37,29 @@ _Generated: 2026-06-04 11:40:09 PDT. Timezone: America/Los_Angeles. Not financia
 - No rows at or above $5 returned.
 
 #### Gainers
-- **[STI](https://finance.yahoo.com/quote/STI/)** Solidion Technology, Inc. | Last: $20.0001 | Move: +14.9601 | Change %: +296.8274%
-- **[FOXX](https://finance.yahoo.com/quote/FOXX/)** Foxx Development Holdings Inc. | Last: $5.3 | Move: +2.44 | Change %: +85.3147%
-- **[SDOT](https://finance.yahoo.com/quote/SDOT/)** Sadot Group Inc. | Last: $11.39 | Move: +4.64 | Change %: +68.7407%
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[STI](https://finance.yahoo.com/quote/STI/)** | Solidion Technology, Inc. | $20.0001 | +14.9601 | +296.8274% |  |
+| **[FOXX](https://finance.yahoo.com/quote/FOXX/)** | Foxx Development Holdings Inc. | $5.3 | +2.44 | +85.3147% |  |
+| **[SDOT](https://finance.yahoo.com/quote/SDOT/)** | Sadot Group Inc. | $11.39 | +4.64 | +68.7407% |  |
 
 #### Most Active
-- **[SOXS](https://finance.yahoo.com/quote/SOXS/)** Direxion Daily Semiconductor Bear 3x Shares | Last: $5.1099 | Move: +0.1999 | Volume: 510,907,427
-- **[BITO](https://finance.yahoo.com/quote/BITO/)** ProShares Bitcoin ETF | Last: $8.6599 | Move: -0.2401 | Volume: 200,379,246
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Bear 3x Shares | $5.1099 | +0.1999 |  | 510,907,427 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.6599 | -0.2401 |  | 200,379,246 |
 
 #### Nasdaq 100 Movers
-- **[ADBE](https://finance.yahoo.com/quote/ADBE/)** Adobe Inc. Common Stock | Last: 260.05 | Move: +3.81 | Change %: +1.49%
-- **[AMD](https://finance.yahoo.com/quote/AMD/)** Advanced Micro Devices, Inc. Common Stock | Last: 528.21 | Move: -14.31 | Change %: -2.64%
-- **[ABNB](https://finance.yahoo.com/quote/ABNB/)** Airbnb, Inc. | Last: 135.57 | Move: +1.98 | Change %: +1.48%
-- **[ALNY](https://finance.yahoo.com/quote/ALNY/)** Alnylam Pharmaceuticals, Inc. | Last: 302.81 | Move: +10.23 | Change %: +3.50%
-- **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** Alphabet Inc. | Last: 372.45 | Move: +13.46 | Change %: +3.75%
-- **[GOOG](https://finance.yahoo.com/quote/GOOG/)** Alphabet Inc. Class C Capital Stock | Last: 369.34 | Move: +13.66 | Change %: +3.84%
-- **[AMZN](https://finance.yahoo.com/quote/AMZN/)** Amazon.com, Inc. Common Stock | Last: 253.78 | Move: +3.76 | Change %: +1.50%
-- **[AEP](https://finance.yahoo.com/quote/AEP/)** American Electric Power Company, Inc. | Last: 127.4 | Move: +1.09 | Change %: +0.86%
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 260.05 | +3.81 | +1.49% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 528.21 | -14.31 | -2.64% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. | 135.57 | +1.98 | +1.48% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. | 302.81 | +10.23 | +3.50% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. | 372.45 | +13.46 | +3.75% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 369.34 | +13.66 | +3.84% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 253.78 | +3.76 | +1.50% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. | 127.4 | +1.09 | +0.86% |  |
 
 Source health:
 - NYSE calendar 2026-06-04: open
@@ -45,24 +73,30 @@ Source health:
 - No rows at or above $5 returned.
 
 #### Gainers
-- **[STI](https://finance.yahoo.com/quote/STI/)** Solidion Technology, Inc. | Last: $20.43 | Move: +15.39 | Change %: +305.3571%
-- **[VERU](https://finance.yahoo.com/quote/VERU/)** Veru Inc. | Last: $5.1203 | Move: +2.8703 | Change %: +127.5689%
-- **[FOXX](https://finance.yahoo.com/quote/FOXX/)** Foxx Development Holdings Inc. | Last: $5.4099 | Move: +2.5499 | Change %: +89.1573%
-- **[SDOT](https://finance.yahoo.com/quote/SDOT/)** Sadot Group Inc. | Last: $11.329 | Move: +4.579 | Change %: +67.837%
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[STI](https://finance.yahoo.com/quote/STI/)** | Solidion Technology, Inc. | $20.43 | +15.39 | +305.3571% |  |
+| **[VERU](https://finance.yahoo.com/quote/VERU/)** | Veru Inc. | $5.1203 | +2.8703 | +127.5689% |  |
+| **[FOXX](https://finance.yahoo.com/quote/FOXX/)** | Foxx Development Holdings Inc. | $5.4099 | +2.5499 | +89.1573% |  |
+| **[SDOT](https://finance.yahoo.com/quote/SDOT/)** | Sadot Group Inc. | $11.329 | +4.579 | +67.837% |  |
 
 #### Most Active
-- **[SOXS](https://finance.yahoo.com/quote/SOXS/)** Direxion Daily Semiconductor Bear 3x Shares | Last: $5.0903 | Move: +0.1803 | Volume: 513,560,907
-- **[BITO](https://finance.yahoo.com/quote/BITO/)** ProShares Bitcoin ETF | Last: $8.645 | Move: -0.255 | Volume: 204,046,386
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Bear 3x Shares | $5.0903 | +0.1803 |  | 513,560,907 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.645 | -0.255 |  | 204,046,386 |
 
 #### Nasdaq 100 Movers
-- **[ADBE](https://finance.yahoo.com/quote/ADBE/)** Adobe Inc. Common Stock | Last: 260.055 | Move: +3.815 | Change %: +1.49%
-- **[AMD](https://finance.yahoo.com/quote/AMD/)** Advanced Micro Devices, Inc. Common Stock | Last: 528.8 | Move: -13.72 | Change %: -2.53%
-- **[ABNB](https://finance.yahoo.com/quote/ABNB/)** Airbnb, Inc. Class A Common Stock | Last: 135.55 | Move: +1.96 | Change %: +1.47%
-- **[ALNY](https://finance.yahoo.com/quote/ALNY/)** Alnylam Pharmaceuticals, Inc. | Last: 302.805 | Move: +10.225 | Change %: +3.49%
-- **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** Alphabet Inc. Class A Common Stock | Last: 372.49 | Move: +13.50 | Change %: +3.76%
-- **[GOOG](https://finance.yahoo.com/quote/GOOG/)** Alphabet Inc. Class C Capital Stock | Last: 369.27 | Move: +13.59 | Change %: +3.82%
-- **[AMZN](https://finance.yahoo.com/quote/AMZN/)** Amazon.com, Inc. Common Stock | Last: 253.76 | Move: +3.74 | Change %: +1.50%
-- **[AEP](https://finance.yahoo.com/quote/AEP/)** American Electric Power Company, Inc. | Last: 127.49 | Move: +1.18 | Change %: +0.93%
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 260.055 | +3.815 | +1.49% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 528.8 | -13.72 | -2.53% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 135.55 | +1.96 | +1.47% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. | 302.805 | +10.225 | +3.49% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 372.49 | +13.50 | +3.76% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 369.27 | +13.59 | +3.82% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 253.76 | +3.74 | +1.50% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. | 127.49 | +1.18 | +0.93% |  |
 
 Source health:
 - NYSE calendar 2026-06-04: open
@@ -76,23 +110,29 @@ Source health:
 - No rows at or above $5 returned.
 
 #### Gainers
-- **[STI](https://finance.yahoo.com/quote/STI/)** Solidion Technology, Inc. | Last: $20.0003 | Move: +14.9603 | Change %: +296.8313%
-- **[SDOT](https://finance.yahoo.com/quote/SDOT/)** Sadot Group Inc. | Last: $13.5 | Move: +6.75 | Change %: +100%
-- **[FOXX](https://finance.yahoo.com/quote/FOXX/)** Foxx Development Holdings Inc. | Last: $5.33 | Move: +2.47 | Change %: +86.3636%
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[STI](https://finance.yahoo.com/quote/STI/)** | Solidion Technology, Inc. | $20.0003 | +14.9603 | +296.8313% |  |
+| **[SDOT](https://finance.yahoo.com/quote/SDOT/)** | Sadot Group Inc. | $13.5 | +6.75 | +100% |  |
+| **[FOXX](https://finance.yahoo.com/quote/FOXX/)** | Foxx Development Holdings Inc. | $5.33 | +2.47 | +86.3636% |  |
 
 #### Most Active
-- **[SOXS](https://finance.yahoo.com/quote/SOXS/)** Direxion Daily Semiconductor Bear 3x Shares | Last: $5.02 | Move: +0.11 | Volume: 528,386,634
-- **[BITO](https://finance.yahoo.com/quote/BITO/)** ProShares Bitcoin ETF | Last: $8.5913 | Move: -0.3087 | Volume: 211,412,068
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Bear 3x Shares | $5.02 | +0.11 |  | 528,386,634 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.5913 | -0.3087 |  | 211,412,068 |
 
 #### Nasdaq 100 Movers
-- **[ADBE](https://finance.yahoo.com/quote/ADBE/)** Adobe Inc. | Last: 260.04 | Move: +3.80 | Change %: +1.48%
-- **[AMD](https://finance.yahoo.com/quote/AMD/)** Advanced Micro Devices, Inc. Common Stock | Last: 531.395 | Move: -11.125 | Change %: -2.05%
-- **[ABNB](https://finance.yahoo.com/quote/ABNB/)** Airbnb, Inc. | Last: 135.7298 | Move: +2.1398 | Change %: +1.60%
-- **[ALNY](https://finance.yahoo.com/quote/ALNY/)** Alnylam Pharmaceuticals, Inc. Common Stock | Last: 302.875 | Move: +10.295 | Change %: +3.52%
-- **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** Alphabet Inc. Class A Common Stock | Last: 372.22 | Move: +13.23 | Change %: +3.69%
-- **[GOOG](https://finance.yahoo.com/quote/GOOG/)** Alphabet Inc. Class C Capital Stock | Last: 368.9 | Move: +13.22 | Change %: +3.72%
-- **[AMZN](https://finance.yahoo.com/quote/AMZN/)** Amazon.com, Inc. Common Stock | Last: 253.92 | Move: +3.90 | Change %: +1.56%
-- **[AEP](https://finance.yahoo.com/quote/AEP/)** American Electric Power Company, Inc. | Last: 127.58 | Move: +1.27 | Change %: +1.01%
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. | 260.04 | +3.80 | +1.48% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 531.395 | -11.125 | -2.05% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. | 135.7298 | +2.1398 | +1.60% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 302.875 | +10.295 | +3.52% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 372.22 | +13.23 | +3.69% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 368.9 | +13.22 | +3.72% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 253.92 | +3.90 | +1.56% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. | 127.58 | +1.27 | +1.01% |  |
 
 Source health:
 - NYSE calendar 2026-06-04: open
@@ -103,16 +143,18 @@ Source health:
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance Most Active as of 2:26 PM ET.
 
 #### Yahoo Finance Most Active
-- **[NVDA](https://finance.yahoo.com/quote/NVDA/)** NVIDIA Corporation | Last: $220.29 | Move: +5.54 | Change %: 115,790,363
-- **[NOK](https://finance.yahoo.com/quote/NOK/)** Nokia Corporation Sponsored | Last: $16.49 | Move: -0.24 | Change %: 108,197,132
-- **[BB](https://finance.yahoo.com/quote/BB/)** BlackBerry Limited | Last: $10.77 | Move: +0.59 | Change %: 72,362,884
-- **[MRVL](https://finance.yahoo.com/quote/MRVL/)** Marvell Technology, Inc. | Last: $315.85 | Move: +14.20 | Change %: 66,687,670
-- **[AVGO](https://finance.yahoo.com/quote/AVGO/)** Broadcom Inc. | Last: $418.30 | Move: -60.93 | Change %: 62,228,224
-- **[RDW](https://finance.yahoo.com/quote/RDW/)** Redwire Corporation | Last: $21.99 | Move: +3.37 | Change %: 61,691,113
-- **[INTC](https://finance.yahoo.com/quote/INTC/)** Intel Corporation | Last: $112.21 | Move: -0.50 | Change %: 56,642,395
-- **[T](https://finance.yahoo.com/quote/T/)** AT&T Inc. | Last: $22.56 | Move: -0.99 | Change %: 50,362,977
-- **[ONDS](https://finance.yahoo.com/quote/ONDS/)** Ondas Inc | Last: $12.37 | Move: +0.76 | Change %: 49,359,425
-- **[AAL](https://finance.yahoo.com/quote/AAL/)** American Airlines Group, Inc. | Last: $13.31 | Move: -0.26 | Change %: 48,545,135
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $220.29 | +5.54 | 115,790,363 |  |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $16.49 | -0.24 | 108,197,132 |  |
+| **[BB](https://finance.yahoo.com/quote/BB/)** | BlackBerry Limited | $10.77 | +0.59 | 72,362,884 |  |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $315.85 | +14.20 | 66,687,670 |  |
+| **[AVGO](https://finance.yahoo.com/quote/AVGO/)** | Broadcom Inc. | $418.30 | -60.93 | 62,228,224 |  |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $21.99 | +3.37 | 61,691,113 |  |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $112.21 | -0.50 | 56,642,395 |  |
+| **[T](https://finance.yahoo.com/quote/T/)** | AT&T Inc. | $22.56 | -0.99 | 50,362,977 |  |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $12.37 | +0.76 | 49,359,425 |  |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $13.31 | -0.26 | 48,545,135 |  |
 
 Source health:
 - NYSE calendar 2026-06-04: open
@@ -122,52 +164,60 @@ Source health:
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:40 PM ET.
 
 #### Most Active Stocks
-- **[NVDA](https://finance.yahoo.com/quote/NVDA/)** NVIDIA Corporation | Last: $220.15 | Move: +5.40 | Change %: +2.51% | Volume: 120,302,489
-- **[NOK](https://finance.yahoo.com/quote/NOK/)** Nokia Corporation Sponsored | Last: $16.45 | Move: -0.27 | Change %: -1.64% | Volume: 109,206,514
-- **[BB](https://finance.yahoo.com/quote/BB/)** BlackBerry Limited | Last: $10.69 | Move: +0.51 | Change %: +5.00% | Volume: 73,874,619
-- **[MRVL](https://finance.yahoo.com/quote/MRVL/)** Marvell Technology, Inc. | Last: $314.38 | Move: +12.73 | Change %: +4.22% | Volume: 68,254,041
-- **[AVGO](https://finance.yahoo.com/quote/AVGO/)** Broadcom Inc. | Last: $418.36 | Move: -60.87 | Change %: -12.70% | Volume: 63,969,133
-- **[RDW](https://finance.yahoo.com/quote/RDW/)** Redwire Corporation | Last: $22.00 | Move: +3.38 | Change %: +18.18% | Volume: 62,706,736
-- **[INTC](https://finance.yahoo.com/quote/INTC/)** Intel Corporation | Last: $111.96 | Move: -0.75 | Change %: -0.67% | Volume: 58,167,331
-- **[AAL](https://finance.yahoo.com/quote/AAL/)** American Airlines Group, Inc. | Last: $13.31 | Move: -0.26 | Change %: -1.88% | Volume: 52,096,029
-- **[T](https://finance.yahoo.com/quote/T/)** AT&T Inc. | Last: $22.52 | Move: -1.03 | Change %: -4.37% | Volume: 52,545,606
-- **[ONDS](https://finance.yahoo.com/quote/ONDS/)** Ondas Inc | Last: $12.32 | Move: +0.71 | Change %: +6.12% | Volume: 51,920,433
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $220.15 | +5.40 | +2.51% | 120,302,489 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $16.45 | -0.27 | -1.64% | 109,206,514 |
+| **[BB](https://finance.yahoo.com/quote/BB/)** | BlackBerry Limited | $10.69 | +0.51 | +5.00% | 73,874,619 |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $314.38 | +12.73 | +4.22% | 68,254,041 |
+| **[AVGO](https://finance.yahoo.com/quote/AVGO/)** | Broadcom Inc. | $418.36 | -60.87 | -12.70% | 63,969,133 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $22.00 | +3.38 | +18.18% | 62,706,736 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $111.96 | -0.75 | -0.67% | 58,167,331 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $13.31 | -0.26 | -1.88% | 52,096,029 |
+| **[T](https://finance.yahoo.com/quote/T/)** | AT&T Inc. | $22.52 | -1.03 | -4.37% | 52,545,606 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $12.32 | +0.71 | +6.12% | 51,920,433 |
 
 #### Most Active ETFs
-- **[SOXS](https://finance.yahoo.com/quote/SOXS/)** Direxion Daily Semiconductor Be | Last: $5.14 | Move: +0.23 | Change %: +4.68% | Volume: 550,768,994
-- **[BITO](https://finance.yahoo.com/quote/BITO/)** ProShares Bitcoin ETF | Last: $8.70 | Move: -0.20 | Change %: -2.25% | Volume: 231,050,435
-- **[IBIT](https://finance.yahoo.com/quote/IBIT/)** iShares Bitcoin Trust ETF | Last: $36.18 | Move: -0.82 | Change %: -2.20% | Volume: 60,512,565
-- **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** ProShares UltraPro Short QQQ | Last: $37.45 | Move: +0.26 | Change %: +0.70% | Volume: 51,338,791
-- **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** ProShares UltraPro QQQ | Last: $85.99 | Move: -0.57 | Change %: -0.66% | Volume: 49,737,247
-- **[SOXL](https://finance.yahoo.com/quote/SOXL/)** Direxion Daily Semiconductor Bu | Last: $266.75 | Move: -13.79 | Change %: -4.91% | Volume: 48,108,302
-- **[DRAM](https://finance.yahoo.com/quote/DRAM/)** Roundhill Memory ETF | Last: $66.53 | Move: -3.18 | Change %: -4.57% | Volume: 41,429,112
-- **[XLF](https://finance.yahoo.com/quote/XLF/)** State Street Financial Select S | Last: $52.12 | Move: +1.25 | Change %: +2.45% | Volume: 40,135,485
-- **[PLTD](https://finance.yahoo.com/quote/PLTD/)** Direxion Daily PLTR Bear 1X ETF | Last: $7.41 | Move: +0.01 | Change %: +0.13% | Volume: 39,966,741
-- **[TSLL](https://finance.yahoo.com/quote/TSLL/)** Direxion Daily TSLA Bull 2X ETF | Last: $14.73 | Move: -0.28 | Change %: -1.83% | Volume: 38,751,516
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $5.14 | +0.23 | +4.68% | 550,768,994 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.70 | -0.20 | -2.25% | 231,050,435 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $36.18 | -0.82 | -2.20% | 60,512,565 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $37.45 | +0.26 | +0.70% | 51,338,791 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $85.99 | -0.57 | -0.66% | 49,737,247 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $266.75 | -13.79 | -4.91% | 48,108,302 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $66.53 | -3.18 | -4.57% | 41,429,112 |
+| **[XLF](https://finance.yahoo.com/quote/XLF/)** | State Street Financial Select S | $52.12 | +1.25 | +2.45% | 40,135,485 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $7.41 | +0.01 | +0.13% | 39,966,741 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $14.73 | -0.28 | -1.83% | 38,751,516 |
 
 #### Top Gaining Stocks
-- **[RDW](https://finance.yahoo.com/quote/RDW/)** Redwire Corporation | Last: $22.00 | Move: +3.38 | Change %: +18.18% | Volume: 62,706,736
-- **[CHRN](https://finance.yahoo.com/quote/CHRN/)** ChronoScale Corporation | Last: $22.38 | Move: +3.34 | Change %: +17.32% | Volume: 425,754
-- **[OSCR](https://finance.yahoo.com/quote/OSCR/)** Oscar Health, Inc. | Last: $23.64 | Move: +3.14 | Change %: +15.32% | Volume: 7,416,455
-- **[CAI](https://finance.yahoo.com/quote/CAI/)** Caris Life Sciences, Inc. | Last: $17.70 | Move: +2.22 | Change %: +14.34% | Volume: 1,922,323
-- **[LQDA](https://finance.yahoo.com/quote/LQDA/)** Liquidia Corporation | Last: $62.85 | Move: +7.16 | Change %: +12.85% | Volume: 3,281,765
-- **[INOD](https://finance.yahoo.com/quote/INOD/)** Innodata Inc. | Last: $121.85 | Move: +13.58 | Change %: +12.54% | Volume: 2,039,130
-- **[TEM](https://finance.yahoo.com/quote/TEM/)** Tempus AI, Inc. | Last: $53.06 | Move: +5.56 | Change %: +11.69% | Volume: 9,864,865
-- **[WOLF](https://finance.yahoo.com/quote/WOLF/)** Wolfspeed, Inc. | Last: $68.73 | Move: +7.06 | Change %: +11.45% | Volume: 5,880,273
-- **[ABVX](https://finance.yahoo.com/quote/ABVX/)** Abivax SA | Last: $100.79 | Move: +10.64 | Change %: +11.81% | Volume: 3,245,542
-- **[AAOI](https://finance.yahoo.com/quote/AAOI/)** Applied Optoelectronics, Inc. | Last: $203.71 | Move: +19.63 | Change %: +10.66% | Volume: 9,999,566
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $22.00 | +3.38 | +18.18% | 62,706,736 |
+| **[CHRN](https://finance.yahoo.com/quote/CHRN/)** | ChronoScale Corporation | $22.38 | +3.34 | +17.32% | 425,754 |
+| **[OSCR](https://finance.yahoo.com/quote/OSCR/)** | Oscar Health, Inc. | $23.64 | +3.14 | +15.32% | 7,416,455 |
+| **[CAI](https://finance.yahoo.com/quote/CAI/)** | Caris Life Sciences, Inc. | $17.70 | +2.22 | +14.34% | 1,922,323 |
+| **[LQDA](https://finance.yahoo.com/quote/LQDA/)** | Liquidia Corporation | $62.85 | +7.16 | +12.85% | 3,281,765 |
+| **[INOD](https://finance.yahoo.com/quote/INOD/)** | Innodata Inc. | $121.85 | +13.58 | +12.54% | 2,039,130 |
+| **[TEM](https://finance.yahoo.com/quote/TEM/)** | Tempus AI, Inc. | $53.06 | +5.56 | +11.69% | 9,864,865 |
+| **[WOLF](https://finance.yahoo.com/quote/WOLF/)** | Wolfspeed, Inc. | $68.73 | +7.06 | +11.45% | 5,880,273 |
+| **[ABVX](https://finance.yahoo.com/quote/ABVX/)** | Abivax SA | $100.79 | +10.64 | +11.81% | 3,245,542 |
+| **[AAOI](https://finance.yahoo.com/quote/AAOI/)** | Applied Optoelectronics, Inc. | $203.71 | +19.63 | +10.66% | 9,999,566 |
 
 #### Top Declining Stocks
-- **[PVH](https://finance.yahoo.com/quote/PVH/)** PVH Corp. | Last: $75.88 | Move: -22.12 | Change %: -22.58% | Volume: 3,891,176
-- **[NTSK](https://finance.yahoo.com/quote/NTSK/)** Netskope, Inc. | Last: $10.24 | Move: -2.15 | Change %: -17.38% | Volume: 10,605,294
-- **[CIEN](https://finance.yahoo.com/quote/CIEN/)** Ciena Corporation | Last: $531.17 | Move: -89.20 | Change %: -14.38% | Volume: 5,909,313
-- **[AVGO](https://finance.yahoo.com/quote/AVGO/)** Broadcom Inc. | Last: $418.35 | Move: -60.88 | Change %: -12.70% | Volume: 63,970,086
-- **[FIVE](https://finance.yahoo.com/quote/FIVE/)** Five Below, Inc. | Last: $195.20 | Move: -27.69 | Change %: -12.42% | Volume: 3,517,461
-- **[TAC](https://finance.yahoo.com/quote/TAC/)** TransAlta Corporation | Last: $12.74 | Move: -1.72 | Change %: -11.86% | Volume: 2,865,576
-- **[XE](https://finance.yahoo.com/quote/XE/)** X-Energy, Inc. | Last: $23.92 | Move: -2.35 | Change %: -8.94% | Volume: 5,604,667
-- **[LCII](https://finance.yahoo.com/quote/LCII/)** LCI Industries | Last: $97.39 | Move: -9.39 | Change %: -8.79% | Volume: 409,086
-- **[SKM](https://finance.yahoo.com/quote/SKM/)** SK Telecom Co., Ltd. | Last: $41.08 | Move: -3.96 | Change %: -8.78% | Volume: 3,621,875
-- **[THR](https://finance.yahoo.com/quote/THR/)** Thermon Group Holdings, Inc. | Last: $61.14 | Move: -5.67 | Change %: -8.49% | Volume: 2,869,759
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PVH](https://finance.yahoo.com/quote/PVH/)** | PVH Corp. | $75.88 | -22.12 | -22.58% | 3,891,176 |
+| **[NTSK](https://finance.yahoo.com/quote/NTSK/)** | Netskope, Inc. | $10.24 | -2.15 | -17.38% | 10,605,294 |
+| **[CIEN](https://finance.yahoo.com/quote/CIEN/)** | Ciena Corporation | $531.17 | -89.20 | -14.38% | 5,909,313 |
+| **[AVGO](https://finance.yahoo.com/quote/AVGO/)** | Broadcom Inc. | $418.35 | -60.88 | -12.70% | 63,970,086 |
+| **[FIVE](https://finance.yahoo.com/quote/FIVE/)** | Five Below, Inc. | $195.20 | -27.69 | -12.42% | 3,517,461 |
+| **[TAC](https://finance.yahoo.com/quote/TAC/)** | TransAlta Corporation | $12.74 | -1.72 | -11.86% | 2,865,576 |
+| **[XE](https://finance.yahoo.com/quote/XE/)** | X-Energy, Inc. | $23.92 | -2.35 | -8.94% | 5,604,667 |
+| **[LCII](https://finance.yahoo.com/quote/LCII/)** | LCI Industries | $97.39 | -9.39 | -8.79% | 409,086 |
+| **[SKM](https://finance.yahoo.com/quote/SKM/)** | SK Telecom Co., Ltd. | $41.08 | -3.96 | -8.78% | 3,621,875 |
+| **[THR](https://finance.yahoo.com/quote/THR/)** | Thermon Group Holdings, Inc. | $61.14 | -5.67 | -8.49% | 2,869,759 |
 
 Source health:
 - NYSE calendar 2026-06-04: open
@@ -177,7 +227,74 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
-## 2. Latest Market News
+### 11:47 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:47 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $220.67 | +5.92 | +2.76% | 122,580,210 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $16.50 | -0.23 | -1.39% | 109,819,939 |
+| **[BB](https://finance.yahoo.com/quote/BB/)** | BlackBerry Limited | $10.73 | +0.55 | +5.45% | 75,073,920 |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $316.07 | +14.42 | +4.78% | 69,123,117 |
+| **[AVGO](https://finance.yahoo.com/quote/AVGO/)** | Broadcom Inc. | $418.44 | -60.79 | -12.69% | 64,577,235 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $21.93 | +3.31 | +17.78% | 63,374,927 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $112.08 | -0.63 | -0.56% | 58,792,532 |
+| **[T](https://finance.yahoo.com/quote/T/)** | AT&T Inc. | $22.57 | -0.98 | -4.16% | 53,470,208 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $13.29 | -0.28 | -2.06% | 53,430,723 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $12.25 | +0.64 | +5.51% | 52,887,341 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $5.10 | +0.19 | +3.87% | 556,284,753 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.70 | -0.20 | -2.25% | 235,646,709 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $36.18 | -0.82 | -2.22% | 61,038,721 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $37.40 | +0.21 | +0.55% | 51,693,090 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $86.11 | -0.45 | -0.52% | 50,233,897 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $268.85 | -11.70 | -4.17% | 48,595,871 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $66.62 | -3.09 | -4.43% | 41,718,266 |
+| **[XLF](https://finance.yahoo.com/quote/XLF/)** | State Street Financial Select S | $52.12 | +1.25 | +2.45% | 40,932,596 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $7.43 | +0.03 | +0.41% | 40,537,549 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $14.70 | -0.31 | -2.07% | 38,967,423 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CHRN](https://finance.yahoo.com/quote/CHRN/)** | ChronoScale Corporation | $22.59 | +3.55 | +18.55% | 430,553 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $21.93 | +3.31 | +17.78% | 63,374,927 |
+| **[OSCR](https://finance.yahoo.com/quote/OSCR/)** | Oscar Health, Inc. | $23.66 | +3.16 | +15.41% | 7,483,366 |
+| **[CAI](https://finance.yahoo.com/quote/CAI/)** | Caris Life Sciences, Inc. | $17.67 | +2.19 | +14.15% | 1,945,984 |
+| **[LQDA](https://finance.yahoo.com/quote/LQDA/)** | Liquidia Corporation | $63.24 | +7.55 | +13.55% | 3,316,919 |
+| **[ABVX](https://finance.yahoo.com/quote/ABVX/)** | Abivax SA | $102.50 | +12.35 | +13.70% | 3,364,053 |
+| **[WOLF](https://finance.yahoo.com/quote/WOLF/)** | Wolfspeed, Inc. | $69.85 | +8.18 | +13.26% | 5,991,365 |
+| **[INOD](https://finance.yahoo.com/quote/INOD/)** | Innodata Inc. | $122.21 | +13.94 | +12.88% | 2,083,057 |
+| **[TEM](https://finance.yahoo.com/quote/TEM/)** | Tempus AI, Inc. | $53.13 | +5.62 | +11.83% | 10,134,514 |
+| **[AAOI](https://finance.yahoo.com/quote/AAOI/)** | Applied Optoelectronics, Inc. | $205.32 | +21.25 | +11.54% | 10,186,615 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PVH](https://finance.yahoo.com/quote/PVH/)** | PVH Corp. | $75.62 | -22.38 | -22.83% | 3,918,525 |
+| **[NTSK](https://finance.yahoo.com/quote/NTSK/)** | Netskope, Inc. | $10.36 | -2.03 | -16.41% | 10,868,066 |
+| **[CIEN](https://finance.yahoo.com/quote/CIEN/)** | Ciena Corporation | $530.98 | -89.39 | -14.41% | 5,962,902 |
+| **[FIVE](https://finance.yahoo.com/quote/FIVE/)** | Five Below, Inc. | $193.61 | -29.28 | -13.14% | 3,588,238 |
+| **[AVGO](https://finance.yahoo.com/quote/AVGO/)** | Broadcom Inc. | $418.48 | -60.75 | -12.68% | 64,577,476 |
+| **[TAC](https://finance.yahoo.com/quote/TAC/)** | TransAlta Corporation | $12.81 | -1.65 | -11.41% | 2,924,442 |
+| **[XE](https://finance.yahoo.com/quote/XE/)** | X-Energy, Inc. | $23.86 | -2.41 | -9.17% | 5,664,666 |
+| **[SKM](https://finance.yahoo.com/quote/SKM/)** | SK Telecom Co., Ltd. | $41.13 | -3.91 | -8.68% | 3,666,608 |
+| **[LCII](https://finance.yahoo.com/quote/LCII/)** | LCI Industries | $97.54 | -9.24 | -8.65% | 415,532 |
+| **[PONY](https://finance.yahoo.com/quote/PONY/)** | Pony AI Inc. | $9.48 | -0.89 | -8.53% | 3,869,464 |
+
+Source health:
+- NYSE calendar 2026-06-04: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
+## 3. Latest Market News
 
 - **Google News Markets** (Thu, 04 Jun 2026 15:21:07 GMT): High priority | [The International Monetary Fund expects the US Federal Reserve's 2% inflation target to be delayed until the end of 2027. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xaF9yQVRQdlJ0MXcwbXNzTWZpdnoyVmk3SFpQaXNtU1cyR1BYZzhXMGtzTm9BTHdNZzZXNGVnN1U5dldlaFNNREN4YTNpaGJVZkZ2YzByNDc0VldIVEtBZFZDc9IBY0FVX3lxTE0xaF9yQVRQdlJ0MXcwbXNzTWZpdnoyVmk3SFpQaXNtU1cyR1BYZzhXMGtzTm9BTHdNZzZXNGVnN1U5dldlaFNNREN4YTNpaGJVZkZ2YzByNDc0VldIVEtBZFZDcw?oc=5)
 - **Google News Markets** (Thu, 04 Jun 2026 00:24:59 GMT): High priority | [Lorie Logan, President of the Federal Reserve Bank of Dallas (2026 FOMC voting member): Inflation is taking too long to return to the 2% target. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE02LTBBbDZWQmRadDhqM19fQVpPRlFPU3czcVFKcVhheFJMaDBXVmREQThqQ3AxMkNVUG5rY0xnRlFYRWpXTElmMWltb1p5amtFZ3U4VmVWdjVsVnlxSnA1VEVLNNIBY0FVX3lxTE02LTBBbDZWQmRadDhqM19fQVpPRlFPU3czcVFKcVhheFJMaDBXVmREQThqQ3AxMkNVUG5rY0xnRlFYRWpXTElmMWltb1p5amtFZ3U4VmVWdjVsVnlxSnA1VEVLNA?oc=5)
@@ -192,7 +309,7 @@ Source health:
 - **Google News Markets** (Wed, 03 Jun 2026 20:31:03 GMT): High priority | [Broadcom stock falls despite Q2 earnings, guidance beat - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVpGOHNhUTBNVlRBNEJmZk1FZ0ZXUjR3ZWw1Uy00Y1dUanItVllhM3pXSXdUQ1o1SlRsZGNjbXBLQmduNjNQQ0RPQkNkZ1JQUVItU2lMZEZQSzZ3bnhEQTE3MTJvNzhyQm9oSExRT0R6Uzc4OFZTTERLV2x6a09IOHliSlFiaDVfU21qNk5SY1BxYXN4ZU1CRzZSekJPWVJ4bnBj?oc=5)
 - **Federal Reserve** (Tue, 2 Jun 2026 15:00:00 GMT): High priority | [Agencies remove additional references to reputation risk](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm)
 
-## 3. Economic Calendar
+## 4. Economic Calendar
 
 ### Today (2026-06-04)
 - **07:00** MBA 30-Year Mortgage Rate | Previous: 6.65% | Source: Nasdaq
@@ -246,28 +363,6 @@ Source health:
 - **13:10** FOMC Member Daly Speaks | Source: Nasdaq
 - **16:30** Fed's Balance Sheet | Previous: 6,704B | Source: Nasdaq
 - **16:30** Reserve Balances with Federal Reserve Banks | Previous: 3.067T | Source: Nasdaq
-
-## 4. After-hours Earnings
-
-### Today after close (2026-06-04)
-- **[IOT](https://finance.yahoo.com/quote/IOT/)** Samsara Inc. | Time: time-after-hours | EPS est: ($0.02) | Quarter: Apr/2026
-- **[RBRK](https://finance.yahoo.com/quote/RBRK/)** Rubrik, Inc. | Time: time-after-hours | EPS est: ($0.44) | Quarter: Apr/2026
-- **[PL](https://finance.yahoo.com/quote/PL/)** Planet Labs PBC | Time: time-after-hours | EPS est: ($0.13) | Quarter: Apr/2026
-- **[LULU](https://finance.yahoo.com/quote/LULU/)** lululemon athletica inc. | Time: time-after-hours | EPS est: $1.67 | Quarter: Apr/2026
-- **[GWRE](https://finance.yahoo.com/quote/GWRE/)** Guidewire Software, Inc. | Time: time-after-hours | EPS est: $0.35 | Quarter: Apr/2026
-- **[COO](https://finance.yahoo.com/quote/COO/)** The Cooper Companies, Inc. | Time: time-after-hours | EPS est: $1.10 | Quarter: Apr/2026
-
-### Tomorrow before open (2026-06-05)
-- **[ABM](https://finance.yahoo.com/quote/ABM/)** ABM Industries Incorporated | Time: time-pre-market | EPS est: $0.92 | Quarter: Apr/2026
-- **[GIII](https://finance.yahoo.com/quote/GIII/)** G-III Apparel Group, LTD. | Time: time-pre-market | EPS est: ($0.30) | Quarter: Apr/2026
-- **[GASS](https://finance.yahoo.com/quote/GASS/)** StealthGas, Inc. | Time: time-pre-market | EPS est: N/A | Quarter: Mar/2026
-
-### Other scheduled earnings (2026-06-04 to 2026-06-05)
-- **[SBSW](https://finance.yahoo.com/quote/SBSW/)** Sibanye Stillwater Limited | Time: time-not-supplied | EPS est: N/A | Quarter: Mar/2026
-- **[HTT](https://finance.yahoo.com/quote/HTT/)** High Templar Tech Limited | Time: time-not-supplied | EPS est: N/A | Quarter: Mar/2026
-- **[GDEV](https://finance.yahoo.com/quote/GDEV/)** GDEV Inc. | Time: time-not-supplied | EPS est: $0.67 | Quarter: Mar/2026
-- **[ENLV](https://finance.yahoo.com/quote/ENLV/)** Enlivex Ltd. | Time: time-not-supplied | EPS est: ($0.02) | Quarter: Mar/2026
-- **[BHM](https://finance.yahoo.com/quote/BHM/)** Bluerock Homes Trust, Inc. | Time: time-not-supplied | EPS est: N/A | Quarter: Mar/2026
 
 ## Source Health
 
