@@ -2,8 +2,7 @@ name: Generate Daily Report
 
 on:
   schedule:
-    - cron: "15 13 * * 1-5"
-    - cron: "47 13-20 * * 1-5"
+    - cron: "15 13,14,17,19 * * 1-5"
   workflow_dispatch:
     inputs:
       force:
@@ -39,11 +38,19 @@ jobs:
           report_html="reports/finance-daily-report-${report_date}.html"
           report_md="reports/finance-daily-report-${report_date}.md"
           report_json="reports/finance-daily-report-${report_date}.snapshots.json"
+          local_hour="$(TZ="$REPORT_TIMEZONE" date +%H)"
+          expected_slot=""
+          case "$local_hour" in
+            07) expected_slot="06:55" ;;
+            10) expected_slot="09:55" ;;
+            12) expected_slot="11:55" ;;
+          esac
 
           echo "report_date=${report_date}" >> "$GITHUB_OUTPUT"
           echo "report_html=${report_html}" >> "$GITHUB_OUTPUT"
           echo "report_md=${report_md}" >> "$GITHUB_OUTPUT"
           echo "report_json=${report_json}" >> "$GITHUB_OUTPUT"
+          echo "expected_slot=${expected_slot}" >> "$GITHUB_OUTPUT"
 
           if [ "$FORCE_RUN" = "true" ]; then
             echo "should_run=true" >> "$GITHUB_OUTPUT"
@@ -51,12 +58,29 @@ jobs:
             exit 0
           fi
 
-          if [ -f "$report_html" ] && [ -f "$report_md" ] && [ -f "$report_json" ]; then
+          if [ -f "$report_html" ] && [ -f "$report_md" ] && [ -f "$report_json" ] && [ -z "$expected_slot" ]; then
             echo "should_run=false" >> "$GITHUB_OUTPUT"
             echo "Report for ${report_date} already exists in the repo. Skipping generation."
+          elif [ -f "$report_html" ] && [ -f "$report_md" ] && [ -f "$report_json" ] && python - "$report_json" "$expected_slot" <<'PY'
+import json
+import sys
+
+path, expected_slot = sys.argv[1], sys.argv[2]
+with open(path, encoding="utf-8") as handle:
+    document = json.load(handle)
+slots = {snapshot.get("slot") for snapshot in document.get("snapshots", [])}
+raise SystemExit(0 if expected_slot in slots else 1)
+PY
+          then
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            echo "Snapshot ${expected_slot} for ${report_date} already exists. Skipping generation."
           else
             echo "should_run=true" >> "$GITHUB_OUTPUT"
-            echo "Report for ${report_date} is missing. Generating now."
+            if [ -n "$expected_slot" ]; then
+              echo "Snapshot ${expected_slot} for ${report_date} is missing. Generating backup snapshot now."
+            else
+              echo "Report for ${report_date} is missing. Generating now."
+            fi
           fi
 
       - name: Set up Python
