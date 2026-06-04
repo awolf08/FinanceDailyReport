@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-04
 
-_Generated: 2026-06-04 11:26:20 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-04 11:40:09 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 ## Market Status
 
@@ -100,38 +100,97 @@ Source health:
 - Nasdaq market movers: ok - Data as of Jun 4, 2026 2:15 PM ET
 
 ### 11:26 AM Regular Snapshot
-- Yahoo Finance Most Active top regular-session stocks captured during the regular session. Latest source timestamp: Yahoo Finance Most Active as of 2:26 PM ET.
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance Most Active as of 2:26 PM ET.
 
 #### Yahoo Finance Most Active
-- **[NVDA](https://finance.yahoo.com/quote/NVDA/)** NVIDIA Corporation | Last: $220.29 | Move: +5.54 | Volume: 115,790,363
-- **[NOK](https://finance.yahoo.com/quote/NOK/)** Nokia Corporation Sponsored | Last: $16.49 | Move: -0.24 | Volume: 108,197,132
-- **[BB](https://finance.yahoo.com/quote/BB/)** BlackBerry Limited | Last: $10.77 | Move: +0.59 | Volume: 72,362,884
-- **[MRVL](https://finance.yahoo.com/quote/MRVL/)** Marvell Technology, Inc. | Last: $315.85 | Move: +14.20 | Volume: 66,687,670
-- **[AVGO](https://finance.yahoo.com/quote/AVGO/)** Broadcom Inc. | Last: $418.30 | Move: -60.93 | Volume: 62,228,224
-- **[RDW](https://finance.yahoo.com/quote/RDW/)** Redwire Corporation | Last: $21.99 | Move: +3.37 | Volume: 61,691,113
-- **[INTC](https://finance.yahoo.com/quote/INTC/)** Intel Corporation | Last: $112.21 | Move: -0.50 | Volume: 56,642,395
-- **[T](https://finance.yahoo.com/quote/T/)** AT&T Inc. | Last: $22.56 | Move: -0.99 | Volume: 50,362,977
-- **[ONDS](https://finance.yahoo.com/quote/ONDS/)** Ondas Inc | Last: $12.37 | Move: +0.76 | Volume: 49,359,425
-- **[AAL](https://finance.yahoo.com/quote/AAL/)** American Airlines Group, Inc. | Last: $13.31 | Move: -0.26 | Volume: 48,545,135
+- **[NVDA](https://finance.yahoo.com/quote/NVDA/)** NVIDIA Corporation | Last: $220.29 | Move: +5.54 | Change %: 115,790,363
+- **[NOK](https://finance.yahoo.com/quote/NOK/)** Nokia Corporation Sponsored | Last: $16.49 | Move: -0.24 | Change %: 108,197,132
+- **[BB](https://finance.yahoo.com/quote/BB/)** BlackBerry Limited | Last: $10.77 | Move: +0.59 | Change %: 72,362,884
+- **[MRVL](https://finance.yahoo.com/quote/MRVL/)** Marvell Technology, Inc. | Last: $315.85 | Move: +14.20 | Change %: 66,687,670
+- **[AVGO](https://finance.yahoo.com/quote/AVGO/)** Broadcom Inc. | Last: $418.30 | Move: -60.93 | Change %: 62,228,224
+- **[RDW](https://finance.yahoo.com/quote/RDW/)** Redwire Corporation | Last: $21.99 | Move: +3.37 | Change %: 61,691,113
+- **[INTC](https://finance.yahoo.com/quote/INTC/)** Intel Corporation | Last: $112.21 | Move: -0.50 | Change %: 56,642,395
+- **[T](https://finance.yahoo.com/quote/T/)** AT&T Inc. | Last: $22.56 | Move: -0.99 | Change %: 50,362,977
+- **[ONDS](https://finance.yahoo.com/quote/ONDS/)** Ondas Inc | Last: $12.37 | Move: +0.76 | Change %: 49,359,425
+- **[AAL](https://finance.yahoo.com/quote/AAL/)** American Airlines Group, Inc. | Last: $13.31 | Move: -0.26 | Change %: 48,545,135
 
 Source health:
 - NYSE calendar 2026-06-04: open
 - Network readiness: ok - connected to api.nasdaq.com:443
-- Yahoo Finance Most Active: ok - Yahoo Finance Most Active as of 2:26 PM ET
+
+### 11:40 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:40 PM ET.
+
+#### Most Active Stocks
+- **[NVDA](https://finance.yahoo.com/quote/NVDA/)** NVIDIA Corporation | Last: $220.15 | Move: +5.40 | Change %: +2.51% | Volume: 120,302,489
+- **[NOK](https://finance.yahoo.com/quote/NOK/)** Nokia Corporation Sponsored | Last: $16.45 | Move: -0.27 | Change %: -1.64% | Volume: 109,206,514
+- **[BB](https://finance.yahoo.com/quote/BB/)** BlackBerry Limited | Last: $10.69 | Move: +0.51 | Change %: +5.00% | Volume: 73,874,619
+- **[MRVL](https://finance.yahoo.com/quote/MRVL/)** Marvell Technology, Inc. | Last: $314.38 | Move: +12.73 | Change %: +4.22% | Volume: 68,254,041
+- **[AVGO](https://finance.yahoo.com/quote/AVGO/)** Broadcom Inc. | Last: $418.36 | Move: -60.87 | Change %: -12.70% | Volume: 63,969,133
+- **[RDW](https://finance.yahoo.com/quote/RDW/)** Redwire Corporation | Last: $22.00 | Move: +3.38 | Change %: +18.18% | Volume: 62,706,736
+- **[INTC](https://finance.yahoo.com/quote/INTC/)** Intel Corporation | Last: $111.96 | Move: -0.75 | Change %: -0.67% | Volume: 58,167,331
+- **[AAL](https://finance.yahoo.com/quote/AAL/)** American Airlines Group, Inc. | Last: $13.31 | Move: -0.26 | Change %: -1.88% | Volume: 52,096,029
+- **[T](https://finance.yahoo.com/quote/T/)** AT&T Inc. | Last: $22.52 | Move: -1.03 | Change %: -4.37% | Volume: 52,545,606
+- **[ONDS](https://finance.yahoo.com/quote/ONDS/)** Ondas Inc | Last: $12.32 | Move: +0.71 | Change %: +6.12% | Volume: 51,920,433
+
+#### Most Active ETFs
+- **[SOXS](https://finance.yahoo.com/quote/SOXS/)** Direxion Daily Semiconductor Be | Last: $5.14 | Move: +0.23 | Change %: +4.68% | Volume: 550,768,994
+- **[BITO](https://finance.yahoo.com/quote/BITO/)** ProShares Bitcoin ETF | Last: $8.70 | Move: -0.20 | Change %: -2.25% | Volume: 231,050,435
+- **[IBIT](https://finance.yahoo.com/quote/IBIT/)** iShares Bitcoin Trust ETF | Last: $36.18 | Move: -0.82 | Change %: -2.20% | Volume: 60,512,565
+- **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** ProShares UltraPro Short QQQ | Last: $37.45 | Move: +0.26 | Change %: +0.70% | Volume: 51,338,791
+- **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** ProShares UltraPro QQQ | Last: $85.99 | Move: -0.57 | Change %: -0.66% | Volume: 49,737,247
+- **[SOXL](https://finance.yahoo.com/quote/SOXL/)** Direxion Daily Semiconductor Bu | Last: $266.75 | Move: -13.79 | Change %: -4.91% | Volume: 48,108,302
+- **[DRAM](https://finance.yahoo.com/quote/DRAM/)** Roundhill Memory ETF | Last: $66.53 | Move: -3.18 | Change %: -4.57% | Volume: 41,429,112
+- **[XLF](https://finance.yahoo.com/quote/XLF/)** State Street Financial Select S | Last: $52.12 | Move: +1.25 | Change %: +2.45% | Volume: 40,135,485
+- **[PLTD](https://finance.yahoo.com/quote/PLTD/)** Direxion Daily PLTR Bear 1X ETF | Last: $7.41 | Move: +0.01 | Change %: +0.13% | Volume: 39,966,741
+- **[TSLL](https://finance.yahoo.com/quote/TSLL/)** Direxion Daily TSLA Bull 2X ETF | Last: $14.73 | Move: -0.28 | Change %: -1.83% | Volume: 38,751,516
+
+#### Top Gaining Stocks
+- **[RDW](https://finance.yahoo.com/quote/RDW/)** Redwire Corporation | Last: $22.00 | Move: +3.38 | Change %: +18.18% | Volume: 62,706,736
+- **[CHRN](https://finance.yahoo.com/quote/CHRN/)** ChronoScale Corporation | Last: $22.38 | Move: +3.34 | Change %: +17.32% | Volume: 425,754
+- **[OSCR](https://finance.yahoo.com/quote/OSCR/)** Oscar Health, Inc. | Last: $23.64 | Move: +3.14 | Change %: +15.32% | Volume: 7,416,455
+- **[CAI](https://finance.yahoo.com/quote/CAI/)** Caris Life Sciences, Inc. | Last: $17.70 | Move: +2.22 | Change %: +14.34% | Volume: 1,922,323
+- **[LQDA](https://finance.yahoo.com/quote/LQDA/)** Liquidia Corporation | Last: $62.85 | Move: +7.16 | Change %: +12.85% | Volume: 3,281,765
+- **[INOD](https://finance.yahoo.com/quote/INOD/)** Innodata Inc. | Last: $121.85 | Move: +13.58 | Change %: +12.54% | Volume: 2,039,130
+- **[TEM](https://finance.yahoo.com/quote/TEM/)** Tempus AI, Inc. | Last: $53.06 | Move: +5.56 | Change %: +11.69% | Volume: 9,864,865
+- **[WOLF](https://finance.yahoo.com/quote/WOLF/)** Wolfspeed, Inc. | Last: $68.73 | Move: +7.06 | Change %: +11.45% | Volume: 5,880,273
+- **[ABVX](https://finance.yahoo.com/quote/ABVX/)** Abivax SA | Last: $100.79 | Move: +10.64 | Change %: +11.81% | Volume: 3,245,542
+- **[AAOI](https://finance.yahoo.com/quote/AAOI/)** Applied Optoelectronics, Inc. | Last: $203.71 | Move: +19.63 | Change %: +10.66% | Volume: 9,999,566
+
+#### Top Declining Stocks
+- **[PVH](https://finance.yahoo.com/quote/PVH/)** PVH Corp. | Last: $75.88 | Move: -22.12 | Change %: -22.58% | Volume: 3,891,176
+- **[NTSK](https://finance.yahoo.com/quote/NTSK/)** Netskope, Inc. | Last: $10.24 | Move: -2.15 | Change %: -17.38% | Volume: 10,605,294
+- **[CIEN](https://finance.yahoo.com/quote/CIEN/)** Ciena Corporation | Last: $531.17 | Move: -89.20 | Change %: -14.38% | Volume: 5,909,313
+- **[AVGO](https://finance.yahoo.com/quote/AVGO/)** Broadcom Inc. | Last: $418.35 | Move: -60.88 | Change %: -12.70% | Volume: 63,970,086
+- **[FIVE](https://finance.yahoo.com/quote/FIVE/)** Five Below, Inc. | Last: $195.20 | Move: -27.69 | Change %: -12.42% | Volume: 3,517,461
+- **[TAC](https://finance.yahoo.com/quote/TAC/)** TransAlta Corporation | Last: $12.74 | Move: -1.72 | Change %: -11.86% | Volume: 2,865,576
+- **[XE](https://finance.yahoo.com/quote/XE/)** X-Energy, Inc. | Last: $23.92 | Move: -2.35 | Change %: -8.94% | Volume: 5,604,667
+- **[LCII](https://finance.yahoo.com/quote/LCII/)** LCI Industries | Last: $97.39 | Move: -9.39 | Change %: -8.79% | Volume: 409,086
+- **[SKM](https://finance.yahoo.com/quote/SKM/)** SK Telecom Co., Ltd. | Last: $41.08 | Move: -3.96 | Change %: -8.78% | Volume: 3,621,875
+- **[THR](https://finance.yahoo.com/quote/THR/)** Thermon Group Holdings, Inc. | Last: $61.14 | Move: -5.67 | Change %: -8.49% | Volume: 2,869,759
+
+Source health:
+- NYSE calendar 2026-06-04: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
 ## 2. Latest Market News
 
+- **Google News Markets** (Thu, 04 Jun 2026 15:21:07 GMT): High priority | [The International Monetary Fund expects the US Federal Reserve's 2% inflation target to be delayed until the end of 2027. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xaF9yQVRQdlJ0MXcwbXNzTWZpdnoyVmk3SFpQaXNtU1cyR1BYZzhXMGtzTm9BTHdNZzZXNGVnN1U5dldlaFNNREN4YTNpaGJVZkZ2YzByNDc0VldIVEtBZFZDc9IBY0FVX3lxTE0xaF9yQVRQdlJ0MXcwbXNzTWZpdnoyVmk3SFpQaXNtU1cyR1BYZzhXMGtzTm9BTHdNZzZXNGVnN1U5dldlaFNNREN4YTNpaGJVZkZ2YzByNDc0VldIVEtBZFZDcw?oc=5)
+- **Google News Markets** (Thu, 04 Jun 2026 00:24:59 GMT): High priority | [Lorie Logan, President of the Federal Reserve Bank of Dallas (2026 FOMC voting member): Inflation is taking too long to return to the 2% target. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE02LTBBbDZWQmRadDhqM19fQVpPRlFPU3czcVFKcVhheFJMaDBXVmREQThqQ3AxMkNVUG5rY0xnRlFYRWpXTElmMWltb1p5amtFZ3U4VmVWdjVsVnlxSnA1VEVLNNIBY0FVX3lxTE02LTBBbDZWQmRadDhqM19fQVpPRlFPU3czcVFKcVhheFJMaDBXVmREQThqQ3AxMkNVUG5rY0xnRlFYRWpXTElmMWltb1p5amtFZ3U4VmVWdjVsVnlxSnA1VEVLNA?oc=5)
 - **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:32:00 GMT): High priority | [Micron flirts with record market-cap wipeout as Broadcom casts a shadow over chip stocks](https://www.marketwatch.com/story/micron-flirts-with-record-market-cap-wipeout-as-broadcom-casts-a-shadow-over-chip-stocks-b08f64ed?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 04 Jun 2026 16:46:00 GMT): High priority | [A war-weary Treasury market faces a fresh test with Friday’s jobs report](https://www.marketwatch.com/story/a-war-weary-treasury-market-faces-a-fresh-test-with-fridays-jobs-report-73789d8a?mod=mw_rss_topstories)
+- **Google News Markets** (Thu, 04 Jun 2026 18:15:43 GMT): High priority | [Dow Jones Industrial Average Today: DJIA Faces Headwinds from Tech Earnings and Middle East Risks - BBN Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxQSDJzaUtmcEN3LW04c21ScWFRNk1BbmNzWDlFUHdHelo1QkQzNGswMVQyTGduVG9PbVQzOElfU0dxRFBQYkZuODJUQ2U0dXhLX18xSW9hekdTZHNHMXRSVGhET3FVZFBFZG1QdEduYjM0Mkh6SG5HMFdCOEdHcnROU1FMV3Z6MF9GSDlrTEVLZkxrRE16cm45ZGxfYXU4TnFmSzVlZGNyb080THlMVV94VEJIdTJJb3FYMXZZcURDQ3YyY3A2YnJVUW5nWQ?oc=5)
+- **Google News Markets** (Thu, 04 Jun 2026 16:25:00 GMT): High priority | [Ciena Stock Falls On Strong Earnings, Guidance After Huge 2026 Gain - Investor's Business Daily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVllQ1pnTEpQT0gwbWh5amxoc1lGaTdKX3hlTnlEczQ5MUtMR1A1ZHVDTzlvMDVBMEZwcmVaak41dEg1eWJJMGlDNmhhaHh3SDg3M1FsUmlTZU1UWjJfdDZUY01LRExyZm5Bbk9hMGtvMzQzN1I1NGJ6aGRMNlVUMWtzbl9yVHd1?oc=5)
+- **Google News Markets** (Thu, 04 Jun 2026 14:26:15 GMT): High priority | [Nasdaq drops amid underwhelming Broadcom earnings, persistent Iran jitters By Investing.com - Investing.com Australia](https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFJ5Mk1vRHNFcmJGRW5nemJPWndaYXplbGFIUXpQUE5DR0VqMnY4emIyZVJZMzJZVGU5d3NwcURpZDVhc3VDUEdoU05MVHlHM1dqeFJnWjhPU2tKVjYxazRRb3dHTWM4ZUFtMGZuME1fR0RWZ2ZQRUlqdGoybWFKdTAzQkNqbFVOa09hMS1LUmVrQTE1ZjNCdFRjcUQzSmxHUmc4aGZGZnppMkl1Z1BSZ2x3ZWVOWng2MWEyblFFZS0xeDdzQmc?oc=5)
+- **Google News Markets** (Thu, 04 Jun 2026 12:39:00 GMT): High priority | [CrowdStrike Falls On Earnings As Guidance Underwhelms Amid Big 2026 Gain - Investor's Business Daily](https://news.google.com/rss/articles/CBMinwFBVV95cUxQemF4dGlvbTRrVTRzQ3JvRXZXSEZUZkJxenNfS0lIU2RQTDMwbk9nWVZHcEFmSm1ibElsYnJET2ZiZUw1dHhuSG5pQ1RpSnVoVUpvTnlXbkVwbzBzZ0tRT3dpMlBBUkxUVlA4aTRYNFROS1NpQlN1ekhBT09WaU9WS0J0aTdNM1psbS14THBNUm5qZVNIcW5xYXFhWmV4LTQ?oc=5)
+- **Google News Markets** (Thu, 04 Jun 2026 12:18:21 GMT): High priority | [ADC Therapeutics Posts Downbeat Q1 Earnings, Joins Julong Holding And Other Big Stocks Moving Lower In Th - Benzinga](https://news.google.com/rss/articles/CBMilgJBVV95cUxQbmgtOHJjcXEwbFhpLWJKQmxzSmNMWUEySXNLY0NiUnVkMWtmZzVnQnpPZktYX1ZpVTl3bjB2UlZHaXlpZ19pWlVGdEpvZ0NuMUxZUEdUT08tQ0xuanF4QW5lRDQ4TnB1bzJTRk43T3dtdzdMaHlqM2M2dVQzaF9ESGhYWFpSZ1ZiczNzdkdnQUtLQ19NMEJ4MWc2UG9DZm04c1d1aDRTWEZ3dHB2cVF6Y1RCckxBeXNfTm53d1NWNFBiNi1YSG9pbHVBcjNDc3N2SHFYN1lfVllZMndvUjlvUUtVUFc5SDdwaFhRd0duamMzZHBpWDR1SkY2MDRtNTE1Z1ZWQW02bXJTZThncjVYMlEwRGZUQQ?oc=5)
+- **Google News Markets** (Thu, 04 Jun 2026 11:38:58 GMT): High priority | [Broadcom Q2 earnings miss drags Nasdaq futures lower - qz.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE9nVUZBejRlWVBQRzhGSXR2R3pFNC10R0I3RzBXRHJKMlBiRVRrUnNacl9rY2hOTHRqNzF4RkVLdVUtbVhLWDRBUXBuMUx4NEVvTGNYdU02QmtCbERYMDRYYkR0ZUpfcWRySE96M05ibGtpUUswaEh0Nw?oc=5)
+- **Google News Markets** (Thu, 04 Jun 2026 00:24:58 GMT): High priority | [Federal Reserve’s Logan: Monetary policy has not suppressed the economy - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWHFUUERfZHByNk53bThrZ2lfUDRUU0VWQVZXM3RIbmRtcDJzMTBITmhKc05Qc2ZHUFkxZVNySmg0T21nZi1QQmxKREpRRTZYZUdhTDktcHc2T2JHdmh0VHAxa9IBY0FVX3lxTE5VWHFUUERfZHByNk53bThrZ2lfUDRUU0VWQVZXM3RIbmRtcDJzMTBITmhKc05Qc2ZHUFkxZVNySmg0T21nZi1QQmxKREpRRTZYZUdhTDktcHc2T2JHdmh0VHAxaw?oc=5)
+- **Google News Markets** (Wed, 03 Jun 2026 20:31:03 GMT): High priority | [Broadcom stock falls despite Q2 earnings, guidance beat - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVpGOHNhUTBNVlRBNEJmZk1FZ0ZXUjR3ZWw1Uy00Y1dUanItVllhM3pXSXdUQ1o1SlRsZGNjbXBLQmduNjNQQ0RPQkNkZ1JQUVItU2lMZEZQSzZ3bnhEQTE3MTJvNzhyQm9oSExRT0R6Uzc4OFZTTERLV2x6a09IOHliSlFiaDVfU21qNk5SY1BxYXN4ZU1CRzZSekJPWVJ4bnBj?oc=5)
 - **Federal Reserve** (Tue, 2 Jun 2026 15:00:00 GMT): High priority | [Agencies remove additional references to reputation risk](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm)
-- **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:11:00 GMT): [Netflix investors are getting squeamish as Amazon makes inroads in the battle for streaming dominance](https://www.marketwatch.com/story/netflix-investors-are-getting-squeamish-as-amazon-makes-inroads-in-the-battle-for-streaming-dominance-c1c04278?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:54:00 GMT): [‘This is a tricky subject’: We’re in our 70s and our only child is 40. Do we reveal that we’re leaving her everything?](https://www.marketwatch.com/story/it-makes-us-feel-uncomfortable-were-in-our-70s-and-our-only-child-is-40-do-we-tell-her-were-leaving-her-everything-28421776?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:53:00 GMT): [Elon Musk’s Social Security audit was an embarrassment. The real fraud is political.](https://www.marketwatch.com/story/elon-musks-social-security-audit-was-an-embarrassment-the-real-fraud-is-political-c087b4b1?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:42:00 GMT): [Quantinuum’s stock pops after IPO as Wall Street buys into the quantum boom](https://www.marketwatch.com/story/quantinuums-stock-set-to-pop-after-ipo-as-wall-street-buys-into-the-quantum-boom-8f2e83b9?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:22:00 GMT): [I’m 73 and living 100% off dividends from my stocks. How can I create even more income?](https://www.marketwatch.com/story/im-73-and-living-100-off-dividends-from-my-stocks-how-can-i-create-even-more-income-74b372f1?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 04 Jun 2026 16:52:00 GMT): [Some singles now expect their dates to pay for their Ubers while gas prices are so high](https://www.marketwatch.com/story/high-gas-prices-are-limiting-how-far-singles-will-go-for-love-literally-53e760ad?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 04 Jun 2026 16:51:00 GMT): [Here’s how SpaceX is pitching its IPO to everyday investors](https://www.marketwatch.com/story/heres-how-spacex-is-pitching-its-ipo-to-everyday-investors-4aea097b?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 04 Jun 2026 16:49:00 GMT): [The job market is actually getting a boost from AI: Turns out human workers are cheaper](https://www.marketwatch.com/story/the-job-market-is-actually-getting-a-boost-from-ai-turns-out-human-workers-are-cheaper-35b03640?mod=mw_rss_topstories)
 
 ## 3. Economic Calendar
 
@@ -214,7 +273,10 @@ Source health:
 
 - NYSE calendar 2026-06-04: open
 - Network readiness: ok - connected to api.nasdaq.com:443
-- Yahoo Finance Most Active: ok - Yahoo Finance Most Active as of 2:26 PM ET
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
