@@ -1,69 +1,67 @@
 # Finance Daily Report - 2026-06-03
 
-_Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-03 19:31:05 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 ## Market Status
 
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
-## 1. Regular Session Active Stocks
-
-- Premarket-only movers are no longer available after 9:30 AM ET. This section falls back to Nasdaq regular-session market movers. Latest source timestamp: Data as of Jun 3, 2026 10:29 AM ET.
+## 1. Market Movers
 
 ### Most Active
-- **SOXS** Direxion Daily Semiconductor Bear 3x Shares | Last: $4.9598 | Move: -0.2102 | Volume: 253,184,231
-- **PMI** Picard Medical, Inc. Common Stock | Last: $0.3379 | Move: +0.0679 | Volume: 172,356,550
-- **ZCMD** Zhongchao Inc. | Last: $0.0511 | Move: -0.0037 | Volume: 163,255,941
-- **HUBC** Hub Cyber Security Ltd. | Last: $0.632 | Move: +0.152 | Volume: 139,847,200
-- **LASE** Laser Photonics Corporation | Last: $4.0681 | Move: +1.6481 | Volume: 132,154,907
-- **WOK** WORK Medical Technology Group LTD | Last: $0.1196 | Move: +0.0156 | Volume: 120,607,274
-- **SELX** Semilux International Ltd. | Last: $0.4128 | Move: +0.1288 | Volume: 119,670,184
-- **NOK** Nokia Corporation | Last: $17.215 | Move: +0.365 | Volume: 65,274,392
+- **SOXS** Direxion Daily Semiconductor Bear 3x Shares | Last: $4.9 | Move: -0.27 | Volume: 564,793,552
+- **SBEV** Splash Beverage Group, Inc. | Last: $0.2527 | Move: +0.1112 | Volume: 484,453,646
+- **TZA** Direxion Small Cap Bear 3X Shares | Last: $4.44 | Move: +0.17 | Volume: 262,964,754
+- **ZCMD** Zhongchao Inc. | Last: $0.054 | Move: -0.0008 | Volume: 254,998,987
+- **BITO** ProShares Bitcoin ETF | Last: $8.9 | Move: -0.27 | Volume: 238,661,627
+- **PMI** Picard Medical, Inc. Common Stock | Last: $0.3057 | Move: +0.0357 | Volume: 232,844,662
+- **LASE** Laser Photonics Corporation | Last: $3.13 | Move: +0.71 | Volume: 224,268,541
+- **HUBC** Hub Cyber Security Ltd. | Last: $0.6496 | Move: +0.1696 | Volume: 209,459,193
 
 ### Gainers
-- **XOSWW** Xos, Inc. | Last: $0.015 | Move: +0.013 | Change %: +650%
-- **XOS** Xos, Inc. | Last: $6.5388 | Move: +4.3088 | Change %: +193.2197%
-- **WCT** Wellchange Holdings Company Limited | Last: $2.0799 | Move: +1.1599 | Change %: +126.0761%
-- **SDOT** Sadot Group Inc. | Last: $6.9035 | Move: +3.6235 | Change %: +110.4726%
-- **CUBWW** Lionheart Holdings | Last: $0.35 | Move: +0.1701 | Change %: +94.5525%
-- **HUBCW** Hub Cyber Security Ltd. | Last: $0.0641 | Move: +0.0311 | Change %: +94.2424%
-- **LASE** Laser Photonics Corporation | Last: $4.0681 | Move: +1.6481 | Change %: +68.1033%
-- **SELX** Semilux International Ltd. | Last: $0.4128 | Move: +0.1288 | Change %: +45.3521%
+- **XOSWW** Xos, Inc. | Last: $0.0148 | Move: +0.0128 | Change %: +640%
+- **XOS** Xos, Inc. | Last: $7.46 | Move: +5.23 | Change %: +234.5291%
+- **CUBWW** Lionheart Holdings | Last: $0.5474 | Move: +0.3675 | Change %: +204.2802%
+- **WCT** Wellchange Holdings Company Limited | Last: $2.57 | Move: +1.65 | Change %: +179.3478%
+- **SDOT** Sadot Group Inc. | Last: $6.75 | Move: +3.47 | Change %: +105.7927%
+- **HPAIW** Helport AI Limited | Last: $0.0406 | Move: +0.0195 | Change %: +92.4171%
+- **STAK** STAK Inc. Class A Ordinary Shares | Last: $3.61 | Move: +1.71 | Change %: +90%
+- **SBEV** Splash Beverage Group, Inc. | Last: $0.2527 | Move: +0.1112 | Change %: +78.5866%
 
 ### Decliners
-- **SNXX** Tradr 2X Long SNDK Daily ETF | Last: $29.4723 | Move: -196.2877 | Change %: -86.9453%
-- **NEBX** Tradr 2X Long NBIS Daily ETF | Last: $54.575 | Move: -114.075 | Change %: -67.6401%
-- **GEVX** Tradr 2X Long GEV Daily ETF | Last: $20.54 | Move: -40.46 | Change %: -66.3279%
-- **WDCX** Tradr 2X Long WDC Daily ETF | Last: $40.18 | Move: -70.08 | Change %: -63.5589%
-- **SPKLW** Spark I Acquisition Corp. | Last: $0.3 | Move: -0.4 | Change %: -57.1429%
-- **JZ** Jianzhi Education Technology Group Company Limited | Last: $0.385 | Move: -0.315 | Change %: -45%
-- **NOTV** Inotiv, Inc. | Last: $0.154 | Move: -0.106 | Change %: -40.7692%
-- **ESLAW** Estrella Immunopharma, Inc. | Last: $0.0809 | Move: -0.0491 | Change %: -37.7692%
+- **SNXX** Tradr 2X Long SNDK Daily ETF | Last: $32.07 | Move: -193.69 | Change %: -85.7946%
+- **RPGL** Republic Power Group Limited Class A Ordinary Shares | Last: $3.03 | Move: -8.23 | Change %: -73.0906%
+- **NEBX** Tradr 2X Long NBIS Daily ETF | Last: $52.6 | Move: -116.05 | Change %: -68.8111%
+- **GEVX** Tradr 2X Long GEV Daily ETF | Last: $19.86 | Move: -41.14 | Change %: -67.4426%
+- **WDCX** Tradr 2X Long WDC Daily ETF | Last: $40.72 | Move: -69.54 | Change %: -63.0691%
+- **NOTV** Inotiv, Inc. | Last: $0.1197 | Move: -0.1403 | Change %: -53.9615%
+- **SPKLW** Spark I Acquisition Corp. | Last: $0.359 | Move: -0.341 | Change %: -48.7143%
+- **WGSWW** GeneDx Holdings Corp. | Last: $0.0047 | Move: -0.0042 | Change %: -47.191%
 
 ### Nasdaq 100 Movers
-- **ADBE** Adobe Inc. Common Stock | Last: 255.06 | Move: -7.05 | Change %: -2.69%
-- **AMD** Advanced Micro Devices, Inc. Common Stock | Last: 533.38 | Move: +11.84 | Change %: +2.27%
-- **ABNB** Airbnb, Inc. Class A Common Stock | Last: 133.05 | Move: -1.30 | Change %: -0.97%
-- **ALNY** Alnylam Pharmaceuticals, Inc. Common Stock | Last: 288.01 | Move: +1.89 | Change %: +0.66%
-- **GOOGL** Alphabet Inc. Class A Common Stock | Last: 361.89 | Move: +0.04 | Change %: +0.01%
-- **GOOG** Alphabet Inc. Class C Capital Stock | Last: 357.92 | Move: -0.47 | Change %: -0.13%
-- **AMZN** Amazon.com, Inc. | Last: 254.73 | Move: -1.79 | Change %: -0.70%
-- **AEP** American Electric Power Company, Inc. Common Stock | Last: 128.585 | Move: +1.475 | Change %: +1.16%
+- **ADBE** Adobe Inc. Common Stock | Last: 256.2400 | Move: -5.8700 | Change %: -2.24%
+- **AMD** Advanced Micro Devices, Inc. | Last: 542.5200 | Move: +20.9800 | Change %: +4.02%
+- **ABNB** Airbnb, Inc. Class A Common Stock | Last: 133.5900 | Move: -0.7600 | Change %: -0.57%
+- **ALNY** Alnylam Pharmaceuticals, Inc. Common Stock | Last: 292.5800 | Move: +6.4600 | Change %: +2.26%
+- **GOOGL** Alphabet Inc. Class A Common Stock | Last: 358.9900 | Move: -2.8600 | Change %: -0.79%
+- **GOOG** Alphabet Inc. Class C Capital Stock | Last: 355.6800 | Move: -2.7100 | Change %: -0.76%
+- **AMZN** Amazon.com, Inc. Common Stock | Last: 250.0200 | Move: -6.5000 | Change %: -2.53%
+- **AEP** American Electric Power Company, Inc. Common Stock | Last: 126.3100 | Move: -0.8000 | Change %: -0.63%
 
 ## 2. Latest Market News
 
+- **Google News Markets** (Wed, 03 Jun 2026 23:04:55 GMT): High priority | [Options traders are focused on inflation issues, expecting the Federal Reserve's interest rate decisions to impact the market - WEEX](https://news.google.com/rss/articles/CBMijgJBVV95cUxNYmtIQ1BQVXhsN25CaTQ0eVdkc1RaVERKMFhGZS1laEdLckFabWN2b3V0RnZSM2VueHpmSnZmYVNqa09MeHAzQ0w3YnhOU0djdnM5RjVpSnJZZ1A2V0h5UFJjdFByWFJpYXl0NU9uOGxBQjMwb25DVnVJM2c0a0trVjNhR1BXYnFNZ2l2VzFwV3ZBeXUwMTF4bDhJQWVTMFc0TWs1QkVmazBhLS1KeEVOV3kyOTJITWRjX1NWNXp6SGRtWngxaFI5NjFZY29aNHdRVEgxQzhCYkNxUXdoaHRER25GTTJzYkZJVFB5MUJDUUtlOHIybFZKcjN6ZWllSGw1eWxBV29nWWNZRHZ2Y1E?oc=5)
+- **Google News Markets** (Wed, 03 Jun 2026 18:11:35 GMT): High priority | [The Federal Reserve's Beige Book shows that inflation levels remain higher than in the previous report. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNeU1TbDZwQ2JJcWF3MGxQNTh5SlRTcTdKMFhSSzV6UXdSVTZrRXNERzl3bmtyRjIzRjFza0JyZE9jS1pHYmY1aTlQWHNVcTRzUm0ySkxyZ1BIRTZXQzVfXzdySdIBY0FVX3lxTFBNeU1TbDZwQ2JJcWF3MGxQNTh5SlRTcTdKMFhSSzV6UXdSVTZrRXNERzl3bmtyRjIzRjFza0JyZE9jS1pHYmY1aTlQWHNVcTRzUm0ySkxyZ1BIRTZXQzVfXzdySQ?oc=5)
+- **Google News Markets** (Wed, 03 Jun 2026 15:10:30 GMT): High priority | [New York Federal Reserve President Williams (FOMC permanent voting member, known as the third highest-ranking official in the Fed): If the Strait of Hormuz reopens, U.S. inflation will peak in the next two months. - Bitget](https://news.google.com/rss/articles/CBMiakFVX3lxTE9icGxIcWZXME9PRHBBaG5sQmp4NTRHaTg3UWc3QWUzNnMtY0Zta3NzZjhsekxCeHAzYTVtQkV5Y0dDcTRuM3JObFZJZk1jMW5zbEtSMEhscmtZSkVzOWlnUXZUMnZIdktoTWfSAWpBVV95cUxPYnBsSHFmVzBPT0RwQWhubEJqeDU0R2k4N1FnN0FlMzZzLWNGbWtzc2Y4bHpMQnhwM2E1bUJFeWNHQ3E0bjNyTmxWSWZNYzFuc2xLUjBIbHJrWUpFczlpZ1F2VDJ2SHZLaE1n?oc=5)
 - **Google News Markets** (Wed, 03 Jun 2026 13:04:01 GMT): High priority | [Options traders focus on inflation concerns, expect Federal Reserve rate decision to impact the market - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE04SGFtazZ4dW42UGZlbk0yV3RCM25DZVdtYzA4Z2NOSEpHRlVXMGpEOGhMVnVBbTFJSThqTU9MRGRSanFKTXVBdE1sTFhEVExManJjS0t6dWZuSFVJRzdmalo5UdIBY0FVX3lxTE04SGFtazZ4dW42UGZlbk0yV3RCM25DZVdtYzA4Z2NOSEpHRlVXMGpEOGhMVnVBbTFJSThqTU9MRGRSanFKTXVBdE1sTFhEVExManJjS0t6dWZuSFVJRzdmalo5UQ?oc=5)
-- **Google News Markets** (Wed, 03 Jun 2026 08:37:52 GMT): High priority | [Buckle up! The Federal Reserve's May inflation forecast points to fireworks on Wall Street. - MSN](https://news.google.com/rss/articles/CBMirwNBVV95cUxQYVlfYnVLVTI4VTJoel9IZ2M4aUJHM2ZfNllYYWozdWlxZVYzNUxSZ2JvbVA5UUhMdHVZMmNJWEFxNmFyY2hNRmc3QUlKUEZhNlVWdVFueHd0bW03cGY0NHh4dUpUbGhJdS1NZFlXYURDVEtiVWJhcnF5VklnLUhCRGZZczAzb2RCYk5HMmNMdVdjQjFjcUpkNWJBY0oxSE5EcmNUcTFxdEJJUVl0RE0zTUVpYm1OV1c3eURrbDV0aWlzVEJvQ3hVYVdwc3dfd2piNG5kVDNpaUlSVGsxb0JGelpNaWJsOE9OVTktTWJjQkNodUdDVVV2cHNRX3ktaU91MUZpN1Q0NEtJd3cxM2FOMTRiQWY0QmRKN3gyTGxiUFlDYTNzdmt1Y2RMODhDb0NLVVB5NnJSdXI3Ti1pXzY3bnZpREVzLUpVd2FhYl9mOHdXSGxjdWw5WUFmSEpxeFRuZGJJUV9wRk1wWkU3SmQ2dC1xZ3VoZ2ZfYnRWdndTTGFIbHVtWEx2ZWJ0M09SdDFxbF8xM016bjRpZVluX1ltSTRBRUNCTVU4OFVvaUEtNA?oc=5)
+- **Google News Markets** (Wed, 03 Jun 2026 10:21:46 GMT): High priority | [Inflation is soaring, and the Federal Reserve could do something it hasn't done since 2023. Here's what it means for stocks. - MSN](https://news.google.com/rss/articles/CBMi2ANBVV95cUxNNHlkV3JGaHQwLTJOOUQ2Skw4eHNSSGZ3MkFhT2pUZks4TWUzR2t5WkUtaWZLRFRwempMTVRPSElYc0h5ZU5DU243ZXdTTlFTU0YzUUtWR2RKNGFoY19JY3JMdE1pNW1CVExUUUx0RFA3Q1ZwdkJGekQzYy1zaHdUWkg1MW9TT2UyZ2xQZzlsMkxrdjQ5ZVhsT3pMeE1zTlU2bTY0Wm9yWXdoSnZZbkhJdzlLbWlVbkZac2xYNVVxb3N6U1cwQWx2aWRLS0JGY1lmdVZJQXl5NEtpNDJMb0duUWk0UGJ1QzJpb3NCZ1M0dUdONzRXMjFVQzhJOU5LN21DWTQ2X2JnRjVaczBFaUhfcjl1VnFaX3R6TGFXMTBEcFVsNzZjSzd5ZWxkQy11SHZ5VkpHdzA5TlVVc0gzODVVTFVLcGNzUEdHa1czQlhvaEM0MDgweHhGRzh0cXFadm02NTRCVEZBbHdacnRkYnhzTXlUSGFESDhva3RReHhRUDdZVVZZR0o2c0M2UkFfajFRV2JvRzJKeEFaaW83MTJSa1E4amhqT2hUbW9KTFVLbWlaZGp1SXNzV0t3S0JrOUJGZ3pIVHVVS0psQThCajNmc2dWOHJOQTlG?oc=5)
 - **Google News Markets** (Wed, 03 Jun 2026 07:08:37 GMT): High priority | [Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors - AOL.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlZLaVJ4NUZ4aTdxTnZGUVl4cnI0YUNGakVnZTNrWEd6Vkc0ZFVfV0p0UUR5dFNsS3BIOEt0X2x4YmhBVWZzZWRyNmxHN0pKX25Cbzd0RFRuaklwa0taUzV2U3VVSEt0TERRbjJXMG5MYlhpMXBQakVxX0pIMVZPVm5HUTQ?oc=5)
-- **Google News Markets** (Wed, 03 Jun 2026 03:41:55 GMT): High priority | [Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. - AOL.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRjhPcGNXQmF2cGgtc0dQS2w3eExxMlZoR3lCWHU1am1vZjIxM21RaWswazQtVGhZZjYwM096Sk1YRFBsOHFxbGo5NjZkMzNDdU94bDVUX05PbE5uVlU3VjFTVTlJdnliTXBadWhDQXRaOVZmODRlSXIwQnJSaDBYcGlkTFp4X3VzdTI3SDZn?oc=5)
-- **Google News Markets** (Wed, 03 Jun 2026 12:24:51 GMT): High priority | [US Pre-Market: Three Major Indices Mixed, Oil Prices Rebound on Middle East Tensions, Broadcom Earnings Ahead - TradingKey](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOLTd3WnM5dEowRzRtOTkxWnN3eTlRM0xFMXppUlNlbEVPMVkyQkRwY0hrNDlSNXJIdDhjY2hTRDBaX3FUZGVRQXowcHI0N2hOU2FURHlEeVA1a1lRQk9TNzVaY19pcHl2NUdTVUV6aG9yT2NSbE1mLThQdHNKbmdUREV0TWl4NE41Z0lYQU1zaHE4YnJEMEZTX19WMkZWZHZwYWVHNnMyNjJqd2pGSlltTTFDUmp0UUtzaTYwUTBTRVQ1RWlXVXUtbEwtMTBkbmsySFNvQVZuN1o5bXNmbG1XQURRVElqbTI0dGRZNFZoVmRsby10UHRmMA?oc=5)
-- **Google News Markets** (Wed, 03 Jun 2026 12:07:00 GMT): High priority | [Dow Jones Futures Fall, Oil Prices Rise As Trump Sets New Hormuz Target Date; Palo Alto, Marvell Are Early Movers - Investor's Business Daily](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQam1qc2dzRThnUjB0cjJzekZjNHJWTktyRlUzanFNdlNJNmJ4NFZzcVB1ZDdaQ25TTjNGMi1KSkw2SGo4UnhmTkFDLVZMN3VqN1Uzb1I5XzJ5LXpRamd6R3dCNkdja1MxSWgzMmk3cHBMVFVRSWhXQWpET2lkT1VYOEgwYWJFMjlRcWFfVERlUXVacTh0UDBKS0cwOVJPaFdRQmh1OGwtTkIwX1hSdVVfU01ZUkNLaGhQUU1GTTJxOGhxUXIxcHdNTnhkMUFobndfWnc?oc=5)
-- **Google News Markets** (Wed, 03 Jun 2026 09:24:51 GMT): High priority | [3 Ways Kevin Warsh Aims to Reshape the Federal Reserve -- and They Can All Decimate Wall Street - AOL.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE1oZDgxWk5TOUxnMF9VUDBkNjlxRE9Rd0s0LWNXVHFHWDlVcTQ3M0p3MTVhRTR1VjRqTHZlem9hUTlvcmZVaW9La0ZrOTZZb1l5aHpFMFMxbFB4cktWcnJ0NjRIXzBWbFdSN21Xdk5oVGJpOEpL?oc=5)
-- **Google News Markets** (Tue, 02 Jun 2026 20:36:19 GMT): High priority | [Federal Reserve chair Warsh reportedly brings in two conservative advisers - Investing.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxNckgxWjZ6YU1wQ3VtMDRyblduanBCVm12UXYwRG9nNjF1SjdCYWpUMklPQW9LLWhVNkxnakdlNTZBWU1yRWZlOHE0eE1SbXM5cXZHU0duRk5SMHk4NFI5R3dma3dxWTFVaUhQUzJOZThjTVlaRUFGTnprbkRYa1BYdE9jQlVoOG1CLTIyaHNaOUpFcEtvdEx1akhHeHY5SWhBRTE1MlVVS3pTY3R6T3NFa1pvRUlfTkxuVndPWW5CZTVtN0lS?oc=5)
-- **Google News Markets** (Tue, 02 Jun 2026 16:01:29 GMT): High priority | [High-Impact Week Ahead: Nonfarm Payrolls, Fed Meeting and SpaceX IPO in Focus - Markets.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE9qYVdsaGdnOFhMbFFFdlVMM3BpOF80S0NIalJLMGtCb2ppZF9haDRtQ21Uc1psUUhyZ0NFOWxETWJ3UWowc1JBUko5OTBYOTIwZWw2eGMxVmtoVHhSY2NzRi1JVjYyTnpjallmM0RKUnpwbmQ4VzNj?oc=5)
-- **Federal Reserve** (Tue, 2 Jun 2026 15:00:00 GMT): High priority | [Agencies remove additional references to reputation risk](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm)
-- **MarketWatch Top Stories** (Wed, 03 Jun 2026 14:07:00 GMT): [Three reasons Palo Alto Networks’ stock is falling in the face of upbeat earnings](https://www.marketwatch.com/story/three-reasons-palo-alto-networks-stock-is-falling-in-the-face-of-upbeat-earnings-7ded9f15?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Wed, 03 Jun 2026 12:39:00 GMT): [A stark new warning about the global economy: Inflation is headed higher and growth lower](https://www.marketwatch.com/story/oecd-gives-a-stark-warning-while-lowering-2027-growth-forecasts-3f97394b?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 04 Jun 2026 02:16:00 GMT): High priority | [How single-stock turbulence presents ‘asymmetric’ downside risk for a rather calm S&P 500](https://www.marketwatch.com/story/how-single-stock-turbulence-presents-asymmetric-downside-risk-for-a-rather-calm-s-p-500-9748b2d8?mod=mw_rss_topstories)
+- **Google News Markets** (Thu, 04 Jun 2026 00:44:49 GMT): High priority | [Federal Reserve tells Congress it wants technology-neutral rules for tokenized securities and stablecoins - Crypto Briefing](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qcXlDbHQxNmxZTkk2ME1veHlMY1Y1d3VVWDdQNExaLW9yWVVBQjE0M3JFdmpUU3RTQWx2Y2hsSmJ2T2pOTTQ1UVdhQWZkeWhMSVlQOEJSemJoTzMtSE9yR19IbmhjNVZFanZnUDlpOEozS0JfZmhyTXlWTEx0MFk?oc=5)
+- **Google News Markets** (Thu, 04 Jun 2026 00:24:58 GMT): High priority | [Federal Reserve’s Logan: Monetary policy has not suppressed the economy - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWHFUUERfZHByNk53bThrZ2lfUDRUU0VWQVZXM3RIbmRtcDJzMTBITmhKc05Qc2ZHUFkxZVNySmg0T21nZi1QQmxKREpRRTZYZUdhTDktcHc2T2JHdmh0VHAxa9IBY0FVX3lxTE5VWHFUUERfZHByNk53bThrZ2lfUDRUU0VWQVZXM3RIbmRtcDJzMTBITmhKc05Qc2ZHUFkxZVNySmg0T21nZi1QQmxKREpRRTZYZUdhTDktcHc2T2JHdmh0VHAxaw?oc=5)
+- **Google News Markets** (Wed, 03 Jun 2026 21:10:00 GMT): High priority | [CrowdStrike Earnings, Guidance Edge By Views. Cybersecurity Firm Plans Stock Split. - Investor's Business Daily](https://news.google.com/rss/articles/CBMinwFBVV95cUxQemF4dGlvbTRrVTRzQ3JvRXZXSEZUZkJxenNfS0lIU2RQTDMwbk9nWVZHcEFmSm1ibElsYnJET2ZiZUw1dHhuSG5pQ1RpSnVoVUpvTnlXbkVwbzBzZ0tRT3dpMlBBUkxUVlA4aTRYNFROS1NpQlN1ekhBT09WaU9WS0J0aTdNM1psbS14THBNUm5qZVNIcW5xYXFhWmV4LTQ?oc=5)
+- **Google News Markets** (Wed, 03 Jun 2026 20:44:00 GMT): High priority | [Nasdaq, S&P 500 Snap Lengthy Win Streaks; NBIX, Guardant, Axsome In Focus - Video - IBD - Investor's Business Daily](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QMTlBbmZja0d0a2lrSURwaGNRY0MwOTh5NE1EaGZPVlFOQW5ZNTRWdzUyQ3RHNS1wM2Y0YlVFX3dJZTNaRUZyNF91ODk?oc=5)
+- **Google News Markets** (Wed, 03 Jun 2026 16:49:00 GMT): High priority | [Should You Invest in a Gold ETF Before the Next Federal Reserve Meeting on June 16? - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNW5naFh3aXVST3gyN1VFb2h1YlBtdEU0aWVOUlJqUHRnNVduSVBwU0NNSEN5VzhyY0JjaVFiWWdQUE13Z2tmMEdyVXpWVmJ4MTlDUWRkdHVGek0yYzFNQTc2N3BLQUVUY1JzbS1mX3EtQTgwQmc4TmFTb1dJcnc3RFN0bnJ4aGYxcEI2Sk40dk0zeTlGZk1GZg?oc=5)
 
 ## 3. Economic Calendar
 
@@ -87,6 +85,8 @@ _Timezone: America/Los_Angeles. Not financial advice._
 - **09:00** Fed Vice Chair for Supervision Barr Speaks | Source: Nasdaq
 - **09:45** S&P Global Composite PMI | Forecast: 51.7 | Previous: 51.7 | Source: Nasdaq
 - **09:45** S&P Global Services PMI | Forecast: 50.9 | Previous: 50.9 | Source: Nasdaq
+- **10:00** All Car Sales | Previous: 2.69M | Source: Nasdaq
+- **10:00** All Truck Sales | Previous: 13.32M | Source: Nasdaq
 - **10:00** Durables Excluding Defense | Forecast: 8.1% | Previous: -0.3% | Source: Nasdaq
 - **10:00** Durables Excluding Transport | Previous: 0.9% | Source: Nasdaq
 - **10:00** Factory Orders | Forecast: 4.6% | Previous: 1.8% | Source: Nasdaq
@@ -118,7 +118,7 @@ _Timezone: America/Los_Angeles. Not financial advice._
 - **FIVE** Five Below, Inc. | Time: time-after-hours | EPS est: $1.70 | Quarter: Apr/2026
 
 ### Tomorrow before open (2026-06-04)
-- **CIEN** Ciena Corporation | Time: time-pre-market | EPS est: $1.19 | Quarter: Apr/2026
+- **CIEN** Ciena Corporation | Time: time-pre-market | EPS est: $1.20 | Quarter: Apr/2026
 - **BF.A** Brown Forman Corporation | Time: time-pre-market | EPS est: N/A | Quarter: Apr/2026
 - **BF.B** Brown Forman Corporation | Time: time-pre-market | EPS est: $0.33 | Quarter: Apr/2026
 
@@ -131,7 +131,7 @@ _Timezone: America/Los_Angeles. Not financial advice._
 
 - NYSE calendar 2026-06-03: open
 - Network readiness: ok - connected to api.nasdaq.com:443
-- Nasdaq market movers: ok - Data as of Jun 3, 2026 10:29 AM ET
+- Nasdaq market movers: ok - Data as of Jun 3, 2026 10:31 PM ET
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
