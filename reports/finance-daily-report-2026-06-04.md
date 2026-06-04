@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-04
 
-_Generated: 2026-06-04 11:47:43 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-04 11:55:09 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 ## Market Status
 
@@ -285,6 +285,73 @@ Source health:
 | **[SKM](https://finance.yahoo.com/quote/SKM/)** | SK Telecom Co., Ltd. | $41.13 | -3.91 | -8.68% | 3,666,608 |
 | **[LCII](https://finance.yahoo.com/quote/LCII/)** | LCI Industries | $97.54 | -9.24 | -8.65% | 415,532 |
 | **[PONY](https://finance.yahoo.com/quote/PONY/)** | Pony AI Inc. | $9.48 | -0.89 | -8.53% | 3,869,464 |
+
+Source health:
+- NYSE calendar 2026-06-04: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
+### 11:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:55 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $220.66 | +5.91 | +2.75% | 123,669,809 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $16.49 | -0.24 | -1.46% | 110,425,887 |
+| **[BB](https://finance.yahoo.com/quote/BB/)** | BlackBerry Limited | $10.82 | +0.64 | +6.34% | 77,026,749 |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $317.42 | +15.77 | +5.23% | 69,833,387 |
+| **[AVGO](https://finance.yahoo.com/quote/AVGO/)** | Broadcom Inc. | $418.87 | -60.36 | -12.60% | 65,408,015 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $21.87 | +3.25 | +17.45% | 63,740,591 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $112.26 | -0.45 | -0.40% | 59,444,340 |
+| **[T](https://finance.yahoo.com/quote/T/)** | AT&T Inc. | $22.60 | -0.94 | -4.01% | 54,473,711 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $13.28 | -0.29 | -2.14% | 54,269,863 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $12.16 | +0.55 | +4.74% | 53,377,337 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $5.08 | +0.17 | +3.47% | 562,500,578 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.70 | -0.20 | -2.25% | 241,390,337 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $36.18 | -0.82 | -2.22% | 61,755,475 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $37.40 | +0.22 | +0.58% | 52,039,724 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $86.10 | -0.46 | -0.54% | 50,571,938 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $270.23 | -10.31 | -3.67% | 49,042,682 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $66.57 | -3.14 | -4.51% | 41,940,615 |
+| **[XLF](https://finance.yahoo.com/quote/XLF/)** | State Street Financial Select S | $52.12 | +1.26 | +2.47% | 41,336,444 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $7.42 | +0.02 | +0.27% | 41,221,084 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $14.69 | -0.32 | -2.17% | 39,262,291 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CHRN](https://finance.yahoo.com/quote/CHRN/)** | ChronoScale Corporation | $22.53 | +3.49 | +18.33% | 435,694 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $21.86 | +3.24 | +17.40% | 63,741,345 |
+| **[OSCR](https://finance.yahoo.com/quote/OSCR/)** | Oscar Health, Inc. | $23.73 | +3.23 | +15.76% | 7,621,223 |
+| **[CAI](https://finance.yahoo.com/quote/CAI/)** | Caris Life Sciences, Inc. | $17.73 | +2.25 | +14.53% | 1,970,099 |
+| **[ABVX](https://finance.yahoo.com/quote/ABVX/)** | Abivax SA | $102.43 | +12.28 | +13.62% | 3,477,458 |
+| **[LQDA](https://finance.yahoo.com/quote/LQDA/)** | Liquidia Corporation | $63.46 | +7.77 | +13.95% | 3,344,182 |
+| **[INOD](https://finance.yahoo.com/quote/INOD/)** | Innodata Inc. | $122.82 | +14.55 | +13.44% | 2,132,078 |
+| **[WOLF](https://finance.yahoo.com/quote/WOLF/)** | Wolfspeed, Inc. | $69.41 | +7.74 | +12.55% | 6,179,963 |
+| **[TEM](https://finance.yahoo.com/quote/TEM/)** | Tempus AI, Inc. | $53.52 | +6.01 | +12.65% | 10,388,731 |
+| **[AAOI](https://finance.yahoo.com/quote/AAOI/)** | Applied Optoelectronics, Inc. | $205.93 | +21.85 | +11.87% | 10,409,846 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PVH](https://finance.yahoo.com/quote/PVH/)** | PVH Corp. | $75.90 | -22.10 | -22.55% | 3,953,125 |
+| **[NTSK](https://finance.yahoo.com/quote/NTSK/)** | Netskope, Inc. | $10.26 | -2.14 | -17.26% | 10,973,093 |
+| **[CIEN](https://finance.yahoo.com/quote/CIEN/)** | Ciena Corporation | $528.31 | -92.06 | -14.84% | 6,027,499 |
+| **[FIVE](https://finance.yahoo.com/quote/FIVE/)** | Five Below, Inc. | $192.93 | -29.96 | -13.44% | 3,642,599 |
+| **[AVGO](https://finance.yahoo.com/quote/AVGO/)** | Broadcom Inc. | $418.83 | -60.40 | -12.60% | 65,408,805 |
+| **[TAC](https://finance.yahoo.com/quote/TAC/)** | TransAlta Corporation | $12.82 | -1.64 | -11.34% | 2,964,152 |
+| **[XE](https://finance.yahoo.com/quote/XE/)** | X-Energy, Inc. | $23.74 | -2.53 | -9.63% | 5,806,080 |
+| **[LCII](https://finance.yahoo.com/quote/LCII/)** | LCI Industries | $97.47 | -9.31 | -8.71% | 422,019 |
+| **[THR](https://finance.yahoo.com/quote/THR/)** | Thermon Group Holdings, Inc. | $61.14 | -5.67 | -8.49% | 2,869,759 |
+| **[SKM](https://finance.yahoo.com/quote/SKM/)** | SK Telecom Co., Ltd. | $41.18 | -3.86 | -8.57% | 3,701,633 |
 
 Source health:
 - NYSE calendar 2026-06-04: open
