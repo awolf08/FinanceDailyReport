@@ -1,10 +1,6 @@
 # Finance Daily Report - 2026-06-04
 
-_Generated: 2026-06-04 11:55:09 PDT. Timezone: America/Los_Angeles. Not financial advice._
-
-## Market Status
-
-- **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
+_Generated: 2026-06-04 12:15:36 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 ## 1. Earnings
 
@@ -28,7 +24,11 @@ _Generated: 2026-06-04 11:55:09 PDT. Timezone: America/Los_Angeles. Not financia
 - **[ENLV](https://finance.yahoo.com/quote/ENLV/)** Enlivex Ltd. | Time: time-not-supplied | EPS est: ($0.02) | Quarter: Mar/2026
 - **[BHM](https://finance.yahoo.com/quote/BHM/)** Bluerock Homes Trust, Inc. | Time: time-not-supplied | EPS est: N/A | Quarter: Mar/2026
 
-## 2. Intraday Active Stock Snapshots
+## 2. Market Status
+
+- **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
+
+## 3. Intraday Active Stock Snapshots
 
 ### 10:59 AM Regular Snapshot
 - Nasdaq market movers captured during the regular session. Latest source timestamp: Data as of Jun 4, 2026 1:57 PM ET.
@@ -361,22 +361,89 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
-## 3. Latest Market News
+### 12:15 PM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 3:15 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $220.82 | +6.07 | +2.83% | 128,855,596 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $16.45 | -0.27 | -1.64% | 112,304,712 |
+| **[BB](https://finance.yahoo.com/quote/BB/)** | BlackBerry Limited | $10.82 | +0.64 | +6.34% | 80,122,486 |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $314.83 | +13.18 | +4.37% | 71,716,681 |
+| **[AVGO](https://finance.yahoo.com/quote/AVGO/)** | Broadcom Inc. | $415.08 | -64.15 | -13.39% | 67,499,086 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $22.05 | +3.43 | +18.42% | 65,084,335 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $112.10 | -0.61 | -0.54% | 61,600,854 |
+| **[T](https://finance.yahoo.com/quote/T/)** | AT&T Inc. | $22.66 | -0.89 | -3.78% | 57,239,962 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $13.23 | -0.34 | -2.54% | 57,171,327 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $12.16 | +0.56 | +4.78% | 55,302,335 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $5.16 | +0.25 | +4.99% | 578,768,676 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.69 | -0.20 | -2.30% | 247,912,480 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $36.17 | -0.83 | -2.26% | 63,234,073 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $37.52 | +0.33 | +0.89% | 53,453,862 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $85.79 | -0.77 | -0.89% | 52,116,270 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $265.65 | -14.89 | -5.31% | 50,553,673 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $7.39 | -0.01 | -0.13% | 43,587,041 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $66.13 | -3.58 | -5.13% | 42,839,959 |
+| **[XLF](https://finance.yahoo.com/quote/XLF/)** | State Street Financial Select S | $52.17 | +1.30 | +2.55% | 42,895,167 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $14.77 | -0.24 | -1.60% | 40,260,979 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CHRN](https://finance.yahoo.com/quote/CHRN/)** | ChronoScale Corporation | $22.70 | +3.66 | +19.25% | 480,835 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $22.05 | +3.43 | +18.42% | 65,084,335 |
+| **[ABVX](https://finance.yahoo.com/quote/ABVX/)** | Abivax SA | $105.15 | +15.00 | +16.64% | 3,914,931 |
+| **[OSCR](https://finance.yahoo.com/quote/OSCR/)** | Oscar Health, Inc. | $23.82 | +3.32 | +16.20% | 7,921,056 |
+| **[CAI](https://finance.yahoo.com/quote/CAI/)** | Caris Life Sciences, Inc. | $17.80 | +2.32 | +14.99% | 2,172,688 |
+| **[INOD](https://finance.yahoo.com/quote/INOD/)** | Innodata Inc. | $123.19 | +14.92 | +13.78% | 2,331,404 |
+| **[LQDA](https://finance.yahoo.com/quote/LQDA/)** | Liquidia Corporation | $63.11 | +7.42 | +13.32% | 3,482,450 |
+| **[TEM](https://finance.yahoo.com/quote/TEM/)** | Tempus AI, Inc. | $53.59 | +6.08 | +12.80% | 10,896,410 |
+| **[WOLF](https://finance.yahoo.com/quote/WOLF/)** | Wolfspeed, Inc. | $69.36 | +7.69 | +12.48% | 6,406,101 |
+| **[AAOI](https://finance.yahoo.com/quote/AAOI/)** | Applied Optoelectronics, Inc. | $205.66 | +21.59 | +11.73% | 11,045,697 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PVH](https://finance.yahoo.com/quote/PVH/)** | PVH Corp. | $76.11 | -21.89 | -22.34% | 4,063,902 |
+| **[NTSK](https://finance.yahoo.com/quote/NTSK/)** | Netskope, Inc. | $10.31 | -2.09 | -16.90% | 11,318,437 |
+| **[CIEN](https://finance.yahoo.com/quote/CIEN/)** | Ciena Corporation | $531.16 | -89.21 | -14.38% | 6,247,494 |
+| **[FIVE](https://finance.yahoo.com/quote/FIVE/)** | Five Below, Inc. | $193.86 | -29.03 | -13.03% | 3,906,679 |
+| **[AVGO](https://finance.yahoo.com/quote/AVGO/)** | Broadcom Inc. | $415.08 | -64.15 | -13.39% | 67,499,086 |
+| **[TAC](https://finance.yahoo.com/quote/TAC/)** | TransAlta Corporation | $12.85 | -1.61 | -11.10% | 3,068,099 |
+| **[XE](https://finance.yahoo.com/quote/XE/)** | X-Energy, Inc. | $23.70 | -2.57 | -9.76% | 6,011,317 |
+| **[SKM](https://finance.yahoo.com/quote/SKM/)** | SK Telecom Co., Ltd. | $41.14 | -3.90 | -8.66% | 3,787,491 |
+| **[THR](https://finance.yahoo.com/quote/THR/)** | Thermon Group Holdings, Inc. | $61.14 | -5.67 | -8.49% | 2,869,759 |
+| **[LCII](https://finance.yahoo.com/quote/LCII/)** | LCI Industries | $97.65 | -9.12 | -8.55% | 449,652 |
+
+Source health:
+- NYSE calendar 2026-06-04: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
+## 4. Latest Market News
 
 - **Google News Markets** (Thu, 04 Jun 2026 15:21:07 GMT): High priority | [The International Monetary Fund expects the US Federal Reserve's 2% inflation target to be delayed until the end of 2027. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xaF9yQVRQdlJ0MXcwbXNzTWZpdnoyVmk3SFpQaXNtU1cyR1BYZzhXMGtzTm9BTHdNZzZXNGVnN1U5dldlaFNNREN4YTNpaGJVZkZ2YzByNDc0VldIVEtBZFZDc9IBY0FVX3lxTE0xaF9yQVRQdlJ0MXcwbXNzTWZpdnoyVmk3SFpQaXNtU1cyR1BYZzhXMGtzTm9BTHdNZzZXNGVnN1U5dldlaFNNREN4YTNpaGJVZkZ2YzByNDc0VldIVEtBZFZDcw?oc=5)
 - **Google News Markets** (Thu, 04 Jun 2026 00:24:59 GMT): High priority | [Lorie Logan, President of the Federal Reserve Bank of Dallas (2026 FOMC voting member): Inflation is taking too long to return to the 2% target. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE02LTBBbDZWQmRadDhqM19fQVpPRlFPU3czcVFKcVhheFJMaDBXVmREQThqQ3AxMkNVUG5rY0xnRlFYRWpXTElmMWltb1p5amtFZ3U4VmVWdjVsVnlxSnA1VEVLNNIBY0FVX3lxTE02LTBBbDZWQmRadDhqM19fQVpPRlFPU3czcVFKcVhheFJMaDBXVmREQThqQ3AxMkNVUG5rY0xnRlFYRWpXTElmMWltb1p5amtFZ3U4VmVWdjVsVnlxSnA1VEVLNA?oc=5)
 - **MarketWatch Top Stories** (Thu, 04 Jun 2026 17:32:00 GMT): High priority | [Micron flirts with record market-cap wipeout as Broadcom casts a shadow over chip stocks](https://www.marketwatch.com/story/micron-flirts-with-record-market-cap-wipeout-as-broadcom-casts-a-shadow-over-chip-stocks-b08f64ed?mod=mw_rss_topstories)
 - **Google News Markets** (Thu, 04 Jun 2026 18:15:43 GMT): High priority | [Dow Jones Industrial Average Today: DJIA Faces Headwinds from Tech Earnings and Middle East Risks - BBN Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxQSDJzaUtmcEN3LW04c21ScWFRNk1BbmNzWDlFUHdHelo1QkQzNGswMVQyTGduVG9PbVQzOElfU0dxRFBQYkZuODJUQ2U0dXhLX18xSW9hekdTZHNHMXRSVGhET3FVZFBFZG1QdEduYjM0Mkh6SG5HMFdCOEdHcnROU1FMV3Z6MF9GSDlrTEVLZkxrRE16cm45ZGxfYXU4TnFmSzVlZGNyb080THlMVV94VEJIdTJJb3FYMXZZcURDQ3YyY3A2YnJVUW5nWQ?oc=5)
 - **Google News Markets** (Thu, 04 Jun 2026 16:25:00 GMT): High priority | [Ciena Stock Falls On Strong Earnings, Guidance After Huge 2026 Gain - Investor's Business Daily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVllQ1pnTEpQT0gwbWh5amxoc1lGaTdKX3hlTnlEczQ5MUtMR1A1ZHVDTzlvMDVBMEZwcmVaak41dEg1eWJJMGlDNmhhaHh3SDg3M1FsUmlTZU1UWjJfdDZUY01LRExyZm5Bbk9hMGtvMzQzN1I1NGJ6aGRMNlVUMWtzbl9yVHd1?oc=5)
-- **Google News Markets** (Thu, 04 Jun 2026 14:26:15 GMT): High priority | [Nasdaq drops amid underwhelming Broadcom earnings, persistent Iran jitters By Investing.com - Investing.com Australia](https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFJ5Mk1vRHNFcmJGRW5nemJPWndaYXplbGFIUXpQUE5DR0VqMnY4emIyZVJZMzJZVGU5d3NwcURpZDVhc3VDUEdoU05MVHlHM1dqeFJnWjhPU2tKVjYxazRRb3dHTWM4ZUFtMGZuME1fR0RWZ2ZQRUlqdGoybWFKdTAzQkNqbFVOa09hMS1LUmVrQTE1ZjNCdFRjcUQzSmxHUmc4aGZGZnppMkl1Z1BSZ2x3ZWVOWng2MWEyblFFZS0xeDdzQmc?oc=5)
 - **Google News Markets** (Thu, 04 Jun 2026 12:39:00 GMT): High priority | [CrowdStrike Falls On Earnings As Guidance Underwhelms Amid Big 2026 Gain - Investor's Business Daily](https://news.google.com/rss/articles/CBMinwFBVV95cUxQemF4dGlvbTRrVTRzQ3JvRXZXSEZUZkJxenNfS0lIU2RQTDMwbk9nWVZHcEFmSm1ibElsYnJET2ZiZUw1dHhuSG5pQ1RpSnVoVUpvTnlXbkVwbzBzZ0tRT3dpMlBBUkxUVlA4aTRYNFROS1NpQlN1ekhBT09WaU9WS0J0aTdNM1psbS14THBNUm5qZVNIcW5xYXFhWmV4LTQ?oc=5)
 - **Google News Markets** (Thu, 04 Jun 2026 12:18:21 GMT): High priority | [ADC Therapeutics Posts Downbeat Q1 Earnings, Joins Julong Holding And Other Big Stocks Moving Lower In Th - Benzinga](https://news.google.com/rss/articles/CBMilgJBVV95cUxQbmgtOHJjcXEwbFhpLWJKQmxzSmNMWUEySXNLY0NiUnVkMWtmZzVnQnpPZktYX1ZpVTl3bjB2UlZHaXlpZ19pWlVGdEpvZ0NuMUxZUEdUT08tQ0xuanF4QW5lRDQ4TnB1bzJTRk43T3dtdzdMaHlqM2M2dVQzaF9ESGhYWFpSZ1ZiczNzdkdnQUtLQ19NMEJ4MWc2UG9DZm04c1d1aDRTWEZ3dHB2cVF6Y1RCckxBeXNfTm53d1NWNFBiNi1YSG9pbHVBcjNDc3N2SHFYN1lfVllZMndvUjlvUUtVUFc5SDdwaFhRd0duamMzZHBpWDR1SkY2MDRtNTE1Z1ZWQW02bXJTZThncjVYMlEwRGZUQQ?oc=5)
-- **Google News Markets** (Thu, 04 Jun 2026 11:38:58 GMT): High priority | [Broadcom Q2 earnings miss drags Nasdaq futures lower - qz.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE9nVUZBejRlWVBQRzhGSXR2R3pFNC10R0I3RzBXRHJKMlBiRVRrUnNacl9rY2hOTHRqNzF4RkVLdVUtbVhLWDRBUXBuMUx4NEVvTGNYdU02QmtCbERYMDRYYkR0ZUpfcWRySE96M05ibGtpUUswaEh0Nw?oc=5)
 - **Google News Markets** (Thu, 04 Jun 2026 00:24:58 GMT): High priority | [Federal Reserve’s Logan: Monetary policy has not suppressed the economy - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWHFUUERfZHByNk53bThrZ2lfUDRUU0VWQVZXM3RIbmRtcDJzMTBITmhKc05Qc2ZHUFkxZVNySmg0T21nZi1QQmxKREpRRTZYZUdhTDktcHc2T2JHdmh0VHAxa9IBY0FVX3lxTE5VWHFUUERfZHByNk53bThrZ2lfUDRUU0VWQVZXM3RIbmRtcDJzMTBITmhKc05Qc2ZHUFkxZVNySmg0T21nZi1QQmxKREpRRTZYZUdhTDktcHc2T2JHdmh0VHAxaw?oc=5)
 - **Google News Markets** (Wed, 03 Jun 2026 20:31:03 GMT): High priority | [Broadcom stock falls despite Q2 earnings, guidance beat - Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVpGOHNhUTBNVlRBNEJmZk1FZ0ZXUjR3ZWw1Uy00Y1dUanItVllhM3pXSXdUQ1o1SlRsZGNjbXBLQmduNjNQQ0RPQkNkZ1JQUVItU2lMZEZQSzZ3bnhEQTE3MTJvNzhyQm9oSExRT0R6Uzc4OFZTTERLV2x6a09IOHliSlFiaDVfU21qNk5SY1BxYXN4ZU1CRzZSekJPWVJ4bnBj?oc=5)
 - **Federal Reserve** (Tue, 2 Jun 2026 15:00:00 GMT): High priority | [Agencies remove additional references to reputation risk](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm)
+- **Google News Markets** (Thu, 04 Jun 2026 18:02:12 GMT): [Opinion: The Stock Market May Have Dodged a Bullet With Jerome Powell Staying at the Fed - AOL.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1owN0Z4b09YV0pmTVdRY3RJazdpRml0SVVLVWw1bXRON3JsSUZoaG5xUkI0YWJNRUFCYmxhem5YTGpXOEotV2lpWjA2NlpMLS1CeENyNnlFUXVlLWI3cHFkWFYyX3J0LVpwczhlODRZZk9zMFplNXQ5dThFVVBuUw?oc=5)
+- **Google News Markets** (Thu, 04 Jun 2026 17:37:30 GMT): [Ciena stock sinks despite earnings beat as investors seek bigger AI upside - Invezz](https://news.google.com/rss/articles/CBMirwFBVV95cUxObDhmdk9lc2ZQNXVUVzFwcDVrazFPa3dHZTFVUG9wb3A3N3Jwb21FRkttdnZLUEY2Y1dKcUgyS2NXZDZQTUI3bVRteXphc0VUSmFJOUprNTZpZlN2WmFhb0ZTNTc4OUM5Y0Uzb0ZCTS1rc0JHZkdmQ2IwdHlPQ0NHWWdXQlVvZG8yLTNRQS1ZUTVUa2Mwd0NSaWNYaU4yQzhsSnBvWHJReEUyZlN4dnZJ?oc=5)
 
-## 4. Economic Calendar
+## 5. Economic Calendar
 
 ### Today (2026-06-04)
 - **07:00** MBA 30-Year Mortgage Rate | Previous: 6.65% | Source: Nasdaq
