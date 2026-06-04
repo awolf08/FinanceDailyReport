@@ -61,6 +61,7 @@ NOISY_NEWS_TERMS = (
 
 NETWORK_READY_HOSTS = (
     "api.nasdaq.com",
+    "query1.finance.yahoo.com",
     "news.google.com",
     "www.federalreserve.gov",
 )
@@ -96,7 +97,11 @@ def collect_report_data(report_date: date, settings: Settings) -> ReportData:
     if data.market_status.get("is_open") == "no":
         data.notes.append(SourceNote("Nasdaq market movers", "skipped", data.market_status.get("reason", "Market closed")))
     else:
-        data.active_stocks, data.active_stocks_as_of = fetch_market_movers(settings.stock_limit, data.notes)
+        if data.market_phase == "regular":
+            data.active_stocks, data.active_stocks_as_of = fetch_yahoo_most_active(10, data.notes)
+            data.active_stocks_source = "yahoo_most_active"
+        else:
+            data.active_stocks, data.active_stocks_as_of = fetch_market_movers(settings.stock_limit, data.notes)
         if data.market_phase == "after_hours":
             after_hours_rows, after_hours_as_of = fetch_after_hours_most_active(report_date, settings.stock_limit, data.notes)
             if after_hours_rows:
@@ -236,6 +241,49 @@ def fetch_market_movers(limit: int, notes: list[SourceNote]) -> tuple[dict[str, 
     )
     notes.append(SourceNote("Nasdaq market movers", "ok", as_of))
     return result, as_of
+
+
+def fetch_yahoo_most_active(limit: int, notes: list[SourceNote]) -> tuple[dict[str, list[dict[str, str]]], str]:
+    url = (
+        "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved"
+        "?formatted=true&lang=en-US&region=US&scrIds=most_actives&count=25"
+    )
+    try:
+        payload = fetch_json(url, headers={"User-Agent": NASDAQ_HEADERS["User-Agent"]})
+        quotes = payload["finance"]["result"][0]["quotes"]
+    except Exception as exc:
+        notes.append(SourceNote("Yahoo Finance Most Active", "unavailable", str(exc)))
+        return {}, ""
+
+    rows: list[dict[str, str]] = []
+    for quote in quotes:
+        price = yahoo_raw_value(quote.get("regularMarketPrice"))
+        if price is not None and price < 5:
+            continue
+
+        symbol = clean(str(quote.get("symbol") or ""))
+        if not symbol:
+            continue
+
+        rows.append(
+            {
+                "symbol": symbol,
+                "name": clean(str(quote.get("shortName") or quote.get("longName") or quote.get("displayName") or "")),
+                "lastSalePrice": yahoo_money(quote.get("regularMarketPrice")),
+                "lastSaleChange": yahoo_signed(quote.get("regularMarketChange")),
+                "change": yahoo_long_format(quote.get("regularMarketVolume")),
+            }
+        )
+        if len(rows) >= limit:
+            break
+
+    if not rows:
+        notes.append(SourceNote("Yahoo Finance Most Active", "unavailable", "No rows at or above $5 returned"))
+        return {}, ""
+
+    as_of = datetime.now(ZoneInfo("America/New_York")).strftime("Yahoo Finance Most Active as of %-I:%M %p ET")
+    notes.append(SourceNote("Yahoo Finance Most Active", "ok", as_of))
+    return {"Yahoo Finance Most Active": rows}, as_of
 
 
 def fetch_after_hours_most_active(target_date: date, limit: int, notes: list[SourceNote]) -> tuple[list[dict[str, str]], str]:
@@ -527,6 +575,44 @@ def clean(value: Any) -> str:
 
 def clean_dict(row: dict[str, Any]) -> dict[str, str]:
     return {str(key): clean(value) for key, value in row.items()}
+
+
+def yahoo_raw_value(value: Any) -> float | None:
+    if isinstance(value, dict):
+        value = value.get("raw")
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def yahoo_fmt_value(value: Any) -> str:
+    if isinstance(value, dict):
+        return clean(value.get("fmt") or value.get("longFmt") or value.get("raw"))
+    return clean(value)
+
+
+def yahoo_long_format(value: Any) -> str:
+    if isinstance(value, dict):
+        return clean(value.get("longFmt") or value.get("fmt") or value.get("raw"))
+    return clean(value)
+
+
+def yahoo_money(value: Any) -> str:
+    formatted = yahoo_fmt_value(value)
+    if not formatted or formatted.startswith("$"):
+        return formatted
+    return f"${formatted}"
+
+
+def yahoo_signed(value: Any) -> str:
+    raw = yahoo_raw_value(value)
+    formatted = yahoo_fmt_value(value)
+    if raw is None or not formatted:
+        return formatted
+    if raw > 0 and not formatted.startswith("+"):
+        return f"+{formatted}"
+    return formatted
 
 
 def strip_tags(value: str) -> str:
