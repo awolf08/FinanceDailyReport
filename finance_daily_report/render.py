@@ -238,6 +238,25 @@ def yahoo_finance_url(symbol: str) -> str:
     return f"https://finance.yahoo.com/quote/{quote(symbol.strip(), safe='')}/"
 
 
+def visible_stock_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+    return [row for row in rows if stock_price_at_least(row, 5)]
+
+
+def stock_price_at_least(row: dict[str, str], minimum: float) -> bool:
+    price = parse_stock_price(row.get("lastSalePrice", ""))
+    return price is None or price >= minimum
+
+
+def parse_stock_price(value: str) -> float | None:
+    cleaned = value.strip().replace("$", "").replace(",", "")
+    if not cleaned or cleaned.upper() in {"N/A", "NA", "--"}:
+        return None
+    try:
+        return float(cleaned)
+    except ValueError:
+        return None
+
+
 def get_active_section_title(data: ReportData) -> str:
     phase = data.market_phase
     if phase == "premarket":
@@ -295,9 +314,10 @@ def append_snapshot_markdown(lines: list[str], data: ReportData) -> None:
             lines.append("")
         elif active_stocks:
             for section, rows in active_stocks.items():
+                rows = visible_stock_rows(rows)
                 lines.append(f"#### {section}")
                 if not rows:
-                    lines.append("- No rows returned.")
+                    lines.append("- No rows at or above $5 returned.")
                 for row in rows:
                     symbol = row.get("symbol", "")
                     name = row.get("name", "")
@@ -332,9 +352,10 @@ def append_snapshot_html(parts: list[str], data: ReportData) -> None:
             parts.append(f'<ul><li>Skipped because {escape(market_status.get("reason", "US market is closed"))}.</li></ul>')
         elif active_stocks:
             for section, rows in active_stocks.items():
+                rows = visible_stock_rows(rows)
                 parts.extend([f"<h4>{escape(section)}</h4>", "<ul>"])
                 if not rows:
-                    parts.append("<li>No rows returned.</li>")
+                    parts.append("<li>No rows at or above $5 returned.</li>")
                 for row in rows:
                     symbol = row.get("symbol", "")
                     name = row.get("name", "")
