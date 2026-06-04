@@ -38,10 +38,12 @@ jobs:
           report_date="$(TZ="$REPORT_TIMEZONE" date +%F)"
           report_html="reports/finance-daily-report-${report_date}.html"
           report_md="reports/finance-daily-report-${report_date}.md"
+          report_json="reports/finance-daily-report-${report_date}.snapshots.json"
 
           echo "report_date=${report_date}" >> "$GITHUB_OUTPUT"
           echo "report_html=${report_html}" >> "$GITHUB_OUTPUT"
           echo "report_md=${report_md}" >> "$GITHUB_OUTPUT"
+          echo "report_json=${report_json}" >> "$GITHUB_OUTPUT"
 
           if [ "$FORCE_RUN" = "true" ]; then
             echo "should_run=true" >> "$GITHUB_OUTPUT"
@@ -49,7 +51,7 @@ jobs:
             exit 0
           fi
 
-          if [ -f "$report_html" ] && [ -f "$report_md" ]; then
+          if [ -f "$report_html" ] && [ -f "$report_md" ] && [ -f "$report_json" ]; then
             echo "should_run=false" >> "$GITHUB_OUTPUT"
             echo "Report for ${report_date} already exists in the repo. Skipping generation."
           else
@@ -88,7 +90,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f reports/*.md reports/*.html
+          git add -f reports/*.md reports/*.html reports/*.snapshots.json
           if git diff --cached --quiet; then
             echo "No report changes to commit."
           else
@@ -118,13 +120,14 @@ jobs:
 
           report_date="${{ steps.gate.outputs.report_date }}"
           mkdir -p reports-site/daily-finance
-          if [ ! -f "reports/finance-daily-report-${report_date}.html" ] || [ ! -f "reports/finance-daily-report-${report_date}.md" ]; then
+          if [ ! -f "reports/finance-daily-report-${report_date}.html" ] || [ ! -f "reports/finance-daily-report-${report_date}.md" ] || [ ! -f "reports/finance-daily-report-${report_date}.snapshots.json" ]; then
             echo "Generated report files for ${report_date} are missing; skipping publish to awolf08/reports."
             exit 1
           fi
 
           cp "reports/finance-daily-report-${report_date}.html" "reports-site/daily-finance/${report_date}.html"
           cp "reports/finance-daily-report-${report_date}.md" "reports-site/daily-finance/${report_date}.md"
+          cp "reports/finance-daily-report-${report_date}.snapshots.json" "reports-site/daily-finance/${report_date}.snapshots.json"
           cat > reports-site/daily-finance/index.html <<EOF
           <!doctype html>
           <html lang="en">

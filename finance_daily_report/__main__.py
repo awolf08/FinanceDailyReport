@@ -9,6 +9,7 @@ from .config import Settings, load_dotenv
 from .emailer import send_email
 from .fetchers import collect_report_data
 from .render import render_html, render_markdown
+from .snapshots import update_snapshot_file
 
 
 def parse_args() -> argparse.Namespace:
@@ -33,12 +34,13 @@ def main() -> int:
     if args.date:
         report_date = datetime.strptime(args.date, "%Y-%m-%d").date()
 
+    settings.output_dir.mkdir(parents=True, exist_ok=True)
+    output_stem = settings.output_dir / f"finance-daily-report-{report_date.isoformat()}"
     data = collect_report_data(report_date, settings)
+    data.snapshots = update_snapshot_file(data, settings, output_stem.with_suffix(".snapshots.json"))
     markdown = render_markdown(data, settings)
     html = render_html(data, settings)
 
-    settings.output_dir.mkdir(parents=True, exist_ok=True)
-    output_stem = settings.output_dir / f"finance-daily-report-{report_date.isoformat()}"
     if args.format in {"md", "both"}:
         markdown_path = output_stem.with_suffix(".md")
         markdown_path.write_text(markdown, encoding="utf-8")

@@ -85,6 +85,7 @@ class ReportData:
     economic_events: dict[str, list[dict[str, str]]] = field(default_factory=dict)
     earnings: dict[str, list[dict[str, str]]] = field(default_factory=dict)
     notes: list[SourceNote] = field(default_factory=list)
+    snapshots: list[dict[str, Any]] = field(default_factory=list)
 
 
 def collect_report_data(report_date: date, settings: Settings) -> ReportData:

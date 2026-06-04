@@ -12,8 +12,6 @@ def render_markdown(data: ReportData, settings: Settings) -> str:
     today = data.report_date
     tomorrow = today + timedelta(days=1)
     generated_at = format_generated_at(settings)
-    active_section_title = get_active_section_title(data)
-    active_section_note = get_active_section_note(data)
     lines: list[str] = [
         f"# Finance Daily Report - {today.isoformat()}",
         "",
@@ -23,33 +21,11 @@ def render_markdown(data: ReportData, settings: Settings) -> str:
         "",
         format_market_status(data),
         "",
-        f"## 1. {active_section_title}",
+        "## 1. Intraday Active Stock Snapshots",
         "",
     ]
 
-    if active_section_note:
-        lines.append(f"- {active_section_note}")
-        lines.append("")
-
-    if data.market_status.get("is_open") == "no":
-        lines.append(f"- Skipped because {data.market_status.get('reason', 'US market is closed')}.")
-        lines.append("")
-    elif data.active_stocks:
-        for section, rows in data.active_stocks.items():
-            lines.append(f"### {section}")
-            if not rows:
-                lines.append("- No rows returned.")
-            for row in rows:
-                symbol = row.get("symbol", "")
-                name = row.get("name", "")
-                last = row.get("lastSalePrice", "")
-                change_value = row.get("lastSaleChange", "")
-                detail = format_stock_detail(section, row)
-                lines.append(f"- **{symbol}** {name} | Last: {last} | Move: {change_value} | {detail}")
-            lines.append("")
-    else:
-        lines.append("- Market movers source unavailable.")
-        lines.append("")
+    append_snapshot_markdown(lines, data)
 
     lines.extend(["## 2. Latest Market News", ""])
     if data.news:
@@ -90,8 +66,6 @@ def render_html(data: ReportData, settings: Settings) -> str:
     tomorrow = today + timedelta(days=1)
     generated_at = format_generated_at(settings)
     title = f"Finance Daily Report - {today.isoformat()}"
-    active_section_title = get_active_section_title(data)
-    active_section_note = get_active_section_note(data)
     parts: list[str] = [
         "<!doctype html>",
         '<html lang="en">',
@@ -125,29 +99,10 @@ def render_html(data: ReportData, settings: Settings) -> str:
         "</header>",
         "<h2>Market Status</h2>",
         f'<div class="status">{inline_markdown(format_market_status(data).lstrip("- "))}</div>',
-        f"<h2>1. {escape(active_section_title)}</h2>",
+        "<h2>1. Intraday Active Stock Snapshots</h2>",
     ]
 
-    if active_section_note:
-        parts.append(f'<div class="section"><ul><li>{escape(active_section_note)}</li></ul></div>')
-
-    if data.market_status.get("is_open") == "no":
-        parts.append(f'<div class="section"><ul><li>Skipped because {escape(data.market_status.get("reason", "US market is closed"))}.</li></ul></div>')
-    elif data.active_stocks:
-        for section, rows in data.active_stocks.items():
-            parts.extend(['<div class="section">', f"<h3>{escape(section)}</h3>", "<ul>"])
-            if not rows:
-                parts.append("<li>No rows returned.</li>")
-            for row in rows:
-                symbol = row.get("symbol", "")
-                name = row.get("name", "")
-                last = row.get("lastSalePrice", "")
-                change_value = row.get("lastSaleChange", "")
-                detail = format_stock_detail(section, row)
-                parts.append(f"<li><strong>{escape(symbol)}</strong> {escape(name)} | Last: {escape(last)} | Move: {escape(change_value)} | {escape(detail)}</li>")
-            parts.extend(["</ul>", "</div>"])
-    else:
-        parts.append('<div class="section"><ul><li>Market movers source unavailable.</li></ul></div>')
+    append_snapshot_html(parts, data)
 
     parts.extend(["<h2>2. Latest Market News</h2>", '<div class="section"><ul>'])
     if data.news:
@@ -303,6 +258,160 @@ def get_active_section_note(data: ReportData) -> str:
             f"so the movers source is labeled generically.{as_of}"
         )
     return ""
+
+
+def append_snapshot_markdown(lines: list[str], data: ReportData) -> None:
+    snapshots = data.snapshots or [current_snapshot(data)]
+    for snapshot in snapshots:
+        lines.append(f"### {snapshot_title(snapshot)}")
+        note = snapshot_note(snapshot)
+        if note:
+            lines.append(f"- {note}")
+            lines.append("")
+
+        active_stocks = snapshot.get("active_stocks") or {}
+        market_status = snapshot.get("market_status") or {}
+        if market_status.get("is_open") == "no":
+            lines.append(f"- Skipped because {market_status.get('reason', 'US market is closed')}.")
+            lines.append("")
+        elif active_stocks:
+            for section, rows in active_stocks.items():
+                lines.append(f"#### {section}")
+                if not rows:
+                    lines.append("- No rows returned.")
+                for row in rows:
+                    symbol = row.get("symbol", "")
+                    name = row.get("name", "")
+                    last = row.get("lastSalePrice", "")
+                    change_value = row.get("lastSaleChange", "")
+                    detail = format_stock_detail(section, row)
+                    lines.append(f"- **{symbol}** {name} | Last: {last} | Move: {change_value} | {detail}")
+                lines.append("")
+        else:
+            lines.append("- Market movers source unavailable.")
+            lines.append("")
+
+        health = compact_snapshot_health(snapshot)
+        if health:
+            lines.append("Source health:")
+            for item in health:
+                lines.append(f"- {item}")
+            lines.append("")
+
+
+def append_snapshot_html(parts: list[str], data: ReportData) -> None:
+    snapshots = data.snapshots or [current_snapshot(data)]
+    for snapshot in snapshots:
+        parts.extend(['<div class="section">', f"<h3>{escape(snapshot_title(snapshot))}</h3>"])
+        note = snapshot_note(snapshot)
+        if note:
+            parts.append(f"<p>{escape(note)}</p>")
+
+        active_stocks = snapshot.get("active_stocks") or {}
+        market_status = snapshot.get("market_status") or {}
+        if market_status.get("is_open") == "no":
+            parts.append(f'<ul><li>Skipped because {escape(market_status.get("reason", "US market is closed"))}.</li></ul>')
+        elif active_stocks:
+            for section, rows in active_stocks.items():
+                parts.extend([f"<h4>{escape(section)}</h4>", "<ul>"])
+                if not rows:
+                    parts.append("<li>No rows returned.</li>")
+                for row in rows:
+                    symbol = row.get("symbol", "")
+                    name = row.get("name", "")
+                    last = row.get("lastSalePrice", "")
+                    change_value = row.get("lastSaleChange", "")
+                    detail = format_stock_detail(section, row)
+                    parts.append(f"<li><strong>{escape(symbol)}</strong> {escape(name)} | Last: {escape(last)} | Move: {escape(change_value)} | {escape(detail)}</li>")
+                parts.append("</ul>")
+        else:
+            parts.append("<ul><li>Market movers source unavailable.</li></ul>")
+
+        health = compact_snapshot_health(snapshot)
+        if health:
+            parts.extend(['<p class="meta">Source health:</p>', '<ul class="source-health">'])
+            for item in health:
+                parts.append(f"<li>{escape(item)}</li>")
+            parts.append("</ul>")
+        parts.append("</div>")
+
+
+def current_snapshot(data: ReportData) -> dict[str, object]:
+    return {
+        "slot": "",
+        "captured_at": "",
+        "timezone": "",
+        "market_phase": data.market_phase,
+        "market_status": data.market_status,
+        "active_stocks": data.active_stocks,
+        "active_stocks_as_of": data.active_stocks_as_of,
+        "active_stocks_source": data.active_stocks_source,
+        "notes": [
+            {
+                "source": note.source,
+                "status": note.status,
+                "detail": note.detail,
+            }
+            for note in data.notes
+        ],
+    }
+
+
+def snapshot_title(snapshot: dict[str, object]) -> str:
+    phase = str(snapshot.get("market_phase") or "unknown")
+    captured_at = str(snapshot.get("captured_at") or "")
+    slot = str(snapshot.get("slot") or "")
+    label = phase.replace("_", " ").title()
+    if captured_at:
+        try:
+            captured = datetime.fromisoformat(captured_at)
+            return f"{captured.strftime('%-I:%M %p')} {label} Snapshot"
+        except ValueError:
+            pass
+    if slot:
+        return f"{slot} {label} Snapshot"
+    return f"{label} Snapshot"
+
+
+def snapshot_note(snapshot: dict[str, object]) -> str:
+    phase = str(snapshot.get("market_phase") or "unknown")
+    as_of = str(snapshot.get("active_stocks_as_of") or "")
+    suffix = f" Latest source timestamp: {as_of}." if as_of else ""
+    if phase == "premarket":
+        return f"Nasdaq market movers captured during premarket hours.{suffix}"
+    if phase == "regular":
+        return f"Nasdaq market movers captured during the regular session.{suffix}"
+    if phase == "after_hours":
+        if snapshot.get("active_stocks_source") == "after_hours_article":
+            return f"Nasdaq after-hours most-active article captured after the close.{suffix}"
+        return f"Nasdaq market movers captured after the close.{suffix}"
+    if phase == "open_day":
+        return f"Nasdaq market movers captured outside the live session for this open market date.{suffix}"
+    return suffix.strip()
+
+
+def compact_snapshot_health(snapshot: dict[str, object]) -> list[str]:
+    result: list[str] = []
+    notes = snapshot.get("notes") or []
+    if not isinstance(notes, list):
+        return result
+
+    important_sources = (
+        "NYSE calendar",
+        "Network readiness",
+        "Nasdaq market movers",
+        "Nasdaq after-hours article",
+    )
+    for note in notes:
+        if not isinstance(note, dict):
+            continue
+        source = str(note.get("source") or "")
+        if not source.startswith(important_sources):
+            continue
+        status = str(note.get("status") or "")
+        detail = str(note.get("detail") or "")
+        result.append(f"{source}: {status}{f' - {detail}' if detail else ''}")
+    return result
 
 
 def append_economic_day(lines: list[str], title: str, events: list[dict[str, str]]) -> None:
