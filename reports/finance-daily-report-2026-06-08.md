@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-08
 
-_Generated: 2026-06-08 05:55:10 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-08 06:55:06 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -14,8 +14,8 @@ _Generated: 2026-06-08 05:55:10 PDT. Timezone: America/Los_Angeles. Not financia
 - **[SJM](https://finance.yahoo.com/quote/SJM/)** The J.M. Smucker Company | Time: time-pre-market | EPS est: $2.65 | Quarter: Apr/2026
 - **[SAIL](https://finance.yahoo.com/quote/SAIL/)** SailPoint, Inc. | Time: time-pre-market | EPS est: $0.04 | Quarter: Apr/2026
 - **[UEC](https://finance.yahoo.com/quote/UEC/)** Uranium Energy Corp. | Time: time-pre-market | EPS est: ($0.05) | Quarter: Apr/2026
-- **[ASO](https://finance.yahoo.com/quote/ASO/)** Academy Sports and Outdoors, Inc. | Time: time-pre-market | EPS est: $0.83 | Quarter: Apr/2026
 - **[UNFI](https://finance.yahoo.com/quote/UNFI/)** United Natural Foods, Inc. | Time: time-pre-market | EPS est: $0.81 | Quarter: Apr/2026
+- **[ASO](https://finance.yahoo.com/quote/ASO/)** Academy Sports and Outdoors, Inc. | Time: time-pre-market | EPS est: $0.83 | Quarter: Apr/2026
 
 ### Other scheduled earnings (2026-06-08 to 2026-06-09)
 - **[WDS](https://finance.yahoo.com/quote/WDS/)** Woodside Energy Group Limited | Time: time-not-supplied | EPS est: N/A | Quarter: Mar/2026
@@ -70,20 +70,85 @@ Source health:
 - Network readiness: ok - connected to api.nasdaq.com:443
 - Nasdaq market movers: ok - Data as of Jun 8, 2026 8:52 AM ET
 
+### 6:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 9:55 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $108.67 | +9.50 | +9.58% | 36,232,610 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $14.72 | +0.36 | +2.54% | 34,896,187 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $208.10 | +2.99 | +1.46% | 30,121,387 |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $286.77 | +23.30 | +8.84% | 20,235,441 |
+| **[MU](https://finance.yahoo.com/quote/MU/)** | Micron Technology, Inc. | $937.32 | +73.31 | +8.48% | 13,951,817 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $16.33 | +0.30 | +1.87% | 10,875,434 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $19.34 | +0.90 | +4.85% | 10,457,752 |
+| **[KEEL](https://finance.yahoo.com/quote/KEEL/)** | Keel Infrastructure Corp. | $5.32 | +0.19 | +3.65% | 9,695,342 |
+| **[NU](https://finance.yahoo.com/quote/NU/)** | Nu Holdings Ltd. | $11.72 | -0.25 | -2.09% | 8,729,685 |
+| **[BMNR](https://finance.yahoo.com/quote/BMNR/)** | BitMine Immersion Technologies, | $16.65 | +0.75 | +4.72% | 8,482,215 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $5.77 | -1.07 | -15.64% | 256,613,181 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $41.04 | -2.15 | -4.98% | 24,540,890 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $76.61 | +3.56 | +4.87% | 23,425,558 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $208.82 | +26.71 | +14.67% | 22,102,964 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $13.36 | +0.64 | +5.07% | 18,150,072 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $60.26 | +4.56 | +8.18% | 17,040,352 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $36.06 | +1.92 | +5.62% | 16,772,081 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.67 | +0.45 | +5.48% | 16,276,516 |
+| **[NASA](https://finance.yahoo.com/quote/NASA/)** | Tema Space Innovators ETF | $33.49 | +0.85 | +2.60% | 2,596,428 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $24.94 | +2.23 | +9.79% | 10,165,708 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[TNGX](https://finance.yahoo.com/quote/TNGX/)** | Tango Therapeutics, Inc. | $27.74 | +7.52 | +37.19% | 6,546,430 |
+| **[GLXY](https://finance.yahoo.com/quote/GLXY/)** | Galaxy Digital Inc. | $27.95 | +2.81 | +11.18% | 2,568,150 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $108.62 | +9.45 | +9.53% | 36,239,565 |
+| **[SRAD](https://finance.yahoo.com/quote/SRAD/)** | Sportradar Group AG | $15.31 | +1.41 | +10.18% | 1,063,471 |
+| **[CBRS](https://finance.yahoo.com/quote/CBRS/)** | Cerebras Systems Inc. | $218.50 | +17.49 | +8.70% | 1,185,393 |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $286.77 | +23.30 | +8.84% | 20,237,432 |
+| **[MU](https://finance.yahoo.com/quote/MU/)** | Micron Technology, Inc. | $937.32 | +73.31 | +8.48% | 13,951,884 |
+| **[IONQ](https://finance.yahoo.com/quote/IONQ/)** | IonQ, Inc. | $61.43 | +4.65 | +8.19% | 6,335,024 |
+| **[SOC](https://finance.yahoo.com/quote/SOC/)** | Sable Offshore Corp. | $13.40 | +1.16 | +9.47% | 358,295 |
+| **[ALAB](https://finance.yahoo.com/quote/ALAB/)** | Astera Labs, Inc. | $343.66 | +26.60 | +8.39% | 814,642 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[TLK](https://finance.yahoo.com/quote/TLK/)** | PT Telekomunikasi Indonesia, Tb | $14.36 | -1.18 | -7.59% | 699,479 |
+| **[KB](https://finance.yahoo.com/quote/KB/)** | KB Financial Group Inc | $100.18 | -7.68 | -7.12% | 65,242 |
+| **[BRC](https://finance.yahoo.com/quote/BRC/)** | Brady Corporation | $82.53 | -6.10 | -6.88% | 57,821 |
+| **[WIX](https://finance.yahoo.com/quote/WIX/)** | Wix.com Ltd. | $49.06 | -3.33 | -6.36% | 775,178 |
+| **[AGX](https://finance.yahoo.com/quote/AGX/)** | Argan, Inc. | $654.68 | -40.04 | -5.76% | 83,647 |
+| **[BAP](https://finance.yahoo.com/quote/BAP/)** | Credicorp Ltd. | $304.60 | -17.90 | -5.55% | 244,125 |
+| **[CIEN](https://finance.yahoo.com/quote/CIEN/)** | Ciena Corporation | $462.30 | -25.91 | -5.31% | 1,020,874 |
+| **[LEGN](https://finance.yahoo.com/quote/LEGN/)** | Legend Biotech Corporation | $31.00 | -1.61 | -4.95% | 169,126 |
+| **[GDDY](https://finance.yahoo.com/quote/GDDY/)** | GoDaddy Inc. | $80.20 | -4.17 | -4.94% | 238,211 |
+| **[CLF](https://finance.yahoo.com/quote/CLF/)** | Cleveland-Cliffs Inc. | $12.90 | -0.62 | -4.62% | 3,141,782 |
+
+Source health:
+- NYSE calendar 2026-06-08: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
 ## 4. Latest Market News
 
-- **Google News Markets** (Mon, 08 Jun 2026 08:26:00 GMT): High priority | [The Federal Reserve's June Inflation Forecast Is In, and It's Not Nightmare Fuel for Wall Street for the First Time in Several Months - Yahoo Finance](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNXhLdTAtS1FpanZYeFlLQl9ZeVdHeWlzdER3djNsYi0yNjQ1R3M0dGdSdXFKVnVKY1huNUN3N21lbkVBTGcyMGNFMkk3RXYtRWVzQ0pINXZzdzVfSHNWcUhjd3k1RkpYaHpmWVdyMU10TWxpSjlEeFVQZFZKcHlabkt4a0JxZUdvWVhhbFdVTm1aaFhncGpiRUlvN0JqS3pHRGtqRk92TW4?oc=5)
-- **Google News Markets** (Mon, 08 Jun 2026 02:37:24 GMT): High priority | [S&P 500 Edges Higher Amid Mixed Mega-Cap Earnings; Dow Leads Market Indexes Overall - AOL.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE1oaDNXS2dzUjlCVjhSTW9TZ2VReUxha0xGd1ZJSnhEcDVkRGhKeHMxWnlrWm0wZUhkRWdNaVFfVUhtNmstVldmQWJ1MFVDenVYcGluYkhlemtldDlSY1J1YXJHZjNJX0dSUlJQdFhoZmtDMlpMa1E?oc=5)
-- **Google News Markets** (Mon, 08 Jun 2026 02:05:50 GMT): High priority | [U.S. Stock Market prediction for Monday: Nasdaq, S&P 500, Dow Jones crash to continue in Wall Street? These factors will determine - MSN](https://news.google.com/rss/articles/CBMiqwJBVV95cUxNSjIzc0dPekF1VDJaeVZ1T2tPYzluQ2pBaVpqcm5nMTVMUS12aW5pQ3c5Nm5sQ1lCWEt6U2MwdXd3UHZ2RHlPbE9pQkhPWl9PV2NfQWNkUHRfWkdUcWQ0ZXducmNGaWJwTWJSaGlVd3R1WGJOS1JyS21iVGNPX3ppRXVRS0JocDJPTzhBaWlpZ0RqRkpieGUyazlveU5LdFg2WW4tMm5tZ2pqdjJEWlZaSk5YUWo2ejA2VFNlX1ZPazRObUZ1akFRTE8xc29RUDdKOGZzS19GMXEtRVR0RnZFc2Y4bWo2N3RyMXEwU2VUWkZPeDVFRlZaR2thMGtfZnd2VDZNZGFVVVg0dEVKOS12a2lvaEZJVHZreXE3NDBkcDBteEgtRHZBNWlNbw?oc=5)
-- **Google News Markets** (Sun, 07 Jun 2026 14:08:58 GMT): High priority | [Inflation is soaring, and the Federal Reserve could do something it hasn't done since 2023. Here's what it means for stocks. - MSN](https://news.google.com/rss/articles/CBMi3ANBVV95cUxNYnhreUVVN2x5LUFTSGo0LUxidVhCLWRzdUlHMWlfbG45M2dmSEhWQjdpMlJ2UFRIeDJSSmtobXdoTFZTNzQxZUZHak5lSWNQeDl5am9WNWJkYmhRV1RpdWVTU3M2dGpYc1FsMVdfekEwMWtNdnRwQzY2QXpFZ2QyT1Mxd0pFVDA3SzV6cFpRZVdzNmtpZ2lDUEJMclVHSlZENUdMRTF6OGd6NHJCYXVxUkppUnZ4Ykx5QW1pM0ZlQ21hM0pocnRJR1NLRXl2SklORUJaQVBKZG1GdHNIM05sMmpxbllIdERQV2Q2dkpHbWtid3dzbVc4ZzZSci1wRzR6SWtGS3NONFpiWGNzNEZtbi1rM2VIZjh0dG82cFE2TFJFem5yOW93SDA3MGx6bmFUMnFVTmtyWkxqc0V6MjNzaEVzU2RJa2ZRN0d0cm1iZHFJS3Q1SndtYnZaQTBSMG4zSlg4Y0xVTzZ1NWdSYWpBS2x3THBKQnNWTEtkY2ZRZ2NNNVpGUE96OE5SY1pNOFU2c0szamNNU1Zqd3NRLXI0dnVHQ003ZTRGWVdrTzZIcEVYZjAxUVpfdXFfSVc0X0NweklEU1VXa3hFNFJIX3N2WDRiT0FiMXlwVHVvVg?oc=5)
-- **Google News Markets** (Mon, 08 Jun 2026 10:09:43 GMT): High priority | [SpaceX IPO, Inflation Report, and Tech Earnings Dominate This Week’s Market Calendar - parameter.io](https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3lrc2htYWhZZHFRMjhUV0s4YldXbDVtRTA5ZUZaY0QybnZLYUZoMXpRcUczQkJmZlFId1htZEc0T251ZmFUVHo1MHNVVlJ1WWdsNUo2cWl1R0NsSDZqSFRsYkRoYWEzTG91TTZfeDM0V3JMZ194MkRzQ2V1a1NHbWF2Rk5qM3FQdHdjR0ktaHcwTWdDdzZTUHZZeTJlaTA0TU5UanB3?oc=5)
-- **Google News Markets** (Mon, 08 Jun 2026 10:06:40 GMT): High priority | [SpaceX IPO, Inflation Report, and Tech Earnings Dominate This Week’s Market Calendar - Blockonomi](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbkN1T1ZfSENXU05MbzZ5VjI0VHdmd3RSVDB2cy1DRnVVamEwaGhycG13bXBsRU44LVp3ZXdxNGZmX3UwSF8ycmtXOWw5MDBJVGNoRjlIdUZiZ1hmSkZNcDFnOXNRZ2lVYjNhQWhKbFIyaHVLc2hyRnRobDdnZU9vci1kZ3J3MVptcEFqZ05iNndwX2dSX1RVLWo0UEl5MUlqc2E5UWVReDc?oc=5)
-- **Google News Markets** (Mon, 08 Jun 2026 08:05:37 GMT): High priority | [Federal Reserve has missed 2 percent target for 63 months, Ronnie Stoeferle notes - Traders Union](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHcwNGNMZkNDRDN5VDY4NEN1WWUwejdGWW9EQTVfdGJRMFZ0MS0xenJXbjdUTmFNRG9CeEtiVDdPeG9aUEhiTlFIN01MSlZqOEUwSUVxaS1wSER2R2tHbVZZM01yQ1pCbDZzV1FsYXNMajBxUUtSZzZmT21mQy1FaktYOU11ZF83RzZUZk1hTFp4dw?oc=5)
-- **Google News Markets** (Sun, 07 Jun 2026 15:47:02 GMT): High priority | [Kevin Warsh Sworn In As 17th Federal Reserve Chairman - AOL.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Q1gyRS1NYkJCT3JYNHhQdWplSkR0aUtVVVI1THJmX3Rpdk52RHJkbzhORUNJMXp3ZTJqZ1RZX2hzQ0IzR3UyQV81Zl9pSzlOM0RjM1diMk8yOUFuMGZ1ZkN1YnBmSURaYjNnRUhPcnNqTjdhbExPSktOR2gxWkU?oc=5)
+- **MarketWatch Top Stories** (Mon, 08 Jun 2026 13:32:00 GMT): [Micron’s stock bounces back in a big way: ‘The memory trade is alive and well’](https://www.marketwatch.com/story/microns-stock-bounces-back-in-a-big-way-the-memory-trade-is-alive-and-well-3466929f?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 08 Jun 2026 13:30:00 GMT): [Why tech’s record pullback is just a ‘healthy reset’ for the bull market, according to Morgan Stanley’s top stock-market strategist](https://www.marketwatch.com/story/why-techs-record-pullback-is-just-a-healthy-reset-for-the-bull-market-according-to-morgan-stanleys-top-stock-market-strategist-a310f60a?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 08 Jun 2026 13:06:00 GMT): [The U.S. stock market is facing historic downside risk — these 10 low-volatility stocks can protect your portfolio](https://www.marketwatch.com/story/the-u-s-stock-market-is-facing-historic-downside-risk-these-10-low-volatility-stocks-can-protect-your-portfolio-088a2189?mod=mw_rss_topstories)
 - **MarketWatch Top Stories** (Mon, 08 Jun 2026 12:39:00 GMT): [Global oil prices erase most gains after topping $98 a barrel as Iran announces end of current attacks after exchanging fire with Israel](https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories)
 - **MarketWatch Top Stories** (Mon, 08 Jun 2026 12:05:00 GMT): [I’m 65, widowed and collecting Social Security survivor benefits. Should I claim my own benefits now?](https://www.marketwatch.com/story/im-65-widowed-and-collecting-social-security-survivor-benefits-should-i-claim-my-own-benefits-now-094c95d7?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Mon, 08 Jun 2026 10:42:00 GMT): [Why tech’s record pullback is just a ‘healthy reset’ for the bull market, according to Morgan Stanley’s top stock-market strategist](https://www.marketwatch.com/story/why-techs-record-pullback-is-just-a-healthy-reset-for-the-bull-market-according-to-morgan-stanleys-top-stock-market-strategist-a310f60a?mod=mw_rss_topstories)
-- **Google News Markets** (Mon, 08 Jun 2026 12:15:22 GMT): [Broadcom: The Market Overreacted To Great Earnings, And I Started A Position - Seeking Alpha](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXZhdWVBSm1hTzhsOXlfTjdpN1FMbEc2eUphSTZRT25lcUpxR0JobTRMbktVN2l1N01FQlFIMEZZRHdqY3BsSzAtS0FWMnJEVVJuQXg4NS1BdUR0VDIxSGNqazNkcHU4azlybk4yNFU4ay1iR0xmc3BRVEw4TEZrQ3k2eDhOLXFLT3FXUVEzX0Jib0p2VWZzNHdhS3pZNWRaMU5sdnpDbi1DRUZCRmlGWQ?oc=5)
+- **MarketWatch Top Stories** (Mon, 08 Jun 2026 13:16:00 GMT): [This Big Tech investor’s warning for traders: Watch out for the SpaceX IPO](https://www.marketwatch.com/story/this-big-tech-investors-warning-for-traders-watch-out-for-the-spacex-ipo-cd651485?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 08 Jun 2026 12:53:00 GMT): [Why Elon Musk says ASML is the greatest company in Europe](https://www.marketwatch.com/story/why-elon-musk-says-asml-is-the-greatest-company-in-europe-a353f33a?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 08 Jun 2026 12:42:00 GMT): [These are the market’s new hot stocks as investors flee from tech](https://www.marketwatch.com/story/these-are-the-markets-new-hot-stocks-as-investors-flee-from-tech-826096c2?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 08 Jun 2026 11:53:00 GMT): [Filed an extension for your income taxes? The IRS is still charging you.](https://www.marketwatch.com/story/filed-an-extension-for-your-income-taxes-the-irs-is-still-charging-you-fdea68a0?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 08 Jun 2026 11:51:00 GMT): [Gold has tumbled during the Iran war — exposing a massive myth about geopolitical risk](https://www.marketwatch.com/story/gold-has-tumbled-during-the-iran-war-exposing-a-massive-myth-about-geopolitical-risk-15bd2c94?mod=mw_rss_topstories)
 
 ## 5. Economic Calendar
 
@@ -104,7 +169,10 @@ Source health:
 
 - NYSE calendar 2026-06-08: open
 - Network readiness: ok - connected to api.nasdaq.com:443
-- Nasdaq market movers: ok - Data as of Jun 8, 2026 8:52 AM ET
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
