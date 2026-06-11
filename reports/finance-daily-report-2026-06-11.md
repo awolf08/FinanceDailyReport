@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-11
 
-_Generated: 2026-06-11 09:55:12 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-11 11:55:11 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -205,20 +205,87 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
+### 11:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:55 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SMCI](https://finance.yahoo.com/quote/SMCI/)** | Super Micro Computer, Inc. | $30.89 | +1.61 | +5.52% | 205,198,582 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $115.50 | +8.46 | +7.90% | 139,421,391 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $14.12 | +0.70 | +5.21% | 126,130,127 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $202.68 | +2.26 | +1.13% | 96,308,703 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $13.88 | +0.48 | +3.58% | 72,020,390 |
+| **[CPNG](https://finance.yahoo.com/quote/CPNG/)** | Coupang, Inc. | $17.06 | +1.94 | +12.80% | 58,234,918 |
+| **[LYG](https://finance.yahoo.com/quote/LYG/)** | Lloyds Banking Group Plc | $5.35 | +0.19 | +3.68% | 57,850,737 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $16.32 | +0.45 | +2.80% | 53,722,868 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $16.74 | +1.87 | +12.57% | 52,396,864 |
+| **[ORCL](https://finance.yahoo.com/quote/ORCL/)** | Oracle Corporation | $182.35 | -18.90 | -9.39% | 51,369,019 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $5.29 | -1.28 | -19.48% | 762,139,031 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.64 | +0.20 | +2.43% | 298,670,669 |
+| **[SPDN](https://finance.yahoo.com/quote/SPDN/)** | Direxion Daily S&P 500 Bear 1X | $8.87 | -0.13 | -1.45% | 115,060,493 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $41.76 | -3.49 | -7.70% | 101,266,134 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $74.58 | +5.31 | +7.67% | 96,713,280 |
+| **[NVD](https://finance.yahoo.com/quote/NVD/)** | GraniteShares 2x Short NVDA Dai | $5.15 | -0.13 | -2.48% | 65,210,821 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $214.73 | +34.08 | +18.87% | 55,281,106 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $12.76 | +0.72 | +5.98% | 52,998,676 |
+| **[QQQ](https://finance.yahoo.com/quote/QQQ/)** | Invesco QQQ Trust, Series 1 | $711.62 | +17.93 | +2.58% | 51,453,522 |
+| **[SPY](https://finance.yahoo.com/quote/SPY/)** | State Street SPDR S&P 500 ETF T | $735.68 | +10.25 | +1.41% | 51,156,812 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[YSS](https://finance.yahoo.com/quote/YSS/)** | York Space Systems Inc. | $32.79 | +5.17 | +18.71% | 1,567,068 |
+| **[VOYG](https://finance.yahoo.com/quote/VOYG/)** | Voyager Technologies, Inc. | $49.00 | +7.72 | +18.70% | 3,618,042 |
+| **[FLY](https://finance.yahoo.com/quote/FLY/)** | Firefly Aerospace Inc. | $39.18 | +5.76 | +17.24% | 6,649,826 |
+| **[LUNR](https://finance.yahoo.com/quote/LUNR/)** | Intuitive Machines, Inc. | $30.47 | +3.93 | +14.83% | 12,376,588 |
+| **[BBAR](https://finance.yahoo.com/quote/BBAR/)** | Banco BBVA Argentina S.A. | $20.23 | +2.57 | +14.53% | 1,323,890 |
+| **[VSAT](https://finance.yahoo.com/quote/VSAT/)** | ViaSat, Inc. | $70.55 | +9.05 | +14.72% | 2,055,073 |
+| **[ELVN](https://finance.yahoo.com/quote/ELVN/)** | Enliven Therapeutics, Inc. | $41.77 | +4.77 | +12.89% | 4,140,105 |
+| **[CPNG](https://finance.yahoo.com/quote/CPNG/)** | Coupang, Inc. | $17.06 | +1.94 | +12.80% | 58,234,918 |
+| **[ATRO](https://finance.yahoo.com/quote/ATRO/)** | Astronics Corporation | $92.67 | +10.33 | +12.54% | 703,937 |
+| **[UCTT](https://finance.yahoo.com/quote/UCTT/)** | Ultra Clean Holdings, Inc. | $102.07 | +11.17 | +12.28% | 940,463 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[DAN](https://finance.yahoo.com/quote/DAN/)** | Dana Incorporated | $29.97 | -5.50 | -15.51% | 2,884,834 |
+| **[PCT](https://finance.yahoo.com/quote/PCT/)** | PureCycle Technologies, Inc. | $8.62 | -1.26 | -12.76% | 28,928,463 |
+| **[ORCL](https://finance.yahoo.com/quote/ORCL/)** | Oracle Corporation | $182.35 | -18.90 | -9.39% | 51,369,056 |
+| **[PTC](https://finance.yahoo.com/quote/PTC/)** | PTC Inc. | $123.22 | -11.86 | -8.78% | 1,296,213 |
+| **[CHWY](https://finance.yahoo.com/quote/CHWY/)** | Chewy, Inc. | $18.90 | -1.08 | -5.43% | 10,086,344 |
+| **[RGC](https://finance.yahoo.com/quote/RGC/)** | Regencell Bioscience Holdings L | $19.56 | -0.90 | -4.38% | 69,014 |
+| **[BSY](https://finance.yahoo.com/quote/BSY/)** | Bentley Systems, Incorporated | $30.88 | -1.57 | -4.84% | 1,321,661 |
+| **[Z](https://finance.yahoo.com/quote/Z/)** | Zillow Group, Inc. | $32.30 | -1.63 | -4.80% | 8,546,826 |
+| **[ZG](https://finance.yahoo.com/quote/ZG/)** | Zillow Group, Inc. | $32.46 | -1.64 | -4.81% | 2,437,726 |
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. | $222.45 | -10.93 | -4.68% | 8,085,225 |
+
+Source health:
+- NYSE calendar 2026-06-11: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
 ## 4. Latest Market News
 
 - **Federal Reserve** (Thu, 11 Jun 2026 15:00:00 GMT): High priority | [Federal Reserve Board announces final rule that establishes data standards for certain information collections](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm)
 - **Federal Reserve** (Tue, 9 Jun 2026 20:00:00 GMT): High priority | [Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm)
-- **Google News Markets** (Wed, 10 Jun 2026 17:08:50 GMT): High priority | [The Federal Reserve's June inflation forecast is in, and it's not nightmare fuel for Wall Street for the first time in several months - MSN](https://news.google.com/rss/articles/CBMijwJBVV95cUxPOVlIY18xTHhtLWdTNHB5dVhjZ1ZlQ05rNUxaYldOYkZGVEJmbVFQOGVaZUVHd3pqZmRfcWx5cURweVJoMkVRSUtLMVB5UGtmZzJPS05TX3I1TmJHQk0xeWlxMUMtX0VhMkk5bmVYck1yUmtnc2piWjQzV0FlMUcwcUlHLU9aMUVpS01HaTB0X29qaW9hcDdaYUYxSkdsT2FBejN2Q1BUc2xYNGw3cEFHcTlNVnE1OExNV1dJNEU4ZGQtT3Bsa1BQVWhFQUM3LU1lV2NnZk9qUDNpN0otN193OW9MSTJ6dUdxa2dYdEdtYjl6OVNxTC15RHk1X1l4MGNLVHpGaGZEZGEwc3ZvT3dV?oc=5)
-- **Google News Markets** (Thu, 11 Jun 2026 10:54:37 GMT): High priority | [Federal Reserve to Resist the Urge to Hike US Rates - Investing.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxQak5RNGhHLVZRanZuY09jNFVicXRuM3p5VUVBMVlSaE8xWUZUSGZtSVpfcTlNbVdHZGU1RkNmdEFMYkhFcmdEaTk1bURQSWc1S1lQWmFacVZjZDN0WDIzRlJCMVRUMGV4TzV6UVRYN2dEam5UbG5DcnRtbGRWejJoZVJBdDc5b0FBQjJCaUJyRDl6UzZkdjVZU2N1ai0?oc=5)
+- **MarketWatch Top Stories** (Thu, 11 Jun 2026 18:03:00 GMT): High priority | [The S&P 500 chart is breaking down — but this new buy signal is flashing green](https://www.marketwatch.com/story/the-s-p-500-chart-is-breaking-down-but-this-new-buy-signal-is-flashing-green-5112ee15?mod=mw_rss_topstories)
 - **Google News Markets** (Thu, 11 Jun 2026 09:57:37 GMT): High priority | [S&P 500 Today: Wall Street Braces as Geopolitical Tensions and Chip Earnings Weigh on Market Mood - BBN Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRWRocml2akpyeGxfbTFTTlN4Qi1JRjRFY2Z5Z1BNbGthM2VuTGxaMi1BUTlwMjRPUHlzZDZmNHNlNzU4dElzRWlnWjdyRWZqZ3BuMy1MNVRzd002aWFiVkNNM3N5SlhTUTZPUGY1MUlZLXVJTXRVYWRFUVVwSDg0SHdJOE9ibFRKVEFKcDZ2V05HNURLMVVQa0ZkQVJQbk1ZWGJKY1BYeG02YVpRYzFzdXFncVpEYS1ZRW1jM2FKRm1UTTI4M2psVmRYbw?oc=5)
 - **Google News Markets** (Thu, 11 Jun 2026 04:27:38 GMT): High priority | [Should You Invest in a Gold ETF Before the Next Federal Reserve Meeting on June 16? - AOL.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE1XQXUyZHZQdEtlM0NGM2h6Y3ZxY21rTmxrVjJ2ZnpReENvR1ZwZXg3NGhPX3lla29oN0VEY3hzYlVMcTg2cXVZZ3BxQVVjSnpIZ0R3R1V3NFdoNTlDR3VIbmtVcTZwcWdiWWdZdk1hOW8xa3hwZlZoZEJPU08?oc=5)
-- **MarketWatch Top Stories** (Thu, 11 Jun 2026 15:53:00 GMT): [Trump says U.S. will take Iran’s oil-export hub Kharg Island. Here’s what his threat really means.](https://www.marketwatch.com/story/trump-says-u-s-will-take-irans-oil-export-hub-kharg-island-heres-what-his-threat-really-means-25e95663?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 11 Jun 2026 15:46:00 GMT): [Micron’s stock rebounds after ‘healthy’ reset, and analysts see blue skies ahead](https://www.marketwatch.com/story/microns-stock-rebounds-after-healthy-reset-and-analysts-see-blue-skies-ahead-624a53ef?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 11 Jun 2026 18:34:00 GMT): [Oil prices drop as Trump backs away from his threat of strikes on Iran](https://www.marketwatch.com/story/trump-says-u-s-will-take-irans-oil-export-hub-kharg-island-heres-what-his-threat-really-means-25e95663?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 11 Jun 2026 18:30:00 GMT): [There’s a ticking time bomb under the Paramount-Warner Bros. deal. Here’s what could set it off.](https://www.marketwatch.com/story/theres-a-ticking-time-bomb-under-the-paramount-warner-bros-deal-heres-what-could-set-it-off-e7ca9da4?mod=mw_rss_topstories)
+- **Google News Markets** (Thu, 11 Jun 2026 17:32:19 GMT): [Options pricing suggests Q2 earnings won't salvage Adobe stock - Invezz](https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVBxX3pXNElDNGFvOWwtbUZ1RHBTM29KOEd6ZnRoTVRHUlB6dGdWelROQXRRTkJncHhEZkV2TnFNeVZ3T3RsNGl6VkVPa29BSzZ3OV9Ja3RHTHRQdWhEaFRKQm5DdUJSY1RWUnVFLWxTbm1PcE9jZUpOaDdUUmFQX2V0d0RzM3IxNTZUcmx5OVI4NlBZczl1OWRVUFpfU1B3Ync?oc=5)
+- **Google News Markets** (Thu, 11 Jun 2026 16:51:27 GMT): [Oracle shares tumble on earnings. But there's a silver lining for our AI chip and power stocks - CNBC](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUotWWtENVFySVlLTzhoZllPMG0yclliQk5jenpGTnNQTVZDMWIwRUVRQ0lUMEFMM1R4aFJZQlBsbTh3OXZmSzlJUWhhaWJnSFpQdG9pNXU4SDJ4MnhBWUY5Wnp6d0JHMzRLcUVTM2lRanQtTlZJM2M5cTdjYklxMkUtWjRrYjRGOFRiTkFtN29hT0RiMGtnMmlGX0dLQjJnSF9QVzNET1Z1c3RycjR3YTB2QmVPYm5nbURlM3paQkUteHlQLVlnWA?oc=5)
 - **Google News Markets** (Thu, 11 Jun 2026 16:46:00 GMT): [Adobe Stock Needs a Boost. Earnings Might Not Be Enough. - Barron's](https://news.google.com/rss/articles/CBMid0FVX3lxTE1WaHVaVG0ycXAxWHVIMk1vRndxOXZsU0NBRzRkTWs4MUo5TW8zOFNiajY5SEtYVWRsa2pBM0g0OVVfWktDSEJBSDZELTlzenNMX2ZXX1RQWnlGREJuVG9LTFFrUDJhbjVfRzlrVTB2NHA5dFZScm5n?oc=5)
 - **Google News Markets** (Thu, 11 Jun 2026 16:30:38 GMT): [Adobe Drops Before Earnings With AI Jitters Knocking ADBE Near 2019 Risk Area - TechStock²](https://news.google.com/rss/articles/CBMinwFBVV95cUxPbWZqQ09CS2FIQnI4b0V5ZUtEMEgyYWhpd1VhUTM5bEtGcVEzRlRUS3ZDZEhJcFJISHJZbWpXSXEtSjhuVlpLMEk1dlZwZzcydFdyZFZ2R21ydGlyYUFZcGxmbXh0OVdqMEpDNDRiSkdMRXNTYXM3OUxnbVJuYXRLVFloRVRXSzVUeTBtNHdJVXlFNjBXYnc4VUIzb3YxVGc?oc=5)
 - **Google News Markets** (Thu, 11 Jun 2026 14:04:21 GMT): [ADBE Stock Rises Ahead Of Q2 Earnings Report Today – Michael Burry Thinks The Market May Be Underpricing Adobe - Stocktwits](https://news.google.com/rss/articles/CBMiggJBVV95cUxNajNWbFlSRjYxWTBwd1AxRVNYTDdacC1IaTlCN193ZTljX0xGLVd0VURIRGFkNjlnQy1zSElodDRDcTJnMGZ2TEdQQzJ1N3hvT2FHOU95blZqTEVUR25JUUdORjByWVA0cHVtQ0MtcmtRWFJjY2tHUlRzeVlNVC1kN09UZnNtMEhyUVRnZHF6ZjQ5b2ZJQ0VlUnAwUmRTNmdaclpHT0dna3FpNEdJdWpXbWN1Nld4eGgwT21vRzd5VmdnUXhRMjJfWEtsVGdMTVFUVFpnZ0tfTWZKdkVwd2ptcUdEN19QVERtWWZzU29NMEE2TU55b3ZaZmI0ejVncmFMWWc?oc=5)
-- **Google News Markets** (Thu, 11 Jun 2026 13:19:38 GMT): [Oracle stock drops 10% after $20 billion raise even though earnings beat expectations - Ynetnews](https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2bTJENEdlazBDaS1hS21jZTZqVGIxMTNwZ3h5X0d1WHM5RVhkR2VPbTAzQkJWUUpxVF9teThtcG56YURoN0ZrWWNrQ25WbjR6dEhvZmtWWXJJTi1WZmtpVW5mUQ?oc=5)
 
 ## 5. Economic Calendar
 
