@@ -290,7 +290,7 @@ def get_active_section_note(data: ReportData) -> str:
     phase = data.market_phase
     as_of = f" Latest source timestamp: {data.active_stocks_as_of}." if data.active_stocks_as_of else ""
     if phase == "premarket":
-        return f"This section uses Nasdaq market movers during premarket hours.{as_of}"
+        return f"This section uses Yahoo Finance market lists during premarket hours.{as_of}"
     if phase == "regular":
         return (
             "Premarket-only movers are no longer available after 9:30 AM ET. "
@@ -508,6 +508,8 @@ def snapshot_note(snapshot: dict[str, object]) -> str:
     as_of = str(snapshot.get("active_stocks_as_of") or "")
     suffix = f" Latest source timestamp: {as_of}." if as_of else ""
     if phase == "premarket":
+        if snapshot.get("active_stocks_source") == "yahoo_regular_market_lists":
+            return f"Yahoo Finance market lists captured during premarket hours.{suffix}"
         return f"Nasdaq market movers captured during premarket hours.{suffix}"
     if phase == "regular":
         if snapshot.get("active_stocks_source") in {"yahoo_most_active", "yahoo_regular_market_lists"}:

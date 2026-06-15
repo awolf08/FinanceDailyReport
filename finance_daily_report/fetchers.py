@@ -97,7 +97,7 @@ def collect_report_data(report_date: date, settings: Settings) -> ReportData:
     if data.market_status.get("is_open") == "no":
         data.notes.append(SourceNote("Nasdaq market movers", "skipped", data.market_status.get("reason", "Market closed")))
     else:
-        if data.market_phase == "regular":
+        if data.market_phase in {"premarket", "regular"}:
             data.active_stocks, data.active_stocks_as_of = fetch_yahoo_regular_market_lists(10, data.notes)
             data.active_stocks_source = "yahoo_regular_market_lists"
         else:
