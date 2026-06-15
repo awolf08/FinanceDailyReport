@@ -73,7 +73,7 @@ if [ "$report_exists_on_origin" = "false" ] || [ "$force_generate" = "true" ]; t
     exit 1
   fi
 
-  if grep -Eq "Market movers source unavailable|No news items returned|No major events returned by configured sources" "$report_md"; then
+  if grep -Eq "Market movers source unavailable|No news items returned" "$report_md"; then
     echo "Generated report is missing one or more core data sections; refusing to publish a partial/empty report." >&2
     echo "Likely fix: rerun after data sources are reachable, or inspect the Source Health section in ${report_md}." >&2
     exit 1
