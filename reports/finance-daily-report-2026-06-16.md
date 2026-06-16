@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-16
 
-_Generated: 2026-06-16 09:55:06 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-16 11:55:08 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -229,20 +229,85 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
+### 11:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:55 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $208.57 | +16.07 | +8.35% | 259,312,029 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $15.85 | +0.39 | +2.52% | 111,249,062 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $13.98 | -0.84 | -5.63% | 102,316,176 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $119.15 | -8.71 | -6.81% | 91,265,645 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $17.97 | +0.84 | +4.90% | 82,125,336 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $208.97 | -3.48 | -1.64% | 75,882,188 |
+| **[SNAP](https://finance.yahoo.com/quote/SNAP/)** | Snap Inc. | $5.41 | -0.30 | -5.31% | 68,980,621 |
+| **[KEEL](https://finance.yahoo.com/quote/KEEL/)** | Keel Infrastructure Corp. | $6.20 | +0.54 | +9.45% | 48,591,811 |
+| **[NFLX](https://finance.yahoo.com/quote/NFLX/)** | Netflix, Inc. | $78.54 | -3.13 | -3.84% | 43,566,476 |
+| **[ACHR](https://finance.yahoo.com/quote/ACHR/)** | Archer Aviation Inc. | $5.50 | -0.05 | -0.90% | 42,841,038 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.96 | -0.09 | -0.99% | 178,002,100 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $81.03 | -3.56 | -4.21% | 53,731,788 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $13.47 | -0.42 | -3.01% | 48,879,315 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $37.88 | +1.57 | +4.34% | 42,289,734 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $238.05 | -34.45 | -12.64% | 40,305,126 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $68.46 | -2.61 | -3.67% | 36,074,216 |
+| **[DRIP](https://finance.yahoo.com/quote/DRIP/)** | Direxion Daily S&P Oil & Gas Ex | $5.20 | +0.06 | +1.17% | 34,535,253 |
+| **[SPDN](https://finance.yahoo.com/quote/SPDN/)** | Direxion Daily S&P 500 Bear 1X | $8.69 | +0.03 | +0.29% | 30,912,969 |
+| **[QQQ](https://finance.yahoo.com/quote/QQQ/)** | Invesco QQQ Trust, Series 1 | $733.09 | -10.91 | -1.47% | 30,373,302 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $7.94 | +0.15 | +1.92% | 30,221,598 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[LION](https://finance.yahoo.com/quote/LION/)** | Lionsgate Studios Corp | $16.42 | +2.05 | +14.23% | 12,063,343 |
+| **[INOD](https://finance.yahoo.com/quote/INOD/)** | Innodata Inc. | $110.48 | +10.82 | +10.86% | 1,807,007 |
+| **[CRWV](https://finance.yahoo.com/quote/CRWV/)** | CoreWeave, Inc. | $118.03 | +11.32 | +10.60% | 32,742,841 |
+| **[SSRM](https://finance.yahoo.com/quote/SSRM/)** | SSR Mining Inc. | $31.82 | +2.88 | +9.95% | 2,759,062 |
+| **[EOSE](https://finance.yahoo.com/quote/EOSE/)** | Eos Energy Enterprises, Inc. | $6.99 | +0.61 | +9.56% | 32,399,872 |
+| **[MRNA](https://finance.yahoo.com/quote/MRNA/)** | Moderna, Inc. | $56.88 | +4.75 | +9.11% | 8,380,258 |
+| **[MGNI](https://finance.yahoo.com/quote/MGNI/)** | Magnite, Inc. | $18.30 | +1.55 | +9.24% | 3,648,020 |
+| **[KEEL](https://finance.yahoo.com/quote/KEEL/)** | Keel Infrastructure Corp. | $6.20 | +0.54 | +9.45% | 48,594,716 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $208.56 | +16.06 | +8.34% | 259,313,344 |
+| **[MWH](https://finance.yahoo.com/quote/MWH/)** | SOLV Energy, Inc. | $34.81 | +2.63 | +8.19% | 982,447 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[GIL](https://finance.yahoo.com/quote/GIL/)** | Gildan Activewear, Inc. | $50.50 | -11.47 | -18.51% | 12,240,176 |
+| **[HUN](https://finance.yahoo.com/quote/HUN/)** | Huntsman Corporation | $13.07 | -2.82 | -17.72% | 20,935,405 |
+| **[AXTI](https://finance.yahoo.com/quote/AXTI/)** | AXT Inc | $95.44 | -15.30 | -13.82% | 7,289,978 |
+| **[AAOI](https://finance.yahoo.com/quote/AAOI/)** | Applied Optoelectronics, Inc. | $172.64 | -18.91 | -9.87% | 9,560,750 |
+| **[PLBL](https://finance.yahoo.com/quote/PLBL/)** | Polibeli Group Ltd | $7.91 | -0.81 | -9.29% | 159,572 |
+| **[MIAX](https://finance.yahoo.com/quote/MIAX/)** | Miami International Holdings, I | $40.11 | -4.00 | -9.07% | 2,729,997 |
+| **[CBOE](https://finance.yahoo.com/quote/CBOE/)** | Cboe Global Markets, Inc. | $268.02 | -24.89 | -8.50% | 1,724,842 |
+| **[SXT](https://finance.yahoo.com/quote/SXT/)** | Sensient Technologies Corporati | $111.61 | -10.33 | -8.47% | 1,028,844 |
+| **[BLSH](https://finance.yahoo.com/quote/BLSH/)** | Bullish | $26.24 | -2.36 | -8.25% | 1,521,272 |
+| **[PL](https://finance.yahoo.com/quote/PL/)** | Planet Labs PBC | $28.07 | -2.51 | -8.21% | 18,681,744 |
+
+Source health:
+- NYSE calendar 2026-06-16: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
 ## 4. Latest Market News
 
-- **Google News Markets** (Tue, 16 Jun 2026 15:58:07 GMT): High priority | [Dow Marks Record High; S&P 500, Nasdaq Slip Ahead of Fed Decision - TechStock²](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeHg3R1pqT1dIc29GaUtRc3lsdWFaSlAwOGVId2lVRUI3VzVTMTl5UFVRUlNjSGNVbExaX1NlbTFrMmdHSnFVT3U0NWUtbDRQV0h5NDZyNzlvLWQwSlFYdTQxVjZSVHhfWW4zUWVfYUgycXllUmhLMWIxQUtvQWRpTW1mdUNYWDhydllJ?oc=5)
-- **Google News Markets** (Tue, 16 Jun 2026 14:07:49 GMT): High priority | [Dow rises 380 points as investors await Fed decision, SpaceX extends rally - Invezz](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVZEMHQzZVJNZG9XRFVYVV9ZZ0tubGxlckpyTWFGc3pmTDJ3d0RMeC1Dd2VOeENtVUoxdGJmWDZ2UUFXbUpOck82bnUyc184alFkYWJxS21zeXQwUUFJWFluWERLcWNmN0UwTzFfUGV1NmxvSlJ0RW9YRGsteXdXVXJUSVVKdFpCWFRrQnRJZ0FFNVFFT3ZfMjdqcnRFTmo4eWZDS2VJQWpZRnZiQ2kteHRB?oc=5)
-- **Google News Markets** (Tue, 16 Jun 2026 13:41:02 GMT): High priority | [STRS Q3 2023 Earnings: Loss Per Share of $0.35, Stock Edges Higher Amid Limited Guidance - ROIC Trend Report - newsline.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbV9RTjZLTFd6VE1kekplczl6ZDN4ckZGRUQtQnZIRV8zMEdKWWdDX0ZGLWRXdXRhRk80WWNxbGdlajJ1dkx5d3ZqcFRMOWpSQVZjVUdDaGpmamFMRWlUb2JmM0xWWTl4ZDlhSlE5bDJZdzkzWUk2OHk1ZkhOUTRLUENqMjN0LXU5amliLUZERkxwR1h2WGdtZktFclJPM1BCT1lhR2NVd1FCR0p6c1B6VTZPbHp0Tno1WWVCNTVDdHVqdUU?oc=5)
-- **Google News Markets** (Tue, 16 Jun 2026 12:18:05 GMT): High priority | [The Dow hits a record, SpaceX stock soars before Fed meeting - qz.com](https://news.google.com/rss/articles/CBMiakFVX3lxTFBFMDF4NVJKeE5yZlc4ZlZPTENrUkF2eW1PaTlTOFYwZUFLQXFZVThSV1gweVRscWZ5V0hrbU5YLUVKM1ZIaGUzVENtTlEwZ1JpUHZvUHNvMDZvVkVtUzlJaWZ6VUp2cWtVNmc?oc=5)
-- **Google News Markets** (Tue, 16 Jun 2026 12:05:11 GMT): High priority | [Dave and Buster's Reports Downbeat Q1 Earnings, Joins Alvotech And Other Big Stocks Moving Lower In Tuesd - Benzinga](https://news.google.com/rss/articles/CBMilAJBVV95cUxQZ0RSWUl1TDl3RDhrY3pwaXFoTUd0YVljT1E2bzBYaW5vSjZjWW1QYUUtUXVjei1SN2ZhbDltMW9jMUZjNDhhRDdONmJHbHZXT2F1MmtaTkVUazdwS0o1MVdzV1dHRnNUY2w3aGwydmt0REc0WU9KcFlVcWxQRkd4ajlYWTZaekV2UzRBT0MyZm1OZk9oaklOT0JmaUMzbVRfYUJZbHQ2MG1kLU9CVWZIN3dtQTlZWmtrdDNadlZGbUtCUzNmX09jNDVDbEdtdUhUNXhIVzh5cUZxOWR6Vl9PY1hFOU9mVXpxMFRPZUd0U0FUbDRLUG5CcE16bTQtM0pzVVhuX2VpczJ5Q1l1TXhzUjdGbGY?oc=5)
-- **Google News Markets** (Tue, 16 Jun 2026 11:45:28 GMT): High priority | [AT&T Shares Slip; Sector Lags S&P With Fed Decision and Earnings On Deck - TechStock²](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVnRWbUlrcDBTZUNiU2djbFVMdVB4QVV1S3NYTFd4RUx2dTJmY0IzLTNhbUs4T05KTFlKb2JCYzBHZHZQeGxDcUI4dGpfWF9ndjBtVktMQkpkdFJUQkFXalpHZE5JOF8xVHFmUlM3X0VuQXVzNHlEOXV3VVBtY21ETXBaajNhSFE0NXpqekxMWFl1VzRJ?oc=5)
-- **Google News Markets** (Tue, 16 Jun 2026 11:19:31 GMT): High priority | [Capital Economics: Federal Reserve Expected to Hold Rates Steady This Week, Watch Out for Hawkish Risks in Waller’s Debut - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEd3ladUdpN3Z6LXc2TEoxZVRxVDY5d2VuNGVNZWpwZ1pPZkRmanQ1eXFNempTQ19fYWluWG5qZVN4aElrSHJ3azhIV181RHpJX1VzamlFY0ZuUjctX2YzMFIyTdIBY0FVX3lxTFBEd3ladUdpN3Z6LXc2TEoxZVRxVDY5d2VuNGVNZWpwZ1pPZkRmanQ1eXFNempTQ19fYWluWG5qZVN4aElrSHJ3azhIV181RHpJX1VzamlFY0ZuUjctX2YzMFIyTQ?oc=5)
-- **Google News Markets** (Tue, 16 Jun 2026 08:52:39 GMT): High priority | [UBS latest forecast: The Federal Reserve will cut rates by 25 basis points each in March and June 2027. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JNWoyVXkyUmJTWHVYX2ROb2dvY1JMeHEwUlJJRVZKS0RWMi1oWDNJbmJySlQ5Q3Bwc2twOEp5WTJ4cVNSY29KQnc1X0xvY3R6bHRPcmswUHQwVEU1NmlhRDdva9IBY0FVX3lxTE5JNWoyVXkyUmJTWHVYX2ROb2dvY1JMeHEwUlJJRVZKS0RWMi1oWDNJbmJySlQ5Q3Bwc2twOEp5WTJ4cVNSY29KQnc1X0xvY3R6bHRPcmswUHQwVEU1NmlhRDdvaw?oc=5)
-- **Google News Markets** (Tue, 16 Jun 2026 08:22:40 GMT): High priority | [Russell Investments: Institutions Generally Expect the Federal Reserve Will Not Raise Interest Rates Again - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LSXp5am9EZUE1WmdaeHZ6WXdJYzhHcDQ3aVB6SjRIZGVmZGFfYVp0aUFjZkxheU1jVm5rdmpMN3RNaW1EZE0yZklYNERtVi16enBHMjBIWDB0UFBPRVF5ZDdDa9IBY0FVX3lxTE9LSXp5am9EZUE1WmdaeHZ6WXdJYzhHcDQ3aVB6SjRIZGVmZGFfYVp0aUFjZkxheU1jVm5rdmpMN3RNaW1EZE0yZklYNERtVi16enBHMjBIWDB0UFBPRVF5ZDdDaw?oc=5)
-- **Google News Markets** (Tue, 16 Jun 2026 01:19:14 GMT): High priority | [Federal Reserve Policy Risks AI-Fueled Stock Bubble, Wall Street Warns - AOL.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFAxSC14SFA1ZVQ5UFBRdmk4eHdLWFJvVWFLaC1ia2pFZjZsb3ZvZ21mYnBLdDNzZHl3T2t3Nm5IcFpWdXRFY3ZoR1NyeEl6dnVtbzl0RUhZTHZYRXU2dFEtVE5KTjN0QmlvVzFZckREYXhnbEp0S19GanZKS1puc0U?oc=5)
-- **Google News Markets** (Mon, 15 Jun 2026 19:41:30 GMT): High priority | [Compass Inc. (COMP) Q1 2026 Earnings: Significant EPS Beat Drives Positive Stock Movement - Margin Guidance - newsline.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOdjNCaTBKVUx4c0tBbUI4MmpTRk9rMlpKLUVQb1BzRjZKWFA3YmdlajJ4cGN6di1tQjVZVUxHdXZncUgwcjdkVFVCM2tzMmplemtIV1ZjZ1BlcTByZjZKSl85TnhiVVdPeGFVbll2QUdPak9MbXJnNXJvc21fLWVIci1oaVltVVh2SkxOZVZGNVhLQmZncFVyd3E5dDdlRWxjWjdjYnIyX1B4OE9tTE9DYkRFLV85LTZnN0Jqd0g4VGNsNjJp?oc=5)
+- **MarketWatch Top Stories** (Tue, 16 Jun 2026 18:16:00 GMT): [What have the U.S. and Iran agreed to? This is what markets are focused on.](https://www.marketwatch.com/story/what-have-the-u-s-and-iran-agreed-to-this-is-what-markets-are-focused-on-fefbfa08?mod=mw_rss_topstories)
 - **MarketWatch Top Stories** (Tue, 16 Jun 2026 16:50:00 GMT): [Global oil prices break below $80 for the first time since the Iran war began. Ships still aren’t passing through Hormuz.](https://www.marketwatch.com/story/global-oil-prices-break-below-80-for-the-first-time-since-the-iran-war-began-ships-still-arent-passing-through-hormuz-83aa3e1e?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Tue, 16 Jun 2026 15:41:00 GMT): [Here’s when gas prices will come down if the U.S. deal to end the Iran war pans out](https://www.marketwatch.com/story/heres-when-gas-prices-will-go-down-now-that-theres-a-deal-to-end-the-iran-war-6a482f4d?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Tue, 16 Jun 2026 15:39:00 GMT): [Oil may move through the Strait of Hormuz first, leaving fertilizer supplies stranded](https://www.marketwatch.com/story/oil-may-move-through-the-strait-of-hormuz-first-leaving-fertilizer-supplies-stranded-0897742c?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Tue, 16 Jun 2026 17:30:00 GMT): [Chicken tenders are taking over the world, and KFC is rushing to keep up](https://www.marketwatch.com/story/chicken-tenders-are-taking-over-the-world-and-kfc-is-rushing-to-keep-up-3b637c99?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Tue, 16 Jun 2026 16:40:00 GMT): [America’s fertility rate has never been lower. Blame smartphones — and these 4 financial realities.](https://www.marketwatch.com/story/americas-fertility-rate-has-never-been-lower-blame-smartphones-and-these-4-financial-realities-d58aa598?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Tue, 16 Jun 2026 16:28:00 GMT): [I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?](https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Tue, 16 Jun 2026 16:10:00 GMT): [These life-insurance policies are booming. Here’s who should — and shouldn’t — buy one.](https://www.marketwatch.com/story/these-life-insurance-policies-are-booming-heres-who-should-and-shouldnt-buy-one-a1065882?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Tue, 16 Jun 2026 16:00:00 GMT): [‘I’m a realist’: I’m 50 with $6.5 million saved. Should I quit my $200,000 job and retire early?](https://www.marketwatch.com/story/im-a-realist-im-50-with-6-5-million-saved-should-i-quit-my-200-000-job-and-retire-early-a89624fa?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Tue, 16 Jun 2026 15:56:00 GMT): [Want to improve your credit score? Here’s how to ask for a credit-limit increase.](https://www.marketwatch.com/story/need-a-credit-score-boost-call-your-credit-card-company-and-ask-for-this-but-proceed-with-caution-c1d028c5?mod=mw_rss_topstories)
 
 ## 5. Economic Calendar
 
@@ -263,7 +328,7 @@ Source health:
 - **08:30** Housing Starts | Previous: -8.5% | Source: Nasdaq
 - **08:30** Import Price Index | Previous: 4.2% | Source: Nasdaq
 - **08:55** Redbook | Previous: 9.1% | Source: Nasdaq
-- **10:00** Atlanta Fed GDPNow | Forecast: 3.3% | Previous: 3.3% | Source: Nasdaq
+- **12:00** Atlanta Fed GDPNow | Forecast: 3.3% | Previous: 3.3% | Source: Nasdaq
 - **13:00** 20-Year Bond Auction | Previous: 5.122% | Source: Nasdaq
 - **16:30** API Weekly Crude Oil Stock | Forecast: -4.500M | Previous: -9.119M | Source: Nasdaq
 - **8:30 AM** Advance Monthly Sales for Retail and Food Services (May 2026) | Source: Census
