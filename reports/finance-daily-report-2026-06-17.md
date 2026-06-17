@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-17
 
-_Generated: 2026-06-17 06:55:07 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-17 09:55:10 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -166,20 +166,87 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
+### 9:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 12:55 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $195.48 | -6.32 | -3.13% | 141,025,874 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $14.03 | +0.06 | +0.39% | 62,249,762 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $18.43 | +0.72 | +4.06% | 60,926,472 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $15.82 | +0.11 | +0.73% | 61,055,472 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $122.07 | +5.02 | +4.29% | 51,780,027 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $207.26 | -0.15 | -0.07% | 50,507,387 |
+| **[NU](https://finance.yahoo.com/quote/NU/)** | Nu Holdings Ltd. | $13.31 | +0.59 | +4.60% | 50,190,731 |
+| **[HOOD](https://finance.yahoo.com/quote/HOOD/)** | Robinhood Markets, Inc. | $107.65 | +10.94 | +11.31% | 37,122,312 |
+| **[KEEL](https://finance.yahoo.com/quote/KEEL/)** | Keel Infrastructure Corp. | $6.14 | +0.18 | +2.94% | 32,717,669 |
+| **[EOSE](https://finance.yahoo.com/quote/EOSE/)** | Eos Energy Enterprises, Inc. | $7.93 | +1.12 | +16.44% | 27,368,889 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.96 | +0.04 | +0.45% | 183,525,256 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $80.69 | +0.76 | +0.95% | 34,027,418 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $7.76 | -0.11 | -1.40% | 33,572,140 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $38.00 | -0.35 | -0.91% | 31,465,024 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $13.39 | -0.06 | -0.48% | 30,265,521 |
+| **[DRIP](https://finance.yahoo.com/quote/DRIP/)** | Direxion Daily S&P Oil & Gas Ex | $5.25 | +0.03 | +0.58% | 27,945,554 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $246.88 | +20.69 | +9.15% | 24,067,321 |
+| **[SPY](https://finance.yahoo.com/quote/SPY/)** | State Street SPDR S&P 500 ETF T | $750.01 | -0.32 | -0.04% | 19,902,085 |
+| **[SPDN](https://finance.yahoo.com/quote/SPDN/)** | Direxion Daily S&P 500 Bear 1X | $8.71 | -0.00 | -0.00% | 19,577,781 |
+| **[XLE](https://finance.yahoo.com/quote/XLE/)** | State Street Energy Select Sect | $55.04 | -0.32 | -0.58% | 19,349,483 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[QURE](https://finance.yahoo.com/quote/QURE/)** | uniQure N.V. | $46.86 | +19.87 | +73.62% | 13,309,868 |
+| **[BRAI](https://finance.yahoo.com/quote/BRAI/)** | Braiin Limited | $9.71 | +2.22 | +29.64% | 1,092,390 |
+| **[QNT](https://finance.yahoo.com/quote/QNT/)** | Quantinuum Inc. | $65.45 | +10.02 | +18.08% | 2,149,299 |
+| **[EOSE](https://finance.yahoo.com/quote/EOSE/)** | Eos Energy Enterprises, Inc. | $7.93 | +1.12 | +16.44% | 27,368,889 |
+| **[WOLF](https://finance.yahoo.com/quote/WOLF/)** | Wolfspeed, Inc. | $51.07 | +6.07 | +13.49% | 4,480,871 |
+| **[BHVN](https://finance.yahoo.com/quote/BHVN/)** | Biohaven Ltd. | $13.66 | +1.57 | +12.99% | 4,231,062 |
+| **[TE](https://finance.yahoo.com/quote/TE/)** | T1 Energy Inc. | $9.66 | +1.03 | +11.96% | 22,423,306 |
+| **[USAR](https://finance.yahoo.com/quote/USAR/)** | USA Rare Earth, Inc. | $24.31 | +2.57 | +11.81% | 10,460,553 |
+| **[NAVN](https://finance.yahoo.com/quote/NAVN/)** | Navan, Inc. | $21.23 | +2.20 | +11.56% | 4,014,017 |
+| **[NTLA](https://finance.yahoo.com/quote/NTLA/)** | Intellia Therapeutics, Inc. | $16.22 | +1.66 | +11.44% | 7,615,799 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SLBT](https://finance.yahoo.com/quote/SLBT/)** | SL Science Holding Limited Ordinary Shares | $6.25 | -2.64 | -29.70% | 1,138,721 |
+| **[RGC](https://finance.yahoo.com/quote/RGC/)** | Regencell Bioscience Holdings L | $14.77 | -1.96 | -11.72% | 118,573 |
+| **[CVNA](https://finance.yahoo.com/quote/CVNA/)** | Carvana Co. | $64.40 | -5.64 | -8.05% | 7,748,867 |
+| **[KMX](https://finance.yahoo.com/quote/KMX/)** | CarMax Inc | $48.04 | -4.07 | -7.80% | 4,076,541 |
+| **[LION](https://finance.yahoo.com/quote/LION/)** | Lionsgate Studios Corp | $15.09 | -1.27 | -7.76% | 2,621,306 |
+| **[SATS](https://finance.yahoo.com/quote/SATS/)** | EchoStar Corporation | $113.77 | -7.20 | -5.95% | 8,295,765 |
+| **[MBLY](https://finance.yahoo.com/quote/MBLY/)** | Mobileye Global Inc. | $9.08 | -0.54 | -5.64% | 3,764,673 |
+| **[SMTC](https://finance.yahoo.com/quote/SMTC/)** | Semtech Corporation | $152.88 | -8.71 | -5.39% | 1,505,886 |
+| **[CBOE](https://finance.yahoo.com/quote/CBOE/)** | Cboe Global Markets, Inc. | $250.17 | -15.07 | -5.68% | 1,882,570 |
+| **[KB](https://finance.yahoo.com/quote/KB/)** | KB Financial Group Inc | $108.10 | -6.07 | -5.32% | 360,048 |
+
+Source health:
+- NYSE calendar 2026-06-17: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
 ## 4. Latest Market News
 
+- **Google News Markets** (Wed, 17 Jun 2026 04:46:25 GMT): High priority | [Canadian stock index edges lower as oil prices hover at low levels, awaiting guidance from the Federal Reserve decision - Bitget](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMdGp0UVhjQzRhMzBrd1VqRDRYbklXQ19JOF9OaEFuRzgxRk5sT0M5ekFLSHNpSi1ETk44U09nUURBSzdyTkkzdUZDQmtORXFBMmFaMXZ2V3ZScGRxZ2fSAWNBVV95cUxOamx5dnVkQjhyY2dlVm12eHhoWmRqTVRkN01WcVQyRlk4RHpvNGkyVjBhV044eWZPYUxpeEpybmZxQ2tnTmVBNFZSako5Uml2LUR5Nnd4NDBQcndZX0ZtUTRaWXc?oc=5)
 - **Google News Markets** (Tue, 16 Jun 2026 23:23:16 GMT): High priority | [Nasdaq and S&P 500 slip while Dow hits record close - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxONEpZcjB1UUpuN05zN283anhrUE9FaHJWOGRPTnF6VWdLcEkwT3U5OWhjM05VckRjMFpnS2dDR2dtdXNDc0pYdkhxdXpnbExoM2loNmRsN29qLXVEYUdpZEI2cEpISFJXZkJXeGNzV292S0tCUVhZd2lRX1hlNFdaOXp2dEJ2LUh1dm9reFE3VlFnZE5salNHUXlmS3A4WlkwNVZ5aHhZZ29ENnExMEVkQjVB?oc=5)
-- **Google News Markets** (Tue, 16 Jun 2026 16:08:41 GMT): High priority | [The first test for Kevin Warsh at the US Federal Reserve... Expected scenarios put the dollar to the test - arabictrader.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLUhCdTNYY2VadlUxSmJTeEpoZ1AwRmJ2NVhieWlSYWpjU05GTUQtN1pYTzd2VEl4elltQ2dMVjV3MTJrSkJ6dS04WE1jRGl3SzhHa1I3aHBvWDlya2JPVkRycEVCZDd3VUtvQ0RlemJwU2kxUHRTY0p5Qy13V0ZxWGhGMzc5SldFN29xcmU2SmxZVU5TUmRjMms5OEdhZnRNWE5mMm56OHhTWkFlRS01Qzlod0xZMzM5cExVWVRSMTExeDBvNk81YTh3R1paNmFabTRBQkpFS0V3ZXF6MlhydENkaUJPWnBDdmc?oc=5)
-- **Google News Markets** (Tue, 16 Jun 2026 15:30:25 GMT): High priority | [Dow Targets Consecutive Record High as Federal Reserve Convenes Under New Leadership - parameter.io](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbS1LRTNGcnJ2TWZRcTZXcUZwMWVhWXQ4SE95SXdJeXhncFBsZzRBN3BCRENUYjJzUno4RW1rZFFLSDR5WnpKVm5GUFBRcERlTXdLLWFkRWEtY1ZhWXJNQTRiMkI1U1p3M0FVU2xreHBnTVUwZkdWaEFqa0NsMGVwb0FxS0JzOWprbHNOdXFsX01BQnI5ZkhHY2h3SFRJRTJ4WVNLUnkyYUtmdw?oc=5)
+- **Google News Markets** (Wed, 17 Jun 2026 15:59:53 GMT): High priority | [Arvind Sanger: Cautiously Optimistic on India as Earnings Revival Takes Center Stage - Long-Term Guidance - newsline.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXhfVnVTT29xU2NEbEJWTmw2ckMzblFUakNGcmg1ZlR6TXpRTnVYaUdXRDBKeFdQaTBFYWFwTS1HdHVkNWU2Vi1DclpaTXR3VmxrUWMyRGRyWDJfS1U2c2FSVEt1MGFsYmFZd1FCYld1YmdQUnFsU0UwcG5RUDBZdDNrSnNsaHNJXzdjR213V3NmYVkwQWtUZWJMRWFrZUd2alVvNWlJV1V3Tm8ya0JCNjhwQnJuSVRkUlFhOU92ckw3QQ?oc=5)
+- **Google News Markets** (Wed, 17 Jun 2026 15:48:00 GMT): High priority | [Wall Street struggles as investors await Federal Reserve rate policy (SP500:) - Seeking Alpha](https://news.google.com/rss/articles/CBMikgFBVV95cUxObVpRcm9RTGVnSUhlZ2ZvTmp3WVF5VllVQTlvVlVJdG1RSVNNczdTQWI2UndpSUM0aUN0NFdiSlVBR1p6VTgyZG5kZGxaWF9yWjA2TXhlVmNydlJLYkFqSmozWGN2ZG9sTHVrRTVXZGU0eGhYa3JKY0F0aTdVZ0xYZXBXVEozV0thb1l2NHQ0SHg1QQ?oc=5)
+- **Google News Markets** (Wed, 17 Jun 2026 14:01:12 GMT): High priority | [Dow opens 50 points higher as investors await Fed decision, chip stocks rise - Invezz](https://news.google.com/rss/articles/CBMitAFBVV95cUxPc1hwS25RM2lzYVVBTmd5SjdOeUlocmhqRXBOOEk1cWNEY1d6Rl9YZkNFaFVGNEpWM2VXZE5iTkFNdUg2aURzalRCeW40NEhOSTcyMjhjeDRyTVpiWllWamJETS0zMzh1LWlldl9STnczZjcwV3A4UF9aWU0zVHNHWi1scEN3SDNHZkZ0b2QwejF4U2FtSmphMFBoaUpObXVrX1A1WE1ZWDBfY3czenlhMTVTck8?oc=5)
+- **Google News Markets** (Wed, 17 Jun 2026 13:59:44 GMT): High priority | [U.S. Stock Market Premarket News: Waller Makes His Federal Reserve Debut; Nvidia Increases Investment in Optical Interconnect Capacity - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE94NldsTnp5UWhNYzBrZW9Jckw4TE4waXktOFVKakRhMDZXOVFaTFIweUlKQzZudTFhZ2liVVpXRVAtdW04c25QLTRydmxmcmctZXpCakdZcDlxYVZ0UlNzZ1VVb9IBY0FVX3lxTE94NldsTnp5UWhNYzBrZW9Jckw4TE4waXktOFVKakRhMDZXOVFaTFIweUlKQzZudTFhZ2liVVpXRVAtdW04c25QLTRydmxmcmctZXpCakdZcDlxYVZ0UlNzZ1VVbw?oc=5)
 - **Google News Markets** (Wed, 17 Jun 2026 11:26:09 GMT): High priority | [Wall Street braces for Federal Reserve's interest rate announcement today, with new Chair Kevin Warsh set to hold his first press conference at 2:30 p.m. ET - eciks.org](https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMDRRQk1feWFVNWpYRDBEZXdpNnVCWXhCbGxxcnB4OVNlMlBZWjRlcl9Cemc4OFlyRkFkemRmMVZrSEtaR0pKMW0tQ1o1VXZmR3hsNjJLVjJJQkR6bzNsc3RuR0Z2VjUyQUI3RVo2T1FLdGM?oc=5)
-- **Google News Markets** (Wed, 17 Jun 2026 11:01:55 GMT): High priority | [New Era at the Federal Reserve - Investing.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1QxcXZGTWhzeW5hNGZva3RkTGI1WDl5QW4wWkRlQzNUdUNNejVTTkVKd1NYTlVlRUNIb1dkQUliekx0dHV4eURLS2g4NHhadUh4eWJMdE5fQXhqLWt5Q3doNkNfd00tLXVJLTNXbWFUMzdFT200Sl9IUFVZWHBmQg?oc=5)
 - **Google News Markets** (Wed, 17 Jun 2026 10:17:00 GMT): High priority | [Warsh to face spotlight as Federal Reserve likely to leave interest rates unchanged - KOCO](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMU5LY2lSMW02a2I4bmpKUGczaDJXZ1Bsd1poUHRKUEFBdmduTkVDT25EMUZnV3VBcTVXbklRY1NZaW05LXMwR0ZNVldsbW9fYzlFMy1FeXdmZl8xR190YVcwZGxvVmlscWYwYlE1dTktdEwyT1MwVndvVThxLV9LTU5jRFY3c1pVaGc?oc=5)
 - **Google News Markets** (Wed, 17 Jun 2026 09:40:39 GMT): High priority | [Singapore Shares Stay in Green as US Federal Reserve Policy Decision Nears - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWVmOG5Rdm5YQmxYR3IxVWxuRldFQXlMYlZMQmVfM3FRblBEa0tTWENKa3R4aWFwLUY5b3QzTVJrZlJwQjctcll2Vk9vUExiLTQwbi1lN1ZVOVRKcTc5d2xkSHFxMzBkaW1wUFF2aHVkMnk5Qk51Mmc4aEpFaUJpNzRiaUczdw?oc=5)
 - **Google News Markets** (Wed, 17 Jun 2026 08:00:26 GMT): High priority | [Federal Reserve Policy Risks AI-Fueled Stock Bubble, Wall Street Warns - AOL.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE9aV3JXemVJVTZZdHFmeWViRk5qLVc2UmVZQUJrZkU3aVBxaTgzeXVtR0g2RXN4THRrWGl1aVJBeW43NzFEcWU5VWJTNTFfejF1dHJQR3V5QWlTU1RiOEZSR0tYb1A4YVkyVy1SS2czWHh2TWJLcG5OR095R1BERnM?oc=5)
 - **Google News Markets** (Wed, 17 Jun 2026 04:58:14 GMT): High priority | [US Stock Market: Wells Fargo raises S&P 500 target on stronger earnings outlook, easing macro risks - The Economic Times](https://news.google.com/rss/articles/CBMigwJBVV95cUxPbWtqZkllZjFNcWw2VFg0UTVTM1ZDQkt4ak85dHVMYVRmQmpQdkd6emFobkhvbWY0ZFlyckJoN1hkbHVtNkNlcklYQS1qdE95a1BKRDU3enVDTkg2U3k4eGRRQ3l6blVkVE5CVHRZUGJvQzRPWGRQdmd6S09mTFp1WFlRbTdDVlo0T0p2T3dhLXdKcV93LUtyT0ZaaVdDcFJfZnFGMGJWYkVfQV9ZNDhkVThXclA4RjdoVW9VTW5JT0lWc2lFOFVMOGF4VjFqSzA1NWg5aDNweWJOaGpXR1Ywa3BLMVoxRmdQMXZSSVNCSjRGeDM3RXdQMmRzazFGQkpxaXdB0gGIAkFVX3lxTE5zdGhiWnNuZTU4V1RyUXhBci1EZDdFYWtNRVUtSVJmZzhmVXQ1aE1VSHFmTmRYRk5HTF9taG9JdnNqMzd2YVk0eUlTbXgteHdjbS0xbjNzVjFaSWNRbnRfb2Zua0ZEN3AwQUZpMnhYc0RVQl9jZDNreTAtUnZnZFc2OXVKLXdUUHZReWJRYTNoZ1IyZmp2Tk9ycU5TRjVGM1lsM0trQnZLM2hwbUtaWFVqQnNCZGYxZnhGb0dQSVNyMG5wN0JTMC1ZRzJwajdybGdEbWxiTnNsanFid0NEQ0ZKaldrdWhpMlkzWTU2dHIxSjZ6MjRaSHBuSnRhSmgwMTBsZTB4dGJ4Qg?oc=5)
-- **Google News Markets** (Wed, 17 Jun 2026 04:24:00 GMT): High priority | [Yen attempts a recovery ahead of the Federal Reserve decision - Economies.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHdvYzk2clB2SFJRcVJmZ0NkWVpQZ3ExTV9YUjIwbVVHOW1aTWJET2VKVDNtME9qcS04TGF5RGZlWFE3RWoxYU1OQS1ISXZvam9aYWVoVHItYkVSbFZzYVlHdUNyRmlwRVBHb0V5OHMzNzNmblRRdkdGU2h5ajFTZmI5YUZ6SWdreHF0SXpfSmVMV193UlhScHhnT3BhUTlDSmJTTU1WRjFibDFkNGQ1ZmNn?oc=5)
-- **Google News Markets** (Wed, 17 Jun 2026 04:06:03 GMT): High priority | [BT Opening Bell | Sensex, Nifty open on a flat note ahead of US Federal Reserve policy decision - Business Today](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSjlRLXJ5R244MWFfTlY1eGp6OGxTZWhRdENNQlBtaUVtOXU2ZkkzZkprUi1mVjdlRjJTdTNtblpfRmkxMHg3bVE1YjVWMTVXSU9XUEI4WmthRHVQd0EzSy1lVjZfQ1ZHMXN4c3dNUDBDZnJPMXg0bTBnY3JITnB3Zk1OdjJsTnd0OGNlQmZMM3pVSEJsZ0xiZGV3OEhKc0hyVkFuc1doYzNWVm8yZzFfVlBuWElLU3hxODRMQk41QVhCbGVTVXpTZ1RNWElRNGVDeDJFeVV4aElVMnZJVFZWN2F2Y2ZCTUQ4UzJNUTV2QzRMZ9IB9wFBVV95cUxPLVI5dE02bmYxeVRtNk42SVR5NXlpQThRa3M4T0NKUXFXWkpBM0xNUGxiQXBaTFR3dWRneTZJdEJNMVp5ek92Q2YzMXVFSHRtcHBWbGx6b3BfdDNrUzJQQmlpTHlBc3psYXI1cXI2TGF4dkIxb1ptVHRIT3JFeHZuZ3hSdXE0Njl3Vi12dXJvYjhZcTQ1SmxPU3hXWkVwalV6LUJoeno3aU9wdkszNHlZZDZTMEdXcjBhWm1mWGRHaXFCMkw3SHdKLTlOak12QjZ2SGQySHhjaGlfT3A2NktQYWFDaDNrcC1RMEdBRFRCZ0R0b3B5eHZV?oc=5)
-- **Google News Markets** (Wed, 17 Jun 2026 03:00:21 GMT): High priority | [Why Flight Centre is rallying into an earnings downgrade - Market Index](https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ05fQk9hLXN4YUVjcllwTnpQYUFLeWdXSmdvQVFIaHgtNEZ3Ukx5MEJsR2tPY3U4bGZ1OW5BWUdjWUFZckRkbGc0ZG9tbDExdGRKYWFlZGlQSXJvclpRaEg3TzhPTTIyWUdMR0pVa1Q0eFNBblVIQ0x0ekZDaDlpQlo2c04wT2llYTBfdl9lTUpRWVpDUzY4?oc=5)
+- **Google News Markets** (Wed, 17 Jun 2026 04:24:25 GMT): High priority | [Federal Reserve's Policy Decision Draws Attention - Intellectia AI](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcXVyWGFRTGU4SVZyby02NlhIU19tcWtfQWZfaHlkdkVib0RWUXZvWlpXZFUxaXg5R1pTUHZwUGgxVk5aMFhMQUxHZ0ptcEEyRHpLcW5Sb1QzQ0h3MHpjaGU0X3RNdTFWV2VUQXJwcTRCdzlqU0FUOFFfN2stZU5WNS1KZkgxWW5nb3c?oc=5)
 
 ## 5. Economic Calendar
 
@@ -197,40 +264,27 @@ Source health:
 - **10:00 AM** Manufacturing and Trade: Inventories and Sales (April 2026) | Source: Census
 
 ### Tomorrow (2026-06-18)
-- **05:00** IEA Monthly Report | Source: Nasdaq
-- **07:00** MBA 30-Year Mortgage Rate | Previous: 6.60% | Source: Nasdaq
-- **07:00** MBA Mortgage Applications | Previous: 10.8% | Source: Nasdaq
-- **07:00** MBA Purchase Index | Previous: 176.9 | Source: Nasdaq
-- **07:00** Mortgage Market Index | Previous: 280.1 | Source: Nasdaq
-- **07:00** Mortgage Refinance Index | Previous: 848.7 | Source: Nasdaq
-- **08:30** Core Retail Sales | Forecast: 0.6% | Previous: 0.7% | Source: Nasdaq
-- **08:30** Retail Control | Forecast: 0.4% | Previous: 0.5% | Source: Nasdaq
-- **08:30** Retail Sales | Forecast: 0.5% | Previous: 0.4% | Source: Nasdaq
-- **08:30** Retail Sales Ex Gas/Autos | Previous: 0.5% | Source: Nasdaq
-- **09:30** U.S. President Trump Speaks | Source: Nasdaq
-- **10:00** Business Inventories | Forecast: 0.5% | Previous: 0.9% | Source: Nasdaq
-- **10:00** Pending Home Sales | Forecast: 0.8% | Previous: 1.4% | Source: Nasdaq
-- **10:00** Pending Home Sales Index | Previous: 74.8 | Source: Nasdaq
-- **10:00** Retail Inventories Ex Auto | Forecast: 0.6% | Previous: 0.4% | Source: Nasdaq
-- **10:30** Crude Oil Inventories | Forecast: -3.600M | Previous: -7.227M | Source: Nasdaq
-- **10:30** EIA Refinery Crude Runs | Previous: 0.081M | Source: Nasdaq
-- **10:30** Crude Oil Imports | Previous: 0.525M | Source: Nasdaq
-- **10:30** Cushing Crude Oil Inventories | Previous: -0.801M | Source: Nasdaq
-- **10:30** Distillate Fuel Production | Previous: 0.024M | Source: Nasdaq
-- **10:30** EIA Weekly Distillates Stocks | Forecast: -0.200M | Previous: -0.200M | Source: Nasdaq
-- **10:30** Gasoline Production | Previous: 0.296M | Source: Nasdaq
-- **10:30** Heating Oil Stockpiles | Previous: -0.246M | Source: Nasdaq
-- **10:30** EIA Weekly Refinery Utilization Rates | Previous: 0.6% | Source: Nasdaq
-- **10:30** Gasoline Inventories | Forecast: -1.400M | Previous: 0.186M | Source: Nasdaq
-- **11:30** Atlanta Fed GDPNow | Source: Nasdaq
-- **14:00** Interest Rate Projection - 1st Yr | Previous: 3.1% | Source: Nasdaq
-- **14:00** Interest Rate Projection - 2nd Yr | Previous: 3.1% | Source: Nasdaq
-- **14:00** Interest Rate Projection - Current | Previous: 3.4% | Source: Nasdaq
-- **14:00** Interest Rate Projection - Longer | Previous: 3.1% | Source: Nasdaq
-- **14:00** FOMC Economic Projections | Source: Nasdaq
-- **14:00** FOMC Statement | Source: Nasdaq
-- **14:00** Fed Interest Rate Decision | Forecast: 3.75% | Previous: 3.75% | Source: Nasdaq
-- **14:30** FOMC Press Conference | Source: Nasdaq
+- **08:30** Continuing Jobless Claims | Forecast: 1,800K | Previous: 1,795K | Source: Nasdaq
+- **08:30** Initial Jobless Claims | Forecast: 225K | Previous: 229K | Source: Nasdaq
+- **08:30** Jobless Claims 4-Week Avg. | Previous: 219.00K | Source: Nasdaq
+- **08:30** Philadelphia Fed Manufacturing Index | Forecast: 11.4 | Previous: -0.4 | Source: Nasdaq
+- **08:30** Philly Fed Business Conditions | Previous: 53.2 | Source: Nasdaq
+- **08:30** Philly Fed CAPEX Index | Previous: 30.90 | Source: Nasdaq
+- **08:30** Philly Fed Employment | Previous: -2.8 | Source: Nasdaq
+- **08:30** Philly Fed New Orders | Previous: -1.7 | Source: Nasdaq
+- **08:30** Philly Fed Prices Paid | Previous: 47.90 | Source: Nasdaq
+- **10:00** US Leading Index | Forecast: 0.1% | Previous: 0.1% | Source: Nasdaq
+- **10:30** Natural Gas Storage | Previous: 108B | Source: Nasdaq
+- **11:30** 4-Week Bill Auction | Previous: 3.595% | Source: Nasdaq
+- **11:30** 8-Week Bill Auction | Previous: 3.610% | Source: Nasdaq
+- **13:00** U.S. Baker Hughes Oil Rig Count | Previous: 433 | Source: Nasdaq
+- **13:00** U.S. Baker Hughes Total Rig Count | Previous: 562 | Source: Nasdaq
+- **16:00** US Foreign Buying, T-bonds | Previous: 13.50B | Source: Nasdaq
+- **16:00** Overall Net Capital Flow | Previous: 150.70B | Source: Nasdaq
+- **16:00** TIC Net Long-Term Transactions | Forecast: 72.5B | Previous: 81.3B | Source: Nasdaq
+- **16:00** TIC Net Long-Term Transactions including Swaps | Previous: 81.30B | Source: Nasdaq
+- **16:30** Fed's Balance Sheet | Previous: 6,725B | Source: Nasdaq
+- **16:30** Reserve Balances with Federal Reserve Banks | Previous: 3.111T | Source: Nasdaq
 
 ## Source Health
 
