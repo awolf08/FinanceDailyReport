@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-18
 
-_Generated: 2026-06-18 09:55:09 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-18 11:55:10 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -235,6 +235,73 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
+### 11:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:55 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $179.76 | -12.06 | -6.29% | 164,512,674 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $134.10 | +13.00 | +10.73% | 145,302,327 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $209.79 | +5.14 | +2.51% | 110,598,119 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $13.41 | -0.41 | -3.00% | 98,539,761 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $15.94 | +0.52 | +3.38% | 93,546,777 |
+| **[QS](https://finance.yahoo.com/quote/QS/)** | QuantumScape Corporation | $7.66 | +0.76 | +11.01% | 65,144,582 |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $322.85 | +33.31 | +11.51% | 56,938,803 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $17.76 | +0.34 | +1.95% | 56,558,179 |
+| **[PFE](https://finance.yahoo.com/quote/PFE/)** | Pfizer, Inc. | $25.30 | -0.62 | -2.41% | 54,017,654 |
+| **[SMCI](https://finance.yahoo.com/quote/SMCI/)** | Super Micro Computer, Inc. | $30.36 | +2.58 | +9.27% | 49,452,374 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.51 | -0.22 | -2.51% | 296,703,026 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $12.79 | -0.13 | -1.01% | 53,777,396 |
+| **[SPY](https://finance.yahoo.com/quote/SPY/)** | State Street SPDR S&P 500 ETF T | $746.70 | +7.64 | +1.03% | 53,543,317 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $82.96 | +5.42 | +7.00% | 49,638,966 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $36.76 | -2.76 | -6.97% | 48,282,731 |
+| **[SPDN](https://finance.yahoo.com/quote/SPDN/)** | Direxion Daily S&P 500 Bear 1X | $8.73 | -0.08 | -0.91% | 46,318,312 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $77.43 | +7.48 | +10.69% | 41,417,562 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $280.30 | +46.44 | +19.86% | 40,868,920 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $35.46 | -0.90 | -2.49% | 38,370,925 |
+| **[DRIP](https://finance.yahoo.com/quote/DRIP/)** | Direxion Daily S&P Oil & Gas Ex | $5.49 | +0.15 | +2.81% | 37,887,503 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BFLY](https://finance.yahoo.com/quote/BFLY/)** | Butterfly Network, Inc. | $8.70 | +2.99 | +52.45% | 43,612,007 |
+| **[WOLF](https://finance.yahoo.com/quote/WOLF/)** | Wolfspeed, Inc. | $54.94 | +6.25 | +12.84% | 5,834,780 |
+| **[CHRN](https://finance.yahoo.com/quote/CHRN/)** | ChronoScale Corporation | $23.23 | +2.62 | +12.71% | 436,832 |
+| **[ENTG](https://finance.yahoo.com/quote/ENTG/)** | Entegris, Inc. | $177.06 | +19.72 | +12.53% | 2,988,580 |
+| **[ACMR](https://finance.yahoo.com/quote/ACMR/)** | ACM Research, Inc. | $108.17 | +11.97 | +12.45% | 1,128,278 |
+| **[PENG](https://finance.yahoo.com/quote/PENG/)** | Penguin Solutions, Inc. | $66.93 | +7.25 | +12.15% | 2,268,370 |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $322.85 | +33.31 | +11.51% | 56,938,803 |
+| **[BE](https://finance.yahoo.com/quote/BE/)** | Bloom Energy Corporation | $317.75 | +32.76 | +11.50% | 8,707,518 |
+| **[EQPT](https://finance.yahoo.com/quote/EQPT/)** | EquipmentShare.com Inc | $26.00 | +2.64 | +11.31% | 2,223,247 |
+| **[HIMS](https://finance.yahoo.com/quote/HIMS/)** | Hims & Hers Health, Inc. | $35.38 | +3.49 | +10.94% | 21,304,469 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ACN](https://finance.yahoo.com/quote/ACN/)** | Accenture plc | $127.67 | -28.34 | -18.17% | 23,784,506 |
+| **[RGC](https://finance.yahoo.com/quote/RGC/)** | Regencell Bioscience Holdings L | $12.34 | -2.48 | -16.77% | 254,396 |
+| **[LEGN](https://finance.yahoo.com/quote/LEGN/)** | Legend Biotech Corporation | $28.19 | -5.33 | -15.90% | 10,222,452 |
+| **[SLBT](https://finance.yahoo.com/quote/SLBT/)** | SL Science Holding Limited Ordinary Shares | $5.51 | -0.88 | -13.71% | 388,623 |
+| **[TNGX](https://finance.yahoo.com/quote/TNGX/)** | Tango Therapeutics, Inc. | $27.96 | -4.33 | -13.41% | 7,610,455 |
+| **[EPAM](https://finance.yahoo.com/quote/EPAM/)** | EPAM Systems, Inc. | $78.19 | -9.50 | -10.84% | 2,321,670 |
+| **[AAMI](https://finance.yahoo.com/quote/AAMI/)** | Acadian Asset Management Inc. | $73.76 | -8.96 | -10.83% | 1,625,036 |
+| **[AXTI](https://finance.yahoo.com/quote/AXTI/)** | AXT Inc | $82.64 | -9.47 | -10.28% | 9,285,301 |
+| **[INFY](https://finance.yahoo.com/quote/INFY/)** | Infosys Limited | $10.61 | -1.09 | -9.32% | 29,663,587 |
+| **[CTSH](https://finance.yahoo.com/quote/CTSH/)** | Cognizant Technology Solutions | $44.53 | -4.29 | -8.80% | 17,991,650 |
+
+Source health:
+- NYSE calendar 2026-06-18: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
 ## 4. Latest Market News
 
 - **Federal Reserve** (Thu, 18 Jun 2026 15:00:00 GMT): High priority | [Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm)
@@ -242,8 +309,8 @@ Source health:
 - **Google News Markets** (Wed, 17 Jun 2026 21:01:32 GMT): High priority | [Federal Reserve Rate Freeze Sends New York Stocks Down, Yields Up - 조선일보](https://news.google.com/rss/articles/CBMihAFBVV95cUxORWtaUGlxVkRjR1ZsenJPZ1J4dHBockJiMUxsRDVpVXhGNnc4Q1dVNkFDaHFnRHVQaHdBRzBxdFg5XzA3VURlUFpCNDhRVmRBOXphenlsU1FCZUFXbDBKNHJFX1B1blpkcWFONUM5SGVQY1E3dXlScnRxRlVyZDJTVnRMd0E?oc=5)
 - **Federal Reserve** (Wed, 17 Jun 2026 18:00:00 GMT): High priority | [Federal Reserve issues FOMC statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm)
 - **Federal Reserve** (Wed, 17 Jun 2026 18:00:00 GMT): High priority | [Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm)
-- **MarketWatch Top Stories** (Thu, 18 Jun 2026 16:05:00 GMT): High priority | [Fed Chair Kevin Warsh wants to get inflation under control. That could be bad news for home buyers seeking lower mortgage rates.](https://www.marketwatch.com/story/fed-chair-kevin-warsh-wants-to-get-inflation-under-control-that-could-be-bad-news-for-home-buyers-seeking-lower-mortgage-rates-99fb4aad?mod=mw_rss_topstories)
 - **Google News Markets** (Thu, 18 Jun 2026 08:43:33 GMT): High priority | [Bitcoin (BTC) Slides 3% as Federal Reserve Adopts Hawkish Tone on Inflation - Blockonomi](https://news.google.com/rss/articles/CBMinAFBVV95cUxPTldfTl9NOWI3LWlfbVR3cXFrYlFqR2dBT04zczB0V3RoSGlBTHctdDRzSVhxbmgzVzlhWGV6YUdEc1RFdVZvRjJnV0dNUEdKQWZRbm9kOFRKNG10aGRpc19SWWJEQ0NmWFVwS1h3NWNGd1BPOHhmaXFJNGpoeGdBM2ljUjFuWWZaenl2dFIteGdjR3lBWVNyWkYtN0k?oc=5)
+- **Google News Markets** (Thu, 18 Jun 2026 01:27:18 GMT): High priority | [The Federal Reserve's hawkish stance boosts the dollar, putting Asian markets at risk of intervention and technology stock pressure - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MZ1g5NktsS0sxMWRrejhacUJwaXh6LVRQWkgtalAwd2RvWmRBaHpxckhySDlfSTBpZ3AyZkoxdklUOXB0UG9DVTFMRGZzVklmZDlRSzJDRGZLZE96ZVZNZmthNNIBY0FVX3lxTE9MZ1g5NktsS0sxMWRrejhacUJwaXh6LVRQWkgtalAwd2RvWmRBaHpxckhySDlfSTBpZ3AyZkoxdklUOXB0UG9DVTFMRGZzVklmZDlRSzJDRGZLZE96ZVZNZmthNA?oc=5)
 - **Google News Markets** (Thu, 18 Jun 2026 00:54:16 GMT): High priority | [Fed turns hawkish, lifting US dollar and bond yields as stocks slide - equiti.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdE1WVTVEbjZGNzU0dXhrREQwZjNhamNQd1dLa0R3Tm9sYlVvSWJDSmVWMTNWU3o2TXE1aVJ0TDNKS3owNVhCN2Nvd2xROXg4VFVLVWt2LXhsQ2I0WEtyS3lDU3NRTUJqWWV3VUlxYTVUci0tVkRkQmJHTWJ3bEhHdHlMaFNOWHRRREJCTnIzNVZWdmpTb0tPR1FUSUNpTjVGUHJjWmNhNW44bHN4OE02Z3UzMmY?oc=5)
 - **Google News Markets** (Wed, 17 Jun 2026 22:53:58 GMT): High priority | [Trading day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era - MSN](https://news.google.com/rss/articles/CBMi5wJBVV95cUxOSXNPUGpFSzdVeDFmbTZEcGI5N1ZHTDJZWkdkV1Z2eHdLQVlFQnNLWlRIZ2s4R052NFJ1UUNpdGwweEdaNjJNR1I0Xzc3OWxDV0ltMld3cHZUNlI4aTZwVzRsQVZGQ0l1dWFRZnVrY0ZzNzQxcXdtSHVjTHNKNW9Ha29XeTRXTk5NYjRHeWE3VTh3d0xueENULU1GbERLWkN5UzV0WUE0VC1SZXltWXRPUHB4b3VxelJ5ZGlZRUhQMFZaUFh0WXJ3VW9pSlVFTmtCZWZ5OXprOVlWM0lRci12OG9CYW82SFFneE1sRFF1T3NCNjVtaWlDc255OFlGODJrQzFTODFnSDk1U3ZCTGNTNml6bEZIVnpSQmRtNmpjd0pPb0FZNW1NSFBuWTBUSFdSWlp6bWlHWm10X25qR1EzcTFpVTkwaldQQTMtMmlCc1VPU001VDRCTWVkMUF2dlRQU3lZR25EWQ?oc=5)
 - **Google News Markets** (Wed, 17 Jun 2026 22:32:12 GMT): High priority | [Trading Day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era - SRN News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFBIaXhIdWdPdnQ5LVRKUXBnem5PTzF2cHRxalJ5RFl4MnE3c1gzMkhJNi03U3NZQk1KOW8wblpvRlhDUG11LUJvV2l4WEFJTnlXY01STFVyZ1BQWWVpSl9EaDNKQVZ2bVJZWHRhdm1hZ2t4RFlSZW8xMXlCcmFhT3NDZkIyQlNrRlk4RVViM05DTnB3NUZiVnFJMTJfOVd3N1NWaTJGZw?oc=5)
@@ -289,7 +356,27 @@ Source health:
 - **14:30** FOMC Press Conference | Source: Nasdaq
 
 ### Tomorrow (2026-06-19)
-- **All Day** United States - Juneteenth | Source: Nasdaq
+- **08:30** Continuing Jobless Claims | Forecast: 1,800K | Previous: 1,786K | Source: Nasdaq
+- **08:30** Initial Jobless Claims | Forecast: 225K | Previous: 230K | Source: Nasdaq
+- **08:30** Jobless Claims 4-Week Avg. | Previous: 219.25K | Source: Nasdaq
+- **08:30** Philadelphia Fed Manufacturing Index | Forecast: 9.8 | Previous: -0.4 | Source: Nasdaq
+- **08:30** Philly Fed Business Conditions | Previous: 53.2 | Source: Nasdaq
+- **08:30** Philly Fed CAPEX Index | Previous: 30.90 | Source: Nasdaq
+- **08:30** Philly Fed Employment | Previous: -2.8 | Source: Nasdaq
+- **08:30** Philly Fed New Orders | Previous: -1.7 | Source: Nasdaq
+- **08:30** Philly Fed Prices Paid | Previous: 47.90 | Source: Nasdaq
+- **10:00** US Leading Index | Forecast: 0.1% | Previous: 0.2% | Source: Nasdaq
+- **10:30** Natural Gas Storage | Forecast: 82B | Previous: 108B | Source: Nasdaq
+- **11:30** 4-Week Bill Auction | Previous: 3.595% | Source: Nasdaq
+- **11:30** 8-Week Bill Auction | Previous: 3.610% | Source: Nasdaq
+- **13:00** U.S. Baker Hughes Oil Rig Count | Previous: 433 | Source: Nasdaq
+- **13:00** U.S. Baker Hughes Total Rig Count | Previous: 562 | Source: Nasdaq
+- **16:00** US Foreign Buying, T-bonds | Previous: 13.50B | Source: Nasdaq
+- **16:00** Overall Net Capital Flow | Previous: 150.70B | Source: Nasdaq
+- **16:00** TIC Net Long-Term Transactions | Forecast: 72.5B | Previous: 81.3B | Source: Nasdaq
+- **16:00** TIC Net Long-Term Transactions including Swaps | Previous: 81.30B | Source: Nasdaq
+- **16:30** Fed's Balance Sheet | Previous: 6,725B | Source: Nasdaq
+- **16:30** Reserve Balances with Federal Reserve Banks | Previous: 3.111T | Source: Nasdaq
 
 ## Source Health
 
