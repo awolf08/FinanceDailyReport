@@ -1,0 +1,851 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-06-22",
+  "snapshots": [
+    {
+      "slot": "05:55",
+      "captured_at": "2026-06-22T05:55:10-07:00",
+      "timezone": "America/Los_Angeles",
+      "market_phase": "premarket",
+      "market_status": {
+        "is_open": "yes",
+        "label": "US market open",
+        "open": "9:30 AM ET",
+        "close": "4:00 PM ET",
+        "reason": "Regular session 9:30 AM ET-4:00 PM ET"
+      },
+      "active_stocks": {
+        "Most Active Stocks": [
+          {
+            "symbol": "SPCX",
+            "name": "Space Exploration Technologies",
+            "lastSalePrice": "$185.00",
+            "lastSaleChange": "-6.82",
+            "changePercent": "-3.56%",
+            "change": "272,126,781"
+          },
+          {
+            "symbol": "MRVL",
+            "name": "Marvell Technology, Inc.",
+            "lastSalePrice": "$310.58",
+            "lastSaleChange": "+21.04",
+            "changePercent": "+7.27%",
+            "change": "250,989,360"
+          },
+          {
+            "symbol": "NVDA",
+            "name": "NVIDIA Corporation",
+            "lastSalePrice": "$210.69",
+            "lastSaleChange": "+6.04",
+            "changePercent": "+2.95%",
+            "change": "241,272,013"
+          },
+          {
+            "symbol": "INTC",
+            "name": "Intel Corporation",
+            "lastSalePrice": "$133.99",
+            "lastSaleChange": "+12.89",
+            "changePercent": "+10.64%",
+            "change": "233,906,555"
+          },
+          {
+            "symbol": "CDE",
+            "name": "Coeur Mining, Inc.",
+            "lastSalePrice": "$17.51",
+            "lastSaleChange": "-0.02",
+            "changePercent": "-0.11%",
+            "change": "45,025,801"
+          },
+          {
+            "symbol": "NOK",
+            "name": "Nokia Corporation Sponsored",
+            "lastSalePrice": "$13.49",
+            "lastSaleChange": "-0.34",
+            "changePercent": "-2.46%",
+            "change": "125,181,134"
+          },
+          {
+            "symbol": "AAL",
+            "name": "American Airlines Group, Inc.",
+            "lastSalePrice": "$15.99",
+            "lastSaleChange": "+0.57",
+            "changePercent": "+3.70%",
+            "change": "126,278,445"
+          },
+          {
+            "symbol": "PFE",
+            "name": "Pfizer, Inc.",
+            "lastSalePrice": "$25.21",
+            "lastSaleChange": "-0.71",
+            "changePercent": "-2.74%",
+            "change": "67,907,094"
+          },
+          {
+            "symbol": "T",
+            "name": "AT&T Inc.",
+            "lastSalePrice": "$22.01",
+            "lastSaleChange": "-0.43",
+            "changePercent": "-1.92%",
+            "change": "55,132,557"
+          },
+          {
+            "symbol": "NFLX",
+            "name": "Netflix, Inc.",
+            "lastSalePrice": "$77.38",
+            "lastSaleChange": "+0.42",
+            "changePercent": "+0.55%",
+            "change": "91,920,414"
+          }
+        ],
+        "Most Active ETFs": [
+          {
+            "symbol": "BITO",
+            "name": "ProShares Bitcoin ETF",
+            "lastSalePrice": "$8.56",
+            "lastSaleChange": "-0.17",
+            "changePercent": "-1.95%",
+            "change": "322,323,369"
+          },
+          {
+            "symbol": "SPY",
+            "name": "State Street SPDR S&P 500 ETF T",
+            "lastSalePrice": "$746.74",
+            "lastSaleChange": "+7.68",
+            "changePercent": "+1.04%",
+            "change": "67,865,619"
+          },
+          {
+            "symbol": "TSLL",
+            "name": "Direxion Daily TSLA Bull 2X ETF",
+            "lastSalePrice": "$13.16",
+            "lastSaleChange": "+0.24",
+            "changePercent": "+1.86%",
+            "change": "65,797,758"
+          },
+          {
+            "symbol": "SSPC",
+            "name": "Leverage Shares 2X Short SPCX D",
+            "lastSalePrice": "$9.66",
+            "lastSaleChange": "+0.66",
+            "changePercent": "+7.33%",
+            "change": "62,196,883"
+          },
+          {
+            "symbol": "TQQQ",
+            "name": "ProShares UltraPro QQQ",
+            "lastSalePrice": "$82.87",
+            "lastSaleChange": "+5.33",
+            "changePercent": "+6.87%",
+            "change": "61,062,971"
+          },
+          {
+            "symbol": "SQQQ",
+            "name": "ProShares UltraPro Short QQQ",
+            "lastSalePrice": "$36.75",
+            "lastSaleChange": "-2.77",
+            "changePercent": "-7.01%",
+            "change": "60,260,821"
+          },
+          {
+            "symbol": "SPCH",
+            "name": "Leverage Shares 2X Long SPCX Da",
+            "lastSalePrice": "$18.97",
+            "lastSaleChange": "-1.72",
+            "changePercent": "-8.31%",
+            "change": "54,892,238"
+          },
+          {
+            "symbol": "DRAM",
+            "name": "Roundhill Memory ETF",
+            "lastSalePrice": "$76.71",
+            "lastSaleChange": "+6.76",
+            "changePercent": "+9.66%",
+            "change": "51,274,773"
+          },
+          {
+            "symbol": "SPDN",
+            "name": "Direxion Daily S&P 500 Bear 1X",
+            "lastSalePrice": "$8.73",
+            "lastSaleChange": "-0.08",
+            "changePercent": "-0.91%",
+            "change": "50,608,245"
+          },
+          {
+            "symbol": "QQQ",
+            "name": "Invesco QQQ Trust, Series 1",
+            "lastSalePrice": "$740.62",
+            "lastSaleChange": "+18.11",
+            "changePercent": "+2.51%",
+            "change": "50,154,595"
+          }
+        ],
+        "Top Gaining Stocks": [
+          {
+            "symbol": "BFLY",
+            "name": "Butterfly Network, Inc.",
+            "lastSalePrice": "$8.90",
+            "lastSaleChange": "+3.19",
+            "changePercent": "+55.87%",
+            "change": "59,731,176"
+          },
+          {
+            "symbol": "WOLF",
+            "name": "Wolfspeed, Inc.",
+            "lastSalePrice": "$57.41",
+            "lastSaleChange": "+8.72",
+            "changePercent": "+17.91%",
+            "change": "9,484,883"
+          },
+          {
+            "symbol": "QS",
+            "name": "QuantumScape Corporation",
+            "lastSalePrice": "$8.04",
+            "lastSaleChange": "+1.14",
+            "changePercent": "+16.52%",
+            "change": "85,585,773"
+          },
+          {
+            "symbol": "BE",
+            "name": "Bloom Energy Corporation",
+            "lastSalePrice": "$328.91",
+            "lastSaleChange": "+43.92",
+            "changePercent": "+15.41%",
+            "change": "15,927,664"
+          },
+          {
+            "symbol": "OUST",
+            "name": "Ouster, Inc.",
+            "lastSalePrice": "$46.57",
+            "lastSaleChange": "+5.85",
+            "changePercent": "+14.37%",
+            "change": "8,412,368"
+          },
+          {
+            "symbol": "ACMR",
+            "name": "ACM Research, Inc.",
+            "lastSalePrice": "$109.87",
+            "lastSaleChange": "+13.68",
+            "changePercent": "+14.22%",
+            "change": "2,986,972"
+          },
+          {
+            "symbol": "ENTG",
+            "name": "Entegris, Inc.",
+            "lastSalePrice": "$178.77",
+            "lastSaleChange": "+21.43",
+            "changePercent": "+13.62%",
+            "change": "5,933,481"
+          },
+          {
+            "symbol": "SMR",
+            "name": "NuScale Power Corporation",
+            "lastSalePrice": "$11.74",
+            "lastSaleChange": "+1.40",
+            "changePercent": "+13.54%",
+            "change": "48,584,275"
+          },
+          {
+            "symbol": "CHRN",
+            "name": "ChronoScale Corporation",
+            "lastSalePrice": "$23.33",
+            "lastSaleChange": "+2.72",
+            "changePercent": "+13.20%",
+            "change": "551,963"
+          },
+          {
+            "symbol": "KMX",
+            "name": "CarMax Inc",
+            "lastSalePrice": "$53.66",
+            "lastSaleChange": "+6.23",
+            "changePercent": "+13.14%",
+            "change": "7,330,039"
+          }
+        ],
+        "Top Declining Stocks": [
+          {
+            "symbol": "RGC",
+            "name": "Regencell Bioscience Holdings L",
+            "lastSalePrice": "$12.01",
+            "lastSaleChange": "-2.81",
+            "changePercent": "-18.96%",
+            "change": "380,694"
+          },
+          {
+            "symbol": "ACN",
+            "name": "Accenture plc",
+            "lastSalePrice": "$127.98",
+            "lastSaleChange": "-28.03",
+            "changePercent": "-17.97%",
+            "change": "41,630,037"
+          },
+          {
+            "symbol": "LEGN",
+            "name": "Legend Biotech Corporation",
+            "lastSalePrice": "$27.93",
+            "lastSaleChange": "-5.59",
+            "changePercent": "-16.68%",
+            "change": "13,608,396"
+          },
+          {
+            "symbol": "TNGX",
+            "name": "Tango Therapeutics, Inc.",
+            "lastSalePrice": "$27.97",
+            "lastSaleChange": "-4.32",
+            "changePercent": "-13.38%",
+            "change": "12,095,877"
+          },
+          {
+            "symbol": "EPAM",
+            "name": "EPAM Systems, Inc.",
+            "lastSalePrice": "$76.64",
+            "lastSaleChange": "-11.06",
+            "changePercent": "-12.61%",
+            "change": "4,084,770"
+          },
+          {
+            "symbol": "NVA",
+            "name": "Nova Minerals Corp",
+            "lastSalePrice": "$5.76",
+            "lastSaleChange": "-0.74",
+            "changePercent": "-11.38%",
+            "change": "591,634"
+          },
+          {
+            "symbol": "CTSH",
+            "name": "Cognizant Technology Solutions",
+            "lastSalePrice": "$43.70",
+            "lastSaleChange": "-5.12",
+            "changePercent": "-10.49%",
+            "change": "61,312,375"
+          },
+          {
+            "symbol": "INFY",
+            "name": "Infosys Limited",
+            "lastSalePrice": "$10.57",
+            "lastSaleChange": "-1.13",
+            "changePercent": "-9.66%",
+            "change": "41,059,210"
+          },
+          {
+            "symbol": "SLBT",
+            "name": "SL Science Holding Limited",
+            "lastSalePrice": "$5.79",
+            "lastSaleChange": "-0.59",
+            "changePercent": "-9.25%",
+            "change": "488,769"
+          },
+          {
+            "symbol": "AAMI",
+            "name": "Acadian Asset Management Inc.",
+            "lastSalePrice": "$75.15",
+            "lastSaleChange": "-7.57",
+            "changePercent": "-9.15%",
+            "change": "2,999,510"
+          }
+        ]
+      },
+      "active_stocks_as_of": "Yahoo Finance market lists as of 8:55 AM ET",
+      "active_stocks_source": "yahoo_regular_market_lists",
+      "news": [
+        {
+          "title": "Dow Jones, Nasdaq, S&P 500 preview: Micron earnings, PCE data to test the rally - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVVsVldfNGh0emtiMEdFRjdmaUNWcTZySnliU1FuRXd5cy1BU0twUUJGYkVqeGNRVjNuU1VZZmdqc0pmNl92dFhFZW0tNDludXgtalI1YzQ3M2VUM1l4S0pGY3BqOHZqTlZFWG05YUdxZE45LUZLOWE2VlBjM3V2cTl4NVpPOG0zQVBvdHc1M0V0TGNSaWwtS19CNnNWd0ltOEJFdEhUNzFuNkRBRVpodnl6eW13QlVOUEtHM1JoMEdlS0J5c2VFUm5PYw?oc=5",
+          "description": "Dow Jones, Nasdaq, S&P 500 preview: Micron earnings, PCE data to test the rally Investing.com",
+          "published": "Mon, 22 Jun 2026 10:56:41 GMT",
+          "published_sort": "2026-06-22T10:56:41+00:00",
+          "source": "Google News Markets",
+          "priority_score": "10"
+        },
+        {
+          "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
+          "description": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+          "published": "Mon, 22 Jun 2026 12:45:00 GMT",
+          "published_sort": "2026-06-22T12:45:00+00:00",
+          "source": "Federal Reserve",
+          "priority_score": "8"
+        },
+        {
+          "title": "Key Global Macro Events to Watch in the Fourth Week of June: Fed Speeches, Micron Earnings, and US PCE Data - Bitcoin World",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vaFk0cUYtbm5FeEtOUG94WjlsQ1VpTGVIcHlBYVVUdnhsWTlzaHlEamtFMS05bWlhWDZSTktqXzVkQlhQN2ZfbTdNY3duU0xHQjh6X21yX1JxMktKRjhRR1ZxaW5sSHJoX0x3cHZ1cFRPZw?oc=5",
+          "description": "Key Global Macro Events to Watch in the Fourth Week of June: Fed Speeches, Micron Earnings, and US PCE Data Bitcoin World",
+          "published": "Mon, 22 Jun 2026 00:35:11 GMT",
+          "published_sort": "2026-06-22T00:35:11+00:00",
+          "source": "Google News Markets",
+          "priority_score": "6"
+        },
+        {
+          "title": "Citadel Securities: 'Strong medicine' to combat inflation\u2014A more 'proactive' Federal Reserve is better equipped to respond - \u5bcc\u9014\u725b\u725b",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXlQTUFWQVZRWmw1LUpJdlJ3TWYtZE9CN0luUm1oWG40eEZQM0JiUE9mNU5XZ3RJZzZ6OENyNU9ja1A0UzRXRzEwWXEweF9TUVFzVkFZYTQ5VmptNWRLQ0ZVWFNhRFUwN21sX0xyWVhRMTA2aTdUOWU1Zm1DQXVBbkJ3V0h0cXZsUGRxN2V4ZEQ1YXVpVElQYUNxaWFpMVJRSTZObnllaWVyNGNZdUJlRlRB?oc=5",
+          "description": "Citadel Securities: 'Strong medicine' to combat inflation\u2014A more 'proactive' Federal Reserve is better equipped to respond \u5bcc\u9014\u725b\u725b",
+          "published": "Sun, 21 Jun 2026 23:51:20 GMT",
+          "published_sort": "2026-06-21T23:51:20+00:00",
+          "source": "Google News Markets",
+          "priority_score": "6"
+        },
+        {
+          "title": "Former Federal Reserve chairman Alan Greenspan dies at 100",
+          "link": "https://www.marketwatch.com/story/former-federal-reserve-chairman-alan-greenspan-dies-a7a4030d?mod=mw_rss_topstories",
+          "description": "The legendary central banker led the Fed for nearly two decades.",
+          "published": "Mon, 22 Jun 2026 12:44:00 GMT",
+          "published_sort": "2026-06-22T12:44:00+00:00",
+          "source": "MarketWatch Top Stories",
+          "priority_score": "5"
+        },
+        {
+          "title": "Alan Greenspan, 5-Term Federal Reserve Chairman, Dies at 100 - Weekly Real Estate News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFk5dWI0M3BKbVgxa2kyQmd1XzRpUmtCRm5xbzRVMy1qTjlFZUstaldERFFaaXdFbXlEM1BJYjA4WldXNFZ0VVV6SDNTSExTNHA3WTYwOURwQzRrejQ2YVpfbEFTYTZzdkY2TmpMQ0x2SDdTTjBfMnZLbmo4NXFEMWZoTTFPQQ?oc=5",
+          "description": "Alan Greenspan, 5-Term Federal Reserve Chairman, Dies at 100 Weekly Real Estate News",
+          "published": "Mon, 22 Jun 2026 12:36:48 GMT",
+          "published_sort": "2026-06-22T12:36:48+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Alan Greenspan, longtime US Federal Reserve chairman, dies aged 100 - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMVZXclFwXzJLVC1LVTB0Z0tRcEZoRUhQV0taMS1hVHBrU2ctYXVRQUtIbmdzUFB5MGduODdfWVZiMDMyLVI1RWstbVBEbG5MQzZGeS1GQ01rTkxEM2VRNjJYX0hKMzVNQkVyaHd4YmFGM0gtVzlMQkd3N2VXc0ExNTdPdmx2MzFRZW1VM2dNOHVYM1I0NmhIZlVTMzZNQUs3ZXZFMGQwNVE0YmwtUEQ2NTFiQ0JnU2JsSkJTZ0UzS2lDOHdVSlNHRXI3RmxKaWphN0JjOHBLdGVFUnBsQVJMSmtTNFVBU2t4Y3VyTE1Za1d4ajRNTEpZaXZR?oc=5",
+          "description": "Alan Greenspan, longtime US Federal Reserve chairman, dies aged 100 MSN",
+          "published": "Mon, 22 Jun 2026 12:31:06 GMT",
+          "published_sort": "2026-06-22T12:31:06+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Alan Greenspan, Former Federal Reserve Chair and \"Maestro\" of the U.S. Economy, Dies at 100 - stl.news",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54RE13VkRvNHhfa3VRTHdKN19kTUViRWJWYjczNWk5VFBLZ0thT2RWdU9veWIybHNyQ0tkSmV2ZEl4cTFYc3hNUG1TNUoxTEhyZlprSVF5RWdXd0VXN0NTQUxRYkwwRm42SzRSVndhcS1KcHBKQmQ0T0RoY1dvTkk?oc=5",
+          "description": "Alan Greenspan, Former Federal Reserve Chair and \"Maestro\" of the U.S. Economy, Dies at 100 stl.news",
+          "published": "Mon, 22 Jun 2026 12:30:39 GMT",
+          "published_sort": "2026-06-22T12:30:39+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Former US Federal Reserve chairman Alan Greenspan dies at 100 - France 24",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDBteWItRElRSTlJaUJhMkNNam9QTHNDcGZ1R3gwb3BKenBYOWJYaFJwVnU4NmRuekpsNGtpSm5sb2l6Mk8xVXMyenhSRGFJWnlDdE1UdVBOTlBZU0xGSzlvNml5dDNsTndPLUZFcVBjTnptNDA3V1FVWnp4V1RiZzlMN2F2dDloc1N6M2czSFN0QTFRZk9kMWNCVkFSQmpTbFk3SXJEX1kxTU0?oc=5",
+          "description": "Former US Federal Reserve chairman Alan Greenspan dies at 100 France 24",
+          "published": "Mon, 22 Jun 2026 12:27:14 GMT",
+          "published_sort": "2026-06-22T12:27:14+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Video Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2MmFacjQ5QzViMlpmaHM1QTlCTmRwVERKYWlfd2pxTmUzSS1Odl9fWmtNMkFDN1NtbDYxWTdwczlZbzR5RGVHbUtPbXc?oc=5",
+          "description": "Video Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 ABC News - Breaking News, Latest News and Videos",
+          "published": "Mon, 22 Jun 2026 12:20:57 GMT",
+          "published_sort": "2026-06-22T12:20:57+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Former Federal Reserve Chairman Alan Greenspan Dies at 100 Following Era-Defining Career - streamlinefeed.co.ke",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOUg3SExkTnQ0TmVLWUdXdGNNTjdOaU0yUkhlUXZ4eWJ5UHhGY05WMFRBYTI4SzFkZGdDS2RkX3dMc1ZGQWZqekQzazRLOU1VSkVEQzU4dEVzbVo3US16Y0htNUUzWnkyTVNiNjNHU1NKX0RTXzRrSm9NSDhxUy1DSG12bXVOdVk?oc=5",
+          "description": "Former Federal Reserve Chairman Alan Greenspan Dies at 100 Following Era-Defining Career streamlinefeed.co.ke",
+          "published": "Mon, 22 Jun 2026 12:16:33 GMT",
+          "published_sort": "2026-06-22T12:16:33+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Alan Greenspan, who steered the Federal Reserve through both boom and crisis, dies at 100 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMC03RmxSUXdTV3N5THZ4dlVCZjVEQS1yY3JJU09EYkYwelBOWmh6bHhOUVBLbXNFdVJJQ1N1enN2VFFyVnNZZVZXTTUtc2prS1RSTXhTckV1dDNYbWw5TExIbTYwUERCcnpJMHZMc2tySXRmQjlqSXpocE1lRzJoTTZfZWJYd2h4cnVKVVdJaDBFUmVSRTB6NUNVMjRCa21tcm8zM09xWjFLUFl5X1lZT2p5dnBLOGptRmRRcHRGN2pFSXJDRkRFZi1qNG1oUlY3a0dJT19pVTB6VG56?oc=5",
+          "description": "Alan Greenspan, who steered the Federal Reserve through both boom and crisis, dies at 100 Yahoo Finance",
+          "published": "Mon, 22 Jun 2026 12:02:03 GMT",
+          "published_sort": "2026-06-22T12:02:03+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        }
+      ],
+      "economic_events": {
+        "today": [],
+        "tomorrow": [
+          {
+            "time": "09:00",
+            "event": "Fed Waller Speaks",
+            "actual": "",
+            "forecast": "",
+            "previous": "",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "11:30",
+            "event": "3-Month Bill Auction",
+            "actual": "",
+            "forecast": "",
+            "previous": "3.640%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "11:30",
+            "event": "6-Month Bill Auction",
+            "actual": "",
+            "forecast": "",
+            "previous": "3.680%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:30",
+            "event": "CFTC Aluminium speculative net positions",
+            "actual": "",
+            "forecast": "",
+            "previous": "0.4K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:30",
+            "event": "CFTC Copper speculative net positions",
+            "actual": "",
+            "forecast": "",
+            "previous": "74.5K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:30",
+            "event": "CFTC Corn speculative net positions",
+            "actual": "",
+            "forecast": "",
+            "previous": "103.6K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:30",
+            "event": "CFTC Crude Oil speculative net positions",
+            "actual": "",
+            "forecast": "",
+            "previous": "130.3K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:30",
+            "event": "CFTC Gold speculative net positions",
+            "actual": "",
+            "forecast": "",
+            "previous": "173.8K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:30",
+            "event": "CFTC Nasdaq 100 speculative net positions",
+            "actual": "",
+            "forecast": "",
+            "previous": "-1.3K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:30",
+            "event": "CFTC Natural Gas speculative net positions",
+            "actual": "",
+            "forecast": "",
+            "previous": "-194.0K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:30",
+            "event": "CFTC S&P 500 speculative net positions",
+            "actual": "",
+            "forecast": "",
+            "previous": "-205.6K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:30",
+            "event": "CFTC Silver speculative net positions",
+            "actual": "",
+            "forecast": "",
+            "previous": "22.2K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:30",
+            "event": "CFTC Soybeans speculative net positions",
+            "actual": "",
+            "forecast": "",
+            "previous": "150.5K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:30",
+            "event": "CFTC Wheat speculative net positions",
+            "actual": "",
+            "forecast": "",
+            "previous": "-57.9K",
+            "country": "United States",
+            "source": "Nasdaq"
+          }
+        ]
+      },
+      "earnings": {
+        "today": [
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-not-supplied",
+            "symbol": "WDS",
+            "name": "Woodside Energy Group Limited",
+            "marketCap": "$38,212,112,874",
+            "fiscalQuarterEnding": "Mar/2026",
+            "epsForecast": "",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-pre-market",
+            "symbol": "FRVO",
+            "name": "Fervo Energy Company",
+            "marketCap": "$10,347,189,531",
+            "fiscalQuarterEnding": "Mar/2026",
+            "epsForecast": "($0.09)",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "$0.38",
+            "time": "time-not-supplied",
+            "symbol": "EBF",
+            "name": "Ennis, Inc.",
+            "marketCap": "$507,230,354",
+            "fiscalQuarterEnding": "May/2026",
+            "epsForecast": "",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-pre-market",
+            "symbol": "POWW",
+            "name": "Outdoor Holding Company",
+            "marketCap": "$227,540,121",
+            "fiscalQuarterEnding": "Mar/2026",
+            "epsForecast": "($0.02)",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-not-supplied",
+            "symbol": "MOB",
+            "name": "Mobilicom Limited",
+            "marketCap": "$70,115,209",
+            "fiscalQuarterEnding": "Mar/2026",
+            "epsForecast": "",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-not-supplied",
+            "symbol": "GNS",
+            "name": "Genius Group Limited",
+            "marketCap": "$43,802,594",
+            "fiscalQuarterEnding": "Mar/2026",
+            "epsForecast": "",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-not-supplied",
+            "symbol": "RYOJ",
+            "name": "rYojbaba Co., Ltd.",
+            "marketCap": "$27,489,000",
+            "fiscalQuarterEnding": "Mar/2026",
+            "epsForecast": "",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "($0.24)",
+            "time": "time-not-supplied",
+            "symbol": "VSTD",
+            "name": "Vestand Inc.",
+            "marketCap": "$4,226,242",
+            "fiscalQuarterEnding": "Mar/2026",
+            "epsForecast": "",
+            "noOfEsts": "2"
+          }
+        ],
+        "tomorrow": [
+          {
+            "lastYearRptDt": "6/24/2025",
+            "lastYearEPS": "$6.07",
+            "time": "time-after-hours",
+            "symbol": "FDX",
+            "name": "FedEx Corporation",
+            "marketCap": "$77,833,523,807",
+            "fiscalQuarterEnding": "May/2026",
+            "epsForecast": "$5.91",
+            "noOfEsts": "9"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-after-hours",
+            "symbol": "CBRS",
+            "name": "Cerebras Systems Inc.",
+            "marketCap": "$50,516,290,858",
+            "fiscalQuarterEnding": "Mar/2026",
+            "epsForecast": "($0.14)",
+            "noOfEsts": "N/A"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-not-supplied",
+            "symbol": "CCEP",
+            "name": "Coca-Cola Europacific Partners plc",
+            "marketCap": "$44,125,451,341",
+            "fiscalQuarterEnding": "Mar/2026",
+            "epsForecast": "",
+            "noOfEsts": "N/A"
+          },
+          {
+            "lastYearRptDt": "6/24/2025",
+            "lastYearEPS": "$0.35",
+            "time": "time-pre-market",
+            "symbol": "CCL",
+            "name": "Carnival Corporation Ltd.",
+            "marketCap": "$44,082,849,259",
+            "fiscalQuarterEnding": "May/2026",
+            "epsForecast": "$0.34",
+            "noOfEsts": "6"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-pre-market",
+            "symbol": "SUNB",
+            "name": "Sunbelt Rentals Holdings, Inc.",
+            "marketCap": "$33,696,332,939",
+            "fiscalQuarterEnding": "Apr/2026",
+            "epsForecast": "$0.73",
+            "noOfEsts": "N/A"
+          },
+          {
+            "lastYearRptDt": "4/30/2025",
+            "lastYearEPS": "$3.07",
+            "time": "time-after-hours",
+            "symbol": "ICLR",
+            "name": "ICON plc",
+            "marketCap": "$11,178,829,450",
+            "fiscalQuarterEnding": "Mar/2026",
+            "epsForecast": "$2.18",
+            "noOfEsts": "3"
+          },
+          {
+            "lastYearRptDt": "6/18/2025",
+            "lastYearEPS": "$1.32",
+            "time": "time-pre-market",
+            "symbol": "KFY",
+            "name": "Korn Ferry",
+            "marketCap": "$3,707,851,237",
+            "fiscalQuarterEnding": "Apr/2026",
+            "epsForecast": "$1.37",
+            "noOfEsts": "1"
+          },
+          {
+            "lastYearRptDt": "6/23/2025",
+            "lastYearEPS": "$1.50",
+            "time": "time-after-hours",
+            "symbol": "KBH",
+            "name": "KB Home",
+            "marketCap": "$3,395,534,933",
+            "fiscalQuarterEnding": "May/2026",
+            "epsForecast": "$0.44",
+            "noOfEsts": "7"
+          }
+        ]
+      },
+      "notes": [
+        {
+          "source": "NYSE calendar 2026-06-22",
+          "status": "open",
+          "detail": ""
+        },
+        {
+          "source": "Network readiness",
+          "status": "ok",
+          "detail": "connected to api.nasdaq.com:443"
+        },
+        {
+          "source": "Yahoo Finance Most Active Stocks",
+          "status": "ok",
+          "detail": "10 rows at or above $5"
+        },
+        {
+          "source": "Yahoo Finance Most Active ETFs",
+          "status": "ok",
+          "detail": "10 rows at or above $5"
+        },
+        {
+          "source": "Yahoo Finance Stock Gainers",
+          "status": "ok",
+          "detail": "10 rows at or above $5"
+        },
+        {
+          "source": "Yahoo Finance Stock Losers",
+          "status": "ok",
+          "detail": "10 rows at or above $5"
+        },
+        {
+          "source": "MarketWatch Top Stories",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Google News Markets",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Federal Reserve",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq economic calendar 2026-06-22",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Census economic indicators",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq economic calendar 2026-06-23",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Census economic indicators",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq earnings 2026-06-22",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq earnings 2026-06-23",
+          "status": "ok",
+          "detail": ""
+        }
+      ]
+    }
+  ]
+}
