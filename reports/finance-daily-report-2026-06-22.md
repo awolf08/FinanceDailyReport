@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-22
 
-_Generated: 2026-06-22 05:55:10 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-22 06:55:05 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -96,20 +96,87 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
+### 6:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 9:55 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $14.09 | +0.61 | +4.49% | 37,596,177 |
+| **[KEEL](https://finance.yahoo.com/quote/KEEL/)** | Keel Infrastructure Corp. | $7.12 | +0.84 | +13.28% | 28,731,924 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $170.86 | -14.14 | -7.64% | 27,977,962 |
+| **[SMCI](https://finance.yahoo.com/quote/SMCI/)** | Super Micro Computer, Inc. | $34.77 | +4.11 | +13.40% | 27,680,898 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $136.42 | +2.43 | +1.81% | 26,452,800 |
+| **[APGE](https://finance.yahoo.com/quote/APGE/)** | Apogee Therapeutics, Inc. | $132.70 | +42.32 | +46.82% | 23,587,708 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $212.46 | +1.77 | +0.84% | 20,480,428 |
+| **[CWAN](https://finance.yahoo.com/quote/CWAN/)** | Clearwater Analytics Holdings, | $24.52 | +0.22 | +0.90% | 14,705,296 |
+| **[MARA](https://finance.yahoo.com/quote/MARA/)** | MARA Holdings, Inc. | $16.03 | +1.81 | +12.74% | 14,219,974 |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $307.10 | -3.48 | -1.12% | 12,257,601 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $79.75 | +2.92 | +3.80% | 18,305,297 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.90 | +0.35 | +4.09% | 17,987,289 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $84.12 | +1.25 | +1.51% | 13,802,303 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $13.28 | +0.12 | +0.91% | 12,805,113 |
+| **[SSPC](https://finance.yahoo.com/quote/SSPC/)** | Leverage Shares 2X Short SPCX D | $11.13 | +1.47 | +15.22% | 12,571,377 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $36.24 | -0.51 | -1.40% | 12,456,374 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $37.09 | +1.47 | +4.13% | 12,147,800 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $294.52 | +15.23 | +5.45% | 11,832,903 |
+| **[SPCH](https://finance.yahoo.com/quote/SPCH/)** | Leverage Shares 2X Long SPCX Da | $16.11 | -2.86 | -15.08% | 11,915,164 |
+| **[ETHA](https://finance.yahoo.com/quote/ETHA/)** | iShares Ethereum Trust ETF | $13.39 | +0.51 | +3.92% | 11,354,237 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[DFTX](https://finance.yahoo.com/quote/DFTX/)** | Definium Therapeutics, Inc. | $38.00 | +13.52 | +55.23% | 7,067,191 |
+| **[APGE](https://finance.yahoo.com/quote/APGE/)** | Apogee Therapeutics, Inc. | $132.70 | +42.32 | +46.82% | 23,587,708 |
+| **[BWIN](https://finance.yahoo.com/quote/BWIN/)** | The Baldwin Insurance Group, In | $23.84 | +3.60 | +17.81% | 484,858 |
+| **[ORKA](https://finance.yahoo.com/quote/ORKA/)** | Oruka Therapeutics, Inc. | $83.76 | +11.42 | +15.79% | 411,501 |
+| **[CHRN](https://finance.yahoo.com/quote/CHRN/)** | ChronoScale Corporation | $26.99 | +3.66 | +15.71% | 199,165 |
+| **[SMCI](https://finance.yahoo.com/quote/SMCI/)** | Super Micro Computer, Inc. | $34.77 | +4.11 | +13.41% | 27,679,946 |
+| **[UMC](https://finance.yahoo.com/quote/UMC/)** | United Microelectronics Corpora | $27.61 | +3.53 | +14.68% | 5,634,981 |
+| **[KEEL](https://finance.yahoo.com/quote/KEEL/)** | Keel Infrastructure Corp. | $7.12 | +0.84 | +13.28% | 28,731,924 |
+| **[MARA](https://finance.yahoo.com/quote/MARA/)** | MARA Holdings, Inc. | $16.03 | +1.81 | +12.74% | 14,219,974 |
+| **[FRVO](https://finance.yahoo.com/quote/FRVO/)** | Fervo Energy Company | $39.50 | +4.41 | +12.59% | 653,604 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[AGI](https://finance.yahoo.com/quote/AGI/)** | Alamos Gold Inc. | $30.81 | -5.53 | -15.22% | 3,400,970 |
+| **[SLBT](https://finance.yahoo.com/quote/SLBT/)** | SL Science Holding Limited | $5.05 | -0.74 | -12.78% | 121,106 |
+| **[GFI](https://finance.yahoo.com/quote/GFI/)** | Gold Fields Limited | $34.83 | -3.75 | -9.72% | 1,491,907 |
+| **[VOYG](https://finance.yahoo.com/quote/VOYG/)** | Voyager Technologies, Inc. | $34.46 | -3.11 | -8.29% | 308,217 |
+| **[YSS](https://finance.yahoo.com/quote/YSS/)** | York Space Systems Inc. | $28.25 | -2.55 | -8.28% | 341,116 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $170.81 | -14.19 | -7.67% | 27,982,698 |
+| **[LGND](https://finance.yahoo.com/quote/LGND/)** | Ligand Pharmaceuticals Incorpor | $252.30 | -22.58 | -8.21% | 136,102 |
+| **[AVAV](https://finance.yahoo.com/quote/AVAV/)** | AeroVironment, Inc. | $156.70 | -12.91 | -7.61% | 344,784 |
+| **[RDW](https://finance.yahoo.com/quote/RDW/)** | Redwire Corporation | $13.37 | -0.98 | -6.83% | 6,433,316 |
+| **[LUNR](https://finance.yahoo.com/quote/LUNR/)** | Intuitive Machines, Inc. | $21.50 | -1.35 | -5.90% | 1,726,780 |
+
+Source health:
+- NYSE calendar 2026-06-22: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
 ## 4. Latest Market News
 
 - **Google News Markets** (Mon, 22 Jun 2026 10:56:41 GMT): High priority | [Dow Jones, Nasdaq, S&P 500 preview: Micron earnings, PCE data to test the rally - Investing.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVVsVldfNGh0emtiMEdFRjdmaUNWcTZySnliU1FuRXd5cy1BU0twUUJGYkVqeGNRVjNuU1VZZmdqc0pmNl92dFhFZW0tNDludXgtalI1YzQ3M2VUM1l4S0pGY3BqOHZqTlZFWG05YUdxZE45LUZLOWE2VlBjM3V2cTl4NVpPOG0zQVBvdHc1M0V0TGNSaWwtS19CNnNWd0ltOEJFdEhUNzFuNkRBRVpodnl6eW13QlVOUEtHM1JoMEdlS0J5c2VFUm5PYw?oc=5)
 - **Federal Reserve** (Mon, 22 Jun 2026 12:45:00 GMT): High priority | [Federal Reserve notes with deep sadness the passing of Alan Greenspan](https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm)
 - **Google News Markets** (Mon, 22 Jun 2026 00:35:11 GMT): High priority | [Key Global Macro Events to Watch in the Fourth Week of June: Fed Speeches, Micron Earnings, and US PCE Data - Bitcoin World](https://news.google.com/rss/articles/CBMickFVX3lxTE5vaFk0cUYtbm5FeEtOUG94WjlsQ1VpTGVIcHlBYVVUdnhsWTlzaHlEamtFMS05bWlhWDZSTktqXzVkQlhQN2ZfbTdNY3duU0xHQjh6X21yX1JxMktKRjhRR1ZxaW5sSHJoX0x3cHZ1cFRPZw?oc=5)
-- **Google News Markets** (Sun, 21 Jun 2026 23:51:20 GMT): High priority | [Citadel Securities: 'Strong medicine' to combat inflation—A more 'proactive' Federal Reserve is better equipped to respond - 富途牛牛](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXlQTUFWQVZRWmw1LUpJdlJ3TWYtZE9CN0luUm1oWG40eEZQM0JiUE9mNU5XZ3RJZzZ6OENyNU9ja1A0UzRXRzEwWXEweF9TUVFzVkFZYTQ5VmptNWRLQ0ZVWFNhRFUwN21sX0xyWVhRMTA2aTdUOWU1Zm1DQXVBbkJ3V0h0cXZsUGRxN2V4ZEQ1YXVpVElQYUNxaWFpMVJRSTZObnllaWVyNGNZdUJlRlRB?oc=5)
 - **MarketWatch Top Stories** (Mon, 22 Jun 2026 12:44:00 GMT): High priority | [Former Federal Reserve chairman Alan Greenspan dies at 100](https://www.marketwatch.com/story/former-federal-reserve-chairman-alan-greenspan-dies-a7a4030d?mod=mw_rss_topstories)
-- **Google News Markets** (Mon, 22 Jun 2026 12:36:48 GMT): High priority | [Alan Greenspan, 5-Term Federal Reserve Chairman, Dies at 100 - Weekly Real Estate News](https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFk5dWI0M3BKbVgxa2kyQmd1XzRpUmtCRm5xbzRVMy1qTjlFZUstaldERFFaaXdFbXlEM1BJYjA4WldXNFZ0VVV6SDNTSExTNHA3WTYwOURwQzRrejQ2YVpfbEFTYTZzdkY2TmpMQ0x2SDdTTjBfMnZLbmo4NXFEMWZoTTFPQQ?oc=5)
-- **Google News Markets** (Mon, 22 Jun 2026 12:31:06 GMT): High priority | [Alan Greenspan, longtime US Federal Reserve chairman, dies aged 100 - MSN](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMVZXclFwXzJLVC1LVTB0Z0tRcEZoRUhQV0taMS1hVHBrU2ctYXVRQUtIbmdzUFB5MGduODdfWVZiMDMyLVI1RWstbVBEbG5MQzZGeS1GQ01rTkxEM2VRNjJYX0hKMzVNQkVyaHd4YmFGM0gtVzlMQkd3N2VXc0ExNTdPdmx2MzFRZW1VM2dNOHVYM1I0NmhIZlVTMzZNQUs3ZXZFMGQwNVE0YmwtUEQ2NTFiQ0JnU2JsSkJTZ0UzS2lDOHdVSlNHRXI3RmxKaWphN0JjOHBLdGVFUnBsQVJMSmtTNFVBU2t4Y3VyTE1Za1d4ajRNTEpZaXZR?oc=5)
-- **Google News Markets** (Mon, 22 Jun 2026 12:30:39 GMT): High priority | [Alan Greenspan, Former Federal Reserve Chair and "Maestro" of the U.S. Economy, Dies at 100 - stl.news](https://news.google.com/rss/articles/CBMif0FVX3lxTE54RE13VkRvNHhfa3VRTHdKN19kTUViRWJWYjczNWk5VFBLZ0thT2RWdU9veWIybHNyQ0tkSmV2ZEl4cTFYc3hNUG1TNUoxTEhyZlprSVF5RWdXd0VXN0NTQUxRYkwwRm42SzRSVndhcS1KcHBKQmQ0T0RoY1dvTkk?oc=5)
-- **Google News Markets** (Mon, 22 Jun 2026 12:27:14 GMT): High priority | [Former US Federal Reserve chairman Alan Greenspan dies at 100 - France 24](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDBteWItRElRSTlJaUJhMkNNam9QTHNDcGZ1R3gwb3BKenBYOWJYaFJwVnU4NmRuekpsNGtpSm5sb2l6Mk8xVXMyenhSRGFJWnlDdE1UdVBOTlBZU0xGSzlvNml5dDNsTndPLUZFcVBjTnptNDA3V1FVWnp4V1RiZzlMN2F2dDloc1N6M2czSFN0QTFRZk9kMWNCVkFSQmpTbFk3SXJEX1kxTU0?oc=5)
-- **Google News Markets** (Mon, 22 Jun 2026 12:20:57 GMT): High priority | [Video Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2MmFacjQ5QzViMlpmaHM1QTlCTmRwVERKYWlfd2pxTmUzSS1Odl9fWmtNMkFDN1NtbDYxWTdwczlZbzR5RGVHbUtPbXc?oc=5)
-- **Google News Markets** (Mon, 22 Jun 2026 12:16:33 GMT): High priority | [Former Federal Reserve Chairman Alan Greenspan Dies at 100 Following Era-Defining Career - streamlinefeed.co.ke](https://news.google.com/rss/articles/CBMihwFBVV95cUxPOUg3SExkTnQ0TmVLWUdXdGNNTjdOaU0yUkhlUXZ4eWJ5UHhGY05WMFRBYTI4SzFkZGdDS2RkX3dMc1ZGQWZqekQzazRLOU1VSkVEQzU4dEVzbVo3US16Y0htNUUzWnkyTVNiNjNHU1NKX0RTXzRrSm9NSDhxUy1DSG12bXVOdVk?oc=5)
-- **Google News Markets** (Mon, 22 Jun 2026 12:02:03 GMT): High priority | [Alan Greenspan, who steered the Federal Reserve through both boom and crisis, dies at 100 - Yahoo Finance](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMC03RmxSUXdTV3N5THZ4dlVCZjVEQS1yY3JJU09EYkYwelBOWmh6bHhOUVBLbXNFdVJJQ1N1enN2VFFyVnNZZVZXTTUtc2prS1RSTXhTckV1dDNYbWw5TExIbTYwUERCcnpJMHZMc2tySXRmQjlqSXpocE1lRzJoTTZfZWJYd2h4cnVKVVdJaDBFUmVSRTB6NUNVMjRCa21tcm8zM09xWjFLUFl5X1lZT2p5dnBLOGptRmRRcHRGN2pFSXJDRkRFZi1qNG1oUlY3a0dJT19pVTB6VG56?oc=5)
+- **Google News Markets** (Mon, 22 Jun 2026 13:49:55 GMT): High priority | [Alan Greenspan, Longtime Federal Reserve Chairman Who Shaped the Modern Economy, Dies at 100 - That Eric Alper](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEh2blg3TUhLY0szUjZjVXh3eTBXVnUxc1FwSDMtSEFXUXVpNmN2Z1ZDZzVHeHNhcWpralpHRzlCVnhOZHphTGlXVHpsV21UUmJHeHZYUGg5TU9MYkRuTlFDMzlocnVSdzBFYjZ2RDdjU0c4UnptVnMwY0hUR1RhVWJDN0pBV0lCd2JXeDhjUUFKNlBOYTJZaFJUdFlkWXlvY2Q2WncxZGxaY3dDRGEtc25JSE5xNnNpX3FzQmhKUmdoVDE0allMd0FYbEQ?oc=5)
+- **Google News Markets** (Mon, 22 Jun 2026 13:41:59 GMT): High priority | [Alan Greenspan, who steered the Federal Reserve through both boom and crisis, dies at 100 - Yahoo Finance](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMC03RmxSUXdTV3N5THZ4dlVCZjVEQS1yY3JJU09EYkYwelBOWmh6bHhOUVBLbXNFdVJJQ1N1enN2VFFyVnNZZVZXTTUtc2prS1RSTXhTckV1dDNYbWw5TExIbTYwUERCcnpJMHZMc2tySXRmQjlqSXpocE1lRzJoTTZfZWJYd2h4cnVKVVdJaDBFUmVSRTB6NUNVMjRCa21tcm8zM09xWjFLUFl5X1lZT2p5dnBLOGptRmRRcHRGN2pFSXJDRkRFZi1qNG1oUlY3a0dJT19pVTB6VG56?oc=5)
+- **Google News Markets** (Mon, 22 Jun 2026 13:33:12 GMT): High priority | [Alan Greenspan, economist, former Federal Reserve chairman, dies at 100 - LiveNOW from FOX](https://news.google.com/rss/articles/CBMingFBVV95cUxOWTk3aE4tQWxUR21OS25FREt2UjZDTUcwNkgzRnF0WGpXSHlmVmhtclVhUFZxcEZzOGV5WDlPOFFGLUxaYS1Ob0toRHlKdlhTSVpDeUttNmF2QlZFaXdDY1J3bWtDalhDemRaNVAyamxfdHRGc1BQbkd5S3dRNGNSM0x6S0FFMlI1ZVZtSWhXcmxQRXhtUFRiOFZUVFNOZ9IBowFBVV95cUxPUEFiZWhKUWpwQ2FRN0tGaDVZR0RPS08wVk1aQlRQbk1GQ3drSmg1UzZjS0d4NjBWOE9vSWZFLUlrV0NSWHRPaE9RRWV5NXZCcTJWZ3p2MVQyLXFmbFJGbUtuNnJFazdOVHkzZmpFVFVESUp0eFd4emQ3S253QU1mR3Z3NDVVTTJiVWhXbWFha3BDTlJmRDBXSjdqcTkweW1WWk0w?oc=5)
+- **Google News Markets** (Mon, 22 Jun 2026 12:58:15 GMT): High priority | [Former Federal Reserve chairman Alan Greenspan dies aged 100 - The Hereford Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZWJvZlVoUnF4bjhSTEpKRVNPdkhqVUV1REVYU2dqREhrMWNhN1lCS282MFZ0RGNBTlZZa0t1b1doTW92SXVBUkZlUnVURkpzTlBXU2tKMll2U0wyVjFKWHFBbFhjRi1yWHJIQV9IODg1ZWozTEQzNEZKVDRmR29TOUhPUG0yenI2UVBSdHdhSC1LaHNkWmp0WEE0aHNnNVhzQXBpZ3RnWE1lZ21MV2p2SHhlS2U?oc=5)
+- **Google News Markets** (Mon, 22 Jun 2026 12:58:08 GMT): High priority | [Former Federal Reserve chairman Alan Greenspan dies aged 100 - The Herald](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjFKZXhON1NhWjRITEpLeE9fQllmbXNhbWEtVEVNaUp2MnVKTThGMDJfQWpFWmtEMFZLZi1SXzNhc0VZQ1ROWUs0aXA1OThnUXFTODg4Y01PUFlkN0VZQjYwMTZEVjBUX0JxNnIxZTBBaDNmRWVXSWxqcnZ3M1Q5UnJ3Z0VCaWJ5U0xINGNpUkt2UEJueXFvejZtQ2FTQzkzNk1JeG1vVU95bTNMTElvUWVzQnFhUQ?oc=5)
+- **Google News Markets** (Mon, 22 Jun 2026 12:55:36 GMT): High priority | [Alan Greenspan, longtime US Federal Reserve chairman, dies aged 100 - MSN](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUnVERUFJdVVlZDZuTGVkWHpwSmtCRkp3cHFlSXVZSWVFN3JZc1JXWmlIQWZiMS1fSFZjNF9oeUd3alRJR1FTNjFQOEdaYWFySmVmYkhlRzk5U1c1WDBVcThoWmRsbXpGR1d3S2FsamtNbzZmeDlnWHlEeDZkbklfUTVBRGpjWlo3bEdLeWlJUTVYOFppekJWRXNLZ1NiNkwwN3hlNk9XYktXa2RMczJiSzR6U21kM05w?oc=5)
+- **Google News Markets** (Mon, 22 Jun 2026 12:53:00 GMT): High priority | [Alan Greenspan Dies: Longtime Federal Reserve Chairman Was 100 - Deadline](https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1dCWDNMY1oyQ0l0NDJYX2FRWkx0ZDc3ZmN1MFhzY0ZpcjlCVHhneHQzTkRKZEFHQ1hxRWctMlA5TGg2VlB4LVBRX3IxNHFFYi10c3gtYVlpeFN0b2tTLTVfTFFjLXh2LXdVdTduUG9WU2JUZWxMT0VOa213cGFfWUZ5RHVkLVBKdTFpZ3hR?oc=5)
+- **Google News Markets** (Mon, 22 Jun 2026 12:49:54 GMT): High priority | [Federal Reserve mourns passing of former Chairman Alan Greenspan at 100 - Crypto Briefing](https://news.google.com/rss/articles/CBMifEFVX3lxTE5lTldxVHJzbDlWZ2l1UTJTVDY2Zk5RbldoNVlsbkoyUEVnclhYcVZ4N0ZOWjl4V2FsUDN0SU93eVZxZzk3LW9aZ1h3RkVndkZjMDFuaHRuTFk1N3UyOGFTWlBOQ3RiUEtGQWNGV3lHTndzUmtJa25GNEZkdDc?oc=5)
 
 ## 5. Economic Calendar
 
