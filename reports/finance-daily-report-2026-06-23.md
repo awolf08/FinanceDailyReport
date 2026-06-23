@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-23
 
-_Generated: 2026-06-23 05:55:08 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-23 06:55:09 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -93,6 +93,73 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
+### 6:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 9:55 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $153.43 | -1.17 | -0.76% | 47,894,873 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $13.67 | -0.76 | -5.25% | 27,705,312 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $135.57 | -5.37 | -3.81% | 27,449,320 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $203.18 | -5.47 | -2.62% | 25,771,651 |
+| **[SMCI](https://finance.yahoo.com/quote/SMCI/)** | Super Micro Computer, Inc. | $33.57 | -1.89 | -5.33% | 14,099,520 |
+| **[MU](https://finance.yahoo.com/quote/MU/)** | Micron Technology, Inc. | $1,091.14 | -120.24 | -9.93% | 14,277,175 |
+| **[HOOD](https://finance.yahoo.com/quote/HOOD/)** | Robinhood Markets, Inc. | $103.96 | -1.75 | -1.66% | 13,404,321 |
+| **[KEEL](https://finance.yahoo.com/quote/KEEL/)** | Keel Infrastructure Corp. | $6.46 | -0.20 | -3.00% | 13,255,937 |
+| **[RGTI](https://finance.yahoo.com/quote/RGTI/)** | Rigetti Computing, Inc. | $21.78 | +0.40 | +1.87% | 11,972,101 |
+| **[QBTS](https://finance.yahoo.com/quote/QBTS/)** | D-Wave Quantum Inc. | $25.63 | +1.16 | +4.74% | 11,882,181 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SSPC](https://finance.yahoo.com/quote/SSPC/)** | Leverage Shares 2X Short SPCX D | $13.02 | +0.19 | +1.44% | 29,251,486 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $70.93 | -9.77 | -12.11% | 26,861,517 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $76.29 | -6.29 | -7.62% | 26,343,666 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $39.74 | +2.81 | +7.61% | 24,142,979 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $243.61 | -57.16 | -19.00% | 20,472,426 |
+| **[SPCH](https://finance.yahoo.com/quote/SPCH/)** | Leverage Shares 2X Long SPCX Da | $12.55 | -0.14 | -1.06% | 19,998,250 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $12.25 | -1.22 | -9.06% | 18,042,394 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $34.97 | -11.31 | -24.44% | 17,291,766 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.47 | -0.28 | -3.20% | 16,373,833 |
+| **[QQQ](https://finance.yahoo.com/quote/QQQ/)** | Invesco QQQ Trust, Series 1 | $719.13 | -18.82 | -2.55% | 9,442,552 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[QNT](https://finance.yahoo.com/quote/QNT/)** | Quantinuum Inc. | $77.79 | +9.53 | +13.95% | 1,392,207 |
+| **[INFQ](https://finance.yahoo.com/quote/INFQ/)** | Infleqtion, Inc. | $15.39 | +1.18 | +8.32% | 10,682,555 |
+| **[QURE](https://finance.yahoo.com/quote/QURE/)** | uniQure N.V. | $47.99 | +3.60 | +8.11% | 474,171 |
+| **[QBTS](https://finance.yahoo.com/quote/QBTS/)** | D-Wave Quantum Inc. | $25.62 | +1.15 | +4.70% | 11,889,792 |
+| **[CDW](https://finance.yahoo.com/quote/CDW/)** | CDW Corporation | $130.32 | +6.75 | +5.46% | 151,506 |
+| **[EZPW](https://finance.yahoo.com/quote/EZPW/)** | EZCORP, Inc. | $33.19 | +1.68 | +5.33% | 98,959 |
+| **[ZETA](https://finance.yahoo.com/quote/ZETA/)** | Zeta Global Holdings Corp. | $19.63 | +1.18 | +6.40% | 4,639,178 |
+| **[CAR](https://finance.yahoo.com/quote/CAR/)** | Avis Budget Group, Inc. | $195.85 | +9.57 | +5.14% | 121,767 |
+| **[MRNA](https://finance.yahoo.com/quote/MRNA/)** | Moderna, Inc. | $62.15 | +2.81 | +4.74% | 1,285,911 |
+| **[AXON](https://finance.yahoo.com/quote/AXON/)** | Axon Enterprise, Inc. | $429.66 | +19.63 | +4.79% | 110,312 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PRIM](https://finance.yahoo.com/quote/PRIM/)** | Primoris Services Corporation | $72.70 | -35.64 | -32.90% | 2,483,731 |
+| **[SNDK](https://finance.yahoo.com/quote/SNDK/)** | Sandisk Corporation | $1,996.82 | -276.91 | -12.18% | 3,494,978 |
+| **[FLNC](https://finance.yahoo.com/quote/FLNC/)** | Fluence Energy, Inc. | $22.15 | -3.04 | -12.06% | 3,199,170 |
+| **[VICR](https://finance.yahoo.com/quote/VICR/)** | Vicor Corporation | $328.29 | -37.24 | -10.19% | 269,931 |
+| **[GLW](https://finance.yahoo.com/quote/GLW/)** | Corning Incorporated | $188.40 | -21.38 | -10.19% | 2,857,445 |
+| **[TSEM](https://finance.yahoo.com/quote/TSEM/)** | Tower Semiconductor Ltd. | $284.85 | -32.00 | -10.11% | 484,236 |
+| **[CRDO](https://finance.yahoo.com/quote/CRDO/)** | Credo Technology Group Holding | $271.83 | -30.69 | -10.14% | 2,279,802 |
+| **[BE](https://finance.yahoo.com/quote/BE/)** | Bloom Energy Corporation | $311.50 | -34.27 | -9.91% | 2,607,308 |
+| **[VRT](https://finance.yahoo.com/quote/VRT/)** | Vertiv Holdings, LLC | $323.46 | -34.72 | -9.69% | 2,363,513 |
+| **[WDC](https://finance.yahoo.com/quote/WDC/)** | Western Digital Corporation | $654.21 | -78.41 | -10.70% | 2,563,125 |
+
+Source health:
+- NYSE calendar 2026-06-23: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
 ## 4. Latest Market News
 
 - **Google News Markets** (Mon, 22 Jun 2026 17:46:21 GMT): High priority | [Citadel Securities says Federal Reserve Chairman Kevin Warsh’s policy commitment stabilizes long-term Treasury yields - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sRkVSRHpRYUZ6UHlvTWotTkVXLW1IMm5lRVdtZnJ4bElkSWFRYXBiMndYdTM2c2R0MmpoSXp2Q2d6MHBVVWw0TUhjc0Via2E1ejJYanZqcmdXSUdjUzVQWUVHWdIBY0FVX3lxTE9sRkVSRHpRYUZ6UHlvTWotTkVXLW1IMm5lRVdtZnJ4bElkSWFRYXBiMndYdTM2c2R0MmpoSXp2Q2d6MHBVVWw0TUhjc0Via2E1ejJYanZqcmdXSUdjUzVQWUVHWQ?oc=5)
@@ -103,30 +170,14 @@ Source health:
 - **Google News Markets** (Tue, 23 Jun 2026 09:26:26 GMT): High priority | [Alan Greenspan, who led US Federal Reserve through decades of boom and bust, dies at 100 - Magzter](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ3ZRYXd0bFBISkhKbGZGSkJoeE85OFMxQ3JMMktETDAtT2hMTGQ1QmJtemlqZjFSdGI5WTRkemtMak1LVWpiWGI5TFU5RTM0R1JhYjdveFZyN2NET2t1WS1xRWZ3ZVBYWlllVHRnUnJDeUhHTEc1ZUY4alJOaFdtTUowaFVoU2M0d3B1ZlROSDhZY0VISlczZ3JkODlVRDAwd25SYnBibE9UVWk1TkpjUXk5MnFtUFV2S0hULTQ2UFRJTzlTWWRJYzItTFBNY0Y1bzVRRGdzQTBlOUxCclc0bjNLYi1pblE?oc=5)
 - **Google News Markets** (Tue, 23 Jun 2026 09:14:52 GMT): High priority | [Former US Federal Reserve Chair Alan Greenspan Dies at 100 - streamlinefeed.co.ke](https://news.google.com/rss/articles/CBMilwFBVV95cUxPczZ3SktMVWV1ZFg0Umx0RGVqY2gzR3FrU3p0N3NRbmx6TUtRSEdsLUtjLWRSVG5xNFREeXFWQ3pTZ3V1Y3EtLW5QV1dvaGp6TlVUTG1RVEdsRGV4SzUyNUpudmdEOGpaSjFiMEoyOWJqUjc4NmxPSVVSUU52SGxPcWQxTFVjZ1V1blpOUDA5dnJ6ZG9acGtv?oc=5)
 - **Google News Markets** (Tue, 23 Jun 2026 08:50:36 GMT): High priority | [Grayscale: Bitcoin is bullish if the Federal Reserve does not raise interest rates - 富途牛牛](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWE1CLU9obXFkM2I0c19LZV9YOXI5THBtY2lJemJkSUZ3X19QVm53MzBnZE9PZFVBbXFWblAtdG5QeTB3a294WklzTUFNWkRCNlBpNWI4bTh2anJGN0ZCNWdQNEdUcWRDRlZqcTRiT2NWVzA4NGVKVVhjTGk4bHZDUFFyQlM0dWVXcFQ2UnkyYXRXX3o5NHBYUVZrdUNTZlJ1UnhZ?oc=5)
-- **Google News Markets** (Tue, 23 Jun 2026 08:03:45 GMT): High priority | [Alan Greenspan, Who Led Federal Reserve for Nearly 2 Decades, Dies at 100 - The Media Line](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeExMLWhrLVVBQ1N2N3B6SzcwaHpJMHJlbEdSb1hYcXRudERoUjcydlJBQkxBYzBUSjlIdW8taDh0d3JPc2t3ZXBNRTNlTUhmaUloZDRneXdjU2NPZ3F6b3c3NjlGdmJsRzdNbVViUS13Z3BodVFuVjdVWnU4NzN1VGJneWR5d0F6NkF5QndOVUhNTEZjeFZMNXhyU2FXc1N4RTRZN1hFb2czblE?oc=5)
-- **Google News Markets** (Tue, 23 Jun 2026 05:53:37 GMT): High priority | [Former Federal Reserve chief Alan Greenspan, credited with shaping modern US economics, dies aged 100. - Arise News](https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1dUT2ZZRnhzZjBVaXNMdkVRYTdUY2VSUXFPU1BYcVc1c0ZlczZ3WmZjdTMwZ25lb0hFZVF4UVVDZGxRdUtldDV5a1A3Z1BjWUtJU19tQ092a0V4Y3VBc3FxYXJkZXZ1MmR5YTZoU2U5ZU1yNDN4ZDBxeWx4b2hhLTRoQVhuQUMzRHhtMW5lbUdoQWVjdzVxUWp6blowazNsN01hWTkwY0NQS1IzYk5QUDR4TDF4T3lOLWtZeU1n?oc=5)
+- **Google News Markets** (Tue, 23 Jun 2026 08:47:46 GMT): High priority | [Former Federal Reserve Chairman Alan Greenspan Dies At 100 After Decades Shaping Global Economy - streamlinefeed.co.ke](https://news.google.com/rss/articles/CBMiyAFBVV95cUxONTRaMjh0S1FDQjM3NHY4eE16dHBHc090ZV9PbjRtNHNZT3pldDdOWm1DZmFaejZaaE5nM2otOTZ0UDFZNl83SVU1TGNqbDM3cUp0bG5YZnlEcTNxZTJyXzBvVjYzekZ4RkNKVVFRcGdrdWJsXzFnVWQyQV81dWl3Q2JJSHkySkROOVRtQW8xNGZ1ekRobFNqazVuM1dWaXhsa3pNY01jYjAycXp3TlllY0dhLTQzVVY2WFJROUNMVlBtY0Q1aEVSWQ?oc=5)
+- **Google News Markets** (Tue, 23 Jun 2026 08:09:38 GMT): High priority | [Alan Greenspan, Who Led Federal Reserve for Nearly 2 Decades, Dies at 100 - The Media Line](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeExMLWhrLVVBQ1N2N3B6SzcwaHpJMHJlbEdSb1hYcXRudERoUjcydlJBQkxBYzBUSjlIdW8taDh0d3JPc2t3ZXBNRTNlTUhmaUloZDRneXdjU2NPZ3F6b3c3NjlGdmJsRzdNbVViUS13Z3BodVFuVjdVWnU4NzN1VGJneWR5d0F6NkF5QndOVUhNTEZjeFZMNXhyU2FXc1N4RTRZN1hFb2czblE?oc=5)
 - **Google News Markets** (Tue, 23 Jun 2026 05:40:39 GMT): High priority | [Analyst: Waller Attempts to Shift Federal Reserve Narrative - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MaFd2dDRCemVQbjJvNkhZOWJLeThQbWhoS1ZMN24tMGtuX2pBTDQtOC1kSnN5U1ZCOVRNX3F1b2wzRmlVdDlwT0Z2NmVjaTZCR19aVURHT1JpUXBMdF9zUWN3a9IBY0FVX3lxTE9MaFd2dDRCemVQbjJvNkhZOWJLeThQbWhoS1ZMN24tMGtuX2pBTDQtOC1kSnN5U1ZCOVRNX3F1b2wzRmlVdDlwT0Z2NmVjaTZCR19aVURHT1JpUXBMdF9zUWN3aw?oc=5)
 - **Google News Markets** (Tue, 23 Jun 2026 01:35:47 GMT): High priority | [Grayscale: If the Federal Reserve pauses rate hikes, Bitcoin may see an increase - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CeHdYblpkODJGblFrRk56NW1kUTZkNzQ0bXpaaVMxMjdWd0ZHa0VaemNyT1prMlVOZEU0Q095UzNOZ1Y0MzVpZks1bFlMeGgwa2hBMjQ5RDBwU1Z2WlcyNzhLa9IBY0FVX3lxTE1CeHdYblpkODJGblFrRk56NW1kUTZkNzQ0bXpaaVMxMjdWd0ZHa0VaemNyT1prMlVOZEU0Q095UzNOZ1Y0MzVpZks1bFlMeGgwa2hBMjQ5RDBwU1Z2WlcyNzhLaw?oc=5)
 
 ## 5. Economic Calendar
 
 ### Today (2026-06-23)
-- **09:00** Fed Waller Speaks | Source: Nasdaq
-- **11:30** 3-Month Bill Auction | Previous: 3.640% | Source: Nasdaq
-- **11:30** 6-Month Bill Auction | Previous: 3.680% | Source: Nasdaq
-- **15:30** CFTC Aluminium speculative net positions | Previous: 0.4K | Source: Nasdaq
-- **15:30** CFTC Copper speculative net positions | Previous: 74.5K | Source: Nasdaq
-- **15:30** CFTC Corn speculative net positions | Previous: 103.6K | Source: Nasdaq
-- **15:30** CFTC Crude Oil speculative net positions | Previous: 130.3K | Source: Nasdaq
-- **15:30** CFTC Gold speculative net positions | Previous: 173.8K | Source: Nasdaq
-- **15:30** CFTC Nasdaq 100 speculative net positions | Previous: -1.3K | Source: Nasdaq
-- **15:30** CFTC Natural Gas speculative net positions | Previous: -194.0K | Source: Nasdaq
-- **15:30** CFTC S&P 500 speculative net positions | Previous: -205.6K | Source: Nasdaq
-- **15:30** CFTC Silver speculative net positions | Previous: 22.2K | Source: Nasdaq
-- **15:30** CFTC Soybeans speculative net positions | Previous: 150.5K | Source: Nasdaq
-- **15:30** CFTC Wheat speculative net positions | Previous: -57.9K | Source: Nasdaq
-
-### Tomorrow (2026-06-24)
 - **08:15** ADP Employment Change Weekly | Previous: 25.50K | Source: Nasdaq
 - **08:55** Redbook | Previous: 9.4% | Source: Nasdaq
 - **09:45** S&P Global Manufacturing PMI | Forecast: 54.6 | Previous: 55.1 | Source: Nasdaq
@@ -138,6 +189,28 @@ Source health:
 - **13:00** 2-Year Note Auction | Previous: 4.071% | Source: Nasdaq
 - **13:00** M2 Money Supply | Previous: 22.80T | Source: Nasdaq
 - **16:30** API Weekly Crude Oil Stock | Previous: -8.330M | Source: Nasdaq
+
+### Tomorrow (2026-06-24)
+- **07:00** MBA 30-Year Mortgage Rate | Previous: 6.60% | Source: Nasdaq
+- **07:00** MBA Mortgage Applications | Previous: -3.8% | Source: Nasdaq
+- **07:00** MBA Purchase Index | Previous: 170.8 | Source: Nasdaq
+- **07:00** Mortgage Market Index | Previous: 269.5 | Source: Nasdaq
+- **07:00** Mortgage Refinance Index | Previous: 810.2 | Source: Nasdaq
+- **08:30** Building Permits | Forecast: 1.413M | Previous: 1.423M | Source: Nasdaq
+- **08:30** Current Account | Forecast: -206.0B | Previous: -190.7B | Source: Nasdaq
+- **10:00** New Home Sales | Forecast: 638K | Previous: 622K | Source: Nasdaq
+- **10:30** Crude Oil Inventories | Forecast: -5.100M | Previous: -8.263M | Source: Nasdaq
+- **10:30** EIA Refinery Crude Runs | Previous: 0.230M | Source: Nasdaq
+- **10:30** Crude Oil Imports | Previous: -0.241M | Source: Nasdaq
+- **10:30** Cushing Crude Oil Inventories | Previous: -1.606M | Source: Nasdaq
+- **10:30** Distillate Fuel Production | Previous: -0.029M | Source: Nasdaq
+- **10:30** EIA Weekly Distillates Stocks | Previous: 0.951M | Source: Nasdaq
+- **10:30** Gasoline Production | Previous: 0.356M | Source: Nasdaq
+- **10:30** Heating Oil Stockpiles | Previous: -0.204M | Source: Nasdaq
+- **10:30** EIA Weekly Refinery Utilization Rates | Previous: 1.4% | Source: Nasdaq
+- **10:30** Gasoline Inventories | Previous: -0.906M | Source: Nasdaq
+- **13:00** 5-Year Note Auction | Previous: 4.182% | Source: Nasdaq
+- **16:00** Fed Bank Stress Test Results | Source: Nasdaq
 - **10:00 AM** New Residential Sales (May 2026) | Source: Census
 - **10:00 AM** Preliminary U.S. Imports for Consumption of Steel Products (May 2026) | Source: Census
 
