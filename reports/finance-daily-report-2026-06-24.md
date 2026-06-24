@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-24
 
-_Generated: 2026-06-24 09:55:10 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-24 11:55:07 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -232,46 +232,103 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
+### 11:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:55 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $17.35 | +1.22 | +7.53% | 168,657,527 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $17.46 | +0.17 | +0.98% | 100,177,033 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $197.46 | -2.54 | -1.27% | 79,754,849 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $13.72 | +0.02 | +0.11% | 76,592,290 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $129.53 | -2.75 | -2.08% | 74,048,705 |
+| **[PATH](https://finance.yahoo.com/quote/PATH/)** | UiPath, Inc. | $10.38 | +0.22 | +2.19% | 64,378,129 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $7.72 | -0.80 | -9.44% | 60,253,359 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $155.53 | -0.58 | -0.37% | 57,505,118 |
+| **[KEEL](https://finance.yahoo.com/quote/KEEL/)** | Keel Infrastructure Corp. | $5.92 | -0.68 | -10.30% | 52,143,718 |
+| **[PFE](https://finance.yahoo.com/quote/PFE/)** | Pfizer, Inc. | $24.15 | -0.57 | -2.33% | 50,863,280 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.07 | -0.40 | -4.66% | 224,416,070 |
+| **[NVD](https://finance.yahoo.com/quote/NVD/)** | GraniteShares 2x Short NVDA Dai | $5.36 | +0.14 | +2.68% | 68,311,636 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $33.65 | -1.66 | -4.69% | 63,989,205 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $41.08 | +0.51 | +1.27% | 54,534,581 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $72.16 | -2.28 | -3.06% | 52,320,422 |
+| **[BTCZ](https://finance.yahoo.com/quote/BTCZ/)** | T-Rex 2X Inverse Bitcoin Daily | $6.49 | +0.57 | +9.52% | 46,746,672 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $9.17 | +0.27 | +3.03% | 44,669,585 |
+| **[SPDN](https://finance.yahoo.com/quote/SPDN/)** | Direxion Daily S&P 500 Bear 1X | $8.83 | +0.02 | +0.23% | 44,204,185 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $68.11 | -1.11 | -1.60% | 42,839,580 |
+| **[SLV](https://finance.yahoo.com/quote/SLV/)** | iShares Silver Trust | $51.33 | -4.40 | -7.90% | 40,709,981 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[DFTX](https://finance.yahoo.com/quote/DFTX/)** | Definium Therapeutics, Inc. | $42.83 | +6.65 | +18.40% | 10,920,981 |
+| **[RUN](https://finance.yahoo.com/quote/RUN/)** | Sunrun Inc. | $14.94 | +2.12 | +16.58% | 43,605,923 |
+| **[KBH](https://finance.yahoo.com/quote/KBH/)** | KB Home | $61.61 | +8.88 | +16.84% | 3,112,142 |
+| **[FOUR](https://finance.yahoo.com/quote/FOUR/)** | Shift4 Payments, Inc. | $44.07 | +5.40 | +13.96% | 1,706,618 |
+| **[ADPT](https://finance.yahoo.com/quote/ADPT/)** | Adaptive Biotechnologies Corpor | $19.34 | +2.11 | +12.26% | 3,877,565 |
+| **[BLDR](https://finance.yahoo.com/quote/BLDR/)** | Builders FirstSource, Inc. | $86.32 | +9.59 | +12.50% | 2,269,851 |
+| **[ICLR](https://finance.yahoo.com/quote/ICLR/)** | ICON plc | $159.74 | +17.07 | +11.96% | 1,582,701 |
+| **[NTRA](https://finance.yahoo.com/quote/NTRA/)** | Natera, Inc. | $261.03 | +26.27 | +11.19% | 1,921,809 |
+| **[CCS](https://finance.yahoo.com/quote/CCS/)** | Century Communities, Inc. | $69.55 | +6.77 | +10.78% | 264,161 |
+| **[MMYT](https://finance.yahoo.com/quote/MMYT/)** | MakeMyTrip Limited | $51.54 | +4.97 | +10.67% | 1,602,796 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[RGC](https://finance.yahoo.com/quote/RGC/)** | Regencell Bioscience Holdings L | $8.82 | -2.26 | -20.44% | 377,595 |
+| **[CBRS](https://finance.yahoo.com/quote/CBRS/)** | Cerebras Systems Inc. | $186.72 | -40.00 | -17.64% | 16,906,107 |
+| **[NVTS](https://finance.yahoo.com/quote/NVTS/)** | Navitas Semiconductor Corporati | $17.83 | -3.57 | -16.68% | 25,838,670 |
+| **[CHRN](https://finance.yahoo.com/quote/CHRN/)** | ChronoScale Corporation | $22.03 | -3.79 | -14.68% | 330,385 |
+| **[NG](https://finance.yahoo.com/quote/NG/)** | Novagold Resources Inc. | $6.16 | -1.06 | -14.75% | 4,209,948 |
+| **[SYRE](https://finance.yahoo.com/quote/SYRE/)** | Spyre Therapeutics, Inc. | $84.08 | -12.97 | -13.36% | 3,028,423 |
+| **[INFQ](https://finance.yahoo.com/quote/INFQ/)** | Infleqtion, Inc. | $13.87 | -2.09 | -13.09% | 18,516,009 |
+| **[AXTI](https://finance.yahoo.com/quote/AXTI/)** | AXT Inc | $68.22 | -9.69 | -12.44% | 10,778,328 |
+| **[MAAS](https://finance.yahoo.com/quote/MAAS/)** | Maase Inc. | $18.60 | -2.64 | -12.43% | 157,997 |
+| **[OUST](https://finance.yahoo.com/quote/OUST/)** | Ouster, Inc. | $39.80 | -5.36 | -11.87% | 3,899,476 |
+
+Source health:
+- NYSE calendar 2026-06-24: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
 ## 4. Latest Market News
 
+- **Google News Markets** (Wed, 24 Jun 2026 17:17:52 GMT): High priority | [S&P 500 Rebounds Ahead Of Micron Earnings, Oil Hits $70 - Micron Technology (NASDAQ:MU) - Benzinga](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ1F3cVY3SVpHSWJlT2pWVWNsTjF1QVc0V0ctUUJYUG8tbGFBZVdWVjczejVMclRPMkZibkZ0djJkYjlGUTVhd3VUVVE0dHMyb0dHdGM2VEhYdXdQandDQTJ2SHpxQzVycDhUYjhLcndZY0lvRE1MR1hTa0tfSFI3cjcyYTZiYTUzX2xKQjdoa0lCWWFSS1d1dUxUWDVPWGVBTjJLMF93QklTbUJUM1NNbzg4bkFZNnV5NXZ6c193RXdISjd3YXo5aG56Qk9XVml3LTJoSkxoT25LZUlsbFE?oc=5)
+- **Google News Markets** (Wed, 24 Jun 2026 16:39:01 GMT): High priority | [Why Is the US Stock Market Up Today? Dow, Nasdaq and S&P 500 Jump as Oil Prices Falls & Tech Stocks Rebound After Selloff - The Sunday Guardian](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcHlWeFF1ZXRCVWZIVElvcnhMNEJGT05sVnhlTGpoMmE0Uy0tOF9JTXA4YU1lR1ZiT0oxcXNCM1RnNVB3Wk1keEJrSkI3SjYyOXVEWXUtVEVqV09lLTk4QTBUQ3hMaGxvY0dCRkJmMjFMd3F1aXltSy1NbFIzVURoZ0I1UGx5SkwxUHNELWpSenhJT184b3NaVmtGVDBZcHo0N0VMeUFNVGYxNEI1T0dXcUFJTHZ0ZlFCWnhtSWd3ZV9nMEx1eDd2NzFZYTN6ek1MLU5RMVRKNUI1STctUUl0OXJRcGVxcmh1aGxPMVBULV9BM1gtaWVaemRORGrSAfwBQVVfeXFMTXB5VnhRdWV0QlVmSFRJb3J4TDRCRk9ObFZ4ZUxqaDJhNFMtLThfSU1wOGFNZUdWYk9KMXFzQjNUZzVQd1pNZHhCa0pCN0o2Mjl1RFl1LVRFaldPZS05OEEwVEN4TGhsb2NHQkZCZjIxTHdxdWl5bUstTWxSM1VEaGdCNVBseUpMMVBzRC1qUnp4SU9fOG9zWlZrRlQwWXB6NDdFTHlBTVRmMTRCNU9HV3FBSUx2dGZRQlp4bUlnd2VfZzBMdXg3djcxWWEzenpNTC1OUTFUSjVCNUk3LVFJdDlyUXBlcXJodWhsTzFQVC1fQTNYLWllWnpkTkRq?oc=5)
 - **Federal Reserve** (Mon, 22 Jun 2026 12:45:00 GMT): High priority | [Federal Reserve notes with deep sadness the passing of Alan Greenspan](https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm)
 - **Google News Markets** (Wed, 24 Jun 2026 12:30:29 GMT): High priority | [Tech stock direction may be determined by this! Nomura: Micron's earnings report is now replacing the Federal Reserve as the biggest short-term market variable. - 富途牛牛](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzgyWk5jbG1Mc1F0VzdVcG44Z0paOVMzME5YcWxfWGtvcHQ4MlRLNnlfTHRvZVpPNFpXemhiRm43YjUtTndLRmJLUFJwRWJRYXJuWVhRa2taLVY3NkY1djE4TGx3WFlsWW1YZnhWeXlvVjI2RmNJa2JrZEYzcnpNaFBtaGp5am1DbVAtNUtuUlFhMjEtQTdlQXZESUc5WlpmTjBv?oc=5)
 - **Google News Markets** (Wed, 24 Jun 2026 11:09:10 GMT): High priority | [FedEx stock sinks 7% as margin hit overshadows earnings beat after freight spinoff - Invezz](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGZLelN1b3VLU3VLOXVkU213dkkwM240Y0wxVGx6elU0M0tjWXl2SFNkcklyT2ZLY0doWnItcWoxX1dYeEFLb04wQWRPRExXTndjeUh3Z3dRa1BJaDM3U0p6Z1hEc3ZpYm5GMFNyZmduNGJ1VFFvMmNPSVlQbjQ4eW5PeVdYdTh3OWJodHAteG9qb2hYbk5CSEpfbV9iRTJXdXJSZ01vVm0yTFA5Z3hCRXlOTWtmclNI?oc=5)
 - **Google News Markets** (Wed, 24 Jun 2026 15:22:34 GMT): High priority | [US stocks open higher with Micron earnings in focus, traders eye Fed - TechStock²](https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXUxY3dYX2RIYmxWOUVrM0loM0tQNUtZZFJKeFBWeWhNcUs3eGdoWGFXeWQyTXdhT29vbjRlWWJYeGx0bEVyVlBSN1RRUDg1WjI5VFU5YklUZjNiYUNvaEYzWW1ibk9MWDNZdUhCV251OW9wZ0ozeElOdktnZHo1cHJZSmZGTXd6ZDU5T3VJbHNvZw?oc=5)
-- **Google News Markets** (Wed, 24 Jun 2026 14:16:28 GMT): High priority | [Dow rises as tech rebounds ahead of Micron earnings after recent sell-off - Invezz](https://news.google.com/rss/articles/CBMisgFBVV95cUxQaE5FTzlmREtUckI1cWs5Nnl1ekVHT2tUaHNxNG9WWWJKMEg0ODRFMWV5bUVKZVJhYXJLZ1Z1NUxUS3hoazR6bUdudW9VNG1mOGg4dVMxVFptQ25IdWQtcHZEbVd4dUFWSHVOcW5UM2FXQllNZWREMUZmYVZobEpZMFpSRkcydEdtZDZhR2tEMHVLYk1wc2tHUDJfNkZLZW1Zajl0MlJmbXlRaUg0NVZ5LTRn?oc=5)
+- **Google News Markets** (Wed, 24 Jun 2026 14:17:31 GMT): High priority | [Dow rises as tech rebounds ahead of Micron earnings after recent sell-off - Invezz](https://news.google.com/rss/articles/CBMisgFBVV95cUxONlQ5X0lnX1BsaXY4RDlrdU1ZeGpvXzZUOHV5c2tWZ0xpYWx5Vmc0UkNFSGppTmpXTUZsczlkVDNwTHFkdXYyZWJsb2poMDVybThxZXNEZjhBSmNvWXlFdUs4SUlReWM1TVFVMlRCZ0JSMENqNkxrV3M2dXFoeHQ2QjZGNE1TMm1iYlp2eGdIRk1YMjFhZmNMTTJrdkcyVlM1LVVlUHdNQWpKRm1TNGlOUFpR?oc=5)
+- **Google News Markets** (Wed, 24 Jun 2026 13:34:07 GMT): High priority | [JPMorgan raises S&P 500 target to 7,800, says earnings revision ’unprecedented’ - Investing.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY290VHI3Q3JMdnUyUENqbzQyVzQzN0xqS0hqdnNXQ1VkdmM1a3BpdHlrODJkWlhEX2lwd3hXV04tZHJDbFRUS0dqQlQtSVY0aFoya3V2dWRsdjN3VDVtV0R4QmdLdXQyQVNHRkItRE5kajd2eC1wY2owYVZfaml1aHVMR0xwbGx6dDF2NnBoTnZTUUdrcWJ3Rk5lOFVsQWpzQldNS3Q1RmtWc3U3V291N3YyM01peklCYVNPSzlDR25FZw?oc=5)
 - **Google News Markets** (Wed, 24 Jun 2026 12:18:43 GMT): High priority | [[STOCK MARKET UPDATE] Markets await Micron’s earnings; oil prices plunge and tech stocks waver - Luxus Plus](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeU45MF9VTG9mOWFNRnRWdXkwRzlMYmVpR1ViOXIyQ3JhbHBJdl91MDFSbi1FVk9ZcVowQzBIanJRdUV0eWZuWjMwendPaTlGbWdvbGE2ZW1Rck5TMHNzTXRNOUsxUVdaakF3NlJueDdfZjJWQ0NxNnpXSGduOVJnNzlCTEtNWnAtUnpXSTA2T181ZjYxZ002MGU2eWxjYlVDc3huNV9VcXFzNlJmaGFPWENhR2VBamF2?oc=5)
-- **Google News Markets** (Wed, 24 Jun 2026 11:15:10 GMT): High priority | [The Fed's Latest Inflation Reading Has Good and Bad News for the Stock Market. Here's What It Means for Investors. - The Globe and Mail](https://news.google.com/rss/articles/CBMimwJBVV95cUxNOFpIUXVSUTltaFNqQlpoX0tKMHhmVEZaNGhISWRqejBIT1J5bnZFcWlPN09QVklfNUlDVHFXcmY3OWFmNEw4RE4zVEgxMTk4LURqbUFWM2kybjRxdjZXWVk1M2hpdE1zN1Zzd1I0UjNuY1hnOHFlbTdpVF9wNVk3SEFQX0gtd1o4VG02OVpLU0t0Uzh3UlBacmRLeHdSS2QxZkRucHdja0tndlFPZjR4c3M1cFZPbWdxM3FVcTB3dEtkb2FoS1dvdWRLVFNaTWh1c3ZoZ0ZFNFZocjlkUG95bG02V3lzSnpteGotS3QyZm1teGpUWDdpZ3VaNF9jUk54d0RqMFF1cXljMHdfVUZMNDdvOE8wQ0ctVXVn?oc=5)
+- **Google News Markets** (Wed, 24 Jun 2026 11:28:07 GMT): High priority | [The Fed's Latest Inflation Reading Has Good and Bad News for the Stock Market. Here's What It Means for Investors. - The Globe and Mail](https://news.google.com/rss/articles/CBMipAJBVV95cUxNa3lMZ3FvX3lseENfcGc4cVJWM2RqYTZYaDhMN0N0bkRacHRZR0JRR252M1VHOHlvZDZLeFpZWTQ5WW9zQ2VKYkZCQzlQOHJrTVo0OTNKVDFuUkx5cGthQm8xOWJmbndvMmJqeWdLZ09SS2k3SjNJX3Y1a0wwMXg4Q3VMa3I5NzdLNGQ4RVg0TzdBaWh5dTVhTWI2ajUzYzhxOTB0dWUtNXpZWFRERXlaSllJU3otZUJWYXkyN1A4T3lPTGo1OW1yQUd0cDhMLVFISWdNNjRWeTlWY3R6R3RPTF9McE5Qckw0Umw2emhBaks2bEhhZE1YVm1EYzFBUjVmZkR3VlJVbTdFcV9Oa1U1djdSREVHVDI1bFRHM0lMRl9vNjlT?oc=5)
 - **Google News Markets** (Wed, 24 Jun 2026 10:48:09 GMT): High priority | [The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors - AOL.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXJpblpQZ255eWc4RVJFbXM4SlRzSWtVMmhDOVJDclVzV1prQ19FMzVpNWZKT2F0ZUppVzZVbkFxNElQTE5QMVpOa2hWY0VEaWxnMk9pUVdPTGxsZDZ6THZTTmtoRFQ2U1lhV1p0d3YyeldYekRHQ1FCbm9RXzRFTWp0UWtMd0U?oc=5)
 - **Google News Markets** (Wed, 24 Jun 2026 08:45:01 GMT): High priority | [Stock Market: Will S&P 500 Open Up Or Down Today? - Benzinga](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWERGcDBLTmVsREJ5Zy16UkoxaHVQekhucWxKUWVSNUt5NFBZQk42N0VwcDdIYjIwTmNLNWxtOXVHN3ZuTWRhV05KYUZxMDlhUmtNZHlJODI4MUQtcjZLZk0xV0YtbjRRSk51LUl3NmpueFR4UWsxa1VFSXBtTzdlaXhWanpWTFRCZmZ4aTFRU2d6Q0lLU1NSd1F3alI4d2xTbGdTRzVRdTdyZWUtNi1lNXBMREgzenhUT2NMVzN0TGVLbFVjbWdNQ2ZKdTBFVE1KMUlWS2daZGlydWt0TWc?oc=5)
-- **Google News Markets** (Wed, 24 Jun 2026 08:17:23 GMT): High priority | [Alan Greenspan, former head of Federal Reserve, dies at 100 - Scripps News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFp0Ym9yNDN1ZUtyUjdIM0tIVUo2TUNEN1hDUUdsU19sdEphTjh1Mm52eDZhYUxkZ0x0ZWZhcXdZSWpMUUExQWtmOVRrOW5mcm1tUUhkeFVqbHFlTW9ibGNpR3FGX2pvdWZNMjlUcEZ3U2hER3JLcmF5R1oybUp0LWNpOE9TaFJnbG00RWs0bmdQRXZ3ODdwWnpPd20?oc=5)
-- **Google News Markets** (Wed, 24 Jun 2026 05:54:20 GMT): High priority | [Former Federal Reserve chief Alan Greenspan, credited with shaping modern US economics, dies aged 100. - Arise News](https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1dUT2ZZRnhzZjBVaXNMdkVRYTdUY2VSUXFPU1BYcVc1c0ZlczZ3WmZjdTMwZ25lb0hFZVF4UVVDZGxRdUtldDV5a1A3Z1BjWUtJU19tQ092a0V4Y3VBc3FxYXJkZXZ1MmR5YTZoU2U5ZU1yNDN4ZDBxeWx4b2hhLTRoQVhuQUMzRHhtMW5lbUdoQWVjdzVxUWp6blowazNsN01hWTkwY0NQS1IzYk5QUDR4TDF4T3lOLWtZeU1n?oc=5)
-- **Google News Markets** (Wed, 24 Jun 2026 04:35:00 GMT): High priority | [US Stock Market: Barclays, Stifel lift S&P 500 year-end targets on stronger earnings outlook - The Economic Times](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTVVpODVpR0Y1Q09RUjdyRFNMZXd6NXZ6WkQ3UTRTVXhxRGQ1R3NwT21sbmh2c1Z6M3NadW00Tm5ZZ3NJWTZleEdwcWpPMjRraTdUenEwUHluZndncFc4VklsZ3NSTnplXzZnbFpERHktb29kSlBiX0xvMjhoNG5LSDJSRzZuTXU0N2k2Ty1wdm42VEVTcVRzbkxCU3ZYUUJSelFZMjVsYnY0UldKT0pUUVEzY1dNSXJHVFNtSEwyMnhCaVhXczRXcGpzaTI2c0RwVXliT25SVkZhX3B3WnFOSGZlcE1xaWU5ZWtCcTJiZ29RdFlKcWtVcGhFVUhHUWvSAf8BQVVfeXFMT01VaTg1aUdGNUNPUVI3ckRTTGV3ejV2elpEN1E0U1V4cURkNUdzcE9tbG5odnNWejNzWnVtNE5uWWdzSVk2ZXhHcHFqTzI0a2k3VHpxMFB5bmZ3Z3BXOFZJbGdzUk56ZV82Z2xaRER5LW9vZEpQYl9MbzI4aDRuS0gyUkc2bk11NDdpNk8tcHZuNlRFU3FUc25MQlN2WFFCUnpRWTI1bGJ2NFJXSk9KVFFRM2NXTUlyR1RTbUhMMjJ4QmlYV3M0V3Bqc2kyNnNEcFV5Yk9uUlZGYV9wd1pxTkhmZXBNcWllOWVrQnEyYmdvUXRZSnFrVXBoRVVIR1Fr?oc=5)
 
 ## 5. Economic Calendar
 
 ### Today (2026-06-24)
-- **07:00** MBA 30-Year Mortgage Rate | Previous: 6.60% | Source: Nasdaq
-- **07:00** MBA Mortgage Applications | Previous: -3.8% | Source: Nasdaq
-- **07:00** MBA Purchase Index | Previous: 170.8 | Source: Nasdaq
-- **07:00** Mortgage Market Index | Previous: 269.5 | Source: Nasdaq
-- **07:00** Mortgage Refinance Index | Previous: 810.2 | Source: Nasdaq
-- **08:30** Building Permits | Forecast: -0.7% | Previous: 4.4% | Source: Nasdaq
-- **08:30** Current Account | Forecast: -212.0B | Previous: -221.1B | Source: Nasdaq
-- **10:00** New Home Sales | Forecast: 638K | Previous: 626K | Source: Nasdaq
-- **10:30** Crude Oil Inventories | Forecast: -3.900M | Previous: -8.263M | Source: Nasdaq
-- **10:30** EIA Refinery Crude Runs | Previous: 0.230M | Source: Nasdaq
-- **10:30** Crude Oil Imports | Previous: -0.241M | Source: Nasdaq
-- **10:30** Cushing Crude Oil Inventories | Previous: -1.606M | Source: Nasdaq
-- **10:30** Distillate Fuel Production | Previous: -0.029M | Source: Nasdaq
-- **10:30** EIA Weekly Distillates Stocks | Forecast: -0.500M | Previous: 0.951M | Source: Nasdaq
-- **10:30** Gasoline Production | Previous: 0.356M | Source: Nasdaq
-- **10:30** Heating Oil Stockpiles | Previous: -0.204M | Source: Nasdaq
-- **10:30** EIA Weekly Refinery Utilization Rates | Previous: 1.4% | Source: Nasdaq
-- **10:30** Gasoline Inventories | Forecast: -0.600M | Previous: -0.906M | Source: Nasdaq
-- **13:00** 5-Year Note Auction | Previous: 4.182% | Source: Nasdaq
-- **14:00** Fed Governor Cook Speaks | Source: Nasdaq
-- **16:00** Fed Bank Stress Test Results | Source: Nasdaq
-- **20:30** U.S. President Trump Speaks | Source: Nasdaq
+- **08:15** ADP Employment Change Weekly | Previous: 26.50K | Source: Nasdaq
+- **08:55** Redbook | Previous: 9.4% | Source: Nasdaq
+- **09:45** S&P Global Manufacturing PMI | Forecast: 54.6 | Previous: 55.1 | Source: Nasdaq
+- **09:45** S&P Global Composite PMI | Previous: 51.5 | Source: Nasdaq
+- **09:45** S&P Global Services PMI | Forecast: 51.1 | Previous: 50.7 | Source: Nasdaq
+- **10:00** Richmond Manufacturing Index | Forecast: 8 | Previous: 13 | Source: Nasdaq
+- **10:00** Richmond Manufacturing Shipments | Previous: 16 | Source: Nasdaq
+- **10:00** Richmond Services Index | Previous: 14 | Source: Nasdaq
+- **13:00** 2-Year Note Auction | Previous: 4.071% | Source: Nasdaq
+- **13:00** M2 Money Supply | Previous: 22.80T | Source: Nasdaq
+- **14:05** U.S. President Trump Speaks | Source: Nasdaq
+- **16:30** API Weekly Crude Oil Stock | Previous: -8.330M | Source: Nasdaq
 - **10:00 AM** New Residential Sales (May 2026) | Source: Census
 - **10:00 AM** Preliminary U.S. Imports for Consumption of Steel Products (May 2026) | Source: Census
 
@@ -283,7 +340,7 @@ Source health:
 - **07:00** Mortgage Refinance Index | Previous: 810.2 | Source: Nasdaq
 - **08:30** Building Permits | Forecast: -0.7% | Previous: 4.4% | Source: Nasdaq
 - **08:30** Current Account | Forecast: -212.0B | Previous: -221.1B | Source: Nasdaq
-- **10:00** New Home Sales | Forecast: 638K | Previous: 622K | Source: Nasdaq
+- **10:00** New Home Sales | Forecast: 638K | Previous: 626K | Source: Nasdaq
 - **10:30** Crude Oil Inventories | Forecast: -3.900M | Previous: -8.263M | Source: Nasdaq
 - **10:30** EIA Refinery Crude Runs | Previous: 0.230M | Source: Nasdaq
 - **10:30** Crude Oil Imports | Previous: -0.241M | Source: Nasdaq
