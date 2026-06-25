@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-25
 
-_Generated: 2026-06-25 09:55:09 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-25 11:55:10 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -229,6 +229,73 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
+### 11:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:55 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $17.48 | +0.04 | +0.23% | 172,956,921 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $194.52 | -4.39 | -2.21% | 100,001,231 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $130.27 | -1.64 | -1.24% | 98,560,435 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $17.31 | -0.01 | -0.06% | 70,371,480 |
+| **[AAPL](https://finance.yahoo.com/quote/AAPL/)** | Apple Inc. | $279.44 | -13.73 | -4.68% | 66,830,495 |
+| **[MU](https://finance.yahoo.com/quote/MU/)** | Micron Technology, Inc. | $1,229.32 | +181.40 | +17.31% | 65,189,470 |
+| **[BB](https://finance.yahoo.com/quote/BB/)** | BlackBerry Limited | $10.52 | +1.90 | +21.98% | 61,652,957 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $13.98 | +0.16 | +1.19% | 59,977,126 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $153.21 | -1.14 | -0.74% | 47,498,421 |
+| **[F](https://finance.yahoo.com/quote/F/)** | Ford Motor Company | $14.12 | +0.28 | +2.02% | 47,280,972 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.07 | -0.08 | -0.98% | 283,066,174 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $75.15 | +1.89 | +2.58% | 92,362,602 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $77.25 | +7.32 | +10.47% | 83,918,834 |
+| **[SPDN](https://finance.yahoo.com/quote/SPDN/)** | Direxion Daily S&P 500 Bear 1X | $8.82 | -0.01 | -0.11% | 76,811,102 |
+| **[NVD](https://finance.yahoo.com/quote/NVD/)** | GraniteShares 2x Short NVDA Dai | $5.52 | +0.26 | +4.84% | 69,633,303 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $39.43 | -1.02 | -2.52% | 67,104,283 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $33.62 | -0.27 | -0.80% | 61,086,659 |
+| **[BTCZ](https://finance.yahoo.com/quote/BTCZ/)** | T-Rex 2X Inverse Bitcoin Daily | $6.51 | +0.10 | +1.56% | 49,344,459 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $252.43 | +22.86 | +9.96% | 46,874,543 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $9.61 | +0.44 | +4.80% | 46,490,771 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[DPC](https://finance.yahoo.com/quote/DPC/)** | DPC Holdings Limited | $45.72 | +12.72 | +38.53% | 14,555,226 |
+| **[BB](https://finance.yahoo.com/quote/BB/)** | BlackBerry Limited | $10.52 | +1.90 | +21.98% | 61,652,957 |
+| **[AYI](https://finance.yahoo.com/quote/AYI/)** | Acuity Inc. | $366.98 | +61.47 | +20.12% | 1,010,724 |
+| **[TECH](https://finance.yahoo.com/quote/TECH/)** | Bio-Techne Corp | $70.54 | +11.67 | +19.81% | 44,845,557 |
+| **[SNDK](https://finance.yahoo.com/quote/SNDK/)** | Sandisk Corporation | $2,303.52 | +382.10 | +19.89% | 10,733,577 |
+| **[MU](https://finance.yahoo.com/quote/MU/)** | Micron Technology, Inc. | $1,229.22 | +181.30 | +17.30% | 65,189,696 |
+| **[NRIX](https://finance.yahoo.com/quote/NRIX/)** | Nurix Therapeutics, Inc. | $22.44 | +3.14 | +16.27% | 3,733,609 |
+| **[KYMR](https://finance.yahoo.com/quote/KYMR/)** | Kymera Therapeutics, Inc. | $113.73 | +13.86 | +13.88% | 3,113,219 |
+| **[SLS](https://finance.yahoo.com/quote/SLS/)** | SELLAS Life Sciences Group, Inc | $10.30 | +1.13 | +12.32% | 12,244,688 |
+| **[MXL](https://finance.yahoo.com/quote/MXL/)** | MaxLinear, Inc | $95.46 | +10.48 | +12.33% | 3,102,652 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[TCOM](https://finance.yahoo.com/quote/TCOM/)** | Trip.com Group Limited | $40.10 | -6.20 | -13.39% | 10,860,567 |
+| **[RGC](https://finance.yahoo.com/quote/RGC/)** | Regencell Bioscience Holdings L | $7.61 | -0.95 | -11.10% | 336,436 |
+| **[INOD](https://finance.yahoo.com/quote/INOD/)** | Innodata Inc. | $72.56 | -9.00 | -11.03% | 1,824,271 |
+| **[JEF](https://finance.yahoo.com/quote/JEF/)** | Jefferies Financial Group Inc. | $51.71 | -6.23 | -10.76% | 4,742,013 |
+| **[DUOL](https://finance.yahoo.com/quote/DUOL/)** | Duolingo, Inc. | $119.10 | -13.05 | -9.88% | 1,136,898 |
+| **[NUVB](https://finance.yahoo.com/quote/NUVB/)** | Nuvation Bio Inc. | $5.86 | -0.61 | -9.37% | 14,400,580 |
+| **[EQPT](https://finance.yahoo.com/quote/EQPT/)** | EquipmentShare.com Inc | $20.22 | -2.08 | -9.35% | 1,722,489 |
+| **[ESTC](https://finance.yahoo.com/quote/ESTC/)** | Elastic N.V. | $53.61 | -5.10 | -8.69% | 1,880,297 |
+| **[FIG](https://finance.yahoo.com/quote/FIG/)** | Figma, Inc. | $17.03 | -1.60 | -8.61% | 18,138,388 |
+| **[MSTR](https://finance.yahoo.com/quote/MSTR/)** | Strategy Inc | $86.53 | -7.69 | -8.17% | 35,335,602 |
+
+Source health:
+- NYSE calendar 2026-06-25: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
 ## 4. Latest Market News
 
 - **Federal Reserve** (Thu, 25 Jun 2026 15:00:00 GMT): High priority | [Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm)
@@ -237,75 +304,19 @@ Source health:
 - **Google News Markets** (Wed, 24 Jun 2026 22:19:42 GMT): High priority | [Dow Jones futures rise as Micron jumps on earnings, lifting SanDisk, AI stocks; Fed inflation data due - MSN](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTWtXeWtuaG9TV0hfQ3p1MkQ1emZfX2l3TWg4aV9scjJFUEczOUJTcUNtTjBhaWY4X3lLMF9kaXQ0Qk9yeTdwRFI4Q3FDdHMzc05zZXpqQnczcUVCSnZSQmhtU0RyMU9BV0pua2dveUlXaVliVzBWNTdFWHNUZXpNRGNKM296ckZnc2FadGxPMmJuX0t4UXlJWmgxcUoyQ1BOUGJlUzQ1U0lFSUJVUXdtSEFzRVVLaTgySmdSUlJRaHBHQzRBRzBaQmlNTGFnak9SNzBDRnVyZS1acTZkclc3d0RUeFNNZw?oc=5)
 - **Federal Reserve** (Wed, 24 Jun 2026 20:00:00 GMT): High priority | [Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm)
 - **Federal Reserve** (Mon, 22 Jun 2026 12:45:00 GMT): High priority | [Federal Reserve notes with deep sadness the passing of Alan Greenspan](https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm)
-- **Google News Markets** (Thu, 25 Jun 2026 08:26:00 GMT): High priority | [The Newest Federal Reserve June Inflation Forecast Is a Good News-Bad News Scenario for Wall Street - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVDZTcnZrS0dQM1kxdm9FamRQdk5MdC0xYk44WHFCUGV3a3E2ZDNIYkdHOVdEMjlSeGpMOFBkQkZueVlnREZXV3g5QkxMMTNSeTVfTnpzdGxfbXBCTnFCRVoxMWZaMHc0MWxqSW9Bb3NtWjdVVlBOcTgxQ0ZhSXd3T25aR2M1MnY2bmRDazdhRC1pTEZQRm94SkRkYVJ1Zm5ELWZnS1NB?oc=5)
+- **Google News Markets** (Thu, 25 Jun 2026 08:28:20 GMT): High priority | [The Newest Federal Reserve June Inflation Forecast Is a Good News-Bad News Scenario for Wall Street - The Globe and Mail](https://news.google.com/rss/articles/CBMilAJBVV95cUxPRTBjTDhEWjc1RzlIeGRIemFLWFd6NXptMlp0Z0FYeGozaUhWS3k5OTRod0UyRndzZk94eVFSRXJTNzE0YmwwbDJVZnZMXy1ZTUxzbFN6Nkw0V0tKUnlJYVRJT0kwOV9DaDhUUktUeENrMVJmZmxVdnFVTi1JaEdOTlVFN3lwLUppeWFRTzloRjdNN211UWxoQ0pmeXJrRWdtTDBxSHp2NFF4MTlNNTBiZFc0TlFxd0NmX200N2ZoaGlQak9qc1pqSmVsMkpOQVFCQXJZejdsZjJsVThwY2Yya3NrcGU5aHhFblViTmFOSDNZaFNmSEFwRTh4YnU1X0hQZGVJRmhrVkduTy14emlWRHlHQUY?oc=5)
+- **Google News Markets** (Thu, 25 Jun 2026 17:38:04 GMT): High priority | [Market Movers: Micron's Earnings Win, Qualcomm's Bold AI Forecast, and Falling Oil Prices Shape Thursday Trading - Blockonomi](https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmdjZTVfVmVySktVUkc4ZTc2dWRIekx3QU85SHhaanF1T2NBLW13cFc3ZFkwVHNWdzByMFJWdFVjVHlPbnBZQ1BlUkhhdkstclJWVmRoaldaMmplUGgtOUQ4eDNYS0puLVdsYWk2WGJjeEY3OE9XNngwYXVCZ1lDZTIzWGFIVVFDRHNqbkdPZUNMSFpQMTdtTzFqT3hZY2NYNldTak9mVEhkZVNSMG1UakNFRWRFcXp0REVQM2J5dU1NZXJ0aHJyX2xRbw?oc=5)
 - **Google News Markets** (Thu, 25 Jun 2026 16:08:23 GMT): High priority | [Cerebras Stock Drops 20% Despite Strong Earnings as Margin Guidance Rattles Investors - AI Insider](https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDZkclNBTm10aFdPa2pMZjFuVDZUdEp4VGR5ejhwQUhuTC02SXlxS3VFSTdVZVRRWVBQeW4wbVNSZDJjSzRBVC1BeW1VdnJRX2JnRG5iYXg3SmJTbWlYOUJrVFJHeVlSNGhqS3VpR21PLXczTVEzelU5OXk5WUtTdWtsRUVkZGwxWjJWbEVfdXozRVRVLXNTQ0I1VXdlM2lVbUQ2YXZoeXNkYXZMcTQ0amZfeWdObnZIREcxS0o3UQ?oc=5)
-- **Google News Markets** (Thu, 25 Jun 2026 15:10:12 GMT): High priority | [Stock market spoiler: Apple's price hikes erase Micron's post-earnings tech rally - MSN](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWGZLVkdRZHI2LVBsaThidTlqUGM4a2o0R2MyMWNFYTBaTHhua0dkZy1KdXpkd0NFZjFPV2xOMlRnSW1BanVqWV90ODFNY3lwbWJPcEZ4eDBCQUI5X3QzVUFmaUUyUzFDR2N3cDEwQ1MyalpLNXVMaExFbHlCMHZkZ2lOcnM5UTFPaFRzZEZOcUtfLTYtZ19EcW96dXZqM3NEQVNJLWdsc0NTeEhRdnhTdUtRQWZvUVpNRV80YklKTHhZa3ktQjhQeTNMcGxQclR2M2lOSWh0eUE3WXc5QXpHWHlyUWJxV0sta2lMNA?oc=5)
+- **Google News Markets** (Thu, 25 Jun 2026 15:41:51 GMT): High priority | [Stock market spoiler: Apple's price hikes erase Micron's post-earnings tech rally - AOL.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmVzS3JiSnlGTFJpRTdPT3B5VG1USkZxdzRxZURoNk5mVUV3ZDJ0a1J0WXMxOG9DaTNpV3hpbThFNWhOdXc0MVoyS3hRcUpodXNQZlJ0SjBlVjZ0dHlEc3VwRlRCNExwaWJOcWx3QUVzSkRVSjIyRjFyVE41UE9sZ1Q2NA?oc=5)
+- **Google News Markets** (Thu, 25 Jun 2026 15:06:18 GMT): High priority | [Stock market spoiler: Apple's price hikes erase Micron's post-earnings tech rally - MSN](https://news.google.com/rss/articles/CBMiygFBVV95cUxON1hqLXJYZlFLV2g5eWQxU3E3VHdCa0xSSzZfNlBUTnp1cGhoTjFtbjU2NnlPNlIzTW9iZnoxT3czTlpfOVFMMEpTRWxQZ05fVEpyRFJQTWw2V2dEUHJLbm5BWVZ5NFNGdFNlckxSeE9Qd1RKR3ZFc3g1ZUEtc0VFQkVLMHA3bUdDQ1dTdWwtSXJsQ25yeU1Zb0ZtN3E5QlZWX1hUSk9MNjRrRmlBbzF3RzdsbUdNMGxEV0s2MVRKMmVnYXpzbzlmRlNR?oc=5)
 - **Google News Markets** (Thu, 25 Jun 2026 14:52:36 GMT): High priority | [Stock market spoiler: Apple's price hikes erase Micron's post-earnings tech rally - Business Insider](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVhNTFl5QXVuTmw3MWdyMkpvdUU0YjRFQk9SLV96ZTMzR0F0ZElMZG5lZDNLLWgzekJETVdXaFpwcWhfdlF0UHI1RGR4dzFTREM4YzU0Z1Q5aWc1WHhJMTZ2QzNPS05SWXFhNGdLZlo0WUFmVk4yU0RsbV9KQ0xVMXdER2NNVUZTUnBuR1hTZC1xSFVaUUpzYl9ZQm5NRE5CeUE?oc=5)
-- **Google News Markets** (Thu, 25 Jun 2026 13:17:02 GMT): High priority | [Stock Market Futures Climb on Strong Micron Earnings and Steady PCE Data - Blockonomi](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZE1ucVVSTTRfNUVJNmQzelhoSXV5OUNVMlFxVm5FSXNKb1h1RWQwbzdfeGlmNWluSWgwRXkxWHJIY29SRWFCSXpraTNJc1FUNWtTbHhZNzZ6U0VuajkyajA5NTQyYkJjQmJkUjg2bTZvdFYyYzRlNW1kSnR3QWV6a1BUUVBFQzdDMkVfWWI1WnloZFhyQ084UUMyYm4?oc=5)
-- **Google News Markets** (Thu, 25 Jun 2026 13:02:00 GMT): High priority | [Can, will the Federal Reserve lower rates? - Richard Mills - Investorideas.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMVRRYVNwM1IyaEg0MnQyUDhoSFVHNzl5ZGFtalNtMnRQVW1BdWVSZFlWUmkyUFBOUU5kXy1udkROb205WnU0NVplWGtJemsyRGJxbjhEcU9ucjhGRldseXdULVRPQ3Q1bXpaUEJ4QTVsWDJvWXFzSGVvcjBNWVlXY1VZcXFEWThSMFR0dVphUEoxYXpq?oc=5)
 
 ## 5. Economic Calendar
 
 ### Today (2026-06-25)
-- **07:00** MBA 30-Year Mortgage Rate | Previous: 6.60% | Source: Nasdaq
-- **07:00** MBA Mortgage Applications | Previous: -3.8% | Source: Nasdaq
-- **07:00** MBA Purchase Index | Previous: 170.8 | Source: Nasdaq
-- **07:00** Mortgage Market Index | Previous: 269.5 | Source: Nasdaq
-- **07:00** Mortgage Refinance Index | Previous: 810.2 | Source: Nasdaq
-- **08:30** Building Permits | Forecast: -0.7% | Previous: 4.4% | Source: Nasdaq
-- **08:30** Current Account | Forecast: -212.0B | Previous: -221.1B | Source: Nasdaq
-- **10:00** New Home Sales | Forecast: 638K | Previous: 626K | Source: Nasdaq
-- **10:30** Crude Oil Inventories | Forecast: -3.900M | Previous: -8.263M | Source: Nasdaq
-- **10:30** EIA Refinery Crude Runs | Previous: 0.230M | Source: Nasdaq
-- **10:30** Crude Oil Imports | Previous: -0.241M | Source: Nasdaq
-- **10:30** Cushing Crude Oil Inventories | Previous: -1.606M | Source: Nasdaq
-- **10:30** Distillate Fuel Production | Previous: -0.029M | Source: Nasdaq
-- **10:30** EIA Weekly Distillates Stocks | Forecast: -0.500M | Previous: 0.951M | Source: Nasdaq
-- **10:30** Gasoline Production | Previous: 0.356M | Source: Nasdaq
-- **10:30** Heating Oil Stockpiles | Previous: -0.204M | Source: Nasdaq
-- **10:30** EIA Weekly Refinery Utilization Rates | Previous: 1.4% | Source: Nasdaq
-- **10:30** Gasoline Inventories | Forecast: -0.600M | Previous: -0.906M | Source: Nasdaq
-- **13:00** 5-Year Note Auction | Previous: 4.182% | Source: Nasdaq
-- **14:00** Fed Governor Cook Speaks | Source: Nasdaq
-- **16:00** Fed Bank Stress Test Results | Source: Nasdaq
-- **20:30** U.S. President Trump Speaks | Source: Nasdaq
 - **8:30 AM** Advance Report on Durable Goods--Manufacturers' Shipments, Inventories, and Orders (May 2026) | Source: Census
 
 ### Tomorrow (2026-06-26)
-- **08:30** Chicago Fed National Activity | Previous: 0.19 | Source: Nasdaq
-- **08:30** Continuing Jobless Claims | Forecast: 1,800K | Previous: 1,800K | Source: Nasdaq
-- **08:30** Core Durable Goods Orders | Forecast: 0.5% | Previous: 1.4% | Source: Nasdaq
-- **08:30** Core PCE Price Index | Forecast: 3.4% | Previous: 3.3% | Source: Nasdaq
-- **08:30** Core PCE Prices | Forecast: 4.40% | Previous: 2.70% | Source: Nasdaq
-- **08:30** Corporate Profits | Forecast: -0.4% | Previous: 4.7% | Source: Nasdaq
-- **08:30** Durable Goods Orders | Forecast: -5.0% | Previous: 8.5% | Source: Nasdaq
-- **08:30** Durables Excluding Defense | Previous: 8.4% | Source: Nasdaq
-- **08:30** GDP | Forecast: 1.6% | Previous: 0.5% | Source: Nasdaq
-- **08:30** GDP Price Index | Forecast: 3.5% | Previous: 3.7% | Source: Nasdaq
-- **08:30** GDP Sales | Forecast: 1.5% | Previous: 0.3% | Source: Nasdaq
-- **08:30** Goods Orders Non Defense Ex Air | Forecast: 0.6% | Previous: -0.7% | Source: Nasdaq
-- **08:30** Initial Jobless Claims | Forecast: 225K | Previous: 227K | Source: Nasdaq
-- **08:30** Jobless Claims 4-Week Avg. | Previous: 223.50K | Source: Nasdaq
-- **08:30** PCE price index | Forecast: 0.5% | Previous: 0.4% | Source: Nasdaq
-- **08:30** PCE Price index | Forecast: 4.1% | Previous: 3.8% | Source: Nasdaq
-- **08:30** PCE Prices | Forecast: 4.5% | Previous: 2.9% | Source: Nasdaq
-- **08:30** Personal Income | Forecast: 0.4% | Previous: 0.0% | Source: Nasdaq
-- **08:30** Personal Spending | Forecast: 0.6% | Previous: 0.4% | Source: Nasdaq
-- **08:30** Real Consumer Spending | Forecast: 1.4% | Previous: 1.9% | Source: Nasdaq
-- **08:30** Real Personal Consumption | Previous: 0.0% | Source: Nasdaq
-- **08:45** FOMC Member Bowman Speaks | Source: Nasdaq
-- **10:00** Atlanta Fed GDPNow | Forecast: 3.0% | Previous: 3.0% | Source: Nasdaq
-- **10:00** Dallas Fed PCE | Previous: 2.50% | Source: Nasdaq
-- **10:30** Natural Gas Storage | Forecast: 67B | Previous: 73B | Source: Nasdaq
-- **11:00** KC Fed Composite Index | Previous: 8 | Source: Nasdaq
-- **11:00** KC Fed Manufacturing Index | Previous: 9 | Source: Nasdaq
-- **11:30** 4-Week Bill Auction | Previous: 3.580% | Source: Nasdaq
-- **11:30** 8-Week Bill Auction | Previous: 3.640% | Source: Nasdaq
-- **13:00** 7-Year Note Auction | Previous: 4.290% | Source: Nasdaq
-- **15:40** FOMC Member Williams Speaks | Source: Nasdaq
-- **16:30** Fed's Balance Sheet | Previous: 6,736B | Source: Nasdaq
-- **16:30** Reserve Balances with Federal Reserve Banks | Previous: 2.936T | Source: Nasdaq
-- **18:30** Fed Goolsbee Speaks | Source: Nasdaq
 - **8:30 AM** Advance Economic Indicators Report (International Trade, Retail, & Wholesale) (May 2026) | Source: Census
 
 ## Source Health
