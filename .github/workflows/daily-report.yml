@@ -62,15 +62,15 @@ jobs:
             echo "should_run=false" >> "$GITHUB_OUTPUT"
             echo "Report for ${report_date} already exists in the repo. Skipping generation."
           elif [ -f "$report_html" ] && [ -f "$report_md" ] && [ -f "$report_json" ] && python - "$report_json" "$expected_slot" <<'PY'
-import json
-import sys
+          import json
+          import sys
 
-path, expected_slot = sys.argv[1], sys.argv[2]
-with open(path, encoding="utf-8") as handle:
-    document = json.load(handle)
-slots = {snapshot.get("slot") for snapshot in document.get("snapshots", [])}
-raise SystemExit(0 if expected_slot in slots else 1)
-PY
+          path, expected_slot = sys.argv[1], sys.argv[2]
+          with open(path, encoding="utf-8") as handle:
+              document = json.load(handle)
+          slots = {snapshot.get("slot") for snapshot in document.get("snapshots", [])}
+          raise SystemExit(0 if expected_slot in slots else 1)
+          PY
           then
             echo "should_run=false" >> "$GITHUB_OUTPUT"
             echo "Snapshot ${expected_slot} for ${report_date} already exists. Skipping generation."
