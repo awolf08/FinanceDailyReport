@@ -315,7 +315,7 @@ def get_active_section_note(data: ReportData) -> str:
 
 
 def append_snapshot_markdown(lines: list[str], data: ReportData) -> None:
-    snapshots = data.snapshots or [current_snapshot(data)]
+    snapshots = snapshots_newest_first(data)
     for snapshot in snapshots:
         lines.append(f"### {snapshot_title(snapshot)}")
         note = snapshot_note(snapshot)
@@ -350,7 +350,7 @@ def append_snapshot_markdown(lines: list[str], data: ReportData) -> None:
 
 
 def append_snapshot_html(parts: list[str], data: ReportData) -> None:
-    snapshots = data.snapshots or [current_snapshot(data)]
+    snapshots = snapshots_newest_first(data)
     for snapshot in snapshots:
         parts.extend(['<div class="section">', f"<h3>{escape(snapshot_title(snapshot))}</h3>"])
         note = snapshot_note(snapshot)
@@ -485,6 +485,16 @@ def current_snapshot(data: ReportData) -> dict[str, object]:
             for note in data.notes
         ],
     }
+
+
+def snapshots_newest_first(data: ReportData) -> list[dict[str, object]]:
+    if not data.snapshots:
+        return [current_snapshot(data)]
+    return sorted(
+        data.snapshots,
+        key=lambda snapshot: str(snapshot.get("captured_at") or snapshot.get("slot") or ""),
+        reverse=True,
+    )
 
 
 def snapshot_title(snapshot: dict[str, object]) -> str:
