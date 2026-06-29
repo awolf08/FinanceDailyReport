@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-29
 
-_Generated: 2026-06-29 06:13:18 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-29 06:23:17 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -32,8 +32,75 @@ _Generated: 2026-06-29 06:13:18 PDT. Timezone: America/Los_Angeles. Not financia
 
 ## 3. Intraday Active Stock Snapshots
 
-### 5:55 AM Premarket Snapshot
-- Yahoo Finance market lists captured during premarket hours. Latest source timestamp: Yahoo Finance market lists as of 8:55 AM ET.
+### 6:23 AM Premarket Snapshot
+- Yahoo Finance market lists captured during premarket hours. Latest source timestamp: Yahoo Finance market lists as of 9:23 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[AAPL](https://finance.yahoo.com/quote/AAPL/)** | Apple Inc. | $283.78 | +8.63 | +3.14% | 261,775,450 |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. | $232.69 | +5.68 | +2.50% | 241,155,673 |
+| **[MSFT](https://finance.yahoo.com/quote/MSFT/)** | Microsoft Corporation | $372.97 | +20.14 | +5.71% | 186,201,631 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $192.53 | -3.21 | -1.64% | 179,304,147 |
+| **[CDE](https://finance.yahoo.com/quote/CDE/)** | Coeur Mining, Inc. | $16.02 | +0.03 | +0.19% | 168,564,077 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $17.87 | +0.30 | +1.71% | 163,028,531 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $13.01 | -0.97 | -6.94% | 142,315,550 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $153.23 | +0.23 | +0.15% | 126,932,861 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $7.83 | +0.15 | +2.02% | 77,711,172 |
+| **[KEEL](https://finance.yahoo.com/quote/KEEL/)** | Keel Infrastructure Corp. | $6.03 | +0.16 | +2.73% | 122,251,880 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.12 | +0.06 | +0.74% | 232,235,454 |
+| **[NVD](https://finance.yahoo.com/quote/NVD/)** | GraniteShares 2x Short NVDA Dai | $5.67 | +0.23 | +4.23% | 85,977,424 |
+| **[SPY](https://finance.yahoo.com/quote/SPY/)** | State Street SPDR S&P 500 ETF T | $728.99 | -5.31 | -0.72% | 69,241,946 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $71.83 | -3.12 | -4.16% | 69,700,382 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $41.31 | +1.84 | +4.66% | 70,343,236 |
+| **[FXN](https://finance.yahoo.com/quote/FXN/)** | First Trust Energy AlphaDEX Fun | $20.31 | -0.11 | -0.54% | 3,889,968 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $71.88 | -5.01 | -6.52% | 57,942,257 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $33.85 | +0.33 | +0.98% | 59,375,790 |
+| **[SPDN](https://finance.yahoo.com/quote/SPDN/)** | Direxion Daily S&P 500 Bear 1X | $8.87 | +0.04 | +0.45% | 59,036,375 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $11.62 | +0.24 | +2.11% | 57,584,628 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SLS](https://finance.yahoo.com/quote/SLS/)** | SELLAS Life Sciences Group, Inc | $12.39 | +1.86 | +17.66% | 21,005,639 |
+| **[LCID](https://finance.yahoo.com/quote/LCID/)** | Lucid Group, Inc. | $5.92 | +0.80 | +15.63% | 35,518,974 |
+| **[MRNA](https://finance.yahoo.com/quote/MRNA/)** | Moderna, Inc. | $67.27 | +7.52 | +12.59% | 14,456,655 |
+| **[IBRX](https://finance.yahoo.com/quote/IBRX/)** | ImmunityBio, Inc. | $8.71 | +0.92 | +11.81% | 41,198,290 |
+| **[CCC](https://finance.yahoo.com/quote/CCC/)** | CCC Intelligent Solutions Holdi | $5.01 | +0.52 | +11.58% | 13,884,556 |
+| **[DKNG](https://finance.yahoo.com/quote/DKNG/)** | DraftKings Inc. | $25.70 | +2.60 | +11.26% | 16,724,429 |
+| **[CHYM](https://finance.yahoo.com/quote/CHYM/)** | Chime Financial, Inc. | $20.32 | +2.05 | +11.22% | 22,016,052 |
+| **[FROG](https://finance.yahoo.com/quote/FROG/)** | JFrog Ltd. | $87.58 | +8.78 | +11.14% | 26,093,692 |
+| **[FDS](https://finance.yahoo.com/quote/FDS/)** | FactSet Research Systems Inc. | $231.74 | +22.90 | +10.97% | 1,134,472 |
+| **[BFLY](https://finance.yahoo.com/quote/BFLY/)** | Butterfly Network, Inc. | $8.89 | +0.87 | +10.85% | 17,027,009 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[MAAS](https://finance.yahoo.com/quote/MAAS/)** | Maase Inc. | $12.77 | -4.68 | -26.82% | 139,073 |
+| **[ON](https://finance.yahoo.com/quote/ON/)** | ON Semiconductor Corporation | $90.65 | -28.09 | -23.66% | 44,223,501 |
+| **[DSC](https://finance.yahoo.com/quote/DSC/)** | DSC Holdings Ltd. | $7.25 | -1.81 | -19.98% | 132,665 |
+| **[BE](https://finance.yahoo.com/quote/BE/)** | Bloom Energy Corporation | $252.02 | -57.16 | -18.49% | 57,026,801 |
+| **[RGC](https://finance.yahoo.com/quote/RGC/)** | Regencell Bioscience Holdings L | $6.48 | -1.01 | -13.48% | 497,537 |
+| **[WDC](https://finance.yahoo.com/quote/WDC/)** | Western Digital Corporation | $586.45 | -88.94 | -13.17% | 23,404,387 |
+| **[STX](https://finance.yahoo.com/quote/STX/)** | Seagate Technology Holdings PLC | $899.90 | -125.46 | -12.24% | 9,311,397 |
+| **[FORM](https://finance.yahoo.com/quote/FORM/)** | FormFactor, Inc. | $130.74 | -18.01 | -12.11% | 10,977,770 |
+| **[TMDX](https://finance.yahoo.com/quote/TMDX/)** | TransMedics Group, Inc. | $68.44 | -9.31 | -11.97% | 3,704,074 |
+| **[CRDO](https://finance.yahoo.com/quote/CRDO/)** | Credo Technology Group Holding | $238.00 | -30.03 | -11.20% | 38,637,247 |
+
+Source health:
+- NYSE calendar 2026-06-29: open
+- Network readiness: ok - connected to api.nasdaq.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+
+### 6:13 AM Premarket Snapshot
+- Yahoo Finance market lists captured during premarket hours. Latest source timestamp: Yahoo Finance market lists as of 9:13 AM ET.
 
 #### Most Active Stocks
 | Symbol | Name | Price | Change | Change % | Volume |
@@ -166,8 +233,8 @@ Source health:
 - Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
-### 6:13 AM Premarket Snapshot
-- Yahoo Finance market lists captured during premarket hours. Latest source timestamp: Yahoo Finance market lists as of 9:13 AM ET.
+### 5:55 AM Premarket Snapshot
+- Yahoo Finance market lists captured during premarket hours. Latest source timestamp: Yahoo Finance market lists as of 8:55 AM ET.
 
 #### Most Active Stocks
 | Symbol | Name | Price | Change | Change % | Volume |
