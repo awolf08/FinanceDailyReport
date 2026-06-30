@@ -4,7 +4,7 @@ Personal daily market brief generator.
 
 It creates a Markdown report with:
 
-- Premarket / active stocks and movers from Nasdaq market movers
+- Premarket movers from TradingView, filtered to companies with at least $100M market cap
 - Latest market news from public RSS feeds
 - Today and tomorrow economic calendar checks
 - NYSE market status so holidays and closed sessions are clearly labeled

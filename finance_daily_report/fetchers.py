@@ -60,6 +60,7 @@ NOISY_NEWS_TERMS = (
 )
 
 NETWORK_READY_HOSTS = (
+    "scanner.tradingview.com",
     "api.nasdaq.com",
     "query1.finance.yahoo.com",
     "news.google.com",
@@ -97,7 +98,12 @@ def collect_report_data(report_date: date, settings: Settings) -> ReportData:
     if data.market_status.get("is_open") == "no":
         data.notes.append(SourceNote("Nasdaq market movers", "skipped", data.market_status.get("reason", "Market closed")))
     else:
-        if data.market_phase in {"premarket", "regular"}:
+        if data.market_phase == "premarket":
+            data.active_stocks, data.active_stocks_as_of = fetch_tradingview_premarket_lists(
+                settings.stock_limit, data.notes
+            )
+            data.active_stocks_source = "tradingview_premarket"
+        elif data.market_phase == "regular":
             data.active_stocks, data.active_stocks_as_of = fetch_yahoo_regular_market_lists(10, data.notes)
             data.active_stocks_source = "yahoo_regular_market_lists"
         else:
@@ -241,6 +247,167 @@ def fetch_market_movers(limit: int, notes: list[SourceNote]) -> tuple[dict[str, 
     )
     notes.append(SourceNote("Nasdaq market movers", "ok", as_of))
     return result, as_of
+
+
+TRADINGVIEW_SCANNER_URL = "https://scanner.tradingview.com/america/scan"
+TRADINGVIEW_HEADERS = {
+    "User-Agent": NASDAQ_HEADERS["User-Agent"],
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Origin": "https://www.tradingview.com",
+    "Referer": "https://www.tradingview.com/",
+}
+TRADINGVIEW_MIN_MARKET_CAP = 100_000_000
+
+
+def fetch_tradingview_premarket_lists(
+    limit: int, notes: list[SourceNote]
+) -> tuple[dict[str, list[dict[str, str]]], str]:
+    scans = (
+        ("Most Active Stocks", "premarket_volume", "desc", "greater", 0, "TradingView Premarket Most Active"),
+        ("Top Gaining Stocks", "premarket_change", "desc", "greater", 0, "TradingView Premarket Gainers"),
+        ("Top Declining Stocks", "premarket_change", "asc", "less", 0, "TradingView Premarket Losers"),
+    )
+    result: dict[str, list[dict[str, str]]] = {}
+    for section, sort_by, sort_order, operation, threshold, note_source in scans:
+        try:
+            rows = fetch_tradingview_premarket_rows(
+                limit=limit,
+                sort_by=sort_by,
+                sort_order=sort_order,
+                change_operation=operation if sort_by == "premarket_change" else None,
+                change_threshold=threshold,
+            )
+        except Exception as exc:
+            notes.append(SourceNote(note_source, "unavailable", str(exc)))
+            continue
+
+        if rows:
+            result[section] = rows
+            notes.append(
+                SourceNote(
+                    note_source,
+                    "ok",
+                    f"{len(rows)} rows with market cap at or above $100M and price at or above $5",
+                )
+            )
+        else:
+            notes.append(SourceNote(note_source, "unavailable", "No qualifying rows returned"))
+
+    if not result:
+        return {}, ""
+    as_of = datetime.now(ZoneInfo("America/New_York")).strftime("TradingView premarket scan as of %-I:%M %p ET")
+    return result, as_of
+
+
+def fetch_tradingview_premarket_rows(
+    *,
+    limit: int,
+    sort_by: str,
+    sort_order: str,
+    change_operation: str | None,
+    change_threshold: float,
+) -> list[dict[str, str]]:
+    columns = (
+        "name",
+        "description",
+        "premarket_close",
+        "premarket_change",
+        "premarket_change_abs",
+        "premarket_volume",
+        "premarket_gap",
+        "market_cap_basic",
+        "currency",
+    )
+    filters: list[dict[str, Any]] = [
+        {
+            "left": "market_cap_basic",
+            "operation": "egreater",
+            "right": TRADINGVIEW_MIN_MARKET_CAP,
+        },
+        {"left": "premarket_volume", "operation": "greater", "right": 0},
+    ]
+    if change_operation:
+        filters.append(
+            {
+                "left": "premarket_change",
+                "operation": change_operation,
+                "right": change_threshold,
+            }
+        )
+
+    payload = {
+        "filter": filters,
+        "options": {"lang": "en"},
+        "markets": ["america"],
+        "symbols": {"query": {"types": []}, "tickers": []},
+        "columns": list(columns),
+        "sort": {"sortBy": sort_by, "sortOrder": sort_order},
+        # Pull extra rows because the report's existing $5 price floor is applied locally.
+        "range": [0, max(limit * 10, 49)],
+    }
+    response = requests.post(TRADINGVIEW_SCANNER_URL, headers=TRADINGVIEW_HEADERS, json=payload, timeout=30)
+    response.raise_for_status()
+    payload_rows = response.json().get("data") or []
+
+    rows: list[dict[str, str]] = []
+    for item in payload_rows:
+        values = item.get("d") or []
+        if len(values) != len(columns):
+            continue
+        row = dict(zip(columns, values))
+        market_cap = yahoo_raw_value(row["market_cap_basic"])
+        price = yahoo_raw_value(row["premarket_close"])
+        if market_cap is None or market_cap < TRADINGVIEW_MIN_MARKET_CAP:
+            continue
+        if price is None or price < 5:
+            continue
+
+        exchange, _, fallback_symbol = clean(item.get("s")).partition(":")
+        symbol = clean(row["name"] or fallback_symbol)
+        if not symbol:
+            continue
+        rows.append(
+            {
+                "symbol": symbol,
+                "name": clean(row["description"]),
+                "exchange": exchange,
+                "lastSalePrice": format_money(price),
+                "lastSaleChange": format_signed_number(row["premarket_change_abs"]),
+                "changePercent": format_signed_number(row["premarket_change"], suffix="%"),
+                "change": format_whole_number(row["premarket_volume"]),
+                "marketCap": format_market_cap(market_cap),
+                "premarketGap": format_signed_number(row["premarket_gap"], suffix="%"),
+            }
+        )
+        if len(rows) >= limit:
+            break
+    return rows
+
+
+def format_money(value: float) -> str:
+    decimals = 2 if value >= 1 else 4
+    return f"${value:,.{decimals}f}"
+
+
+def format_signed_number(value: Any, *, suffix: str = "") -> str:
+    number = yahoo_raw_value(value)
+    if number is None:
+        return ""
+    return f"{number:+.2f}{suffix}"
+
+
+def format_whole_number(value: Any) -> str:
+    number = yahoo_raw_value(value)
+    if number is None:
+        return ""
+    return f"{number:,.0f}"
+
+
+def format_market_cap(value: float) -> str:
+    if value >= 1_000_000_000:
+        return f"${value / 1_000_000_000:.2f}B"
+    return f"${value / 1_000_000:.1f}M"
 
 
 def fetch_yahoo_regular_market_lists(limit: int, notes: list[SourceNote]) -> tuple[dict[str, list[dict[str, str]]], str]:
