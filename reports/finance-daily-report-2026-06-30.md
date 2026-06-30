@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-06-30
 
-_Generated: 2026-06-30 09:55:11 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-06-30 11:55:10 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -32,6 +32,73 @@ _Generated: 2026-06-30 09:55:11 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 11:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:55 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $18.18 | +0.26 | +1.44% | 121,635,403 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $140.33 | +8.61 | +6.54% | 78,599,457 |
+| **[T](https://finance.yahoo.com/quote/T/)** | AT&T Inc. | $20.76 | -1.06 | -4.84% | 78,143,487 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $198.82 | +3.85 | +1.97% | 76,511,169 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $169.93 | +5.74 | +3.50% | 62,161,338 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $8.24 | +0.22 | +2.76% | 61,405,698 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $17.90 | -0.29 | -1.59% | 56,567,196 |
+| **[PATH](https://finance.yahoo.com/quote/PATH/)** | UiPath, Inc. | $10.77 | +0.09 | +0.89% | 47,122,709 |
+| **[JOBY](https://finance.yahoo.com/quote/JOBY/)** | Joby Aviation, Inc. | $8.93 | +0.30 | +3.42% | 44,249,599 |
+| **[RKT](https://finance.yahoo.com/quote/RKT/)** | Rocket Companies, Inc. | $15.79 | +0.29 | +1.89% | 45,174,107 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $7.95 | -0.24 | -2.93% | 170,677,816 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $14.16 | +0.52 | +3.85% | 52,616,469 |
+| **[NVD](https://finance.yahoo.com/quote/NVD/)** | GraniteShares 2x Short NVDA Dai | $5.27 | -0.22 | -4.01% | 50,701,379 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $81.13 | +3.94 | +5.10% | 48,775,555 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $36.24 | -1.92 | -5.04% | 46,433,525 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $33.17 | -1.01 | -2.95% | 45,302,919 |
+| **[TSLG](https://finance.yahoo.com/quote/TSLG/)** | Leverage Shares 2X Long TSLA Da | $7.03 | +0.27 | +4.00% | 34,320,659 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $41.66 | +6.87 | +19.75% | 34,237,542 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $8.81 | -0.12 | -1.34% | 32,445,164 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $269.23 | +32.71 | +13.83% | 29,215,825 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ABVX](https://finance.yahoo.com/quote/ABVX/)** | Abivax SA | $134.36 | +38.21 | +39.74% | 7,101,390 |
+| **[AMBA](https://finance.yahoo.com/quote/AMBA/)** | Ambarella, Inc. | $86.54 | +19.53 | +29.14% | 5,201,337 |
+| **[FCEL](https://finance.yahoo.com/quote/FCEL/)** | FuelCell Energy, Inc. | $36.59 | +6.79 | +22.79% | 21,328,332 |
+| **[AVAV](https://finance.yahoo.com/quote/AVAV/)** | AeroVironment, Inc. | $163.60 | +24.60 | +17.69% | 6,731,163 |
+| **[MXL](https://finance.yahoo.com/quote/MXL/)** | MaxLinear, Inc | $125.42 | +16.95 | +15.63% | 4,328,733 |
+| **[HSAI](https://finance.yahoo.com/quote/HSAI/)** | Hesai Group | $18.14 | +2.38 | +15.09% | 5,101,830 |
+| **[VSAT](https://finance.yahoo.com/quote/VSAT/)** | ViaSat, Inc. | $87.53 | +10.84 | +14.13% | 3,942,172 |
+| **[MBLY](https://finance.yahoo.com/quote/MBLY/)** | Mobileye Global Inc. | $9.45 | +1.15 | +13.92% | 7,306,877 |
+| **[LB](https://finance.yahoo.com/quote/LB/)** | LandBridge Company LLC | $79.12 | +9.28 | +13.28% | 391,814 |
+| **[OUST](https://finance.yahoo.com/quote/OUST/)** | Ouster, Inc. | $61.12 | +7.05 | +13.04% | 6,107,766 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CRCL](https://finance.yahoo.com/quote/CRCL/)** | Circle Internet Group, Inc. | $63.40 | -12.56 | -16.54% | 27,941,488 |
+| **[HTFL](https://finance.yahoo.com/quote/HTFL/)** | Heartflow, Inc. | $29.81 | -5.04 | -14.47% | 3,328,616 |
+| **[DSC](https://finance.yahoo.com/quote/DSC/)** | DSC Holdings Ltd. | $5.26 | -0.51 | -8.75% | 189,864 |
+| **[FRVO](https://finance.yahoo.com/quote/FRVO/)** | Fervo Energy Company | $29.20 | -2.57 | -8.08% | 2,641,760 |
+| **[MSTR](https://finance.yahoo.com/quote/MSTR/)** | Strategy Inc | $85.29 | -7.39 | -7.97% | 25,882,831 |
+| **[SVM](https://finance.yahoo.com/quote/SVM/)** | Silvercorp Metals Inc. | $10.15 | -0.77 | -7.01% | 3,128,833 |
+| **[KARD](https://finance.yahoo.com/quote/KARD/)** | Kardigan, Inc. | $24.09 | -1.81 | -6.99% | 339,227 |
+| **[GLXY](https://finance.yahoo.com/quote/GLXY/)** | Galaxy Digital Inc. | $26.59 | -1.94 | -6.80% | 4,086,796 |
+| **[COCO](https://finance.yahoo.com/quote/COCO/)** | The Vita Coco Company, Inc. | $67.71 | -4.82 | -6.65% | 1,275,896 |
+| **[ZBH](https://finance.yahoo.com/quote/ZBH/)** | Zimmer Biomet Holdings, Inc. | $85.30 | -5.94 | -6.51% | 2,607,286 |
+
+Source health:
+- NYSE calendar 2026-06-30: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
 ### 9:55 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 12:55 PM ET.
@@ -351,16 +418,16 @@ Source health:
 
 - **Google News Markets** (Tue, 30 Jun 2026 09:06:00 GMT): High priority | [Oil Is Below $70, but the Federal Reserve's June Inflation Forecast Has an Unpleasant Surprise in Store for Wall Street - The Motley Fool](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGVGMkFsVmV6eG5uOF9wbkpZa25YRmNFWHR2cnI4aWRBV1B1OUdvR3dQTlRuTDMzQWV4QXEtMGYxdGFWdUIzdkEzTkMzdlFUT0F2VW1YTmk1T2d3TEJ3WVZSZHJwTU9GRmZ0NnBERERfd1lKTWQ1b3VUUEhRMlhaM21jeXktQ0gxa0FtZ3JNLWhiMkVJWFpn?oc=5)
 - **Google News Markets** (Tue, 30 Jun 2026 08:26:00 GMT): High priority | [Oil Is Below $70, but the Federal Reserve's June Inflation Forecast Has an Unpleasant Surprise in Store for Wall Street - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxQYVlwbTdGdWlqaTFNbVp6dUNUU2tCQVA4dHdiY1BITWpIcjNDX001bEt4WWlOcGVkaUM3TXBhMUx0TVdqV0tFT1Nob3dBYmhQenI0azEtQzhqaDY2ODRpc25wVTVWWWNoSVRLdWRaQV9KTkRwUVl6U3dqakoxdnlHelZ3dThUUnphR0NNcEJrVFVfa3Z0QWxQUkZ3?oc=5)
+- **Google News Markets** (Tue, 30 Jun 2026 18:06:25 GMT): High priority | [Federal Reserve Chair Warsh vows to combat inflation as prices hit three-year high - Crypto Briefing](https://news.google.com/rss/articles/CBMibEFVX3lxTE82ZWphUHFxUXlteTRvNjBQR2o1cUVyV01wbEZZYThsb194QmE4OTdxeDV5MVotdnc2TnVUOUk4MVlUR3cxVW9kVmZ6dktTNGlRaEtYRHIybUxfaDBMME14LTdxUWZXTWlwNm5jbw?oc=5)
+- **Google News Markets** (Tue, 30 Jun 2026 17:57:32 GMT): High priority | [Market Wrap: S&P 500 and Nasdaq Cap Historic Quarter as Nike (NKE) and AeroVironment (AVAV) Report Earnings - Blockonomi](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdG9oVm1TN1Mtb3lUWVR5bzBfNlJaZmU2dy12YkxwSVdodWk5bW50bGNQbloyTzlhUTZzU1kwbm1FcEJBOVluSURvaU1vUmpjSFNXV1Z0MjZaWVBrVm9iTGd1ZnB2X2hyeVVheUsxVE43Z0ZYZld2eXRXR2o0dnZPRnF5NWhRVFR1Yl84Q1ZkNS10eWN2SGVFVnFGOUZ5cmw5SEEyVTJNRTM0bkIxdFdGZ19Ra2VlN25kVmJZOTN3U2xHYTQ?oc=5)
 - **Google News Markets** (Tue, 30 Jun 2026 07:19:19 GMT): High priority | [US Dollar vs Korean Won consolidates as Federal Reserve Board H.15 daily rate publication shapes outlook - Traders Union](https://news.google.com/rss/articles/CBMiigFBVV95cUxNalVEZW5JN1dmdTBzcGd5ODJqYnpXMEhJU2RZQ3J2N0xDWnlaakxOUDNzcmt2OFk4cE5aMWgxbjNKN1U2Xzh0bUdrZ0NyU3RTaUNrVUk2V0w0RlBPOThvYlVaOVQzTl9KVHMzZVI3Z1dHNmp0SXJ3aDFFb1dIcTRmck5CMW5QZXRwWXc?oc=5)
 - **Federal Reserve** (Tue, 30 Jun 2026 14:00:00 GMT): High priority | [Agencies release list of distressed or underserved nonmetropolitan middle-income geographies](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm)
 - **Google News Markets** (Tue, 30 Jun 2026 13:21:04 GMT): High priority | [The US Supreme Court affirms the Federal Reserve's independent status, but the ruling may lay hidden risks for future judicial challenges. - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tVzlBVVdDV2VEdkRNN3JQLUdJT0xFQ09KUFhuUHlVTGo2cmpLeWZGMTRheW1XSUxMYnlURGZJb0tjUGZRVlVTdzRVakpTTnRHTzUwZ3pTbWZ1emdPOUs1OUdwa9IBY0FVX3lxTE1tVzlBVVdDV2VEdkRNN3JQLUdJT0xFQ09KUFhuUHlVTGo2cmpLeWZGMTRheW1XSUxMYnlURGZJb0tjUGZRVlVTdzRVakpTTnRHTzUwZ3pTbWZ1emdPOUs1OUdwaw?oc=5)
 - **Google News Markets** (Tue, 30 Jun 2026 13:03:48 GMT): High priority | [US stock market rally faces tests of AI spending, earnings results and Fed outlook - Business Day](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeEpPM01MMk8tdHo0V1dMb0NWQ2p4c0o2R0NOYkxFcnUtSVpKRGttbjZ6N2N6cEhCQVUtS0RTYkZQN3lTbmFZRGRuUUtpWUw2eERjc043SFoyek5sSTRBVHdWb2p5eTBFbXlTaGZhWVJDWkNTNUFZRWJGM2E5UGdLX0NETFNGdXFaMkpFNGpoaUY4VHVPaEtaaDBvNG9WRVF3LWFsaVR1bGUwalROMW1qc0YyNHBDbHhyVlZndEM3RDhvdDNQcjNxYlBIMjA3TUc0R0dLY0VPd21HYWpiTWVkSnU2VnhUdzdM?oc=5)
-- **Google News Markets** (Tue, 30 Jun 2026 12:03:07 GMT): High priority | [Concentrix Reports Downbeat Q2 Earnings, Joins Nuvectis Pharma, Vishay Intertechnology And Other Big Stoc - Benzinga](https://news.google.com/rss/articles/CBMitAJBVV95cUxQQ2VQQzgzby00TGNxWldaRFRNdklrM21QN2dIZFQ4NERobndoM3dyTnFuaHF6YmZIODdBOGZ3a1BaWmlQWENDSEtpa1FSRXprVGlDY2h0T2RJM3pheWRlOWRWY0k1V2NrSFhmRXRRazY2ZGdvQmY1N2NXU2JVUlp4LXJTX2FMdjAzTmZfZmpwVjZiaVI1cER1Rm1ldlJDa011QXdOTVF0aDhQNjYxWHVFNXJwLVpjMmFuMVUwUThCWVNVYWNqVUNqNHdNUjE4d3RIencyNUxxYlRmdzBpdjNJajB3eUp2c3RpVERiZ3dnQV9VWDhVYTUtMkYzaDg5SHJ4eExFcjRIVThNU0hkRXJLVjhEYlIweXNISFAtOEF4c19seU8tc1FFUllxMlhMdllJU2Y5cw?oc=5)
-- **Google News Markets** (Tue, 30 Jun 2026 10:25:32 GMT): High priority | [AI spending, earnings hopes, Fed outlook set to sway US stocks in second half - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxONF8zVkNrYlBoa0VwcThGYkQ1Z3RJRUctVmxSLUpaLUhrUmp4dGZ5dGFJMDIwUVRMemtwb25BZ2h0TGRsTlFhOEoySkxDTno5SUkzZzJ1ZG9ONWJPZGliUFIzQVlrYS13dVRMSUlYS2tMZUZJb3dJbnZGTWRfMVpHb2RRdllSeVVEdEphOVQ5MTBBZ3J5dFN1SkZJVkdxWWt5aHpaT01Ba2hOU0VRNUxTUm9RSDI?oc=5)
+- **Google News Markets** (Tue, 30 Jun 2026 10:04:01 GMT): High priority | [AI spending, earnings hopes, Fed outlook set to sway US stocks in second half - marketscreener.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxQN0Z1SmExeDJDdmZhdDlmZXJlQzh0MWwwSTFZb3lFM3A2eDhwYkQ3M1Ytcm1BT3dHclZQWG53a0pmTl9tQndEUmFCWWlPNGdpVjlveWU5MjR1eHNRODlwVXhzb05fdG9oaVk5aU1ubHdCLWVEd1BqWGNYbGI3Q19FZjllRTdIUGVOclJURGthNUdDaUpFalhhU3ZyOFl0ZDhvTnpDeE14cVZDWEtLY0IyTG13RWlBWUdfamlJMy1yWk5YVm1pdUdB?oc=5)
 - **Google News Markets** (Tue, 30 Jun 2026 09:52:38 GMT): High priority | [Stock market spoiler: Apple's price hikes erase Micron's post-earnings tech rally - MSN](https://news.google.com/rss/articles/CBMi-AJBVV95cUxPdUR3NGt2cHROZzdPYlFsOUhxU3ZPcXZIU1A1a0ZJdFZEQzVtcV9vdGZQQjNLc0Q3eFRXODItdWVYcWtiY2E4Vi1LZm02UTZkbENiMWxlTlR1ZmEzTVNHVXVEMmttMGRnbUQ1QW9YZ0pIM1Y0Qmo3dTNsOWQxN3BNRXJSbDRzeFEyTDlzaDJjNGRsSVFNNUVDRVc1RS1VMlJOamJUWWR3Z1I5Q3A0OC1HWW9nbjBjMC1HbGM0enZrZk42MkxRQlVnaUpHNzJ2NWIyMzZuMXIzcW91czBhaElrVmNjS2wzX09JbUdYcnVMRFZWLWdEWm5Oamkwc0dwc3lRLWJ0NW9aV1JjZngyWTljcGMyN2dhZHhwdWxrUVBCbmdKcXV2aU9ObFVkcjZUeURhNFMzc2ZHU1E4OVFBNmZkOHFwLW15bmhNRktMRjZLUTZvZXVDdF9CVkxoV19UZzkzWnFEZUdCVUV4eEl4NHdPV1pYMTFETDA5?oc=5)
 - **Google News Markets** (Tue, 30 Jun 2026 05:13:52 GMT): High priority | [Influential economist Alan Greenspan, who headed Federal Reserve for nearly two decades, dead at 100 - AOL.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUlpFVDJJUFpEa00tcVpQX3RkbzR2U0pqQ2k5OWNJNTRsczh2WENHV0ZaUEdad2RUNVFMUW1OSXY5SHdKdTZNd0w1RXh0NzAwb3JkMkI1SG1OaFlpVWtqdFRDeHJSaFEwbHQxTzM3eWRoVmstODdfdEVVU2hiYzRpOVltTWZ5T3RMcTFlbXJWQ1I?oc=5)
 - **Google News Markets** (Tue, 30 Jun 2026 04:37:33 GMT): High priority | [Goldman Sachs: AI Investment Wave to Dominate Q2 Earnings Season for S&P 500, but Investors Concerned About ROI - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tVl9Zb1NpZkU5bVAtWEZ5NG1rcUlTdHpVeU1wblM1dVlBV1pUQXo1RW1QYnREUVZNS19hTEVNc0c5UDE2MHpNTFlscVdTckVRWGdhM0VFVTk0d3YzVHFUWVJxMNIBY0FVX3lxTE5tVl9Zb1NpZkU5bVAtWEZ5NG1rcUlTdHpVeU1wblM1dVlBV1pUQXo1RW1QYnREUVZNS19hTEVNc0c5UDE2MHpNTFlscVdTckVRWGdhM0VFVTk0d3YzVHFUWVJxMA?oc=5)
-- **Google News Markets** (Tue, 30 Jun 2026 01:56:35 GMT): High priority | [Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum](https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5)
 
 ## 5. Economic Calendar
 
