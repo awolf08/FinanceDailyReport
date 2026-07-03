@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-03
 
-_Generated: 2026-07-03 05:55:09 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-03 06:55:08 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -21,6 +21,14 @@ _Generated: 2026-07-03 05:55:09 PDT. Timezone: America/Los_Angeles. Not financia
 
 ## 3. Intraday Active Stock Snapshots
 
+### 6:55 AM Closed Snapshot
+- Skipped because NYSE has no regular session for this date.
+
+Source health:
+- NYSE calendar 2026-07-03: closed
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: skipped - NYSE has no regular session for this date
+
 ### 5:55 AM Closed Snapshot
 - Skipped because NYSE has no regular session for this date.
 
@@ -37,7 +45,7 @@ Source health:
 - **Google News Markets** (Fri, 03 Jul 2026 10:00:41 GMT): High priority | [Investors Brace for Federal Reserve’s Next Move Amidst Emerging Earnings Season - Devdiscourse](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWkI1VzZ6NTVvdnZ3a3VHZFRBRFJKSk5GZElvQWN1elVGNXRtV2kwWXZOS1kzODlXcnpURWRaWkQ0NzMwdTFDRlMwM1BLQjBiLTd1TWw5RXFTR25iUWpxUzZjZVpmN1U4dEZhaVBTLVdDUmRmQ3pLc04zeFdzMXZTbzk3MVpvMVBkSXVVV0RyeUp0UG1PTHMxRFlJQUJyOXl3dEJKSHJpRU1rRDItUEN0MGZTb2QxSmxRYzUxZy04ZndxbHQwdDZyRklpbEEtTDRIX1HSAdIBQVVfeXFMT1pCNVc2ejU1b3Z2d2t1R2RUQURSSkpORmRJb0FjdXpVRjV0bVdpMFl2TktZMzg5V3J6VEVkWlpENDczMHUxQ0ZTMDNQS0IwYi03dU1sOUVxU0duYlFqcVM2Y2VaZjdVOHRGYWlQUy1XQ1JkZkN6S3NOM3hXczF2U285NzFabzFQZEl1VVdEcnlKdFBtT0xzMURZSUFCcjl5d3RCSkhyaUVNa0QyLVBDdDBmU29kMUpsUWM1MWctOGZ3cWx0MHQ2ckZJaWxBLUw0SF9R?oc=5)
 - **Google News Markets** (Fri, 03 Jul 2026 02:58:17 GMT): High priority | [Federal Reserve Chair Kevin Warsh Declines to Comment, Reaffirms 2% Inflation Target - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qVGM2S2F2a0x5TmZaT3dpNHFmd3BkT1NVdHAwZ1Rfb1hQdzVqdDR2d0ZZSmh0SG9OeVJ1SmdxN2dsMzVfd3RpTTJidWw2V0gtTlVMeVE4Qlh4cTFTRHBqRXZXa9IBY0FVX3lxTE9qVGM2S2F2a0x5TmZaT3dpNHFmd3BkT1NVdHAwZ1Rfb1hQdzVqdDR2d0ZZSmh0SG9OeVJ1SmdxN2dsMzVfd3RpTTJidWw2V0gtTlVMeVE4Qlh4cTFTRHBqRXZXaw?oc=5)
 - **Google News Markets** (Fri, 03 Jul 2026 02:27:00 GMT): High priority | [Asian stock markets opened higher, boosted by the Dow Jones hitting a new high and investors easing concerns about a Federal Reserve interest rate hike. - วารสารการเงินธนาคาร](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZWnNEMFdaWjVyeVVEMnRuWDM0Wll3aXlQeTlDZEszVXk5cmlMQVBuLWpVZGE0SUZUTXVhRzFsdFFOUTJNeDhDbUc3OElWb1YySTNqSDVaaks?oc=5)
-- **Google News Markets** (Fri, 03 Jul 2026 10:36:06 GMT): High priority | [Investors look for Fed clues, earnings signs as tech wobbles - The Globe and Mail](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMS1QU084THlVY2tGX1ZsdjlXbVNjMjAxclN4M0Rra0dzeVZ2Q3MycW9WbUp3Tko1eXdmSjJKbDNhWmpfTHg0Rjd1NXdkYlEwVkNjdFl4d1dwejRIU3F0ZVJSc1FPa1R6OUREendIclJZVFo0VGUzLXkyWldwbnpNU05fMXl0TjJaWVpqZUJ4NGNtWEVYZnhlLVVsb3BTUFJOSXk4OGV6VWtvWG1MeXlF?oc=5)
+- **Google News Markets** (Fri, 03 Jul 2026 13:30:00 GMT): High priority | [Investors look for Fed clues, earnings signs as tech wobbles - whbl.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNaC1zZUxEZ2VZM2FXY2dnbGU1al8xeDRWa2h1Zk5XUnJZam13OXBoRDQxR3ZtY2RWbmtpTlRJS1A2dDZYelI1LXNpMWRFMkVaa1p4MDBCRlJES3lFWXBkNUlOSDdjZVczSkdBdXVFbVl6d3NPSkdKZllfSnRJVlVJZlNZMkZaOURVQmpmNUdzVUUtQQ?oc=5)
 - **Google News Markets** (Fri, 03 Jul 2026 05:05:02 GMT): High priority | [Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - AOL.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxNaWk0OGlYcFBKMVVHVlZlTnJuOWRYQ2Q3QklSZWJDOU5lOENKOGtIanQ1V056T3pCOEc4UHVSVDlRWC0tczhfLWV6RWI1OHB2eVQ1T2w1SDJPd0JCME1NN2dyNGdOczVKSlJHd3dkbGozVFVSTnFfekJ6aHBYeE1TSQ?oc=5)
 - **Google News Markets** (Fri, 03 Jul 2026 04:25:00 GMT): High priority | [US Stock market: Fed's Daly says AI, inflation uncertainty clouds interest rate outlook - The Economic Times](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMDhKS19GVnZpTDRKNFdBY2JncTctX1dIRnNQc1BDVjdMR3dnTEtUZGI2NkplcWVKc2FLSWtVZDZVZWZtZ2Y5S09NaF9pOFlmWjBabTJTSFRWWlBJZmFfQWIyM0I4b05oa1ZhYUZMV1FCX2FZdEFVM2JtZnVFck1mcFZ4VlBDNlJ2eWhHQ2F6OGpnRDlGZXZfU2xER1FmZFU0Y3A4b2dvUFNUZVd6d3IyaFpucFpZVGdncjl2STBkX0ZRdVhUVTVEWk5Nd3Q4NlhieGdWZ0R3WHhsSzA0Y1pMS2ZkbEliN2tRUlRtYmdOakR3U0RLX05LS9IB-AFBVV95cUxOMDhKS19GVnZpTDRKNFdBY2JncTctX1dIRnNQc1BDVjdMR3dnTEtUZGI2NkplcWVKc2FLSWtVZDZVZWZtZ2Y5S09NaF9pOFlmWjBabTJTSFRWWlBJZmFfQWIyM0I4b05oa1ZhYUZMV1FCX2FZdEFVM2JtZnVFck1mcFZ4VlBDNlJ2eWhHQ2F6OGpnRDlGZXZfU2xER1FmZFU0Y3A4b2dvUFNUZVd6d3IyaFpucFpZVGdncjl2STBkX0ZRdVhUVTVEWk5Nd3Q4NlhieGdWZ0R3WHhsSzA0Y1pMS2ZkbEliN2tRUlRtYmdOakR3U0RLX05LSw?oc=5)
 - **Google News Markets** (Fri, 03 Jul 2026 02:10:42 GMT): High priority | [US Stocks Decline as Investors Await Federal Reserve Chair Speech - HarianBasis.co](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BWTh2bE5RMXI3M19ZekY3ZFNLT19naG84ZEFkbHpqTjBna1hRdmJGWG1YRFduQmhLSmE5clRQTnJUMERUcW9hZ0hBRHh5ckh6VjNYWU9hU05leVE5b3FRSThnVGQ1elVB?oc=5)
