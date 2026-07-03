@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-03
 
-_Generated: 2026-07-03 08:00:21 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-03 09:55:09 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -20,6 +20,14 @@ _Generated: 2026-07-03 08:00:21 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market closed.** NYSE has no regular session for this date.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 9:55 AM Closed Snapshot
+- Skipped because NYSE has no regular session for this date.
+
+Source health:
+- NYSE calendar 2026-07-03: closed
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: skipped - NYSE has no regular session for this date
 
 ### 8:00 AM Closed Snapshot
 - Skipped because NYSE has no regular session for this date.
@@ -52,18 +60,45 @@ Source health:
 - **Google News Markets** (Fri, 03 Jul 2026 10:00:41 GMT): High priority | [Investors Brace for Federal Reserve’s Next Move Amidst Emerging Earnings Season - Devdiscourse](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWkI1VzZ6NTVvdnZ3a3VHZFRBRFJKSk5GZElvQWN1elVGNXRtV2kwWXZOS1kzODlXcnpURWRaWkQ0NzMwdTFDRlMwM1BLQjBiLTd1TWw5RXFTR25iUWpxUzZjZVpmN1U4dEZhaVBTLVdDUmRmQ3pLc04zeFdzMXZTbzk3MVpvMVBkSXVVV0RyeUp0UG1PTHMxRFlJQUJyOXl3dEJKSHJpRU1rRDItUEN0MGZTb2QxSmxRYzUxZy04ZndxbHQwdDZyRklpbEEtTDRIX1HSAdIBQVVfeXFMT1pCNVc2ejU1b3Z2d2t1R2RUQURSSkpORmRJb0FjdXpVRjV0bVdpMFl2TktZMzg5V3J6VEVkWlpENDczMHUxQ0ZTMDNQS0IwYi03dU1sOUVxU0duYlFqcVM2Y2VaZjdVOHRGYWlQUy1XQ1JkZkN6S3NOM3hXczF2U285NzFabzFQZEl1VVdEcnlKdFBtT0xzMURZSUFCcjl5d3RCSkhyaUVNa0QyLVBDdDBmU29kMUpsUWM1MWctOGZ3cWx0MHQ2ckZJaWxBLUw0SF9R?oc=5)
 - **Google News Markets** (Fri, 03 Jul 2026 02:58:17 GMT): High priority | [Federal Reserve Chair Kevin Warsh Declines to Comment, Reaffirms 2% Inflation Target - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qVGM2S2F2a0x5TmZaT3dpNHFmd3BkT1NVdHAwZ1Rfb1hQdzVqdDR2d0ZZSmh0SG9OeVJ1SmdxN2dsMzVfd3RpTTJidWw2V0gtTlVMeVE4Qlh4cTFTRHBqRXZXa9IBY0FVX3lxTE9qVGM2S2F2a0x5TmZaT3dpNHFmd3BkT1NVdHAwZ1Rfb1hQdzVqdDR2d0ZZSmh0SG9OeVJ1SmdxN2dsMzVfd3RpTTJidWw2V0gtTlVMeVE4Qlh4cTFTRHBqRXZXaw?oc=5)
 - **Google News Markets** (Fri, 03 Jul 2026 02:27:00 GMT): High priority | [Asian stock markets opened higher, boosted by the Dow Jones hitting a new high and investors easing concerns about a Federal Reserve interest rate hike. - วารสารการเงินธนาคาร](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZWnNEMFdaWjVyeVVEMnRuWDM0Wll3aXlQeTlDZEszVXk5cmlMQVBuLWpVZGE0SUZUTXVhRzFsdFFOUTJNeDhDbUc3OElWb1YySTNqSDVaaks?oc=5)
+- **Google News Markets** (Fri, 03 Jul 2026 14:44:30 GMT): High priority | [Alan Greenspan, Former Chairman of the Federal Reserve, Dies at 100 - AOL.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxObkhtaHphd3AwcWRfS0cwSkdqcEE5dE5pLWhJZnE0d19OZnFHM0J6RTU3V2hKbTBOclhMVDNOWWNJNi1falVnQV81aHE2d3RXMmFfLXNfNmVmbV9Xc24tUHFaTzBodVdaUXF1X3oxdzV5OHFGQl9UZ0hVMUhxdGdKWEZCWEU3dnROTEE?oc=5)
 - **Google News Markets** (Fri, 03 Jul 2026 13:40:20 GMT): High priority | [Investors look for Fed clues, earnings signs as tech wobbles - whbl.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNaC1zZUxEZ2VZM2FXY2dnbGU1al8xeDRWa2h1Zk5XUnJZam13OXBoRDQxR3ZtY2RWbmtpTlRJS1A2dDZYelI1LXNpMWRFMkVaa1p4MDBCRlJES3lFWXBkNUlOSDdjZVczSkdBdXVFbVl6d3NPSkdKZllfSnRJVlVJZlNZMkZaOURVQmpmNUdzVUUtQQ?oc=5)
+- **Google News Markets** (Fri, 03 Jul 2026 10:42:26 GMT): High priority | [U.S. stocks brace for Fed minutes, early earnings as tech volatility tests rally - Traders Union](https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1l3N1JvbHZLa2E2bGstNHc3RXJmOUp5SVp3N0Z0cUdXdjdlOTduMVJacW1GZjgzVHU1VmRQSlpnQ3M4NDcwMHBlaHhYSlZSUkNoaHBGVnpMMEVmOGtKUGhaQ1NRNF96aklCTlA2eGFvOFdoTWVGakE1Yy01S2ROMklwV1NPaGROLWU3ZE5PbWR3OGlUWUZGSGZfLWowYlBubWc?oc=5)
 - **Google News Markets** (Fri, 03 Jul 2026 05:05:02 GMT): High priority | [Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - AOL.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxNaWk0OGlYcFBKMVVHVlZlTnJuOWRYQ2Q3QklSZWJDOU5lOENKOGtIanQ1V056T3pCOEc4UHVSVDlRWC0tczhfLWV6RWI1OHB2eVQ1T2w1SDJPd0JCME1NN2dyNGdOczVKSlJHd3dkbGozVFVSTnFfekJ6aHBYeE1TSQ?oc=5)
+- **Google News Markets** (Fri, 03 Jul 2026 04:25:00 GMT): High priority | [US Stock market: Fed's Daly says AI, inflation uncertainty clouds interest rate outlook - The Economic Times](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMDhKS19GVnZpTDRKNFdBY2JncTctX1dIRnNQc1BDVjdMR3dnTEtUZGI2NkplcWVKc2FLSWtVZDZVZWZtZ2Y5S09NaF9pOFlmWjBabTJTSFRWWlBJZmFfQWIyM0I4b05oa1ZhYUZMV1FCX2FZdEFVM2JtZnVFck1mcFZ4VlBDNlJ2eWhHQ2F6OGpnRDlGZXZfU2xER1FmZFU0Y3A4b2dvUFNUZVd6d3IyaFpucFpZVGdncjl2STBkX0ZRdVhUVTVEWk5Nd3Q4NlhieGdWZ0R3WHhsSzA0Y1pMS2ZkbEliN2tRUlRtYmdOakR3U0RLX05LS9IB-AFBVV95cUxOMDhKS19GVnZpTDRKNFdBY2JncTctX1dIRnNQc1BDVjdMR3dnTEtUZGI2NkplcWVKc2FLSWtVZDZVZWZtZ2Y5S09NaF9pOFlmWjBabTJTSFRWWlBJZmFfQWIyM0I4b05oa1ZhYUZMV1FCX2FZdEFVM2JtZnVFck1mcFZ4VlBDNlJ2eWhHQ2F6OGpnRDlGZXZfU2xER1FmZFU0Y3A4b2dvUFNUZVd6d3IyaFpucFpZVGdncjl2STBkX0ZRdVhUVTVEWk5Nd3Q4NlhieGdWZ0R3WHhsSzA0Y1pMS2ZkbEliN2tRUlRtYmdOakR3U0RLX05LSw?oc=5)
+- **Google News Markets** (Fri, 03 Jul 2026 02:10:42 GMT): High priority | [US Stocks Decline as Investors Await Federal Reserve Chair Speech - HarianBasis.co](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BWTh2bE5RMXI3M19ZekY3ZFNLT19naG84ZEFkbHpqTjBna1hRdmJGWG1YRFduQmhLSmE5clRQTnJUMERUcW9hZ0hBRHh5ckh6VjNYWU9hU05leVE5b3FRSThnVGQ1elVB?oc=5)
 - **Google News Markets** (Fri, 03 Jul 2026 00:44:46 GMT): High priority | [Cooling US jobs data buys the Fed and stock market more time - NST Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0lFczF1clBhaUJqVE5nTUlRT2xwREY2YTl0ZWRiSlJibzFrcU1qMi1WSGN1QlFySTRIUmRodWt2cElOcndLOFNvNkpSX18xSF9CS1ZHLW5JZnFFYzlmSDZYRHhoNGN2aTVuaHhpQUctQXVabjlrdzVKQkpiWTBudTZockpwWGFVeVp3OGlfaUVEM2lqVzB4YjVjSnc0RWtRSWY5WTBzeVBSWFpoTzBhOEpR0gG3AUFVX3lxTE03RDZqbDU5OEtmQUliY1gwOWdsY0s4emJqQWVodE9ZWXRDY0xXUnQtOVl0N2VKMUNtTUc2RF9rOFlPV0ZjVzJXZnJSMVQ4dmNhbG1tNW8yYzlvRlJ6UGJzVjZ5LVBQaVAwMDFKSzhzYlIta1Z4NjlFSlRma2NEMUZmY01ObHIya1dIbGRvLUhMeThKN1V4eDR2RFpXR29Ka0ZkU1IyTDdicE1FWFQ5bVk1X1J3RWdXMA?oc=5)
-- **Google News Markets** (Thu, 02 Jul 2026 21:33:38 GMT): High priority | [Trump: Federal Reserve Chairman Waller Must Do What He Has To Do - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hX3RoclJEQTYtU1pINWV1OFF6cmkwUzZCRUN4aWJjSU96MGxHeUJ3MEdSRjUzUHFWelVjSzY5anhReXhoM3pYd2MzR1dBaDQ5X1ZOMHdicHFJUXZUNF9za2VETdIBY0FVX3lxTE5hX3RoclJEQTYtU1pINWV1OFF6cmkwUzZCRUN4aWJjSU96MGxHeUJ3MEdSRjUzUHFWelVjSzY5anhReXhoM3pYd2MzR1dBaDQ5X1ZOMHdicHFJUXZUNF9za2VETQ?oc=5)
-- **Google News Markets** (Thu, 02 Jul 2026 19:42:00 GMT): High priority | [Cooling US jobs data buys the Fed and stock market more time - Reuters](https://news.google.com/rss/articles/CBMingFBVV95cUxQTGg2SFp1b01MWjdIT3J0dDdEd2ZkRkNnZmJDQkVzQ2tTa0hubXN6cmthRjVWd2FGUE1fcHNpQjhWYlY3UXdodjNiUGFQaXlnSVc1TmFudURlLVduQTlOakEwMFk2MG16WWlKM0hySnpUNlNtd3RHdWtjSEU2bEN4VlVSc1F5dFRqdHFKcnNoWVJ1N2xlbEtUMm15RWNKdw?oc=5)
-- **Google News Markets** (Thu, 02 Jul 2026 17:50:19 GMT): High priority | [Regime Change at the Federal Reserve: Why it Could Matter to Investors - ETF Trends](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdS1iX3FSQnR0aHNIcGI5RmphTk5RYzRPdlpMcU5ZSkJtN05ETS15b2hqOHptSGVwVkZvR2ZqeWQyZFJUZU01YV81LTZiQ0k4VXY2c2J3WUl5TFIzTGRrQ0tNX0VkZ2U3Uk52bWFfcVkyd25yNXN1MDJQX1VEUFZRbDZ4b2FkaThvOTN4eHZJNUJFSTVvYmNIU3BWaEFNRWliUlMyMEZISXBHcjE5a3hxeGJhSDVFQzlYWG9YQkU3Z2LSAcYBQVVfeXFMTjFYbU9sVnByYzZINmRUeERsYnJQSjQzU0tyUmxNLU9vRGxEZkRqdTh3TUJfbG4ySGFvd2xvbm13ZGJIZTYzQTR6Z3ZPUHc4UUl5U3ZDdzFOa0R1VU1QYk9oOFQ1MGR4dDFTNHVKUXhKU2w0VFVHWHFfaE9GTi1taVdNX0J4S3dRRXpOYlFpa3VMOVU3QmdCd1BTcXdvdzBGcWZnVjFQSVdvTXNJd1JSRUw0N1EtSjRIQ2pVdkVOVmN2NklUeGJ3?oc=5)
-- **Google News Markets** (Thu, 02 Jul 2026 16:02:36 GMT): High priority | [Nasdaq Today: Nasdaq Composite Slips After Early Rally as Tech Stocks Lose Momentum; Fed Outlook, AI Valuations & Strait of Hormuz in Focus | Here’s US Stock Market, What Investors Need to Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMi2wJBVV95cUxOWkhKNHhjZzFhX0xtQzlxQzVCWEVZVm5HVFd2UGkwYW5qTDNpR2cwQWlONkJ3MXh6My1oaGJzM3h0WFBGUDVCT25kelQwQTNQQXQ5b1Ewam1SX19UcU52eDlQeGZzNnQ5TXQxYlhRLXRDR2Rra0Jad0NmLU80VHB3b0NDUEphVUZwUlVtem5qYVRIYkhDZEE0RV9rLXJhSjJYV0N5VTMyckVvMEdYOFVfZlVJdkw5Z3c2bW5wM0NpUF9fLWJLazRzRHdvOUNFWVk3eTRXdURtR1M5ZlBodEhMaGhVVVFLTUVCdG4yZTQwVDVPRDdQOWlIcGRlOHRLb05hd0NnVW5qUjN0ZXdOVmR0TmZkSWpnZE5PS3o2b2tQYUF1R2NOdDJ2d3pQRzhyaVJpc1lxcDVoQWQ1S0tGNnBMRnZNcFJ2bnlHejVuNEZCbHItQ2k2czlzbjNQd9IB4AJBVV95cUxQOWJ5UlBRbGxNYTNfMks2SEhqM0MtNlhFbXNFSC1QRXRHMWtKV2plTkloMmEzYzZHbGtHdHBEZmFFMzdDUVNVLVBESFRETXRxNGxzOVNTeTFZcjhzSEh0ZDJuT3F4dlpjb2lfOG5RM0J3dmY5NUtwekhNcE5FZEk5OEstTG1YZmg2YUJMNlcwN0JEb1dmYlNlR2lkMUZlTGhwc2d5T3BLdGZkLTRPcGxYQlNoWGhQUjZCYmFfWEtZcVBwWTFqeTJJbWZvcWtkZ0dqX0Y5b0FWazM0VGJ5a1N5OFhFcFB5ZHNONTRRQW43ZGkyeDFuUFpkcGIyLTNXakFNS3dab0FVQmRQeEtfWnVoeWs5RjFDT09hUEtNcGxGaW1BUFBqcmMxZDkxTVZPTGtLaXozQlBZbEFEaTl2TVFEZE9OZ09jZkhpRXQyeHBYY3JGSG1xRHZUTElqTV9RVEhG?oc=5)
 
 ## 5. Economic Calendar
 
 ### Today (2026-07-03)
-- **All Day** United States - Independence Day | Source: Nasdaq
+- **04:00** Total Vehicle Sales | Forecast: 16.10M | Previous: 16.10M | Source: Nasdaq
+- **07:45** FOMC Member Daly Speaks | Source: Nasdaq
+- **08:30** Average Hourly Earnings | Forecast: 0.3% | Previous: 0.3% | Source: Nasdaq
+- **08:30** Average Hourly Earnings (YoY) | Forecast: 3.5% | Previous: 3.4% | Source: Nasdaq
+- **08:30** Average Weekly Hours | Forecast: 34.3 | Previous: 34.3 | Source: Nasdaq
+- **08:30** Continuing Jobless Claims | Forecast: 1,810K | Previous: 1,812K | Source: Nasdaq
+- **08:30** Government Payrolls | Previous: 32.0K | Source: Nasdaq
+- **08:30** Initial Jobless Claims | Forecast: 219K | Previous: 216K | Source: Nasdaq
+- **08:30** Jobless Claims 4-Week Avg. | Previous: 224.50K | Source: Nasdaq
+- **08:30** Manufacturing Payrolls | Forecast: 3K | Previous: -2K | Source: Nasdaq
+- **08:30** Nonfarm Payrolls | Forecast: 114K | Previous: 129K | Source: Nasdaq
+- **08:30** Participation Rate | Previous: 61.8% | Source: Nasdaq
+- **08:30** Private Nonfarm Payrolls | Forecast: 110K | Previous: 97K | Source: Nasdaq
+- **08:30** U6 Unemployment Rate | Previous: 8.1% | Source: Nasdaq
+- **08:30** Unemployment Rate | Forecast: 4.3% | Previous: 4.3% | Source: Nasdaq
+- **10:00** All Car Sales | Previous: 2.66M | Source: Nasdaq
+- **10:00** All Truck Sales | Previous: 13.42M | Source: Nasdaq
+- **10:00** Durables Excluding Defense | Previous: -4.6% | Source: Nasdaq
+- **10:00** Durables Excluding Transport | Previous: 1.1% | Source: Nasdaq
+- **10:00** Factory Orders | Forecast: -1.7% | Previous: 5.3% | Source: Nasdaq
+- **10:00** Factory orders ex transportation | Previous: 1.7% | Source: Nasdaq
+- **10:30** Natural Gas Storage | Forecast: 81B | Previous: 76B | Source: Nasdaq
+- **11:30** 4-Week Bill Auction | Previous: 3.610% | Source: Nasdaq
+- **11:30** 8-Week Bill Auction | Previous: 3.660% | Source: Nasdaq
+- **13:00** U.S. Baker Hughes Oil Rig Count | Previous: 440 | Source: Nasdaq
+- **13:00** U.S. Baker Hughes Total Rig Count | Previous: 573 | Source: Nasdaq
+- **16:30** Fed's Balance Sheet | Previous: 6,736B | Source: Nasdaq
+- **16:30** Reserve Balances with Federal Reserve Banks | Previous: 2.954T | Source: Nasdaq
 
 ### Tomorrow (2026-07-04)
 - **All Day** United States - Independence Day | Source: Nasdaq
