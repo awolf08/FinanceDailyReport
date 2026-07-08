@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-08
 
-_Generated: 2026-07-08 05:55:13 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-08 06:55:10 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -28,6 +28,73 @@ _Generated: 2026-07-08 05:55:13 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 9:55 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[RIVN](https://finance.yahoo.com/quote/RIVN/)** | Rivian Automotive, Inc. | $15.84 | -0.65 | -3.97% | 36,314,282 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $108.33 | -2.06 | -1.87% | 19,201,168 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $197.38 | +0.45 | +0.23% | 16,624,885 |
+| **[SEM](https://finance.yahoo.com/quote/SEM/)** | Select Medical Holdings Corpora | $16.51 | -0.02 | -0.12% | 14,273,973 |
+| **[BABA](https://finance.yahoo.com/quote/BABA/)** | Alibaba Group Holding Limited | $107.69 | +9.55 | +9.73% | 12,522,255 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $149.29 | -0.18 | -0.12% | 11,747,389 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $11.70 | -0.14 | -1.18% | 12,049,947 |
+| **[WULF](https://finance.yahoo.com/quote/WULF/)** | TeraWulf Inc. | $22.33 | +2.09 | +10.33% | 10,449,762 |
+| **[MU](https://finance.yahoo.com/quote/MU/)** | Micron Technology, Inc. | $946.93 | +8.55 | +0.91% | 10,220,425 |
+| **[PLTR](https://finance.yahoo.com/quote/PLTR/)** | Palantir Technologies Inc. | $126.93 | -7.43 | -5.53% | 9,512,531 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $21.44 | +1.14 | +5.62% | 25,458,087 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $171.26 | +5.98 | +3.62% | 22,728,085 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $60.25 | -0.34 | -0.56% | 21,784,262 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $71.50 | -0.73 | -1.01% | 18,092,448 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $40.79 | +0.41 | +1.02% | 16,507,127 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.35 | -0.30 | -3.41% | 16,268,045 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $12.27 | -0.57 | -4.44% | 13,879,787 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $34.88 | -1.28 | -3.53% | 10,898,106 |
+| **[RAM](https://finance.yahoo.com/quote/RAM/)** | Roundhill T-REX 2X Long DRAM Da | $16.57 | -0.17 | -1.01% | 9,387,675 |
+| **[MUD](https://finance.yahoo.com/quote/MUD/)** | Direxion Daily MU Bear 1X ETF | $11.74 | -0.09 | -0.77% | 8,651,383 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PENG](https://finance.yahoo.com/quote/PENG/)** | Penguin Solutions, Inc. | $71.76 | +9.05 | +14.43% | 2,730,231 |
+| **[WULF](https://finance.yahoo.com/quote/WULF/)** | TeraWulf Inc. | $22.33 | +2.09 | +10.33% | 10,450,018 |
+| **[BABA](https://finance.yahoo.com/quote/BABA/)** | Alibaba Group Holding Limited | $107.71 | +9.57 | +9.75% | 12,522,640 |
+| **[KC](https://finance.yahoo.com/quote/KC/)** | Kingsoft Cloud Holdings Limited | $10.30 | +0.86 | +9.11% | 1,038,026 |
+| **[AXTI](https://finance.yahoo.com/quote/AXTI/)** | AXT Inc | $62.93 | +4.78 | +8.22% | 2,208,087 |
+| **[RGC](https://finance.yahoo.com/quote/RGC/)** | Regencell Bioscience Holdings L | $6.57 | +0.62 | +10.50% | 175,645 |
+| **[KEX](https://finance.yahoo.com/quote/KEX/)** | Kirby Corporation | $143.96 | +10.09 | +7.54% | 130,923 |
+| **[MTZ](https://finance.yahoo.com/quote/MTZ/)** | MasTec, Inc. | $382.98 | +24.35 | +6.79% | 171,776 |
+| **[SLS](https://finance.yahoo.com/quote/SLS/)** | SELLAS Life Sciences Group, Inc | $14.37 | +0.87 | +6.44% | 2,133,238 |
+| **[PARR](https://finance.yahoo.com/quote/PARR/)** | Par Pacific Holdings, Inc. Comm | $65.57 | +4.13 | +6.72% | 112,216 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[LMND](https://finance.yahoo.com/quote/LMND/)** | Lemonade, Inc. | $70.96 | -6.67 | -8.59% | 315,473 |
+| **[FOUR](https://finance.yahoo.com/quote/FOUR/)** | Shift4 Payments, Inc. | $47.90 | -3.26 | -6.37% | 177,078 |
+| **[BBWI](https://finance.yahoo.com/quote/BBWI/)** | Bath & Body Works, Inc. | $19.23 | -1.39 | -6.74% | 887,159 |
+| **[SW](https://finance.yahoo.com/quote/SW/)** | Smurfit WestRock plc | $42.01 | -2.99 | -6.63% | 1,283,889 |
+| **[EMAT](https://finance.yahoo.com/quote/EMAT/)** | Evolution Metals & Technologies | $5.41 | -0.36 | -6.33% | 20,623 |
+| **[FLNC](https://finance.yahoo.com/quote/FLNC/)** | Fluence Energy, Inc. | $15.16 | -1.04 | -6.42% | 2,897,247 |
+| **[W](https://finance.yahoo.com/quote/W/)** | Wayfair Inc. | $87.43 | -5.81 | -6.22% | 420,034 |
+| **[NWL](https://finance.yahoo.com/quote/NWL/)** | Newell Brands Inc. | $5.18 | -0.36 | -6.41% | 752,835 |
+| **[WRBY](https://finance.yahoo.com/quote/WRBY/)** | Warby Parker Inc. | $26.44 | -1.60 | -5.70% | 190,617 |
+| **[NAVN](https://finance.yahoo.com/quote/NAVN/)** | Navan, Inc. | $25.59 | -1.66 | -6.09% | 921,850 |
+
+Source health:
+- NYSE calendar 2026-07-08: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
 ### 5:55 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 8:55 AM ET.
@@ -80,7 +147,7 @@ Source health:
 - **Google News Markets** (Tue, 07 Jul 2026 17:07:54 GMT): High priority | [Why is US Stock Market Down Today? Dow Jones Crosses 52,000, Nasdaq & S&P 500 Slides as Chip Sell-Off, Samsung, Oil Prices Weigh on Wall Street Amid Fed Uncertainty | What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMi0gJBVV95cUxQSmM4RFdHb0ZyZjF2bGdhYnU1SHJZVEFtcUh3MngxV0hxZC1ERGhGbGVVUjgyMHgyb2RHZC0yN215anEzWm5tSFpnVUY0NGhSXy1vYTRpeWJWNGRrcmJEQzRyUDBJMGZoSWJXQWxvVFhDdjhEcWw3Mm9IbzlBcEF1VWpGRncycFRDcjZJVWh3a1JYTmRUQXQ3SGtoRk1zbVVYb2EtN25kUVVOdXZnSW1JWGh4OVVQT3NtbHB2RmhHMktjeEprSDdBdGRMdHRhMEhOYWlTbmkwOFFZWmF1VENVdE9XUnROVzlnWXNPX1RqN1o5NHNjS0dMNm5GX2txOUxxalhxQlluNVR6U1FES2tPcC1UWGtVQlVNU3R0RjI0MGVrRWF1c1hndWM1ZnZzYjd0eHI5dlRsY3ZoRzhBVDktRUx5US0wZTZvTDJuNEdSTXVEQdIB1wJBVV95cUxPbTIxTDlYM3RVYnNFV0dyRFZhZDRGcWVCdXhqa0hUSFYxR1J1UV9FRFR4WmFiVmhhQUZUR3NZbzRsbTV2S3N5UVdPM282dlZrWmFpZ3prLWRxTUxVY3NPOFVObGxhMWN0ODBENkpKRWxzaF8zT2RPRXkzWGp0T2cyaUk4TlNXY1ZtUGpfUTFzUEtlLWktaS1UYTNoeVZTcS1tS3FLNG1lUW1SS3FzVWljQUZvamhBV29Od3JZa3Z1ak5tdXZVdTh3T2VUQmswYmNOdFlaN08tTjk1SUlLTVBnLXF1Tk1ZaTNEbGtxQW12S0xMNllLT2FodWduMUdyNy1IRGFVd2VKRmZuVnlfQi1oYk1EOFBNQW1oQnlMWHBDNk81YkxDZTdIVEZQWFViTjg1cU5IczdnVEd5Ym5ac1lETWF5VTBIa2FYSzEzbk55OHpDdFpfNHQw?oc=5)
 - **Federal Reserve** (Tue, 7 Jul 2026 19:00:00 GMT): High priority | [Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm)
 - **Google News Markets** (Wed, 08 Jul 2026 09:06:00 GMT): High priority | [The Federal Reserve's Initial July Inflation Forecast Looks Fantastic on the Surface, but Something Sinister Lurks in the Details - The Motley Fool](https://news.google.com/rss/articles/CBMilAFBVV95cUxQMTlJMkQzLUNqLTJBYXNUX1R5MjlSZU1Pb3JZY1F0NmZjX0xSWEdIQ2J5MURJTFJKMXVNNHR6UkkzUnVNTERzQlBGQ0QtQ282MjhlZkNTUlJ6aWhPQmtlMkZRTVVDV3p5bFZSQnBLMk16djl4VmZ1d09SZ1Y4N3pma2JVTEJQWkNxZ001ckdfWU84MFR6?oc=5)
-- **Google News Markets** (Tue, 07 Jul 2026 13:44:57 GMT): High priority | [Dow gains 160 points as chip selloff drags Nasdaq ahead of earnings season - Invezz](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmx3WU1XTjBJUmdXZC1RbWZNS0dVcmlIb3JXWUtSZXpkcVRydC1vM2FLR1phbWt0Q1dXaVhBS1ZIdTYxQVZfd0R3VHpxWmx2QVF3Y05sNVlvc0lKRnFDLXdVcW9KTUR0MW1oTXJkeFhuWnlIUnFPRDNYeHpONktKb1cweU1GQmZlQ3pGMm52d2F2NkFwY0tMcnl0LWdtZE5TMzh6aXBQbU5OZFR4LWxj?oc=5)
+- **Google News Markets** (Tue, 07 Jul 2026 14:07:11 GMT): High priority | [Dow gains 160 points as chip selloff drags Nasdaq ahead of earnings season - Invezz](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFJGUHVZV18teVJNMWo4OFp3TEM1WTNCZGRRdDRBa1dZdFVyREJHTUxwNWVVdzVveUpiSmhmSlFNYTNPLWctRGMyU20yd1JpNDdFMUo3bWRhQ3VpYkZ3VUdnMmt6V3lzSFl1TWpnYUpGd0E2TU5OV2ZHaWVSYnNETGhjX1ZrT2ItZ0JUUTV6dGlCdGRSNXd1M1hYNFVrOUQ1V3pGZF9DOGlNV1YwdmNNN0xwOA?oc=5)
 - **MarketWatch Top Stories** (Wed, 08 Jul 2026 11:00:00 GMT): High priority | [Kevin Warsh plans to stop scripting the Fed’s next moves. It could trigger a wild ride for traders.](https://www.marketwatch.com/story/kevin-warsh-plans-to-stop-scripting-the-feds-next-moves-it-could-trigger-a-wild-ride-for-traders-0bb39b9e?mod=mw_rss_topstories)
 - **Google News Markets** (Wed, 08 Jul 2026 10:01:04 GMT): High priority | [Warsh's Debut: A New Era for the Federal Reserve - Devdiscourse](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWZRRGxvRDNZQVMyaFpHWm9YMHM5UTBrb0hPZEY3LUl0ek1ZdFJ6cnp0dDktQUJLaGpkNGVWOXd0NjBrc1ZoTGR3Z1FoVmhfUlhsY1VpZEh3RFZnel8xdUpEa1N6TkM3VGlHZXJySnRhQ1BZZGJPaWJkZEIyWXVlZGtHOFVFRlhyeFJ2dUE0WUxESnVlbXpfSlVjeTVLaWZhQjB1SzRQa9IBpwFBVV95cUxPMWZRRGxvRDNZQVMyaFpHWm9YMHM5UTBrb0hPZEY3LUl0ek1ZdFJ6cnp0dDktQUJLaGpkNGVWOXd0NjBrc1ZoTGR3Z1FoVmhfUlhsY1VpZEh3RFZnel8xdUpEa1N6TkM3VGlHZXJySnRhQ1BZZGJPaWJkZEIyWXVlZGtHOFVFRlhyeFJ2dUE0WUxESnVlbXpfSlVjeTVLaWZhQjB1SzRQaw?oc=5)
 - **Google News Markets** (Wed, 08 Jul 2026 09:14:14 GMT): High priority | [Federal Signal (FSS) Stock Looks Above Fair Value While Earnings Look Fair - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxPb1VFaEg2U25qdG9jWE9UdkFNS1ZXblhpc3YtT1hEc3NkQXFDNFVBSGVNcFR6eUl3ZUd3bmdYYVNQcWg2V3huMWhpcmtOcGlmallyQUNqN2ZuRG4zc3VkT0ZQMzBKNWE2V0JkSkQwbkkwX3VIanU4OEstem9aUFdEN21vTGJ4d3JUTjliZlBScC1sYTVHWF9yZHlORQ?oc=5)
@@ -122,11 +189,11 @@ Source health:
 - **10:30** Crude Oil Imports | Previous: 0.370M | Source: Nasdaq
 - **10:30** Cushing Crude Oil Inventories | Previous: 0.709M | Source: Nasdaq
 - **10:30** Distillate Fuel Production | Previous: -0.042M | Source: Nasdaq
-- **10:30** EIA Weekly Distillates Stocks | Previous: 2.483M | Source: Nasdaq
+- **10:30** EIA Weekly Distillates Stocks | Forecast: 0.600M | Previous: 2.483M | Source: Nasdaq
 - **10:30** Gasoline Production | Previous: 0.481M | Source: Nasdaq
 - **10:30** Heating Oil Stockpiles | Previous: -0.310M | Source: Nasdaq
 - **10:30** EIA Weekly Refinery Utilization Rates | Previous: 0.5% | Source: Nasdaq
-- **10:30** Gasoline Inventories | Previous: -2.333M | Source: Nasdaq
+- **10:30** Gasoline Inventories | Forecast: -1.600M | Previous: -2.333M | Source: Nasdaq
 - **11:00** Thomson Reuters IPSOS PCSI | Previous: 49.14 | Source: Nasdaq
 - **11:30** Atlanta Fed GDPNow | Forecast: 1.4% | Previous: 1.4% | Source: Nasdaq
 - **13:00** 10-Year Note Auction | Previous: 4.538% | Source: Nasdaq
@@ -138,9 +205,10 @@ Source health:
 
 - NYSE calendar 2026-07-08: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- TradingView Premarket Most Active: ok - 8 rows with market cap at or above $100M and price at or above $5
-- TradingView Premarket Gainers: ok - 8 rows with market cap at or above $100M and price at or above $5
-- TradingView Premarket Losers: ok - 8 rows with market cap at or above $100M and price at or above $5
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
