@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-09
 
-_Generated: 2026-07-09 05:55:11 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-09 06:17:03 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -28,6 +28,52 @@ _Generated: 2026-07-09 05:55:11 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:17 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:16 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $12.41 | +0.46 | +3.85% | 4,431,979 |
+| **[RXT](https://finance.yahoo.com/quote/RXT/)** | Rackspace Technology, Inc. | $6.35 | -0.23 | -3.50% | 3,488,558 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $115.50 | +5.26 | +4.77% | 3,167,064 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $205.49 | +1.37 | +0.67% | 1,850,046 |
+| **[MU](https://finance.yahoo.com/quote/MU/)** | Micron Technology, Inc. | $1,009.73 | +60.93 | +6.42% | 1,682,540 |
+| **[TKOMY](https://finance.yahoo.com/quote/TKOMY/)** | Tokio Marine Holdings, Inc. | $48.22 | +0.62 | +1.30% | 1,420,000 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $7.62 | +0.10 | +1.33% | 1,383,361 |
+| **[FCEL](https://finance.yahoo.com/quote/FCEL/)** | FuelCell Energy, Inc. | $24.92 | +2.38 | +10.56% | 1,364,736 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. | $381.05 | +57.55 | +17.79% | 348,411 |
+| **[SMPL](https://finance.yahoo.com/quote/SMPL/)** | The Simply Good Foods Company | $15.10 | +2.26 | +17.60% | 140,933 |
+| **[AEHR](https://finance.yahoo.com/quote/AEHR/)** | Aehr Test Systems | $78.62 | +10.73 | +15.81% | 216,617 |
+| **[ENVX](https://finance.yahoo.com/quote/ENVX/)** | Enovix Corporation | $5.78 | +0.66 | +12.78% | 1,203,101 |
+| **[AP](https://finance.yahoo.com/quote/AP/)** | Ampco-Pittsburgh Corporation | $8.07 | +0.90 | +12.55% | 86,611 |
+| **[BBIO](https://finance.yahoo.com/quote/BBIO/)** | BridgeBio Pharma, Inc. | $87.00 | +8.67 | +11.07% | 542,555 |
+| **[FCEL](https://finance.yahoo.com/quote/FCEL/)** | FuelCell Energy, Inc. | $24.88 | +2.34 | +10.38% | 1,386,445 |
+| **[IQMX](https://finance.yahoo.com/quote/IQMX/)** | IQM Quantum Computers Oyj | $12.53 | +1.06 | +9.24% | 51,757 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[IONS](https://finance.yahoo.com/quote/IONS/)** | Ionis Pharmaceuticals, Inc. | $68.17 | -16.29 | -19.29% | 919,085 |
+| **[NOAH](https://finance.yahoo.com/quote/NOAH/)** | Noah Holdings Limited | $8.90 | -1.35 | -13.17% | 731 |
+| **[AZN](https://finance.yahoo.com/quote/AZN/)** | AstraZeneca PLC | $173.81 | -15.47 | -8.17% | 162,181 |
+| **[MDA](https://finance.yahoo.com/quote/MDA/)** | MDA Space Ltd. | $35.58 | -3.09 | -7.99% | 74,449 |
+| **[AAPG](https://finance.yahoo.com/quote/AAPG/)** | Ascentage Pharma Group International - American Depository Shares | $17.61 | -1.25 | -6.63% | 222 |
+| **[ISUZY](https://finance.yahoo.com/quote/ISUZY/)** | Isuzu Motors, Ltd. | $13.82 | -0.86 | -5.86% | 400 |
+| **[TYNPF](https://finance.yahoo.com/quote/TYNPF/)** | Nippon Sanso Holdings Corp. | $37.21 | -2.20 | -5.58% | 200 |
+| **[TIC](https://finance.yahoo.com/quote/TIC/)** | TIC Solutions, Inc. | $7.51 | -0.42 | -5.30% | 1,186 |
+
+Source health:
+- NYSE calendar 2026-07-09: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 8 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 8 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 8 rows with market cap at or above $100M and price at or above $5
 
 ### 5:55 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 8:55 AM ET.
@@ -79,16 +125,16 @@ Source health:
 
 - **Google News Markets** (Wed, 08 Jul 2026 15:01:13 GMT): High priority | [The S&P 500’s Rare 40-Year Valuation Warning: Economic Slowdown Is Confirmed by Federal Reserve - AOL.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFBPYktScXRfV1c4Mjl1ZWtNbnhRWnN4ejg1azJuUjJWcUZqUVA3aXpndG02bHBHeGhYbk1lelRnc1EyaEFubi1JRGl4LWxrWFozYVBYWE1XQjNfc1JKQjIyS3ZIRzlkak9taDE1akI2cnVTNFp3ZUE?oc=5)
 - **Federal Reserve** (Tue, 7 Jul 2026 19:00:00 GMT): High priority | [Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm)
-- **Google News Markets** (Thu, 09 Jul 2026 08:29:44 GMT): High priority | [The Federal Reserve's initial July inflation forecast looks fantastic on the surface, but something sinister lurks in the details - MSN](https://news.google.com/rss/articles/CBMi4wNBVV95cUxQdHAyX3dXZ2FwUHNTQlNkOFJ5TEVydWdhQjZ0Ni1mMVZlSDZaTjR5UHFCYWFmNFFxWkhROENaX1N2aUJEUUZIVVRBbmZUWTFMd1JWY1lQZFE5dmR2TUdYUnZydnR6VkI4U3FMTHZwemlNdmVaMXVPLURQR0Fpb0tLakFlUzh2bnlNeEZMVTZhaGh6T3pMbXB4aUNoUTF1c2gtcDEwZUZGOU1TRmJEUzgyendMZnZuVzJ1QjA4R1JLbmtVeExKNGJTNGg3S2Q5UkJtLWVFY05XbDMzUFdVRERVSDZJYU40eWliN0JYczVFbVNCVkg0eElIWVdYYnpOcFJiaWEzNWw2RV9lVzY1ZjR0d1hmQmh5NWtSRW1ScTVsT29BbGx3b3JNcFAtcE82ZGRDTUFaTEltRXRLTzhvaVFKelI1X29uM011d2J2WC1RRzJlSjNlRmlGdUJKTXlKd1VYZ1l5cm1hMzdlRjBwLXQyWWo3dVVlbTRVOW83dmlFSUcyQ2hNQVBPcGd5TUxuTzZQUmJJdWVLNkdMeFFTR3hUMzE3VkJ3NFY1M0MyZnVuVEduX1J0cXpuZUZBZjgtUjE5MnI2ZHkxeXhYbGRYb3FBdTNTSW9OaWxUM1lHQUpwMnFvR3M?oc=5)
 - **Google News Markets** (Thu, 09 Jul 2026 06:42:06 GMT): High priority | [Federal Reserve Minutes Reveal AI Boom Sparking Inflation Worries and Rate Hike Possibilities - Blockonomi](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEpIQVpQd3BkbkU1enJpSWJHYWJzMktudGJsWGNfb0xSdndSemlVZk1iUEdEMlRtTk9sNllaM0Ffd25ua0xQd0N2Rl9ZTUh0cXNzVS1DWGUwQWt5OVcwQ1RjNzQzTVo1NUZqNjJicUNWVjZ4eUZWREhjV3dSZWFfczJzMnIwVDl4X2FNczFWbHBKb1Z2V0dpdDhhdTV3OWNUcEp5aEo1X1NMSU1melc1NjhINFJmV0VO?oc=5)
 - **Federal Reserve** (Wed, 8 Jul 2026 18:00:00 GMT): High priority | [Minutes of the Federal Open Market Committee, June 16-17, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm)
 - **Google News Markets** (Thu, 09 Jul 2026 12:49:23 GMT): High priority | [The Federal Reserve Says the Hidden Cost of Trump’s Tariffs Is About to Hit Your Wallet - 24/7 Wall St.](https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjlkeDA4T243Y3lxbURYeVU2VjVQZmtBV2thLWE2VUVMRG5SbzFycEs1VHFzbGdfaHhBbkxPLWhlbmJvWDR6Y3NDV210Y1pRY3ZpZDlOZFlIMjc1YWwzZTM3YS1RcjFBNE9ISElSc0Jidi0xNmhvTDBaZ3o1azhpSWNMem8wVnFrT3FsZ3RXb3Fja0hjQ1pIZEkxcC0yMjNGd2tUSkNscnJiT3MyeUJVN2MzcUNwU0hXZy1KOHM2SlBvNDNIeTF4VXl3?oc=5)
 - **Google News Markets** (Thu, 09 Jul 2026 12:16:20 GMT): High priority | [Oil prices, PepsiCo earnings, SpaceX's rough ride and more in Morning Squawk - CNBC](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdmd3bGRrMWIySFFDMGpLSmJOSVl2TDBGc0ZHYl9fWFUzZnoyeFNvNkNSXzlrZFdNVGEyTFR0aS1uZmdYSkNEaEphRERQSzFYVTUwV2I3QWdUWGtETUFrdnI3VlZZLXdJdWs5YzgyN21CejY3WHN3MXhGTGVqRm1fRnZ1WFNya09ZNTNR0gGQAUFVX3lxTE44ZE4tdzVXSE9CenRrSU9RdXNmWnJtSkp2S1dyQzNQc3RPT0RVaEpDWW1fMGUydGstcGRKTXV0OHpHTzIxcHF0WjBXems1aDF6MU03NkxTT3BzVUQ0LVo4WXF2dGZabHpXLVJjTkFmX2tiN3dkQ2hUUkVqaXg3aXh3ZkFwem1FMHcwYUpDanotXw?oc=5)
 - **Google News Markets** (Thu, 09 Jul 2026 08:27:27 GMT): High priority | [Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUmtLNnA4VFdaQUlnMnlFMHM5TjFFM1ByWEtpeGhqNjVSM2xJZ2ItOThGSDZ1ZDc1UkthNml3ZnF4MlhiZHJaUWhfNm1KTHlEQ2xWUG5BcW9KczQ2am5VYTF1QkVkVlJ1OWlqMGtWYzdyaEx5OTFBdTBRMFdjTnNMajhfSFk1NDZnOWtDWHpqM3hINlp0TGpMeWRSNndNTGxSXzNRZ0FGYk5uTjVvdzgwVWZqdmt4ZnlwOGxuZ0tpY0FIVkJremc?oc=5)
 - **Google News Markets** (Thu, 09 Jul 2026 05:30:00 GMT): High priority | [Stock Market Insights: S&P 500 earnings face a big test as AI drives corporate profits - TelegraphHerald.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQay1ScHd5YnhnaXZ6ZHlCQUl3dUVFWjdVV2VfUTJaOEFFSDc2N3BVM0dubVVoS1hRUmRUTVlwVURqWjJuQk1IVkVwdmdZanV3dHg0b0ltZlVEb1ROeVZVdHc1TUkxbWlvSzM0bDBEeGZxT3lUZHBCdEJrZE5wNmZiNUh4WFgtRzhnY3EzY216VWFLNzY3bS1EUUxncUw5YUF1WFlmVXd0QWszLTJhbUl0bWVneWNmQ05o?oc=5)
-- **Google News Markets** (Wed, 08 Jul 2026 23:40:56 GMT): High priority | [Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. - AOL.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFA2ejFUWVJBbUxaRHM5d0thNTQxbHlOUzdaeDVmTENISElyNFFQbGFma085aHI0YURuMHk5RUdoOTRrQ29kNzVwb2pRM0VIR3FfcklUckx5YTNsaHlQSTBhN0tfY0hnMzE0OVpfT3BrTjBWbEJ5UEdERU9yTjNQNG8?oc=5)
 - **Google News Markets** (Wed, 08 Jul 2026 20:10:47 GMT): High priority | [Fed policymakers' inflation concerns grew at June meeting, minutes show - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0RTaXNnWWRiR3R0S2lvUlNhQVBYcktaZ00wQmxEc25PZldQUkpJdEpUWGlncExsWGR6M2pISWNYQWpxYUtvMDJFaHlrVVZOMHA3Z3cyd1ZWR2RMVjczczZIeGNucll2d3ByUDJqeElKZ3hkUGw2cUdDUXAxSmFrdktTbkJtYVJ2bWpyR1ZoTUM3TlNTM3pyYjhqeGxqYlNGU1ZXRDI2SzU1TlZn?oc=5)
 - **Google News Markets** (Wed, 08 Jul 2026 19:44:00 GMT): High priority | [Treasury Yields Surge As Markets Bet On September Hike - Investor's Business Daily](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdkJCN3U0cVJ3OUlVdkNscHNQOWtqeTk3dkNIZ0tBVHZzWW9LUEQtWUwyN0JiSENKQmtfQzcxZ00wSmhuNnYtOEIwUjJ5RmcxZlJfeHRZMFYzTE5USjVjaGd2UlctSVZCbTRPUFRnbEc1ak1VdkZ6NGV1MFdueWtVU21EWnRrX1FreUNRalEwUEE0NEZKVVAzYlB0X201MWp1WEE?oc=5)
+- **Google News Markets** (Wed, 08 Jul 2026 18:15:11 GMT): High priority | [Stock Market Live November 19: S&P 500 (VOO) Opens Higher as Investors Await Nvidia Earnings - AOL.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5YQUpreHJpa0FwQkJBQXpDdUNOQVRQQlQxWjh2NFBhbjhRWThPajhTQWt5MUF4WElpd2tha3RaeGl5T2RZVEJaN0hVV0tDV0IzYldDN2VXNjRkaFZ2Sms4WkJQajJscEkyczBmY2hyVElBZHBJZmV5M1NrendhUQ?oc=5)
+- **Google News Markets** (Wed, 08 Jul 2026 15:41:22 GMT): High priority | [A Federal Reserve Double Whammy Is 2 Months Away -- and It May Mark the Tipping Point for the Stock Market - AOL.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uTGwtcktvYXFRc3dNUUxwUG04WXhtR2NWUTlrN1FpSHFZNnJBMVdtdW1WelRUeHhSNDhJcWJMUTdHLWVIbmlJSXNYc3FmOXhJZC1yMUlYTnFoR2plSEdHbi1Cc01HQ0xUM3FFQVV5ZlltdUdLU1hldDZXUHlDQQ?oc=5)
 
 ## 5. Economic Calendar
 
