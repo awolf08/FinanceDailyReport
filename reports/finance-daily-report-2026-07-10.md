@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-10
 
-_Generated: 2026-07-10 06:55:10 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-10 09:55:10 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -25,6 +25,73 @@ _Generated: 2026-07-10 06:55:10 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 9:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 12:55 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $209.76 | +6.98 | +3.44% | 83,425,641 |
+| **[NU](https://finance.yahoo.com/quote/NU/)** | Nu Holdings Ltd. | $13.89 | +0.22 | +1.57% | 65,139,198 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $18.89 | +0.26 | +1.42% | 58,763,527 |
+| **[FRMI](https://finance.yahoo.com/quote/FRMI/)** | Fermi Inc. | $6.41 | -0.91 | -12.36% | 49,071,632 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $109.44 | -3.10 | -2.75% | 42,698,033 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $16.91 | -0.15 | -0.88% | 42,253,691 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $7.30 | -0.35 | -4.57% | 37,051,824 |
+| **[PATH](https://finance.yahoo.com/quote/PATH/)** | UiPath, Inc. | $11.81 | +0.01 | +0.13% | 36,587,682 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $12.44 | -0.46 | -3.60% | 31,620,375 |
+| **[MARA](https://finance.yahoo.com/quote/MARA/)** | MARA Holdings, Inc. | $12.81 | -0.41 | -3.06% | 30,276,909 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.69 | +0.12 | +1.40% | 194,968,306 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $63.21 | -1.15 | -1.79% | 49,013,595 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $28.03 | +1.63 | +6.17% | 36,016,190 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $37.83 | -0.26 | -0.70% | 34,572,134 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $76.93 | +0.59 | +0.77% | 34,406,329 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $13.40 | +0.38 | +2.88% | 33,816,643 |
+| **[SPDN](https://finance.yahoo.com/quote/SPDN/)** | Direxion Daily S&P 500 Bear 1X | $8.60 | -0.03 | -0.29% | 29,161,818 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $8.04 | +0.08 | +1.01% | 27,001,400 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $191.20 | -1.25 | -0.65% | 26,527,839 |
+| **[LQD](https://finance.yahoo.com/quote/LQD/)** | iShares iBoxx $ Investment Grad | $107.48 | -0.23 | -0.21% | 22,915,886 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PLBL](https://finance.yahoo.com/quote/PLBL/)** | Polibeli Group Ltd | $7.51 | +1.09 | +16.90% | 240,193 |
+| **[EQPT](https://finance.yahoo.com/quote/EQPT/)** | EquipmentShare.com Inc | $18.31 | +2.31 | +14.41% | 4,055,189 |
+| **[VOD](https://finance.yahoo.com/quote/VOD/)** | Vodafone Group Plc | $14.76 | +1.68 | +12.81% | 12,974,266 |
+| **[WDFC](https://finance.yahoo.com/quote/WDFC/)** | WD-40 Company | $266.96 | +27.54 | +11.50% | 801,751 |
+| **[ALM](https://finance.yahoo.com/quote/ALM/)** | Almonty Industries Inc. | $16.35 | +1.65 | +11.22% | 3,551,339 |
+| **[WHR](https://finance.yahoo.com/quote/WHR/)** | Whirlpool Corporation | $41.35 | +3.49 | +9.20% | 1,494,262 |
+| **[CCC](https://finance.yahoo.com/quote/CCC/)** | CCC Intelligent Solutions Holdi | $5.82 | +0.43 | +8.09% | 10,482,561 |
+| **[KB](https://finance.yahoo.com/quote/KB/)** | KB Financial Group Inc | $124.24 | +8.86 | +7.68% | 320,377 |
+| **[JXN](https://finance.yahoo.com/quote/JXN/)** | Jackson Financial Inc. | $118.90 | +8.11 | +7.32% | 845,835 |
+| **[REZI](https://finance.yahoo.com/quote/REZI/)** | Resideo Technologies, Inc. | $33.24 | +2.20 | +7.09% | 1,235,128 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[FRMI](https://finance.yahoo.com/quote/FRMI/)** | Fermi Inc. | $6.41 | -0.91 | -12.36% | 49,071,632 |
+| **[MRNA](https://finance.yahoo.com/quote/MRNA/)** | Moderna, Inc. | $67.80 | -8.76 | -11.44% | 5,173,375 |
+| **[DSC](https://finance.yahoo.com/quote/DSC/)** | DSC Holdings Ltd. | $6.26 | -0.59 | -8.69% | 33,639 |
+| **[EWTX](https://finance.yahoo.com/quote/EWTX/)** | Edgewise Therapeutics, Inc. | $44.33 | -4.02 | -8.31% | 422,604 |
+| **[IBRX](https://finance.yahoo.com/quote/IBRX/)** | ImmunityBio, Inc. | $8.14 | -0.73 | -8.23% | 8,118,970 |
+| **[IONS](https://finance.yahoo.com/quote/IONS/)** | Ionis Pharmaceuticals, Inc. | $59.12 | -5.15 | -8.01% | 6,239,123 |
+| **[BKD](https://finance.yahoo.com/quote/BKD/)** | Brookdale Senior Living Inc. | $14.06 | -1.22 | -7.95% | 7,345,819 |
+| **[TARS](https://finance.yahoo.com/quote/TARS/)** | Tarsus Pharmaceuticals, Inc. | $59.05 | -5.09 | -7.94% | 791,748 |
+| **[AXTI](https://finance.yahoo.com/quote/AXTI/)** | AXT Inc | $57.58 | -4.97 | -7.95% | 4,194,249 |
+| **[BEAM](https://finance.yahoo.com/quote/BEAM/)** | Beam Therapeutics Inc. | $32.98 | -2.84 | -7.93% | 1,748,564 |
+
+Source health:
+- NYSE calendar 2026-07-10: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
 ### 6:55 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 9:55 AM ET.
@@ -195,10 +262,10 @@ Source health:
 - **Google News Markets** (Thu, 09 Jul 2026 20:20:38 GMT): High priority | [Federal Reserve Watch for July 9: Williams Still Sees Slowdown in Energy Prices This Year - Moomoo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOQXBmNzNqazR5eXFjajNwVm9mZzFiejJ4RDVRUmltVEs0aHhORHZBWTRWczM3cENZb2g1a1RUS1lTSFNXNnNadkpiQzRPd2doS08tcUhmOG1vOEhqSTIxN3ZOZ0FlUE9yMmZzMi1BUXdKR2oxYTdUNUpWNHhEWHFYNkZmX2hUa1o1a0JDUFkzS1FJRHltU2ZaNV9nV0dGaERUSHA0a2tn?oc=5)
 - **Google News Markets** (Thu, 09 Jul 2026 19:54:49 GMT): High priority | [Dow Jones, Nasdaq, US Stock Market Today LIVE Updates: Check Latest Move in Futures, S&P and Nasdaq Jumps as Semiconductor Shares Surge, Crude Oil Fall & Bitcoin Crash | Why Are Stocks Up Today - The Sunday Guardian](https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSmJyX2xmQUh6UGNGdUpyYWh0UDVZdFhKWVc1VUQwTUhLbXZKa3RwSXR4ZElWcEUzS3RQVXdDZGRlc1dlMGVmc2tRbzd1TEFMZXZvRGREMjBNb01aeEota1cyRGpLcjdvTTlEWnRERFZ2X0JEeGN5Umo3QUkxVFlFODV0VjJJS0FuTl95WjFWQ29pa25LclB0SWh5YkRMby1ic3dQajJzWF90bnRrUEtMc0RkaVUwM2xZbkxDeFRvOVNJR0MxaE5YbFRybFRuU1Z1NGNIZTBJUURacVlaWHJ5N3BlZlJXSmxTeEVHbDE3NHl1NXRRSzNFMlNlcE55SnhyTVROblRFV1RWMjh0NE40LU84MUl5QzVhQVJNSlduQjhxWEpXdzBGWTN5OTBTbWFfTHQ4WGxZUnU0cEI4aUEwQ0pWQUdkNHVIZ2RWVDU2bHrSAdYCQVVfeXFMTkdOSjVTVWQ2Qk1sQmlDanB2TktJQnFFOTJJdHNWRlpyMFVPbU11N1YteGdsRzNHWmZFeFRMN3lrZGMwUlYtamFPRUJGaHJrVUw0dWJXMVh0R0VsQnk1d3JpVFNOSFNFNDN4WG8zbUxfSUpCYzZfNDl1akdVbGUtaXQ1S3ZKbVdMbEdCSkItREtBZFpDSzRMRmFHRmRMMGFQa0J2bkNEWkE1bUVzOUxveU1BVHJPZGJIYzRIM05LcTVvZ3VqSG4zQ1BKVTZBUGJxck1xa2R3VTVmQzBXZDdBdF9UVHJLOUhmN1Bpc2psUVFhU0lxME5KcDZlS1ExZG9rRGFMTUdjX1lJN3c2TGl0ZU5ZLV8zak1LU1JlelJyOUZOVnNIcHNsZU5QS3N1eFQ5ZWJHckJxalVKYXJzR1VyT2JBb1FHSFEzRFhTREs0THV5R05oN3pR?oc=5)
 - **Federal Reserve** (Wed, 8 Jul 2026 18:00:00 GMT): High priority | [Minutes of the Federal Open Market Committee, June 16-17, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm)
-- **MarketWatch Top Stories** (Fri, 10 Jul 2026 12:26:00 GMT): High priority | [The bar is high for S&P 500 earnings, but these as-yet-unrewarded sectors are where real surprises could be hiding](https://www.marketwatch.com/story/the-bar-is-high-for-s-p-500-earnings-but-these-as-yet-unrewarded-sectors-are-where-real-surprises-could-be-hiding-b79874d9?mod=mw_rss_topstories)
 - **Google News Markets** (Fri, 10 Jul 2026 12:46:38 GMT): High priority | [Chip rally, Fed task forces, Delta earnings and more in Morning Squawk - CNBC](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnZMcUs0UDhKZEYxU2lYWlU3QXFadVZsOXhWU0daQXEzVGlxek9HY2FMcjJZMGotQ1Ryck5OQXkxRHZkaS0tYkFVNXJ5ZnpLSDRldVY2X3lXM19hOHlWSXY2TGdVN3hTM1F3NkNpZEJnbE9pT3FSMzdfRUVIWHpNTE1pZnhZWld6c00w0gGQAUFVX3lxTE1ZLXUxNk1LbklGVnh2ekc0d2pCWXA1R2VLR2R1Tkd1SldWd0dTX3hjWDlfVnVvN1UtSVFBUVlmWjE2RjB6WHcwa3BFa1E0cHNSOHo3cVlRRkhJRWU3ZThMTDVaN01YUWdlb3lqZlhKT245cE1pVmhzTXkwZ18xTnJVTUxKdjJMejZXMzlzV1dfRA?oc=5)
 - **Google News Markets** (Fri, 10 Jul 2026 12:01:26 GMT): High priority | [The Federal Reserve Just Delivered Fantastic News for Crypto Investors. Which Cryptos Should You Buy? - AOL.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFNhcE9ycUY1MDlRY1NOMzl3anRpSG5ETDNhcUN5dFpvS2ZBLVZMWUF4U1dQSG5GcVViaFRXeE1mb0hNWWlhRjRwMlJISkhHcXV1MlpnOGVFOFVmeWxUVUtmMlNWMEtqcU1RbFZCanJaOEp4NFJYekg4RGpsUWpOUGgtbmRLLTVt?oc=5)
 - **Google News Markets** (Fri, 10 Jul 2026 11:37:16 GMT): High priority | [Federal Reserve Interest Rate Decision July 2026: Market Impact Analysis - Intellectia AI](https://news.google.com/rss/articles/CBMifkFVX3lxTE41eXR6MzZmTEVfNzlNcjk5NWROSFp4ZzJPZS1UVVFUNXhLRnRlWHhNYml1MURvaUtvcGZLU094LVZiaVl6QVEtSkhRYXo0NUg3eGk0SmlldEx5TnJ6Uk93VFBSVnZGVE9tVlFIYWQ4T3BvSzRWaFdLdTZ5d3g4UQ?oc=5)
+- **Google News Markets** (Fri, 10 Jul 2026 11:05:00 GMT): High priority | [Wall Street’s week ahead: Investors to grapple with packed week of earnings, CPI, Iran headlines - The Globe and Mail](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXZwZFBoNkNLQnN6VTdhRVg1cDFRejdja19pRzRIMU5RdlctNTYxSlRxUjBvVURuaUFTamxmUFAxYTdGR3NIa3JCUnliZzlYdjhxTE5ueUlzeGtvRThRMTlXMFRMaXZmeTlzcXhyREFXUEVleUJqYlhRdkp0S2k0X2pFTDMzZFExZjNuVmVhWDdSU2ZSWnhuUzNyaDBycVp0U05CQk54ZEJCX2E0ZDFxR0F2b3RaUzBjUThVa1lMR3RKUWs?oc=5)
 
 ## 5. Economic Calendar
 
