@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-10
 
-_Generated: 2026-07-10 05:55:12 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-10 06:07:46 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -25,6 +25,52 @@ _Generated: 2026-07-10 05:55:12 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:07 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:07 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CRCL](https://finance.yahoo.com/quote/CRCL/)** | Circle Internet Group, Inc. | $70.91 | +7.90 | +12.54% | 3,969,250 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $12.61 | -0.29 | -2.25% | 1,939,414 |
+| **[FRMI](https://finance.yahoo.com/quote/FRMI/)** | Fermi Inc. | $6.20 | -1.12 | -15.34% | 1,816,359 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $109.45 | -3.09 | -2.75% | 1,487,003 |
+| **[JLHL](https://finance.yahoo.com/quote/JLHL/)** | Julong Holding Limited | $17.72 | +4.93 | +38.55% | 1,107,642 |
+| **[META](https://finance.yahoo.com/quote/META/)** | Meta Platforms, Inc. | $656.48 | +25.00 | +3.96% | 1,029,032 |
+| **[MU](https://finance.yahoo.com/quote/MU/)** | Micron Technology, Inc. | $971.65 | -19.99 | -2.02% | 817,792 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $201.58 | -1.20 | -0.59% | 807,196 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[JLHL](https://finance.yahoo.com/quote/JLHL/)** | Julong Holding Limited | $17.72 | +4.93 | +38.55% | 1,107,642 |
+| **[WDFC](https://finance.yahoo.com/quote/WDFC/)** | WD-40 Company | $277.00 | +37.58 | +15.70% | 8,643 |
+| **[CRCL](https://finance.yahoo.com/quote/CRCL/)** | Circle Internet Group, Inc. | $70.91 | +7.90 | +12.54% | 3,969,250 |
+| **[VOD](https://finance.yahoo.com/quote/VOD/)** | Vodafone Group Plc | $14.72 | +1.64 | +12.54% | 356,982 |
+| **[CUE](https://finance.yahoo.com/quote/CUE/)** | Cue Biopharma, Inc. | $40.83 | +4.32 | +11.83% | 5,993 |
+| **[CCC](https://finance.yahoo.com/quote/CCC/)** | CCC Intelligent Solutions Holdings Inc. | $5.99 | +0.61 | +11.34% | 46,082 |
+| **[PNTG](https://finance.yahoo.com/quote/PNTG/)** | The Pennant Group, Inc. | $45.00 | +4.54 | +11.22% | 100 |
+| **[EQPT](https://finance.yahoo.com/quote/EQPT/)** | EquipmentShare.com Inc | $17.52 | +1.52 | +9.50% | 202,306 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[FRMI](https://finance.yahoo.com/quote/FRMI/)** | Fermi Inc. | $6.20 | -1.12 | -15.34% | 1,816,359 |
+| **[PENN](https://finance.yahoo.com/quote/PENN/)** | PENN Entertainment, Inc. | $19.50 | -1.19 | -5.75% | 286 |
+| **[TLX](https://finance.yahoo.com/quote/TLX/)** | Telix Pharmaceuticals Limited | $11.14 | -0.64 | -5.46% | 2,622 |
+| **[LOVE](https://finance.yahoo.com/quote/LOVE/)** | The Lovesac Company | $16.17 | -0.89 | -5.21% | 100 |
+| **[BKD](https://finance.yahoo.com/quote/BKD/)** | Brookdale Senior Living Inc. | $14.50 | -0.78 | -5.10% | 33,702 |
+| **[FAC](https://finance.yahoo.com/quote/FAC/)** | Factorial Energy Inc. | $9.31 | -0.45 | -4.61% | 2,147 |
+| **[WYY](https://finance.yahoo.com/quote/WYY/)** | WidePoint Corporation | $12.55 | -0.56 | -4.27% | 1,033 |
+| **[SXT](https://finance.yahoo.com/quote/SXT/)** | Sensient Technologies Corporation | $115.40 | -4.58 | -3.82% | 1,883 |
+
+Source health:
+- NYSE calendar 2026-07-10: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 8 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 8 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 8 rows with market cap at or above $100M and price at or above $5
 
 ### 5:55 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 8:55 AM ET.
@@ -82,10 +128,10 @@ Source health:
 - **Google News Markets** (Thu, 09 Jul 2026 19:54:49 GMT): High priority | [Dow Jones, Nasdaq, US Stock Market Today LIVE Updates: Check Latest Move in Futures, S&P and Nasdaq Jumps as Semiconductor Shares Surge, Crude Oil Fall & Bitcoin Crash | Why Are Stocks Up Today - The Sunday Guardian](https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSmJyX2xmQUh6UGNGdUpyYWh0UDVZdFhKWVc1VUQwTUhLbXZKa3RwSXR4ZElWcEUzS3RQVXdDZGRlc1dlMGVmc2tRbzd1TEFMZXZvRGREMjBNb01aeEota1cyRGpLcjdvTTlEWnRERFZ2X0JEeGN5Umo3QUkxVFlFODV0VjJJS0FuTl95WjFWQ29pa25LclB0SWh5YkRMby1ic3dQajJzWF90bnRrUEtMc0RkaVUwM2xZbkxDeFRvOVNJR0MxaE5YbFRybFRuU1Z1NGNIZTBJUURacVlaWHJ5N3BlZlJXSmxTeEVHbDE3NHl1NXRRSzNFMlNlcE55SnhyTVROblRFV1RWMjh0NE40LU84MUl5QzVhQVJNSlduQjhxWEpXdzBGWTN5OTBTbWFfTHQ4WGxZUnU0cEI4aUEwQ0pWQUdkNHVIZ2RWVDU2bHrSAdYCQVVfeXFMTkdOSjVTVWQ2Qk1sQmlDanB2TktJQnFFOTJJdHNWRlpyMFVPbU11N1YteGdsRzNHWmZFeFRMN3lrZGMwUlYtamFPRUJGaHJrVUw0dWJXMVh0R0VsQnk1d3JpVFNOSFNFNDN4WG8zbUxfSUpCYzZfNDl1akdVbGUtaXQ1S3ZKbVdMbEdCSkItREtBZFpDSzRMRmFHRmRMMGFQa0J2bkNEWkE1bUVzOUxveU1BVHJPZGJIYzRIM05LcTVvZ3VqSG4zQ1BKVTZBUGJxck1xa2R3VTVmQzBXZDdBdF9UVHJLOUhmN1Bpc2psUVFhU0lxME5KcDZlS1ExZG9rRGFMTUdjX1lJN3c2TGl0ZU5ZLV8zak1LU1JlelJyOUZOVnNIcHNsZU5QS3N1eFQ5ZWJHckJxalVKYXJzR1VyT2JBb1FHSFEzRFhTREs0THV5R05oN3pR?oc=5)
 - **Federal Reserve** (Wed, 8 Jul 2026 18:00:00 GMT): High priority | [Minutes of the Federal Open Market Committee, June 16-17, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm)
 - **MarketWatch Top Stories** (Fri, 10 Jul 2026 12:26:00 GMT): High priority | [The bar is high for S&P 500 earnings, but these as-yet-unrewarded sectors are where real surprises could be hiding](https://www.marketwatch.com/story/the-bar-is-high-for-s-p-500-earnings-but-these-as-yet-unrewarded-sectors-are-where-real-surprises-could-be-hiding-b79874d9?mod=mw_rss_topstories)
+- **Google News Markets** (Fri, 10 Jul 2026 12:46:38 GMT): High priority | [Chip rally, Fed task forces, Delta earnings and more in Morning Squawk - CNBC](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnZMcUs0UDhKZEYxU2lYWlU3QXFadVZsOXhWU0daQXEzVGlxek9HY2FMcjJZMGotQ1Ryck5OQXkxRHZkaS0tYkFVNXJ5ZnpLSDRldVY2X3lXM19hOHlWSXY2TGdVN3hTM1F3NkNpZEJnbE9pT3FSMzdfRUVIWHpNTE1pZnhZWld6c00w0gGQAUFVX3lxTE1ZLXUxNk1LbklGVnh2ekc0d2pCWXA1R2VLR2R1Tkd1SldWd0dTX3hjWDlfVnVvN1UtSVFBUVlmWjE2RjB6WHcwa3BFa1E0cHNSOHo3cVlRRkhJRWU3ZThMTDVaN01YUWdlb3lqZlhKT245cE1pVmhzTXkwZ18xTnJVTUxKdjJMejZXMzlzV1dfRA?oc=5)
 - **Google News Markets** (Fri, 10 Jul 2026 11:37:16 GMT): High priority | [Federal Reserve Interest Rate Decision July 2026: Market Impact Analysis - Intellectia AI](https://news.google.com/rss/articles/CBMifkFVX3lxTE41eXR6MzZmTEVfNzlNcjk5NWROSFp4ZzJPZS1UVVFUNXhLRnRlWHhNYml1MURvaUtvcGZLU094LVZiaVl6QVEtSkhRYXo0NUg3eGk0SmlldEx5TnJ6Uk93VFBSVnZGVE9tVlFIYWQ4T3BvSzRWaFdLdTZ5d3g4UQ?oc=5)
+- **Google News Markets** (Fri, 10 Jul 2026 11:05:00 GMT): High priority | [Wall Street’s week ahead: Investors to grapple with packed week of earnings, CPI, Iran headlines - The Globe and Mail](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXZwZFBoNkNLQnN6VTdhRVg1cDFRejdja19pRzRIMU5RdlctNTYxSlRxUjBvVURuaUFTamxmUFAxYTdGR3NIa3JCUnliZzlYdjhxTE5ueUlzeGtvRThRMTlXMFRMaXZmeTlzcXhyREFXUEVleUJqYlhRdkp0S2k0X2pFTDMzZFExZjNuVmVhWDdSU2ZSWnhuUzNyaDBycVp0U05CQk54ZEJCX2E0ZDFxR0F2b3RaUzBjUThVa1lMR3RKUWs?oc=5)
 - **Google News Markets** (Fri, 10 Jul 2026 10:41:54 GMT): High priority | [Delta Air Lines earnings and guidance beat expectations, shares slide - Investing.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnEyMVI3NlVoSUpmeTlmaXFYMUFiYnJfQzdGaFEyWWJwR3VFRHdkMmROVV9vUjZUWkxiNmhUZm1vSUFJV0FxTE8tYy1HdzFXZGl4SUN2MnRTbkloQloxZVkwRU0zYWdVZC1HcDNlaktCU0xlU24xOV93c1lmODIzVGhpRTBTVWVMN1FxZ09SVTgxSFFCMXpXNERydDVrSDFSTGQ5OTZCbnBGUW1GbmRWcERITHQ4UTU2M1VQVHNIVQ?oc=5)
-- **Google News Markets** (Fri, 10 Jul 2026 10:24:41 GMT): High priority | [Wall St Week Ahead Investors to grapple with packed week of earnings, CPI, Iran headlines - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjJOeUlsWVliM0doZUlfUDdXVjA5OXpjUDdPNjlFXzFzRGZKcDhhaDVGZFNDc3RRM3QwLVdWdTdaaXJZN0NfRUhjQWkxSzBVZlBMd1l1dlZpVVVOOEFfbWVmUzVYMFlZZGpCWENSR3FRVGNPZjhXcU96VTY3b1hjTk45ZWMwRnR3RVRsRG5UR1ZqdU5RLWhhWWtnWVBjeGk4YTg3c294YjdUVkVqWS1WY3dNWnpCalBERVZQbkRIdw?oc=5)
-- **Google News Markets** (Thu, 09 Jul 2026 18:24:40 GMT): High priority | [SK Hynix 7X Oversubscription Boosts Semi Stocks; Earnings Season Ahead; Oil Pulls Back After Iran Attacks - Benzinga](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2ppN3JkeG84NUprSXh1RnpYQTRFcGVrcHFhMXhwemU1TEFiYnpPZGR1MVZFN0ZTVFBHZm8wWW8tXzFEN3F2TFA0Tzd1OUhvVEVKQ2ZPVGoxZ3BBZ1FMSnFzYjVQVWpod1UyRk5SSjh2UVJxM2lGRlRGUVhfWjRuMnFMakM0VmFpeWVKczZFNGxyZ2NKRzliMThDWXJ2YWI3WmN5NVptYjFuMHZYVUpncV9GY3BiTzVmRk5faGtkRTNqNV9LWHR0MkJGTmhKZzE3SzRaSzBpcXc4c2VwVjBHRUZ4SzFZUQ?oc=5)
 
 ## 5. Economic Calendar
 
