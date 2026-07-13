@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-13
 
-_Generated: 2026-07-13 05:55:11 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-13 06:08:08 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -31,6 +31,52 @@ _Generated: 2026-07-13 05:55:11 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:08 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:07 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[AGEN](https://finance.yahoo.com/quote/AGEN/)** | Agenus Inc. | $5.20 | +1.85 | +55.21% | 35,511,339 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $12.25 | -0.19 | -1.53% | 4,787,824 |
+| **[QTTB](https://finance.yahoo.com/quote/QTTB/)** | Q32 Bio Inc. | $19.24 | +8.03 | +71.62% | 4,454,114 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $19.33 | +0.55 | +2.93% | 2,451,624 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $207.85 | -3.11 | -1.47% | 1,678,908 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $106.20 | -3.64 | -3.31% | 1,207,041 |
+| **[MU](https://finance.yahoo.com/quote/MU/)** | Micron Technology, Inc. | $924.69 | -54.61 | -5.58% | 1,059,714 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp | $143.56 | -1.74 | -1.20% | 962,578 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[QTTB](https://finance.yahoo.com/quote/QTTB/)** | Q32 Bio Inc. | $19.24 | +8.03 | +71.62% | 4,454,114 |
+| **[AGEN](https://finance.yahoo.com/quote/AGEN/)** | Agenus Inc. | $5.20 | +1.85 | +55.21% | 35,511,339 |
+| **[NEE/PS](https://finance.yahoo.com/quote/NEE%2FPS/)** | NextEra Energy, Inc. 7.299% Corporate | $80.00 | +26.29 | +48.95% | 2,400 |
+| **[BRAI](https://finance.yahoo.com/quote/BRAI/)** | Braiin Limited | $6.23 | +0.72 | +12.96% | 30,222 |
+| **[EIKN](https://finance.yahoo.com/quote/EIKN/)** | Eikon Therapeutics, Inc. | $11.59 | +1.01 | +9.55% | 2,907 |
+| **[TCBK](https://finance.yahoo.com/quote/TCBK/)** | TriCo Bancshares | $57.45 | +3.81 | +7.10% | 10,024 |
+| **[BSET](https://finance.yahoo.com/quote/BSET/)** | Bassett Furniture Industries, Incorporated | $22.28 | +1.42 | +6.79% | 669 |
+| **[PRE](https://finance.yahoo.com/quote/PRE/)** | Prenetics Global Limited | $18.99 | +1.13 | +6.32% | 1,620 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BH.A](https://finance.yahoo.com/quote/BH.A/)** | Biglari Holdings Inc. | $1,211.80 | -691.10 | -36.32% | 10 |
+| **[JLHL](https://finance.yahoo.com/quote/JLHL/)** | Julong Holding Limited | $8.60 | -3.13 | -26.68% | 280,865 |
+| **[TYOYY](https://finance.yahoo.com/quote/TYOYY/)** | Taiyo Yuden Co. Ltd. | $304.25 | -64.04 | -17.39% | 8 |
+| **[STRS](https://finance.yahoo.com/quote/STRS/)** | Stratus Properties Inc. | $21.98 | -4.07 | -15.62% | 1,115 |
+| **[KXIAY](https://finance.yahoo.com/quote/KXIAY/)** | KIOXIA HLDGS CORP | $41.48 | -7.27 | -14.91% | 11,253 |
+| **[MRAAF](https://finance.yahoo.com/quote/MRAAF/)** | Murata Manufacturing Inc. | $55.95 | -6.24 | -10.03% | 31 |
+| **[ZSQR](https://finance.yahoo.com/quote/ZSQR/)** | Z Squared Inc. | $7.71 | -0.85 | -9.94% | 300 |
+| **[FIZZ](https://finance.yahoo.com/quote/FIZZ/)** | National Beverage Corp. | $30.50 | -3.32 | -9.82% | 691 |
+
+Source health:
+- NYSE calendar 2026-07-13: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 8 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 8 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 8 rows with market cap at or above $100M and price at or above $5
 
 ### 5:55 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 8:55 AM ET.
@@ -80,18 +126,16 @@ Source health:
 
 ## 4. Latest Market News
 
-- **Google News Markets** (Mon, 13 Jul 2026 12:51:00 GMT): High priority | [US Stock Market Prediction Today (July 13): Dow, S&P 500 & Nasdaq Futures Fall as US-Iran Conflict Escalates, Oil Prices Surge Near $80, and Investors Await CPI, PPI Data & Big Bank Earnings - The Sunday Guardian](https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdU5NQkFiTUd0Nml4ZV9sOVk2T2d5WkRLbjVndnhMeExCSFdRZGozWFBraGtjd1JUa2FqVTJrN0hmRUxnUFp0NkhYb1hja1hkVVJabk0yWnF5VEVRTzNuQ280LTl1YUd5UVdmTDBfUGlPUy1Ic1IwbFJyakRweWhoTk9DRVN2Yl9UOFFmY3dKQ3cycTJ3WnEzSmFKYy1sTWQ0OHZiaVVTNWNfZFJibVkzZ2hlQno2ZkJfTGlBUTdwY2d5LXdvdERVZXFYWFd6NHVCTDVad21sVGJGRVVMR19GeHhxTnJJa2JoZVdqcENVbnNaOVRpM1RXclhuS090MGZfTjZzUHpoTlBKcVFkSVFNZHZGMmZWdE03QWxFZFpEWEhfTXd2eXl4NTRual9qckt3VnhmSWlTOGRuakZlUFI1dlpGQmlUeU5p0gHOAkFVX3lxTE4yWEgxWnIyQ3ZHdVFyVTVZODJ2QTE0SkYyQnR5Znl2RXNhQXhNdWphOU1FRWYtVUJodzhSWEpuSDhBb3pZRlV2SDBraXNMV040c2NuRkEydlZHcmZLdHRWcUVDS2lDSXN3X3N0N1ozQkE2MXNIbG5SVWliRnRjX252TTdtTEtzb19uN185Z3RmSWtYZmxvN0RsT2NBQnBIUUFaNzY5VUtwbnZKSjhCVjQ2RTVxMDhWQXlHQXZEb0gtQkpILUN0R1d6SnBkakdsSHJ6QXhFTmxGMVNkcndFbmkwWnN3enQzQ1Z5OE9NOFltNkhla0JxZ3lRdFk2MWk0clN3dVl3SG5CczFZaGxNRDRDNVQ1dUd3Tmhpb1hoVWcyZUprTjVSbXpZcndiS0d5dEVhUVdBQmZBeEw1YUY4X2Z0SlA0UlRvNU1mcTdIQ2c?oc=5)
-- **Google News Markets** (Mon, 13 Jul 2026 10:35:00 GMT): High priority | [Markets Face Inflation, Oil, Fed Volatility This Week—Earnings Are Make or Break and 5 Other Things to Know Today - Barron's](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTzdRdEpYWlBkWHVnUERUamppbXZWdDRud2hTYVVSRmp3MUd4eG9zNlBvOFVDTUEtektwcmMtZVl3bHMtOXduZzZpSmNDQUZCcmtNbHFxQnFURXdYLTR6cHNMNDZIMHdhenVLN3VhM1FtRmdoZmxDSzBVYTFzcHRjdlU5UEd1RUZNbE85T0lB?oc=5)
-- **Google News Markets** (Mon, 13 Jul 2026 07:44:52 GMT): High priority | [AI bull market reaches a critical juncture! Earnings, CPI, and Fed Chair testimony converge—what’s next for semiconductors? JPMorgan remains bullish on memory, manufacturing equipment, and AI accelerators - Moomoo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVJQaXlQZWliMG81UDlLdFN5Z2FPRVVlOGtRS3o4blVkOXQ3OV9GbjFPYXB4dEtUczhIYkFxd0dueEFRY3ZzMmhtOTNCYjY1dndObG1hNzhTekFZbnYtc212R011dkFXdGQ4cXBhdjctMDhRaXo3UUNBNnR5bE1LQUhzSHF4eXJFUGctSzZJRUVMQWllaldFODl4VlVpcVBTanMxR0tSR2duZw?oc=5)
-- **Google News Markets** (Sun, 12 Jul 2026 17:29:15 GMT): High priority | [US Stock Market Week Ahead: CPI, Bank Earnings and the Fed Converge in a 90-Minute Tuesday Test - TechStock²](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUQxR2xIbnVtT0Z4T09XSVJjR0FSWU1lM0xJUkJrOWt4UXlDUTl1a2dTYkRmLXg0Vmd3ekxaalp3NVhCTnY3WkNJOXo5cWtxcWFtLVloekVmWHhuY3poTnI4bG1PX001dXg3UDdxQ0c3aUNnT1FoQWZMN0pia3Q5Wnc4M0pkc3Jtd0hWRTB2YlhnMkh5endNVkhXV2dIVnNueS1oVEFodkwyT2lWMHpfM0lVZW4?oc=5)
 - **MarketWatch Top Stories** (Mon, 13 Jul 2026 10:38:00 GMT): High priority | [These biggest and ‘least loved’ stocks are the ones to pick ahead of earnings](https://www.marketwatch.com/story/these-biggest-and-least-loved-stocks-are-the-ones-to-pick-ahead-of-earnings-f7f012e3?mod=mw_rss_topstories)
-- **Google News Markets** (Mon, 13 Jul 2026 12:12:00 GMT): High priority | [Dow Jones Futures: Techs Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Taiwan Semi, Nvidia, Micron, Sandisk - Investor's Business Daily](https://news.google.com/rss/articles/CBMi0AFBVV95cUxORU9feGs2S085SEFuY29nazFKXzBHU0hjVDlBMmNzTXREN25hTEEzcXlzR2tiRTEwNVQyMDloQk5mNkxYTFlSeXI1ZmlhSW5hMWNYbFBkbjJPdUI3ZF9Ya0tuSENUVGhHNG5NSnFGQ1hYMk90ZDltNlo0c0M3QmY1X2ozNkVXYlNZZDJhY0RJeTZKN3FZUzZsb3diekV3b0dPZWl5dmhodm9LUDVZMmFYM01UVXhpVDJqdXNNalYyVzNyUlRLMGpyRjRPYXFyRXdM?oc=5)
-- **Google News Markets** (Mon, 13 Jul 2026 11:26:07 GMT): High priority | [Dow Jones futures: Big earnings due as market sets up; Nvidia, Micron, SanDisk, Robinhood, SpaceX in focus - MSN](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQemJfekphR1Ridi1mZ0dSSHMxTXR4ZEtYdmhnZGFobjNvdUxmYVhKZlByMExXbHBwUWlfenllV2gtYndOVWhOOFAtc0pxVkoxNHB6TEFicHEtUmtLVDZIWVBSMXM0S01DMks4dGhpTWV0VDE3U1NHU2k2Qmkwc0dDVVdDWUtiTThfY2hLV1lCTUhlYVJYTlZsNzY0aTR2NWptSjJEMHBuVnNlXzcxei1mOXd1Zndla2M5RGdudGpiQW9oQlRaQ1U0OVJvNmNXNFJjZWF2TFZzMDJWVTkzTkJCeTZ2eF9lUjZWZ09F?oc=5)
-- **Google News Markets** (Mon, 13 Jul 2026 10:20:10 GMT): High priority | [Equities in Focus: Earnings Season and Fed Signals Drive Market Sentiment, Says Deutsche Bank - Bitcoin World](https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZWVVX1BFLUNFakVORmJRbU8zc3F3eHJISi1MX0tKT01HM2E4WUNXZ0pJb1JwRTBBWDlHaTRBVGRSRzhvbUkwb0dfSTVEajdzOUY2b3pGWENZZ0RBeURhZzBiTm1GWWp0VC04cUIzbUV0N1dqUVV6amlaRQ?oc=5)
-- **Google News Markets** (Mon, 13 Jul 2026 09:41:47 GMT): High priority | [Stock Market News Today, 7/13/26 – Futures Waver as U.S.-Iran Tensions Rise; Earnings and CPI in Focus - TipRanks](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkI4VEVPdDgzYW9WQkRESmxQOXE5bWwyM1ZsMGluUndSWVVSNlFQX3RrTUk3c0wxbWx3cXVzeXpibk9TYkJqa01udTRmbGUtLVhCTXhfUEJGWk45aHhpSGtYMTFJdndpVE00NDl3Ukk4T3VLdkh5ZE45TGZ4LXpKWTN3c016YTBqaWx1QXhLWUZKY3dkejIzRVNyaXFLME02VDNSMGpMc1JHSEdYZnY0V2ZQODdGNFBKUUluSVVYd3ZaZHIzUnc?oc=5)
-- **Google News Markets** (Mon, 13 Jul 2026 09:25:34 GMT): High priority | [SK Hynix’s shares slump in Seoul despite blockbuster Nasdaq ADR debut amid weaker Q2 earnings forecasts - The Korea Economic Daily Global Edition](https://news.google.com/rss/articles/CBMid0FVX3lxTE82akZORXNPRGJkWGtjdDNlZ2dFaktmSVBVODMweFJkQlVlNmt3Q2FnM0VHdnRsWWh4QU4tN2NaUWFnMGJNZWdBNHlVWVVRelJtdTQ2OGl6cnFoMFZwaWxVMnp0d2tfNUJ2Mzk2SDRNbEpqSzlqUk1r?oc=5)
-- **Google News Markets** (Mon, 13 Jul 2026 07:37:24 GMT): High priority | [US Stock Market: Inflation gathers pace as tariffs, energy costs and AI investment lift price pressures, says Fed - inkl](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1BtWllBVGwzM293UkVRRGpKYk1zczE5eDRHRkxISUJJTXhYdmxCRU8tSVJ3RlVEVi00UkNEQTROQjlSQjdTbUZ1TXpqUzBpWnJOcnFQY0pKd1Zuai1STlpEZDZENmJYZEIySEtEWXkyOGtiTGFZRDFPWXJFa19xLUstY3FXWTV0OGZnaFJRU0R4YUJiNzMzNjZRNDIwOXJaV0RaYTZtMExuQWlMSS1GVXd6bC1HQzAwc21GYUFZR0JrYVNEbkUyaHpSTklzN1p1R2c?oc=5)
-- **Google News Markets** (Mon, 13 Jul 2026 05:20:01 GMT): High priority | [US Equities Finish Higher as Eyes Shift to Earnings Season and CPI - ig.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVFZN25NUHZYN190RS1QcDF3Rjc4eFgyQ2tsMGp4WDZfUzdiS2RVY3ZKY3JuRW1laDJVaTZ5dkVKVWJ0Y3JBQ3htaTlHdi1XQU5jR3NZM2FDY1dJWmN0aTR4QXVyWVR1SkxESWZMUWYzTkxYYVhqUF9kVWZyaERhMnllekVvWl9telZXQ1NlTHNyNFk4bE5YYzRDTWlPYWtEY0poLV9wZTdwdTRCM2phSmRsNW4?oc=5)
+- **MarketWatch Top Stories** (Mon, 13 Jul 2026 11:55:00 GMT): [ASML is kicking off tech earnings. Here’s what to expect from Europe’s biggest semiconductor supplier.](https://www.marketwatch.com/story/asml-is-kicking-off-tech-earnings-heres-what-to-expect-from-europes-biggest-semiconductor-supplier-378e3cba?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 13 Jul 2026 11:46:00 GMT): [A Fed interest-rate hike could trigger a short-term stock selloff, but history points to a big silver lining](https://www.marketwatch.com/story/a-fed-interest-rate-hike-could-trigger-a-short-term-stock-selloff-but-history-points-to-a-big-silver-lining-29f8c9e2?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 13 Jul 2026 10:49:00 GMT): [Why Citigroup is the one to watch when banks report earnings this week](https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 13 Jul 2026 09:27:00 GMT): [Oil prices surge as much as 5% after Iran declares Strait of Hormuz is closed](https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 13 Jul 2026 12:40:00 GMT): [The No. 1 decision for aging retirees: Stay at home or move into a senior community?](https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 13 Jul 2026 12:30:00 GMT): [‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?](https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 13 Jul 2026 12:00:00 GMT): [‘I’d hate to end up with an unexpected tax bill’: I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?](https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 13 Jul 2026 12:00:00 GMT): [My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?](https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Mon, 13 Jul 2026 10:15:00 GMT): [I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?](https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories)
 
 ## 5. Economic Calendar
 
@@ -114,7 +158,7 @@ Source health:
 - TradingView Premarket Gainers: ok - 8 rows with market cap at or above $100M and price at or above $5
 - TradingView Premarket Losers: ok - 8 rows with market cap at or above $100M and price at or above $5
 - MarketWatch Top Stories: ok
-- Google News Markets: ok
+- Google News Markets: unavailable - 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(stock%20market%20OR%20Federal%20Reserve%20OR%20earnings)%20when:1d&hl=en-US&gl=US&ceid=US:en
 - Federal Reserve: ok
 - Nasdaq economic calendar 2026-07-13: ok
 - Census economic indicators: ok
