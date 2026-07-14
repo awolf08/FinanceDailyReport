@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-14
 
-_Generated: 2026-07-14 05:55:11 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-14 06:06:55 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -27,6 +27,52 @@ _Generated: 2026-07-14 05:55:11 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:06 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:06 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CLSK](https://finance.yahoo.com/quote/CLSK/)** | CleanSpark, Inc. | $14.80 | +2.44 | +19.74% | 4,490,545 |
+| **[IBM](https://finance.yahoo.com/quote/IBM/)** | International Business Machines Corporation | $226.40 | -63.83 | -21.99% | 3,409,259 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $107.72 | +4.60 | +4.46% | 2,614,291 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $11.98 | +0.29 | +2.48% | 2,377,852 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $207.20 | +3.67 | +1.80% | 1,890,833 |
+| **[ORCL](https://finance.yahoo.com/quote/ORCL/)** | Oracle Corporation | $130.29 | -1.25 | -0.95% | 1,793,042 |
+| **[SKHY](https://finance.yahoo.com/quote/SKHY/)** | SK hynix Inc. | $164.53 | +12.18 | +7.99% | 1,595,602 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $18.31 | +0.18 | +1.01% | 1,539,408 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CLSK](https://finance.yahoo.com/quote/CLSK/)** | CleanSpark, Inc. | $14.80 | +2.44 | +19.74% | 4,490,545 |
+| **[TSEM](https://finance.yahoo.com/quote/TSEM/)** | Tower Semiconductor Ltd. | $274.18 | +44.50 | +19.37% | 97,159 |
+| **[SMTC](https://finance.yahoo.com/quote/SMTC/)** | Semtech Corporation | $148.00 | +15.85 | +11.99% | 92,823 |
+| **[FCEL](https://finance.yahoo.com/quote/FCEL/)** | FuelCell Energy, Inc. | $21.01 | +1.93 | +10.14% | 355,241 |
+| **[AXTI](https://finance.yahoo.com/quote/AXTI/)** | AXT Inc | $55.24 | +4.78 | +9.47% | 410,634 |
+| **[SHAZ](https://finance.yahoo.com/quote/SHAZ/)** | SharonAI Holdings, Inc. | $74.35 | +6.09 | +8.92% | 55,857 |
+| **[ODTX](https://finance.yahoo.com/quote/ODTX/)** | Odyssey Therapeutics, Inc. | $19.15 | +1.54 | +8.75% | 100 |
+| **[SFTBY](https://finance.yahoo.com/quote/SFTBY/)** | Softbank Group Corp | $20.47 | +1.62 | +8.59% | 3,832 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[IBM](https://finance.yahoo.com/quote/IBM/)** | International Business Machines Corporation | $226.40 | -63.83 | -21.99% | 3,409,259 |
+| **[ABDDF](https://finance.yahoo.com/quote/ABDDF/)** | Ab Dynamics PLC | $14.06 | -2.12 | -13.08% | 6,117 |
+| **[VERX](https://finance.yahoo.com/quote/VERX/)** | Vertex, Inc. | $11.61 | -1.37 | -10.54% | 4,629 |
+| **[WDAY](https://finance.yahoo.com/quote/WDAY/)** | Workday, Inc. | $131.49 | -13.38 | -9.24% | 84,405 |
+| **[HCA](https://finance.yahoo.com/quote/HCA/)** | HCA Healthcare, Inc. | $355.00 | -35.74 | -9.15% | 73,096 |
+| **[TEAM](https://finance.yahoo.com/quote/TEAM/)** | Atlassian Corporation | $87.79 | -8.37 | -8.70% | 112,424 |
+| **[ERIC](https://finance.yahoo.com/quote/ERIC/)** | Ericsson | $10.70 | -1.02 | -8.70% | 1,534,247 |
+| **[BL](https://finance.yahoo.com/quote/BL/)** | BlackLine, Inc. | $27.50 | -2.59 | -8.61% | 781 |
+
+Source health:
+- NYSE calendar 2026-07-14: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 8 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 8 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 8 rows with market cap at or above $100M and price at or above $5
 
 ### 5:55 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 8:55 AM ET.
@@ -85,7 +131,7 @@ Source health:
 - **Google News Markets** (Tue, 14 Jul 2026 09:51:16 GMT): High priority | [Stock Market News Today, 7/14/26 – Futures Wobble Ahead of Inflation Report and Bank Earnings - TipRanks](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjhGckpSSENNa0NFb0N2Z3VKRnNxMEZvS095Z05CX0FlVEpKcW1BUmxOeHljRzhYRWZBSDNXSGI4Z3dwNGZVMzhSdHNoQ2lQNXllTmlEZ1hjb1NlX2lTQkU5Rnd6dF93NDV0cE5IMk1CbXRLdkFValg5MUZTYldCTzE3X1pYNE1MMEtBRllscVNQSjRfS2FPTDAwSV9NZndjd1JKRC01alVMY2Y0dXFaeEVsT2JMU1EwNTZxNQ?oc=5)
 - **Google News Markets** (Tue, 14 Jul 2026 08:05:07 GMT): High priority | [Stock Market News: Futures Mixed as Earnings and CPI Data Loom - Coinpaper](https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0Njb2VsVmdsRm9FUnR4Z1J2UkRMeE5EUTA1elQ4UnlrNjZNS1daeE43M29hbFRLbEJkSzNjLTE1RURZeHZyazBRS1V4VXo0cjN5eWNzVVh1dVMwNXh6UmpLMU1zT0RhQmRZanBGOVRveThobDdqQ2FRZ2dPTEN4SUp5TDVXMEYyV0dPT0Q2ZmtiUUU?oc=5)
 - **Google News Markets** (Tue, 14 Jul 2026 07:55:48 GMT): High priority | [Investors to grapple with packed week of earnings, CPI, Iran headlines - AOL.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTdWWXJKOW5FbjBDZk5kUUl0Rk84RkhpWk1oQzhIU1djUy02a0hkbjNpVnRtRjRJd2YteHFuRHpacnVrUzl4c2FsWklYNTROazNzVmJkVkxDcEJERUJoU1IzVEdzTXgwS184R3VhT1I4MzVCMlo4MVh1Yl83NmI3bTd5M2lTaVQ0cXc?oc=5)
-- **Google News Markets** (Tue, 14 Jul 2026 07:52:18 GMT): High priority | [US Stock Market Outlook July 2026: Navigating Fed Policy, AI Investment Boom, and Inflation Risks - Intellectia AI](https://news.google.com/rss/articles/CBMibkFVX3lxTFB5bVVDN1lGaV93b0dZRmRPcEZJNDJGRXE2X1BrWDBpRTE5aEJhOFRkU2hhOUxsYU1SUmJkamJnNm5yaGpmeEhqNUFtTklvU1pNQnFhNmdJVC1KNmh1d1prM0lwVk5YUGhlN1lYVjRn?oc=5)
+- **Google News Markets** (Tue, 14 Jul 2026 07:52:18 GMT): High priority | [US Stock Market Outlook July 2026: Fed Policy, AI Boom & Inflation Risks - Intellectia AI](https://news.google.com/rss/articles/CBMibkFVX3lxTFB5bVVDN1lGaV93b0dZRmRPcEZJNDJGRXE2X1BrWDBpRTE5aEJhOFRkU2hhOUxsYU1SUmJkamJnNm5yaGpmeEhqNUFtTklvU1pNQnFhNmdJVC1KNmh1d1prM0lwVk5YUGhlN1lYVjRn?oc=5)
 - **Google News Markets** (Tue, 14 Jul 2026 01:35:00 GMT): High priority | [The Federal Reserve has nearly a 50% chance of raising interest rates this month! Are global markets really panicking this time? - 富途牛牛](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVFBaGlfUGZKREJ6UWtwcjcyT1ZiZVROaEtIZUg0R25BQVd3SFZPX2UxX1BfWUtEWDFmRE90emhEWk1pT1lsRUpPa0QzRHpYN1E4X0J4YTJZZDJ6UmdzWERXdGxGZWZRQ1pXU0FONnVFa0R2aHU1T2dKUW9NMkVxbjdUbjRXWEl2dlk1TVRoeVE0Y0kzcVkzcXFB?oc=5)
 - **Google News Markets** (Mon, 13 Jul 2026 20:29:45 GMT): High priority | [Dow falls 138 points as Iran tensions hit chip stocks, lift oil prices - Invezz](https://news.google.com/rss/articles/CBMisAFBVV95cUxPLVlmemJmaVBueWRmV3FQVFllSjBoenphZjk4ZmQ1VkhMeFl5RGQ0TU9PT1F1ZlN5X2gxcWRXdnRzV055d2FtSFUtZm1jcVJWXzlYamJuOWdBVFBlVDlLSXMyVV9RZmRKSGlVMDVIbTMzTU96VlpaNzBoSjVyTF9BQzZHUng3RmgyTFR6bnJYV29UWHZmRlRfVGJBbWQ4UUFXU3RDVVBjQVhyRVBOcjJ3ZQ?oc=5)
 
