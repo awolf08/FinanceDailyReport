@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-14
 
-_Generated: 2026-07-14 06:55:24 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-14 09:55:15 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -27,6 +27,73 @@ _Generated: 2026-07-14 06:55:24 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 9:55 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 12:55 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SKHYV](https://finance.yahoo.com/quote/SKHYV/)** | SK hynix Inc. - American Deposi | $168.01 | 0.00 | 0.00% | 107,674,661 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $16.06 | -0.25 | -1.56% | 63,754,058 |
+| **[NU](https://finance.yahoo.com/quote/NU/)** | Nu Holdings Ltd. | $13.98 | +0.31 | +2.23% | 60,844,106 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $210.37 | +6.84 | +3.36% | 58,567,069 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $106.39 | +3.27 | +3.17% | 52,663,740 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $11.50 | -0.19 | -1.63% | 52,674,805 |
+| **[CLSK](https://finance.yahoo.com/quote/CLSK/)** | CleanSpark, Inc. | $13.10 | +0.74 | +5.99% | 49,707,817 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $7.16 | +0.20 | +2.91% | 46,369,335 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $18.60 | +0.48 | +2.62% | 45,646,951 |
+| **[IBM](https://finance.yahoo.com/quote/IBM/)** | International Business Machines | $218.50 | -71.73 | -24.71% | 45,301,538 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.80 | +0.36 | +4.27% | 300,148,810 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $61.37 | +4.07 | +7.10% | 55,208,961 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $75.21 | +2.57 | +3.54% | 43,705,358 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $23.42 | +2.42 | +11.52% | 39,425,666 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $38.53 | -1.42 | -3.55% | 37,288,629 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $178.92 | +13.55 | +8.19% | 35,392,323 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $36.67 | +1.45 | +4.13% | 31,421,519 |
+| **[SPDN](https://finance.yahoo.com/quote/SPDN/)** | Direxion Daily S&P 500 Bear 1X | $8.64 | -0.03 | -0.40% | 29,820,417 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $7.67 | -0.22 | -2.79% | 27,265,090 |
+| **[XLF](https://finance.yahoo.com/quote/XLF/)** | State Street Financial Select S | $56.27 | +0.20 | +0.36% | 26,150,173 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SKHY](https://finance.yahoo.com/quote/SKHY/)** | SK Hynix Inc. American Depositary Shares | $182.75 | +30.40 | +19.95% | 44,560,128 |
+| **[CHRN](https://finance.yahoo.com/quote/CHRN/)** | ChronoScale Holdings Corporatio | $23.13 | +3.41 | +17.29% | 184,002 |
+| **[AXTI](https://finance.yahoo.com/quote/AXTI/)** | AXT Inc | $57.62 | +7.17 | +14.20% | 6,294,380 |
+| **[ATAI](https://finance.yahoo.com/quote/ATAI/)** | AtaiBeckley Inc. | $5.60 | +0.63 | +12.68% | 6,208,382 |
+| **[TSEM](https://finance.yahoo.com/quote/TSEM/)** | Tower Semiconductor Ltd. | $258.62 | +28.94 | +12.60% | 3,184,229 |
+| **[YSS](https://finance.yahoo.com/quote/YSS/)** | York Space Systems Inc. | $21.40 | +2.27 | +11.87% | 724,334 |
+| **[AAOI](https://finance.yahoo.com/quote/AAOI/)** | Applied Optoelectronics, Inc. | $124.78 | +12.90 | +11.53% | 6,636,518 |
+| **[RGC](https://finance.yahoo.com/quote/RGC/)** | Regencell Bioscience Holdings L | $5.62 | +0.57 | +11.39% | 301,772 |
+| **[NTSK](https://finance.yahoo.com/quote/NTSK/)** | Netskope, Inc. | $14.24 | +1.44 | +11.25% | 5,496,676 |
+| **[OKTA](https://finance.yahoo.com/quote/OKTA/)** | Okta, Inc. | $154.51 | +14.98 | +10.74% | 2,692,043 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[IBM](https://finance.yahoo.com/quote/IBM/)** | International Business Machines | $218.49 | -71.75 | -24.72% | 45,302,878 |
+| **[ERIC](https://finance.yahoo.com/quote/ERIC/)** | Ericsson | $10.10 | -1.62 | -13.87% | 24,006,250 |
+| **[DNLI](https://finance.yahoo.com/quote/DNLI/)** | Denali Therapeutics Inc. | $22.86 | -3.62 | -13.67% | 3,226,342 |
+| **[BIIB](https://finance.yahoo.com/quote/BIIB/)** | Biogen Inc. | $191.58 | -17.45 | -8.35% | 1,946,625 |
+| **[TDC](https://finance.yahoo.com/quote/TDC/)** | Teradata Corporation | $31.19 | -2.76 | -8.14% | 2,726,102 |
+| **[WULF](https://finance.yahoo.com/quote/WULF/)** | TeraWulf Inc. | $19.19 | -1.69 | -8.11% | 36,424,330 |
+| **[HCA](https://finance.yahoo.com/quote/HCA/)** | HCA Healthcare, Inc. | $360.95 | -29.79 | -7.62% | 2,715,127 |
+| **[THC](https://finance.yahoo.com/quote/THC/)** | Tenet Healthcare Corporation | $180.96 | -13.85 | -7.11% | 1,370,935 |
+| **[VIRT](https://finance.yahoo.com/quote/VIRT/)** | Virtu Financial, Inc. | $60.35 | -4.32 | -6.68% | 996,722 |
+| **[GEHC](https://finance.yahoo.com/quote/GEHC/)** | GE HealthCare Technologies Inc. | $61.08 | -4.22 | -6.47% | 4,916,155 |
+
+Source health:
+- NYSE calendar 2026-07-14: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
 ### 6:55 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 9:55 AM ET.
@@ -164,15 +231,15 @@ Source health:
 - **Google News Markets** (Tue, 14 Jul 2026 13:14:35 GMT): High priority | [US Stock Market Prediction Today (July 14): Dow & S&P 500 Futures Hold Steady, Nasdaq Futures Rise as Brent Crude Hits One-Month High; Investors Await Inflation Data & Big Bank Earnings - The Sunday Guardian](https://news.google.com/rss/articles/CBMixgJBVV95cUxNSHhYdFlUWFFkSXE4SWdyUnFsX2U1RFU5WGhscTRQZDJ5enc0ZGxPd1BPeHZMSk9yZk1nelFsVUdDYmVhV1poLUVhLVlzblZKd1RiNmEtSlNWZ0ljOUd6VFVlX3dDRnJNTFdKeXpMR0sxZjFuM1ZSWEdNV245dlItSEdXTXFUbjk2UFctSl94MmttVXdVTE1WVDNJZklaWnd1dzNmSGJiNUxwZzVNUHYwanhsVHk0cnJGd0RTVzlZTXBfdFczcnJaSmxDcV9ZTDVCTUVMbV9DZ2RKRlAtSzdmUWdZVklOck1qcDBPWmFzOFZfM3pkWng4N0l2VERXVXBXWkhoN1Z0RHRKZmx1MzdURUFPd1B0ckJ2RXUwN01icHpTb3JVUFVJdFhMb014OEFmWS1HVFVndjVyd0xId1dMdGhuQV9WUdIBywJBVV95cUxPRDVqMWFDWDVDcVpwZmFBbWhybm5FSlFsaXM4bFVWVFlyUXgyMmRrSllUWTY5WmdMb2RJdGFMOThzVEhmMlpPbFpWUV96a2VMXzZNM3lQZWJrOENqbVk0VUV2Ymh4eElrLXBxVUh1enA0MEFJQkFHSzdxZ1M3UVlveGxuX0pOd0FFMG1pNXJOb3BIV0M5N1F4bENEejFUNURLZk1OXzFwMWpES3lpX0MtMk41dS1Za0d1OTR5aVBSMFpIWWVRTzR3V1gtZzRKUHlMOG16UGZvd1hmdHBCV1R6d0pfaVFweWRSZUh0NVkxaVZ3MkcxWGhBX2lPVnRRSUZJQXNXWkpXeTM0bEhuNXhMYjVDRko5V2lMUWZfdkQ0ejhzR1N5UjN4YUNsckU5Q1FEQzVxYmtYYlhOZ1lGekstMlNiUHQtRGU4TzNF?oc=5)
 - **Google News Markets** (Tue, 14 Jul 2026 09:37:33 GMT): High priority | [S&P 500, Nasdaq Composite, and the Impact of a Hawkish Federal Reserve - sekbernews.id](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Va1JRQWZLb2pfa28wcmRIQVAzSEJqdnNrakNEQ0lnRExLS3o3dFRwaTRQaVFPNjVKZ0hvbkVjdkVCdGdSaXJPeUVFcEJCUnE4TWQ2RWdhYlJrc3lWbkpFSldyc2dzQ0ZUaWRlSzJCU2k?oc=5)
 - **Google News Markets** (Tue, 14 Jul 2026 13:33:44 GMT): High priority | [US Stock Futures Today: Soft CPI Lifts Nasdaq as Dow Lags on Concentrated Drag - TechStock²](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSUxaTUdYN0dYQm13cFlIUjNKZVVGaUtsT3ZVR1d4LWZmeVNYTzdxUG05cmp3ZjFYS2EwVWtyRE5PbEMzTmtac2hBS09XdDBRMDdMdU91QmFwRjF3eTZJZkMxV3NKTjVCZ0ZLcEQ2Q1ZVb0NQV3lDWnBxaDF5czNNR3JKaTNZWTJuVnRxY0pOaDFtYmxRaVNfd1lQZ0piV2c?oc=5)
+- **Google News Markets** (Tue, 14 Jul 2026 11:57:50 GMT): High priority | [U.S. futures steady as Wall Street banks launch earnings season under CPI shadow - Investing.com India](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaGhQRVZzY2p4Z2JnQ3RfZkxTOThZeEc2MUNHQUozYlhrLWRUaHIzWjhtSnEzcmhndFh3eVZlVzYzMzM3SUdiUUYtLTVQakVLeUg0eGxVX0d1eU9FNmtfZ1ZlQWU3X2dIa0RxR2dqbWJvU21CckhEdHViM0dWZXBERTJvQjJiTENwSHhBYm5idE54bUZhbDFlcEQzSFlHLXdCdnpDbUkwVnFfQy1uS2xncU5reVVHRTFBMzNUWVRQMm1FeWVfZGZ4aA?oc=5)
 - **Google News Markets** (Tue, 14 Jul 2026 09:10:35 GMT): High priority | [Pricey Stocks Charge Into CPI, Earnings and Fed, All in One Day - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUERhR2dDQllSRFdBU21Ca28taFcyek5ieEhnXzhOY2FRelZOcm84MklhV3c2aDBOSXBmNEFua24xWGNwZGxKVzVkS2hXT0V6aFBqS3ZWaFdjM1JWZzdMRmxhUmNxZjE4MmpXekZGMXB5RjVQTjNneTNBM293bmxFeTJiLUhHeEg3RklEVV9QVE1ZVDA0Y1lVQ1BoNzItelRXWGJDMnlsNm14elhmQ3RTTFZ3?oc=5)
-- **Google News Markets** (Tue, 14 Jul 2026 08:29:11 GMT): High priority | [US Stock Market Today S&P 500 Futures Slip As Yields And Earnings Jitters Build - simplywall.st](https://news.google.com/rss/articles/CBMivwFBVV95cUxOajd1TVRmSk5YcE1xZW5qdkR3a0tDc0xLUnF3b28zTFlPUkVQMHpYZk95ZFliVEJaVDVaR2xsa1pJQ09ReUZhODFjcGxrM28xQkpXcXR4emNtck1ub25pbGE0YzNLR1NoVHdic0ROVzU0YlVYNTgwQ3d0U05BZzRIaldpZm9tYXNXTUZXMkZRRldBdGgwTFVzU3BqSUZ3dTFBN1lMOVVsaW1mTnRhdU92dS1sZkxOV21Ec2VmT21za9IBxAFBVV95cUxObG5DV0VHZGw4M0VrWktqbUUxU3JxOVdSTmFBbzNNeTBhR3Z1Q0J0V0dja0c4bkdZMVFUdXV2b0V4em52a1h6Mnl5YWQxSThLZ0xjLUhvRUJCTUdPbmZ3TjdmQUtucTdmcWdfQmJYaXI0ZWk0NUl4dmtkbG5PWnhZXzhJNXRHMXVlNmJBZUVCcnc4X1VXRU1XdURVc0NvWTRpYV9aTW1qeWc4WllraU9pRU01Y1lVZHNwX1kxazk5SlRkNE9u?oc=5)
 - **Google News Markets** (Mon, 13 Jul 2026 18:20:25 GMT): High priority | [Goldman Sachs: Despite persistent hawkish risks from the Federal Reserve, earnings growth will continue to drive the stock market - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zZm40TTFRVzQ1Q2VZNVJjNjROSExnLTBLaG52M2R0akdMbXBvbEVNSklWal80OUNRWnFxekxyaEcwVGhENDgtMmdVOTNSYUNoQjl1ckM0WGgxU1RTblI4Mm9DRdIBY0FVX3lxTE1zZm40TTFRVzQ1Q2VZNVJjNjROSExnLTBLaG52M2R0akdMbXBvbEVNSklWal80OUNRWnFxekxyaEcwVGhENDgtMmdVOTNSYUNoQjl1ckM0WGgxU1RTblI4Mm9DRQ?oc=5)
+- **Google News Markets** (Tue, 14 Jul 2026 15:40:12 GMT): High priority | [Investors to grapple with packed week of earnings, CPI, Iran headlines - MSN](https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnpGeHVyS1Q4c3NjenFQUVY2V1B6b2hRUnpZbmNlSmZSUjZ3OFQ2ZmM1bllDUHVYNHdtbTZKeTFsNGx0QUNyQkNlbmFIQkplWUltXzk2V3ZHNks2R2toeDZkRzBsdFcyZU82R2xwME9zSUE4TXFudkxTelNaMkRWYzcxUWdrbFBIZURhbEk5MXpEVjZDUHQ2aHBldjdybUR4eHJFNmdkNFRGcnFZX1BxVjdSWWdXcDc2V0dEUA?oc=5)
+- **Google News Markets** (Tue, 14 Jul 2026 13:29:42 GMT): High priority | [Tonight, Three Major Tests for Global Markets: US CPI, Warsh Hearing, and Earnings Season - 深潮TechFlow](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kaGlmMlRJWTFDRGNmMVJXc2ZEV1JpZGljMWFkXzhYQkJiTy1GWjZpY1N5NTlWWC1rVXZGeUd2VVVmUFNESUE0SHFNakZfT2RyVzhZXzNoSDd0andf?oc=5)
+- **Google News Markets** (Tue, 14 Jul 2026 13:13:37 GMT): High priority | [Fed's Softer Inflation Report Sparks Market Hopes, Big Banks Under Scrutiny - Devdiscourse](https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWw4aFpWT2hvaDhnSm1OekZBd3lFMDZaNHFybDFTemlqdmc5MHBvS1NCa1ZJMUdJNXhZYkRPRE5RNUVMWVRyZG93cDU1RjZoa3RpZmtQOW93ejZfMEdJTC1oWGFHRVV3YVQ1RjE0ZEpEQXB1Nkd6aWdBbHdwVVU2OUMydWVGRXhjZC1maTBvNzFVMFVRZDB6VnMyV2ZFTWZzVkxlTlpFZ0hXTmVSN1FQbWxGUG9KX3ZIQXpMaUZwZHRiOHlyWGRNWERCd9IBywFBVV95cUxQUWw4aFpWT2hvaDhnSm1OekZBd3lFMDZaNHFybDFTemlqdmc5MHBvS1NCa1ZJMUdJNXhZYkRPRE5RNUVMWVRyZG93cDU1RjZoa3RpZmtQOW93ejZfMEdJTC1oWGFHRVV3YVQ1RjE0ZEpEQXB1Nkd6aWdBbHdwVVU2OUMydWVGRXhjZC1maTBvNzFVMFVRZDB6VnMyV2ZFTWZzVkxlTlpFZ0hXTmVSN1FQbWxGUG9KX3ZIQXpMaUZwZHRiOHlyWGRNWERCdw?oc=5)
+- **Google News Markets** (Tue, 14 Jul 2026 12:52:11 GMT): High priority | [US Stock Market Pre-market Highlights | US June Inflation Eases! Q2 Earnings Season Kicks Off, IBM Plunges 22% in Pre-market Trading - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fM21WaVRpeUp5Sl9oQVpMT3FYT1dUWVhjZlRSOWFxSUpBaFQ3Mllha0o0am80a2g5WDczem9sQmhQMEhHM0dMb3dqUTVDd3FqWXBCRTZ3VGF4NG04X1I1ZlJqQdIBY0FVX3lxTE5fM21WaVRpeUp5Sl9oQVpMT3FYT1dUWVhjZlRSOWFxSUpBaFQ3Mllha0o0am80a2g5WDczem9sQmhQMEhHM0dMb3dqUTVDd3FqWXBCRTZ3VGF4NG04X1I1ZlJqQQ?oc=5)
+- **Google News Markets** (Tue, 14 Jul 2026 12:04:00 GMT): High priority | [Futures Mixed With CPI Report, Bank Earnings on Tap as Memory Stocks Rebound - MSN](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWVUwVkdqakdiMHlqQkg2TGFOSE5XZmtHMDFHUFVBNkVuMVdHWWduVG1Yc2cwaXZYTEdoWnBoeFh1R0R6XzQ1WkU0dUVEWVBkSTlxYnRldnFJaFBlUnYyclBtTGVBY1RyU0ZnQVVkSGc5UlZCV3lmdHFXSWZuaUplUG0xNVpiZGpEenNVaURJNG9JNHFzZ3ZyOWpKcFlXNENWV1V4UVlIOVNoTXlPRHJBM3RnRHlJOG1md0dpd2txRHczQ0dyNmpmVzZzbjVXalZKeEJXVHA0Wk1fYzdEeEo0RUZCd2dRalN2X21kczRVTmhfb21VM0xF?oc=5)
 - **Google News Markets** (Tue, 14 Jul 2026 11:23:23 GMT): High priority | [TS Lombard’s Freya Beamish urges Federal Reserve to tighten policy to curb AI boom - Crypto Briefing](https://news.google.com/rss/articles/CBMidEFVX3lxTFBwdm1ZSkdjSWU1dkhXTzc5bk4xeld6WjVLbWZUbGcxR1d6NjNTMjQ4ektWWUY3cmQycjJDbEkzb2RDUExMLU1Iekpuc0dBdWVFLTFaMHlseEd2em80UXlwVWhta2tETDJiaDRnRHJXY3pSWEZV?oc=5)
-- **Google News Markets** (Tue, 14 Jul 2026 10:50:00 GMT): High priority | [Futures Mixed With CPI Report, Bank Earnings on Tap as Memory Stocks Rebound - MSN](https://news.google.com/rss/articles/CBMiogJBVV95cUxQRzF6Qm5MTVJKTkNJZllnLXoxLVBjSzdHb3dURmlGQ214REdqekE2alpCTkliVkdjRjQ1THQ0NnBJTGU2cEZ3VWdLaFIyRlBZX1lmdmRvb1hPclVmMWpKcmVyZnptYVBSenIwd3ExcWRkV3lPVmZQZnhpQ3VKanBOaUdCSHhqQUlDdzBCc1lKZk1yUjB3R2NYb2dnTE8tUE02dHlsVk95bldobF9OUFU3TExRSEhoWXhkRXYtVXM5WE0zUWJ2VTljSG44STVyQnQzbUhIbEE3clYyOGdrU2d6ZkFxTWxhMTNwbGlRaGJtTUNCLU11dkdudjJBTWNhWGJOSldUVEJ2T1VrbE5BNHhqaktlb1h2aGQ4d3JvRUJtYkI5dw?oc=5)
-- **Google News Markets** (Tue, 14 Jul 2026 09:51:16 GMT): High priority | [Stock Market News Today, 7/14/26 – Futures Wobble Ahead of Inflation Report and Bank Earnings - TipRanks](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjhGckpSSENNa0NFb0N2Z3VKRnNxMEZvS095Z05CX0FlVEpKcW1BUmxOeHljRzhYRWZBSDNXSGI4Z3dwNGZVMzhSdHNoQ2lQNXllTmlEZ1hjb1NlX2lTQkU5Rnd6dF93NDV0cE5IMk1CbXRLdkFValg5MUZTYldCTzE3X1pYNE1MMEtBRllscVNQSjRfS2FPTDAwSV9NZndjd1JKRC01alVMY2Y0dXFaeEVsT2JMU1EwNTZxNQ?oc=5)
-- **Google News Markets** (Tue, 14 Jul 2026 08:05:07 GMT): High priority | [Stock Market News: Futures Mixed as Earnings and CPI Data Loom - Coinpaper](https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0Njb2VsVmdsRm9FUnR4Z1J2UkRMeE5EUTA1elQ4UnlrNjZNS1daeE43M29hbFRLbEJkSzNjLTE1RURZeHZyazBRS1V4VXo0cjN5eWNzVVh1dVMwNXh6UmpLMU1zT0RhQmRZanBGOVRveThobDdqQ2FRZ2dPTEN4SUp5TDVXMEYyV0dPT0Q2ZmtiUUU?oc=5)
-- **Google News Markets** (Tue, 14 Jul 2026 07:55:48 GMT): High priority | [Investors to grapple with packed week of earnings, CPI, Iran headlines - AOL.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTdWWXJKOW5FbjBDZk5kUUl0Rk84RkhpWk1oQzhIU1djUy02a0hkbjNpVnRtRjRJd2YteHFuRHpacnVrUzl4c2FsWklYNTROazNzVmJkVkxDcEJERUJoU1IzVEdzTXgwS184R3VhT1I4MzVCMlo4MVh1Yl83NmI3bTd5M2lTaVQ0cXc?oc=5)
-- **Google News Markets** (Tue, 14 Jul 2026 07:52:18 GMT): High priority | [US Stock Market Outlook July 2026: Fed Policy, AI Boom & Inflation Risks - Intellectia AI](https://news.google.com/rss/articles/CBMibkFVX3lxTFB5bVVDN1lGaV93b0dZRmRPcEZJNDJGRXE2X1BrWDBpRTE5aEJhOFRkU2hhOUxsYU1SUmJkamJnNm5yaGpmeEhqNUFtTklvU1pNQnFhNmdJVC1KNmh1d1prM0lwVk5YUGhlN1lYVjRn?oc=5)
 
 ## 5. Economic Calendar
 
@@ -211,8 +278,8 @@ Source health:
 - NYSE calendar 2026-07-14: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
 - Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: unavailable - 500 Server Error: Internal Server Error for url: https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?formatted=true&lang=en-US&region=US&scrIds=most_actives_etfs&count=40
-- Yahoo Finance Stock Gainers: unavailable - 500 Server Error: Internal Server Error for url: https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?formatted=true&lang=en-US&region=US&scrIds=day_gainers&count=40
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
 - Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
