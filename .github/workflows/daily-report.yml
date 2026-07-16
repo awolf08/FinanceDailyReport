@@ -2,7 +2,10 @@ name: Generate Daily Report
 
 on:
   schedule:
-    - cron: "15 13,14,17,19 * * 1-5"
+    - cron: "15 13 * * 1-5"
+    - cron: "59 14 * * 1-5"
+    - cron: "15 17 * * 1-5"
+    - cron: "59 18 * * 1-5"
   workflow_dispatch:
     inputs:
       force:
@@ -32,6 +35,7 @@ jobs:
         shell: bash
         env:
           FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.force || false }}
+          SCHEDULE_EXPR: ${{ github.event.schedule || '' }}
         run: |
           set -euo pipefail
           report_date="$(TZ="$REPORT_TIMEZONE" date +%F)"
@@ -40,10 +44,15 @@ jobs:
           report_json="reports/finance-daily-report-${report_date}.snapshots.json"
           local_hour="$(TZ="$REPORT_TIMEZONE" date +%H)"
           expected_slot=""
-          case "$local_hour" in
-            07) expected_slot="06:55" ;;
-            10) expected_slot="09:55" ;;
-            12) expected_slot="11:55" ;;
+          case "$SCHEDULE_EXPR" in
+            "59 14 * * 1-5") expected_slot="07:59" ;;
+            "15 17 * * 1-5") expected_slot="09:55" ;;
+            "59 18 * * 1-5") expected_slot="11:59" ;;
+          esac
+          case "$expected_slot:$local_hour" in
+            :07) expected_slot="07:59" ;;
+            :10) expected_slot="09:55" ;;
+            :11|:12) expected_slot="11:59" ;;
           esac
 
           echo "report_date=${report_date}" >> "$GITHUB_OUTPUT"
@@ -105,6 +114,7 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           REPORT_RECIPIENT: ${{ secrets.REPORT_RECIPIENT }}
+          REPORT_SNAPSHOT_SLOT: ${{ steps.gate.outputs.expected_slot }}
         run: python -m finance_daily_report --email-if-configured
 
       - name: Commit and push report

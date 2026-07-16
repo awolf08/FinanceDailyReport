@@ -32,6 +32,7 @@ class Settings:
     smtp_password: str = ""
     report_recipient: str = ""
     network_wait_seconds: int = 180
+    snapshot_slot: str = ""
 
     @property
     def email_configured(self) -> bool:
@@ -51,6 +52,7 @@ class Settings:
             smtp_password=os.getenv("SMTP_PASSWORD", ""),
             report_recipient=os.getenv("REPORT_RECIPIENT", ""),
             network_wait_seconds=int(os.getenv("REPORT_NETWORK_WAIT_SECONDS", "180")),
+            snapshot_slot=os.getenv("REPORT_SNAPSHOT_SLOT", ""),
         )
 
 

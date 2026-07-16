@@ -14,8 +14,9 @@ SNAPSHOT_SCHEMA_VERSION = 1
 
 def update_snapshot_file(data: ReportData, settings: Settings, snapshot_path: Path) -> list[dict[str, Any]]:
     captured_at = datetime.now(ZoneInfo(settings.timezone))
+    slot = settings.snapshot_slot or captured_at.strftime("%H:%M")
     snapshot = {
-        "slot": captured_at.strftime("%H:%M"),
+        "slot": slot,
         "captured_at": captured_at.isoformat(timespec="seconds"),
         "timezone": settings.timezone,
         "market_phase": data.market_phase,
