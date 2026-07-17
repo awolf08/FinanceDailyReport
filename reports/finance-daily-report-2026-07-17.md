@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-17
 
-_Generated: 2026-07-17 07:53:22 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-17 11:16:54 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -22,6 +22,73 @@ _Generated: 2026-07-17 07:53:22 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 11:16 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:16 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $6.62 | -0.03 | -0.38% | 153,538,820 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $15.05 | -0.55 | -3.52% | 120,014,978 |
+| **[SKHYV](https://finance.yahoo.com/quote/SKHYV/)** | SK hynix Inc. - American Deposi | $168.01 | +168.01 | 0.00% | 107,674,661 |
+| **[NFLX](https://finance.yahoo.com/quote/NFLX/)** | Netflix, Inc. | $69.37 | -4.98 | -6.70% | 102,242,036 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $203.26 | -4.13 | -1.99% | 101,590,062 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $95.82 | -1.16 | -1.20% | 90,844,632 |
+| **[NU](https://finance.yahoo.com/quote/NU/)** | Nu Holdings Ltd. | $13.68 | -0.11 | -0.83% | 85,714,548 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.19 | -0.19 | -1.78% | 75,708,184 |
+| **[JOBY](https://finance.yahoo.com/quote/JOBY/)** | Joby Aviation, Inc. | $7.32 | -0.03 | -0.34% | 66,461,747 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $17.41 | +0.09 | +0.49% | 62,420,774 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.69 | -0.03 | -0.39% | 528,324,184 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $14.80 | +0.32 | +2.21% | 129,567,218 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $53.83 | +1.49 | +2.85% | 115,605,504 |
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $54.30 | +2.28 | +4.38% | 90,961,768 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $136.19 | -6.29 | -4.41% | 84,182,279 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $68.07 | -2.67 | -3.78% | 62,516,188 |
+| **[MUU](https://finance.yahoo.com/quote/MUU/)** | Direxion Daily MU Bull 2X ETF | $28.95 | +1.44 | +5.23% | 61,705,971 |
+| **[SPDN](https://finance.yahoo.com/quote/SPDN/)** | Direxion Daily S&P 500 Bear 1X | $8.73 | +0.09 | +0.98% | 53,268,483 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $42.44 | +1.55 | +3.79% | 46,790,857 |
+| **[QQQ](https://finance.yahoo.com/quote/QQQ/)** | Invesco QQQ Trust, Series 1 | $697.33 | -8.61 | -1.22% | 39,760,957 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[TRVI](https://finance.yahoo.com/quote/TRVI/)** | Trevi Therapeutics, Inc. | $19.36 | +2.00 | +11.52% | 5,533,640 |
+| **[LCID](https://finance.yahoo.com/quote/LCID/)** | Lucid Group, Inc. | $7.16 | +0.70 | +10.84% | 32,613,641 |
+| **[MANE](https://finance.yahoo.com/quote/MANE/)** | Veradermics, Incorporated | $116.57 | +10.74 | +10.15% | 569,617 |
+| **[SLS](https://finance.yahoo.com/quote/SLS/)** | SELLAS Life Sciences Group, Inc | $12.96 | +1.21 | +10.30% | 8,189,737 |
+| **[SIND](https://finance.yahoo.com/quote/SIND/)** | Sinda Ltd. | $14.07 | +1.16 | +8.92% | 30,752 |
+| **[COAG](https://finance.yahoo.com/quote/COAG/)** | Hemab Therapeutics Holdings, In | $48.96 | +4.43 | +9.95% | 127,998 |
+| **[SION](https://finance.yahoo.com/quote/SION/)** | Sionna Therapeutics, Inc. | $49.03 | +3.74 | +8.25% | 657,708 |
+| **[DNTH](https://finance.yahoo.com/quote/DNTH/)** | Dianthus Therapeutics, Inc. | $103.66 | +8.31 | +8.72% | 708,644 |
+| **[AGL](https://finance.yahoo.com/quote/AGL/)** | agilon health, inc. | $132.08 | +10.86 | +8.99% | 182,006 |
+| **[ORKA](https://finance.yahoo.com/quote/ORKA/)** | Oruka Therapeutics, Inc. | $89.96 | +6.92 | +8.34% | 1,903,894 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ISRG](https://finance.yahoo.com/quote/ISRG/)** | Intuitive Surgical, Inc. | $349.85 | -52.48 | -13.05% | 7,951,495 |
+| **[CDNS](https://finance.yahoo.com/quote/CDNS/)** | Cadence Design Systems, Inc. | $329.38 | -35.27 | -9.67% | 3,484,821 |
+| **[SNPS](https://finance.yahoo.com/quote/SNPS/)** | Synopsys, Inc. | $377.58 | -39.45 | -9.46% | 3,313,930 |
+| **[MAAS](https://finance.yahoo.com/quote/MAAS/)** | Maase Inc. | $19.22 | -1.73 | -8.26% | 197,372 |
+| **[NFLX](https://finance.yahoo.com/quote/NFLX/)** | Netflix, Inc. | $69.37 | -4.98 | -6.70% | 102,242,351 |
+| **[GMED](https://finance.yahoo.com/quote/GMED/)** | Globus Medical, Inc. | $76.36 | -4.55 | -5.62% | 1,070,752 |
+| **[KMT](https://finance.yahoo.com/quote/KMT/)** | Kennametal Inc. | $33.51 | -2.02 | -5.69% | 726,275 |
+| **[IRTC](https://finance.yahoo.com/quote/IRTC/)** | iRhythm Holdings, Inc. | $108.72 | -6.63 | -5.75% | 372,311 |
+| **[SNEX](https://finance.yahoo.com/quote/SNEX/)** | StoneX Group Inc. | $104.73 | -6.15 | -5.55% | 588,878 |
+| **[NWL](https://finance.yahoo.com/quote/NWL/)** | Newell Brands Inc. | $5.13 | -0.30 | -5.52% | 4,447,428 |
+
+Source health:
+- NYSE calendar 2026-07-17: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
 ### 7:53 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 10:53 AM ET.
@@ -138,18 +205,18 @@ Source health:
 
 ## 4. Latest Market News
 
+- **Google News Markets** (Fri, 17 Jul 2026 14:33:30 GMT): High priority | [US Stock Market Today LIVE: Dow Jones, Nasdaq & S&P 500 Slides on Semiconductor Stocks Tumble as Crude Oil, Gold & Silver Surge While Bitcoin Crash Amid Fed Rate Hike | What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQOW5GeE90X1llM1pURXBUYUFYV2xydXhWUjllRUVBeFRqaDF1R0pRdzZTS296NlAzWHF5MXl5b1J1QWdMbnJNVUM2TDdvQ2c2MmxqempLT1NFTjFfd2JSNy1RSW9hVFUtR0JIYlpUa2tEeXRwbVRIVkFFYWVzNzFvNi1NeWxXeEc3ekFyVW82bzlqbDlRbGJFYURoQk9fTm5CaWlfLWhOMG5Fd25yajB0c3VtTTZiS0VCa2xpclJGZDJCc0l6emF6aFhrZnFPdEZ3VXZYdWN6ZWgwcGVDSzJZWHhSSXpRbVNWY3BDQV9MNVhtRVJoNmNaZHl3Qjd0b1ctUlNkUlV4MFRVOHpFQXphanowY2MxaFhCOGVxZlhPekhCT29RQUJ2aHVNYWZ5MEJnYVAtOS1fMTRsZVVENG5aQmhyTzRNVXotVXVkeGJ6dTZWVXVW0gHaAkFVX3lxTE1iMm5rS2RWMjVMZ1A1Z0RfR216czRnZ0ZSazBTM1FwN3JvS21rcU9PMEIwMUItYllZcGw3QWRTcUZlZXNjTXRfNmtEVng0akdWNVdDczdZNkhXczVkdmxRMzFuSDR2RUpJelRrZ2ZzR3RkUmpvMDV6U0N0Y1RYejlrbEpVQ2VLYXNlNDFkaldPMms1Wlk0dU00a0E1UWpxM2JwUy1uWDVvZk5RNjNaTTQzYmR2bS1Md0pGYVRGYWlvY3UwSHFkWGV6eUw1WTdqMmdLMTBnNHB5Q0twblVqNUhRTFRJSFZzNGY1UkdkNFJWdjY2YTk4UUlTREhwQnd0LWZ4VTZMM2JmVmdDOHJ5a2RYekJJZjZzRnpCNzhFUHBubERrLVlJTUdzTmt4enZDLXQya2l4NDAxRzhwaDM5eWg1T0hVWjVuN0hCR1daa01LTTB2T2EwS2pZVlE?oc=5)
+- **Google News Markets** (Thu, 16 Jul 2026 18:38:15 GMT): High priority | [Chip Stocks Drag Down Nasdaq and S&P 500, Despite Strong Earnings - Devdiscourse](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdU1JOGN5NVlvRktLZHc2ZVhSSG9OWVozNHVwTnBrUFlEcDJXUG5vUi14dlVCaGswR3h5LXp3a3RucXctZDBUZFVKdks3Q01NeUs2SDM5Xzl3NGllQTN6bW5wWGdaV1Yzemg4ZGJoTmhmczZkc2tsTjFKYkt4dDVtRkhKNVE3LWFCRHBpTEFYbS1QMnNoRFFrdzF4aFRBLVBSbkdRUUdQNHZOUkpjN0g3ZDJORUtuR19QVGRtZlF30gG-AUFVX3lxTE51TUk4Y3k1WW9GS0tkdzZlWFJIb05ZWjM0dXBOcGtQWURwMldQbm9SLXh2VUJoazBHeHktendrdG5xdy1kMFRkVUp2SzdDTU15SzZIMzlfOXc0aWVBM3ptbnBYZ1pXVjN6aDhkYmhOaGZzNmRza2xOMUpiS3h0NW1GSEo1UTctYUJEcGlMQVhtLVAyc2hEUWt3MXhoVEEtUFJuR1FRR1A0dk5SSmM3SDdkMk5FS25HX1BUZG1mUXc?oc=5)
 - **Federal Reserve** (Thu, 16 Jul 2026 15:00:00 GMT): High priority | [Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm)
-- **Google News Markets** (Fri, 17 Jul 2026 00:31:24 GMT): High priority | [Federal Reserve official Logan stated that current wage levels do not pose inflationary pressure - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE04a0xjUW5KYTZ3WlZZY0ZUSmJHMzdqUThYa0JEMGY0R25MNGNmOTRFOHFuSEdfY3l5ektDTERlMVlMUnJ5bll6WlBXemRxRWVmMUVyQzFWdVBnazVYZGFZblUzRdIBY0FVX3lxTE04a0xjUW5KYTZ3WlZZY0ZUSmJHMzdqUThYa0JEMGY0R25MNGNmOTRFOHFuSEdfY3l5ektDTERlMVlMUnJ5bll6WlBXemRxRWVmMUVyQzFWdVBnazVYZGFZblUzRQ?oc=5)
-- **Google News Markets** (Thu, 16 Jul 2026 20:18:26 GMT): High priority | [Chip Stocks Drag Down Nasdaq and S&P 500 Amid Market Volatility - Devdiscourse](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdjBxbkQxYkhCcC1zVHJPQnZtU1RSUDJ2dGh6Rjl2c3JsczBLb2tycy1nMWRIN2dRak1SWUpSYkFyb2tMZEFIVFdYb3lpUjRCZkp6S2ozWlVVM0s0N2NWODVTdXVuUHlncWVTTFZBQ3g3MUxnVlhfNVl4b3FUcnQ4ZUliNUFWUkJlU3BvdEdaYVBpYUlqOUxSYmNQcE82MG1ZWnVnM0xkOVUtVS1xMU9zVm9qVnJaa2E1dkF6TNIBvAFBVV95cUxQdjBxbkQxYkhCcC1zVHJPQnZtU1RSUDJ2dGh6Rjl2c3JsczBLb2tycy1nMWRIN2dRak1SWUpSYkFyb2tMZEFIVFdYb3lpUjRCZkp6S2ozWlVVM0s0N2NWODVTdXVuUHlncWVTTFZBQ3g3MUxnVlhfNVl4b3FUcnQ4ZUliNUFWUkJlU3BvdEdaYVBpYUlqOUxSYmNQcE82MG1ZWnVnM0xkOVUtVS1xMU9zVm9qVnJaa2E1dkF6TA?oc=5)
+- **MarketWatch Top Stories** (Fri, 17 Jul 2026 16:45:00 GMT): High priority | [Bond yields are sending a new signal about Fed rate hikes](https://www.marketwatch.com/story/bond-yields-are-sending-a-new-signal-about-fed-rate-hikes-856e81f7?mod=mw_rss_topstories)
+- **Google News Markets** (Fri, 17 Jul 2026 17:31:19 GMT): High priority | [Market Turbulence: AI Chip Stocks Plunge Despite TSMC's Record Earnings, Netflix Guidance Disappoints - Blockonomi](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZURRWE14dVFLZ3lLRm1LUzFreVRZMUZqdV91eVF1TTlzS0U0eXZNY1pldzBjaDBkcU42a1RZZ1BVSmlJT25rR05oaWlFYm1VMS1zVEg3Q3F0bUh2NlgxT20tOFlYdElYOG1NY0ZqVC1CRFAxaVR3ZVFGU3ZUeVJYcE5xZXJfYmNUX0lDMVoxRmVHa3doVmQwZnpFNWdSdV8zN1hIdFJ6b3d6ZkgtWEVvMndfYXVQZkpNM1cxbmdtdw?oc=5)
+- **Google News Markets** (Fri, 17 Jul 2026 16:32:05 GMT): High priority | [Intel (NASDAQ:INTC) shares drop, wiping out about $79 billion ahead of earnings - TechStock²](https://news.google.com/rss/articles/CBMimwFBVV95cUxPWW1XWVBGR2tKVlBROUo1UGYzMHdxc2pRb3NzRTZhNUhLVFEtTFNTQkhwb2FBR19fV2xqU1JiZThpUFNyaW45cHVpSFc1WEFQUzE0TUV5Sno0SS01Nm52WENXQjZJaUh4RVBtZ2l0amdoQktjRk5Xd29NSHFpZjlRbmttTzg0eFJ1NXZHMXhVdUY5OEhoakxEX2Vkbw?oc=5)
+- **Google News Markets** (Fri, 17 Jul 2026 13:33:59 GMT): High priority | [Earnings call transcript: Federal Bank Q1 2026 profit jumps as shares rally 6.9% - Investing.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUF0ZFpvdTVLeG1CR1BCeEpSdWdNRjlpeTV1TWRSTV85aHVUSW1qSFhPMFhIbndmcHpXVkJwOHl0dW9tWnNGTFRoanFiNUN4aVR3dzU1Ny0wZjYzUURqQXZIdnBKZ2V3MHJuYjFuMHBoVmNwVW0zUWlSYXNsT1A4OUJRSEg5MHlUSlZ6SWtSMWI2QUltTHROUFAtUi1Bc01UbHNzX2IzZWdnVWV4aFV2Z1p5ZHRyMVpNVEdJZGVrUEVhSjZjWkFGRDY1WVZLZw?oc=5)
 - **Google News Markets** (Fri, 17 Jul 2026 13:19:22 GMT): High priority | [Federal Reserve News: Why Are US Funds Falling? - Brussels Morning](https://news.google.com/rss/articles/CBMifEFVX3lxTFBOQTdGLWRiQWlXTE9uZXhibEhKWVpVeUhRckoxUDE0Y0RSdkhpalk3RE1Ea0pLRGt3VjFkbTRmdWwwdENEMXVZMzRaV016QWE1U1ZjR2pFTXdweU1oczBWeG1vejkwdDZDTFl2ZjlOWnZVbWNJcXJSNFhLank?oc=5)
 - **Google News Markets** (Fri, 17 Jul 2026 09:58:24 GMT): High priority | [Earnings Season Could Be the Boost the S&P 500 Needs. Here’s Why Some Investors Are ‘Fretting’ - AOL.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ISVBjZ3p2Q0t3Y3oyWlhaLWw4Y3A4blhqQzNjTE1vd1VzNHI4ZF9xMU8xbVF6aHQydHh6TWFIOThnOW5OV0VfeXFLVWRnUk1USGJiMjRJQVU4bWxFT242OWZvS0NyeHdsdjhybWdDQ1ZfTkgtY21XcHpLVi1rdw?oc=5)
-- **Google News Markets** (Fri, 17 Jul 2026 09:20:07 GMT): High priority | [Federal Bank Q1 earnings: Shares hit record high as net NPAs fall to lowest in a decade - Business Today](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYndsYTltMTdXV1llUW1aZ195X0dDZkJLTl9wQUpnanFpUnR0OWVmZ3F2eE9NaElmaW5ja0V0UjNmMGtiTkVJS1lWX3cwYmx1bC1RZG1VQkMxNHlkSDRINWVnMS1RN2FESjlwX0MwM3l3U0ZqUmRIQVM0OXNWOVU5dk9CX01JSTcyZGxFajFnQVBLbGNrYTM4LU9ocU1uaE9vem96V0ZrM3dSTjRiNWtpVUlsR0Y4enRma01ZQkNvMGd3aEs3d0w2eW1IRF9ucXFZYXhITWFWM2J5dWpsdmF6c1hPajBEZVJLakHSAe8BQVVfeXFMTjUwZHFvX1ViV2pEMzhza3J3VXBnN2ExOU5yOEEtMmhaanRkZzduWFdHNGVlemVHTnp4dzNPTk9FUnJIb25yYTRJdE13QXo0Y3l1aFhVV2Z6Ty1BcUg3MHUwR05Mb3VEVVMwT2dUd281cFBSOG9ybnE0RFotNVVObXE2bmlJMzdiTWlXSDduampxMWFNSjIzQUtCMmhwNm56MHJ2bDBBSmZ3bXNSMzBScXhzQ1ZtT1FWQUhzWVRpUkVoMGdRM2lhLW1vS01GalFVNEVNNjk3b2l1MlIxdjZQWGRBNkl5Tkc4YTUzQWR0Tms?oc=5)
 - **Google News Markets** (Fri, 17 Jul 2026 04:23:40 GMT): High priority | [Netflix stock plunges 9% after earnings: why more downside may be ahead - Invezz](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOENkd3h1aG9YUUFreXJhUG9XV1FUU3NyeEx1anFVcDFHWlh5MmtZNUNRZVBrVDhHSF9PaFR2dVZIbVdCeGk3Y3ZlZVFNbEQ0U1RRNnY4ak5sRzZQTFNvWl9UZ0ZTekpEbk5VWnRNazMxSl9XU3I1cThsbHNCdlcwSTVfbE1od2padmlmMXVtVURyRXQ1UmtjaG1NSWxnTmRlZ2lnWjY2dXU?oc=5)
 - **Google News Markets** (Fri, 17 Jul 2026 01:33:00 GMT): High priority | [Dow Jones plummets! Chip stocks and Netflix drag down the market, while Middle East conflict pressures oil and gold prices. - วารสารการเงินธนาคาร](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PWWY2S3FiNFNBS2RKSXFodHV6TkJ4aXdwUlJzOUl6dGVOdVRlWHBxNmVmTWxTTXBqQnpjclJ1TjVITmZIU0VmLVFqSkRiX1JxQ2R6ckt6Ny0?oc=5)
-- **Federal Reserve** (Thu, 16 Jul 2026 18:00:00 GMT): High priority | [Agencies issue joint statement on handling of highly sensitive information during bank examinations](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm)
-- **Federal Reserve** (Tue, 14 Jul 2026 18:00:00 GMT): High priority | [Minutes of the Board's discount rate meetings on June 8 and June 17, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm)
-- **MarketWatch Top Stories** (Fri, 17 Jul 2026 14:17:00 GMT): [Netflix is getting stingier with its viewing data, and Wall Street isn’t happy](https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories)
-- **Google News Markets** (Fri, 17 Jul 2026 13:07:00 GMT): [Autoliv Stock Falls. Auto Supplier Earnings Show State of the Car Market. - Barron's](https://news.google.com/rss/articles/CBMiekFVX3lxTFBZNkxuSXVFY2pacDh1RlVXT0pVVE5WQU9XNExGVXF4Qy1icGlwTkN4NXBjU3VwSjUyWjFlQ2ViZlZsYThnTnktQktrdHg3eC01WWVlamNma0t5V2ZadHlpMW5BYzlTNTJsYWVkODJNdG1CbDZsbElxZ0Fn?oc=5)
+- **Google News Markets** (Thu, 16 Jul 2026 22:50:00 GMT): High priority | [WASHINGTON FEDERAL ($WAFD) Releases Q3 2026 Earnings - Quiver Quantitative](https://news.google.com/rss/articles/CBMilgFBVV95cUxOM2NPN1YzQXRwVEhpeEtjczhOcDFleW1BbURySFdsQm9nRzh6MllKVkl3amFpR0xzd05UckxXVXFDY2c4TDVuUWxOalF2NVoyMC1GQnI1aTZWdlI0V2hDXzJleTh3LXRoMGdlNzJMbDBtVFBHbVNOc1JmQ0x0dmhycmdJWDR1ODR1dEdoMmVhVTVUemFneWc?oc=5)
 
 ## 5. Economic Calendar
 
@@ -189,16 +256,16 @@ Source health:
 - **08:30** Export Price Index | Forecast: -0.4% | Previous: 1.2% | Source: Nasdaq
 - **08:30** Housing Starts | Forecast: 1.310M | Previous: 1.199M | Source: Nasdaq
 - **08:30** Import Price Index | Forecast: -0.7% | Previous: 1.7% | Source: Nasdaq
-- **09:15** Capacity Utilization Rate | Forecast: 76.2% | Previous: 76.2% | Source: Nasdaq
-- **09:15** Industrial Production | Previous: 1.67% | Source: Nasdaq
-- **09:15** Manufacturing Production | Forecast: 0.1% | Previous: 0.0% | Source: Nasdaq
+- **09:15** Capacity Utilization Rate | Forecast: 76.2% | Previous: 76.1% | Source: Nasdaq
+- **09:15** Industrial Production | Previous: 1.58% | Source: Nasdaq
+- **09:15** Manufacturing Production | Forecast: 0.1% | Previous: 0.1% | Source: Nasdaq
 - **10:00** Michigan 1-Year Inflation Expectations | Previous: 4.6% | Source: Nasdaq
 - **10:00** Michigan 5-Year Inflation Expectations | Previous: 3.3% | Source: Nasdaq
 - **10:00** Michigan Consumer Expectations | Forecast: 51.7 | Previous: 50.7 | Source: Nasdaq
 - **10:00** Michigan Consumer Sentiment | Forecast: 51.0 | Previous: 49.5 | Source: Nasdaq
 - **10:00** Michigan Current Conditions | Forecast: 48.7 | Previous: 47.7 | Source: Nasdaq
-- **10:45** Atlanta Fed GDPNow | Forecast: 1.7% | Previous: 1.7% | Source: Nasdaq
-- **13:00** U.S. Baker Hughes Oil Rig Count | Previous: 445 | Source: Nasdaq
+- **11:10** Atlanta Fed GDPNow | Forecast: 1.7% | Previous: 1.7% | Source: Nasdaq
+- **13:00** U.S. Baker Hughes Oil Rig Count | Forecast: 446 | Previous: 445 | Source: Nasdaq
 - **13:00** U.S. Baker Hughes Total Rig Count | Previous: 581 | Source: Nasdaq
 - **15:30** CFTC Aluminium speculative net positions | Previous: 1.3K | Source: Nasdaq
 - **15:30** CFTC Copper speculative net positions | Previous: 64.3K | Source: Nasdaq
