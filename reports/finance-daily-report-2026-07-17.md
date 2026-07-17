@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-17
 
-_Generated: 2026-07-17 11:16:54 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-17 13:04:23 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -22,6 +22,47 @@ _Generated: 2026-07-17 11:16:54 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 1:04 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Jul 17, 2026 4:02 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.695 | -0.025 |  | 639,103,466 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Holdings Inc. | $6.525 | -0.125 |  | 211,033,272 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $14.97 | -0.63 |  | 174,500,274 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $13.175 | -1.305 |  | 146,781,954 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $52.59 | +0.25 |  | 133,634,959 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PSNYW](https://finance.yahoo.com/quote/PSNYW/)** | Polestar Automotive Holding UK Limited | $5.6 | +3.48 | +164.1509% |  |
+| **[SDOT](https://finance.yahoo.com/quote/SDOT/)** | Sadot Group Inc. | $24.88 | +10.63 | +74.5965% |  |
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[QMLS](https://finance.yahoo.com/quote/QMLS/)** | QumulusAI, Inc. Common Stock | $13.98 | -7.45 | -34.7643% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 237.29 | +12.7300 | +5.67% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 495.76 | -33.3800 | -6.31% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 145.98 | -2.4000 | -1.62% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 267.47 | -11.6700 | -4.18% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. | 346.71 | -7.75 | -2.19% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 346.12 | -24.0900 | -6.51% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 247.23 | -7.7300 | -3.03% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 132.14 | -0.3600 | -0.27% |  |
+
+Source health:
+- NYSE calendar 2026-07-17: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Jul 17, 2026 4:02 PM ET
+- Nasdaq after-hours article 2026-07-17: skipped - No matching After Hours Most Active article found yet
 
 ### 11:16 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:16 PM ET.
@@ -206,9 +247,9 @@ Source health:
 ## 4. Latest Market News
 
 - **Google News Markets** (Fri, 17 Jul 2026 14:33:30 GMT): High priority | [US Stock Market Today LIVE: Dow Jones, Nasdaq & S&P 500 Slides on Semiconductor Stocks Tumble as Crude Oil, Gold & Silver Surge While Bitcoin Crash Amid Fed Rate Hike | What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQOW5GeE90X1llM1pURXBUYUFYV2xydXhWUjllRUVBeFRqaDF1R0pRdzZTS296NlAzWHF5MXl5b1J1QWdMbnJNVUM2TDdvQ2c2MmxqempLT1NFTjFfd2JSNy1RSW9hVFUtR0JIYlpUa2tEeXRwbVRIVkFFYWVzNzFvNi1NeWxXeEc3ekFyVW82bzlqbDlRbGJFYURoQk9fTm5CaWlfLWhOMG5Fd25yajB0c3VtTTZiS0VCa2xpclJGZDJCc0l6emF6aFhrZnFPdEZ3VXZYdWN6ZWgwcGVDSzJZWHhSSXpRbVNWY3BDQV9MNVhtRVJoNmNaZHl3Qjd0b1ctUlNkUlV4MFRVOHpFQXphanowY2MxaFhCOGVxZlhPekhCT29RQUJ2aHVNYWZ5MEJnYVAtOS1fMTRsZVVENG5aQmhyTzRNVXotVXVkeGJ6dTZWVXVW0gHaAkFVX3lxTE1iMm5rS2RWMjVMZ1A1Z0RfR216czRnZ0ZSazBTM1FwN3JvS21rcU9PMEIwMUItYllZcGw3QWRTcUZlZXNjTXRfNmtEVng0akdWNVdDczdZNkhXczVkdmxRMzFuSDR2RUpJelRrZ2ZzR3RkUmpvMDV6U0N0Y1RYejlrbEpVQ2VLYXNlNDFkaldPMms1Wlk0dU00a0E1UWpxM2JwUy1uWDVvZk5RNjNaTTQzYmR2bS1Md0pGYVRGYWlvY3UwSHFkWGV6eUw1WTdqMmdLMTBnNHB5Q0twblVqNUhRTFRJSFZzNGY1UkdkNFJWdjY2YTk4UUlTREhwQnd0LWZ4VTZMM2JmVmdDOHJ5a2RYekJJZjZzRnpCNzhFUHBubERrLVlJTUdzTmt4enZDLXQya2l4NDAxRzhwaDM5eWg1T0hVWjVuN0hCR1daa01LTTB2T2EwS2pZVlE?oc=5)
-- **Google News Markets** (Thu, 16 Jul 2026 18:38:15 GMT): High priority | [Chip Stocks Drag Down Nasdaq and S&P 500, Despite Strong Earnings - Devdiscourse](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdU1JOGN5NVlvRktLZHc2ZVhSSG9OWVozNHVwTnBrUFlEcDJXUG5vUi14dlVCaGswR3h5LXp3a3RucXctZDBUZFVKdks3Q01NeUs2SDM5Xzl3NGllQTN6bW5wWGdaV1Yzemg4ZGJoTmhmczZkc2tsTjFKYkt4dDVtRkhKNVE3LWFCRHBpTEFYbS1QMnNoRFFrdzF4aFRBLVBSbkdRUUdQNHZOUkpjN0g3ZDJORUtuR19QVGRtZlF30gG-AUFVX3lxTE51TUk4Y3k1WW9GS0tkdzZlWFJIb05ZWjM0dXBOcGtQWURwMldQbm9SLXh2VUJoazBHeHktendrdG5xdy1kMFRkVUp2SzdDTU15SzZIMzlfOXc0aWVBM3ptbnBYZ1pXVjN6aDhkYmhOaGZzNmRza2xOMUpiS3h0NW1GSEo1UTctYUJEcGlMQVhtLVAyc2hEUWt3MXhoVEEtUFJuR1FRR1A0dk5SSmM3SDdkMk5FS25HX1BUZG1mUXc?oc=5)
 - **Federal Reserve** (Thu, 16 Jul 2026 15:00:00 GMT): High priority | [Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm)
-- **MarketWatch Top Stories** (Fri, 17 Jul 2026 16:45:00 GMT): High priority | [Bond yields are sending a new signal about Fed rate hikes](https://www.marketwatch.com/story/bond-yields-are-sending-a-new-signal-about-fed-rate-hikes-856e81f7?mod=mw_rss_topstories)
+- **Google News Markets** (Fri, 17 Jul 2026 00:31:24 GMT): High priority | [Federal Reserve official Logan stated that current wage levels do not pose inflationary pressure - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE04a0xjUW5KYTZ3WlZZY0ZUSmJHMzdqUThYa0JEMGY0R25MNGNmOTRFOHFuSEdfY3l5ektDTERlMVlMUnJ5bll6WlBXemRxRWVmMUVyQzFWdVBnazVYZGFZblUzRdIBY0FVX3lxTE04a0xjUW5KYTZ3WlZZY0ZUSmJHMzdqUThYa0JEMGY0R25MNGNmOTRFOHFuSEdfY3l5ektDTERlMVlMUnJ5bll6WlBXemRxRWVmMUVyQzFWdVBnazVYZGFZblUzRQ?oc=5)
+- **Google News Markets** (Thu, 16 Jul 2026 23:23:28 GMT): High priority | [Federal Reserve Vice Chair Jefferson warns of risks of entrenched inflation and unanchored expectations - Bitget](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xQmFmbXFodjhCQ3Y3U3NkY1ZrRW1MbWxESlhFdGRVNTBmTHJab2xTY1lJQ3FMV2lfbmtoXzNRdGQ5U1FxYTdSVkpFck8yc0tXNklSYmRJRU43OFJCbTZYaFZsLWFyVlnSAWdBVV95cUxPcUJhZm1xaHY4QkN2N1NzZGNWa0VtTG1sREpYRXRkVTUwZkxyWm9sU2NZSUNxTFdpX25raF8zUXRkOVNRcWE3UlZKRXJPMnNLVzZJUmJkSUVONzhSQm02WGhWbC1hclZZ?oc=5)
 - **Google News Markets** (Fri, 17 Jul 2026 17:31:19 GMT): High priority | [Market Turbulence: AI Chip Stocks Plunge Despite TSMC's Record Earnings, Netflix Guidance Disappoints - Blockonomi](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZURRWE14dVFLZ3lLRm1LUzFreVRZMUZqdV91eVF1TTlzS0U0eXZNY1pldzBjaDBkcU42a1RZZ1BVSmlJT25rR05oaWlFYm1VMS1zVEg3Q3F0bUh2NlgxT20tOFlYdElYOG1NY0ZqVC1CRFAxaVR3ZVFGU3ZUeVJYcE5xZXJfYmNUX0lDMVoxRmVHa3doVmQwZnpFNWdSdV8zN1hIdFJ6b3d6ZkgtWEVvMndfYXVQZkpNM1cxbmdtdw?oc=5)
 - **Google News Markets** (Fri, 17 Jul 2026 16:32:05 GMT): High priority | [Intel (NASDAQ:INTC) shares drop, wiping out about $79 billion ahead of earnings - TechStock²](https://news.google.com/rss/articles/CBMimwFBVV95cUxPWW1XWVBGR2tKVlBROUo1UGYzMHdxc2pRb3NzRTZhNUhLVFEtTFNTQkhwb2FBR19fV2xqU1JiZThpUFNyaW45cHVpSFc1WEFQUzE0TUV5Sno0SS01Nm52WENXQjZJaUh4RVBtZ2l0amdoQktjRk5Xd29NSHFpZjlRbmttTzg0eFJ1NXZHMXhVdUY5OEhoakxEX2Vkbw?oc=5)
 - **Google News Markets** (Fri, 17 Jul 2026 13:33:59 GMT): High priority | [Earnings call transcript: Federal Bank Q1 2026 profit jumps as shares rally 6.9% - Investing.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUF0ZFpvdTVLeG1CR1BCeEpSdWdNRjlpeTV1TWRSTV85aHVUSW1qSFhPMFhIbndmcHpXVkJwOHl0dW9tWnNGTFRoanFiNUN4aVR3dzU1Ny0wZjYzUURqQXZIdnBKZ2V3MHJuYjFuMHBoVmNwVW0zUWlSYXNsT1A4OUJRSEg5MHlUSlZ6SWtSMWI2QUltTHROUFAtUi1Bc01UbHNzX2IzZWdnVWV4aFV2Z1p5ZHRyMVpNVEdJZGVrUEVhSjZjWkFGRDY1WVZLZw?oc=5)
@@ -216,7 +257,7 @@ Source health:
 - **Google News Markets** (Fri, 17 Jul 2026 09:58:24 GMT): High priority | [Earnings Season Could Be the Boost the S&P 500 Needs. Here’s Why Some Investors Are ‘Fretting’ - AOL.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ISVBjZ3p2Q0t3Y3oyWlhaLWw4Y3A4blhqQzNjTE1vd1VzNHI4ZF9xMU8xbVF6aHQydHh6TWFIOThnOW5OV0VfeXFLVWRnUk1USGJiMjRJQVU4bWxFT242OWZvS0NyeHdsdjhybWdDQ1ZfTkgtY21XcHpLVi1rdw?oc=5)
 - **Google News Markets** (Fri, 17 Jul 2026 04:23:40 GMT): High priority | [Netflix stock plunges 9% after earnings: why more downside may be ahead - Invezz](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOENkd3h1aG9YUUFreXJhUG9XV1FUU3NyeEx1anFVcDFHWlh5MmtZNUNRZVBrVDhHSF9PaFR2dVZIbVdCeGk3Y3ZlZVFNbEQ0U1RRNnY4ak5sRzZQTFNvWl9UZ0ZTekpEbk5VWnRNazMxSl9XU3I1cThsbHNCdlcwSTVfbE1od2padmlmMXVtVURyRXQ1UmtjaG1NSWxnTmRlZ2lnWjY2dXU?oc=5)
 - **Google News Markets** (Fri, 17 Jul 2026 01:33:00 GMT): High priority | [Dow Jones plummets! Chip stocks and Netflix drag down the market, while Middle East conflict pressures oil and gold prices. - วารสารการเงินธนาคาร](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PWWY2S3FiNFNBS2RKSXFodHV6TkJ4aXdwUlJzOUl6dGVOdVRlWHBxNmVmTWxTTXBqQnpjclJ1TjVITmZIU0VmLVFqSkRiX1JxQ2R6ckt6Ny0?oc=5)
-- **Google News Markets** (Thu, 16 Jul 2026 22:50:00 GMT): High priority | [WASHINGTON FEDERAL ($WAFD) Releases Q3 2026 Earnings - Quiver Quantitative](https://news.google.com/rss/articles/CBMilgFBVV95cUxOM2NPN1YzQXRwVEhpeEtjczhOcDFleW1BbURySFdsQm9nRzh6MllKVkl3amFpR0xzd05UckxXVXFDY2c4TDVuUWxOalF2NVoyMC1GQnI1aTZWdlI0V2hDXzJleTh3LXRoMGdlNzJMbDBtVFBHbVNOc1JmQ0x0dmhycmdJWDR1ODR1dEdoMmVhVTVUemFneWc?oc=5)
+- **Federal Reserve** (Thu, 16 Jul 2026 18:00:00 GMT): High priority | [Agencies issue joint statement on handling of highly sensitive information during bank examinations](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm)
 
 ## 5. Economic Calendar
 
@@ -265,8 +306,8 @@ Source health:
 - **10:00** Michigan Consumer Sentiment | Forecast: 51.0 | Previous: 49.5 | Source: Nasdaq
 - **10:00** Michigan Current Conditions | Forecast: 48.7 | Previous: 47.7 | Source: Nasdaq
 - **11:10** Atlanta Fed GDPNow | Forecast: 1.7% | Previous: 1.7% | Source: Nasdaq
-- **13:00** U.S. Baker Hughes Oil Rig Count | Forecast: 446 | Previous: 445 | Source: Nasdaq
-- **13:00** U.S. Baker Hughes Total Rig Count | Previous: 581 | Source: Nasdaq
+- **14:00** U.S. Baker Hughes Oil Rig Count | Forecast: 446 | Previous: 445 | Source: Nasdaq
+- **14:00** U.S. Baker Hughes Total Rig Count | Previous: 581 | Source: Nasdaq
 - **15:30** CFTC Aluminium speculative net positions | Previous: 1.3K | Source: Nasdaq
 - **15:30** CFTC Copper speculative net positions | Previous: 64.3K | Source: Nasdaq
 - **15:30** CFTC Corn speculative net positions | Previous: 101.0K | Source: Nasdaq
@@ -283,10 +324,8 @@ Source health:
 
 - NYSE calendar 2026-07-17: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Jul 17, 2026 4:02 PM ET
+- Nasdaq after-hours article 2026-07-17: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
