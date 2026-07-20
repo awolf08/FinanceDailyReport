@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-20
 
-_Generated: 2026-07-20 12:06:27 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-20 13:19:28 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -29,6 +29,46 @@ _Generated: 2026-07-20 12:06:27 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 1:19 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Jul 20, 2026 4:15 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.825 | +0.135 |  | 439,951,518 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Holdings Inc. | $6.87 | +0.345 |  | 186,603,233 |
+| **[PATH](https://finance.yahoo.com/quote/PATH/)** | UiPath, Inc. | $12.17 | +0.02 |  | 169,675,564 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $15.14 | +0.16 |  | 165,857,026 |
+| **[NU](https://finance.yahoo.com/quote/NU/)** | Nu Holdings Ltd. | $13.985 | +0.395 |  | 160,429,672 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ZYBT](https://finance.yahoo.com/quote/ZYBT/)** | Zhengye Biotechnology Holding Limited Class A Ordinary Shares | $8.01 | +7.312 | +1047.5645% |  |
+| **[ADVB](https://finance.yahoo.com/quote/ADVB/)** | Advanced Biomed Inc. Common Stock | $8.9 | +3.8 | +74.5098% |  |
+| **[IREC](https://finance.yahoo.com/quote/IREC/)** | Corgi IREN 2x Daily ETF | $26.04 | +7.7586 | +42.4399% |  |
+
+#### Decliners
+- No rows at or above $5 returned.
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 234.74 | -0.5700 | -0.24% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 503.57 | +2.6300 | +0.53% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. | 145.9800 | -1.8200 | -1.23% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 272.67 | -10.4800 | -3.70% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 351.99 | -2.4700 | -0.70% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 351.37 | -2.4400 | -0.69% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 249.99 | +0.1000 | +0.04% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 131.05 | -2.0800 | -1.56% |  |
+
+Source health:
+- NYSE calendar 2026-07-20: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Jul 20, 2026 4:15 PM ET
+- Nasdaq after-hours article 2026-07-20: skipped - No matching After Hours Most Active article found yet
 
 ### 12:06 PM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 3:06 PM ET.
@@ -214,6 +254,7 @@ Source health:
 
 - **Google News Markets** (Mon, 20 Jul 2026 09:06:00 GMT): High priority | [The Federal Reserve's July Inflation Forecast Is In, and It Contains a Surprising Red Flag - The Motley Fool](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUFYZjBvejJUaTVOYWxnZW1hSGZwSGkyT1VGQXFrUk1fTDFQSXF4enQ2VkhXb3B5TGtGVEJoU1UtNndOeHpKZTVFaG9UNWNMejJxYV9CdHJreHhzSktYZkl1MXVjMWE4V3RCRUVFX2hyaVZRdkFIcTR2VndCakt6SUJYVFV0VVg5MzFwUU40ejlpTW54ZVE?oc=5)
 - **Google News Markets** (Mon, 20 Jul 2026 09:06:00 GMT): High priority | [The Federal Reserve's July inflation forecast is in, and it contains a surprising red flag - MSN](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNY1JkZ1RiSDQtLW5OZE9xc0Nnc0lrcmEwQ3VQVGFkd0M4c2FfZ2lQX0NmTGdFaEpaTFlGb2JQNm1nSzJCX2sxV09abk00eHVPOE1uV1I0UTI0QlVOcmc4NzU4dmVaaURqazNFN0ZKTHpQcFZCdXFsaERTN19qaTA5aUgtUnFqVi1pXzREeEtZWThtZUZFUDMxTEhhdXc1OEpXb1BGTHI2YWlaV2gzeWgyVC0tUTM3TE9rZU5tcmMxWnFSeDlLNXFBdE5fTG4yQ0NQYWUzZ1dJSGJUMnhraVJxT29uUy1uejJ4TjBGZEhIU3VNVWJIVW9nNDQxSQ?oc=5)
+- **Google News Markets** (Mon, 20 Jul 2026 15:41:00 GMT): High priority | [Rate Hike Threat: The Surprising Reason the Federal Reserve Might Boost Interest Rates Again - mibolsillo.co](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXFsdEE5SWNNckU2VjZBbUZ3VXFmUDJzWUdqQ0pZYVNtNmdObzlkVHk2bk5MNjEtS0hhLUM1WDUyYUZyOEMwYjh5Z3lTOHFvY2xJbk1fM1BRVFVIcjJ5ZXFIUmNyV2Y4dld4Z3B2U2RTSWcyZ3RqY3FOd0JXWjkyU3lLV0tDZ1FPTENpclcwd2puYzluRkRxQ2V1S3dkM3ZELUJhd3pYclFwT2prWUluM013Tjl1UGFmUWFENXNLTy14Q3Z2a2l0ODMxU0NPaUJQWXc?oc=5)
 - **Google News Markets** (Mon, 20 Jul 2026 14:23:51 GMT): High priority | [Dow rises 140 points as chip stocks rebound ahead of Big Tech earnings - Invezz](https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0pKdlpSeUVvNW1zbWZFd2RWV2hIdjBPcWxoaEY5cWRXQndCWUJacWEwNUQyUjdHRmhLR3dhN19yTE1sS2g2RllteW9YU1Z3d1FZOU5BSmxPRVJabFNwYVFhY0ZuTmFaVS05WGlvczhrRGd1czV0Mjd0Y0k5OVdoTk0xTEtITlhHM1pfNGFxR2pJaHU5MWRrMTRvWHJ0ZVdhclpLbDNjaFpMSmwwY0E?oc=5)
 - **Google News Markets** (Mon, 20 Jul 2026 12:13:00 GMT): High priority | [Futures Rise, Oil Swings Amid Iran News; Big Earnings Due - Investor's Business Daily](https://news.google.com/rss/articles/CBMivgFBVV95cUxOay15SVFtNmJpekhoY2gxVk5ZaFh5YkMzYmY4NWtkM3ZtVVN6b2lrQ3NBUW5fQUhuUVYzY00xNjJIblREbVpNUmVwV3V0SVpMaElYdHJKUnp1bGFjWDkwMTB3WDlRd1hueVJ3OTdQWDZrU1lMT2h4LW1nNDlOZHhUQWdvbnRRRWhiNGo4WGtEbmxXb09MZ2tsYkpjT05pMmJCWExvSndRb1I4VGdWNmVjRHdNR0lBaDFLWXlRZ2JR?oc=5)
 - **Google News Markets** (Mon, 20 Jul 2026 09:45:06 GMT): High priority | [The S&P 500 is breaking the earnings playbook: Chart of the Day - Yahoo Finance](https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3VrT2hlM2pUVEZsdnhUcHJfN2h3TzBWNlkyUW10UDhKNWFrMTJQY01iNE9zSHBZdDBxSGdQT00tUHNGUFZ5VFZFX3FjZEdoWDdFS2lTSGZodk9aNG9oVTlUdTVXcS1WOUEwRGpHN1hHYUs1RFJUeFhnbndVMFQ1dTB2QkgzdlhqaWRCWmkxeGhWamZhN3RXeEpkV09KYUMwMy0xTFEyY0hIYmV6U01uZVM2dk1STTdnVGc?oc=5)
@@ -223,7 +264,6 @@ Source health:
 - **Google News Markets** (Mon, 20 Jul 2026 02:38:12 GMT): High priority | [Asian shares shaky as oil climbs, earnings loom - Free Malaysia Today](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3NBV1k2REZLTXVqN0RlYk1SRHF3VXZtUGd3THdwd19qV3hRMENLWnpQQ1JxLU5qbXJlalAtYWJUZnRsUWVqclhtaV9ZY2NTZklBOUhiQVZFSUZkaXJ1a25YbmNERGlDSXVxLVNpeDNNYUNHelQxeENxTW9STV83N0FCZ2pWUzNmSjV5UFBqSVc4Vk9wbG44ZE10MVZQS2h6b1cyaXB2bU5DSVF5Qnc?oc=5)
 - **MarketWatch Top Stories** (Mon, 20 Jul 2026 17:54:00 GMT): [Tesla investors share their most burning questions ahead of earnings](https://www.marketwatch.com/story/tesla-investors-share-their-most-burning-questions-ahead-of-earnings-7065c7c5?mod=mw_rss_topstories)
 - **MarketWatch Top Stories** (Mon, 20 Jul 2026 17:05:00 GMT): [Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.](https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Mon, 20 Jul 2026 16:47:00 GMT): [SpaceX flirts with a further descent down the market-cap ranks](https://www.marketwatch.com/story/spacex-flirts-with-a-further-decline-down-the-market-cap-ranks-e539799e?mod=mw_rss_topstories)
 
 ## 5. Economic Calendar
 
@@ -239,10 +279,8 @@ Source health:
 
 - NYSE calendar 2026-07-20: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Jul 20, 2026 4:15 PM ET
+- Nasdaq after-hours article 2026-07-20: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
