@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-21
 
-_Generated: 2026-07-21 11:40:06 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-21 13:17:51 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -24,6 +24,44 @@ _Generated: 2026-07-21 11:40:06 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 1:17 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Jul 21, 2026 4:13 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $9.005 | +0.185 |  | 442,907,322 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Holdings Inc. | $7.66 | +0.79 |  | 282,495,680 |
+| **[PATH](https://finance.yahoo.com/quote/PATH/)** | UiPath, Inc. | $12.035 | -0.125 |  | 176,758,454 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CPHI](https://finance.yahoo.com/quote/CPHI/)** | China Pharma Holdings, Inc. | $8.62 | +7.71 | +847.2527% |  |
+| **[UTZ](https://finance.yahoo.com/quote/UTZ/)** | Utz Brands Inc | $14.09 | +6.64 | +89.1275% |  |
+| **[WLDSW](https://finance.yahoo.com/quote/WLDSW/)** | Wearable Devices Ltd. | $14.95 | +6.8 | +83.4356% |  |
+
+#### Decliners
+- No rows at or above $5 returned.
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 227.16 | -10.0900 | -4.25% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 544.43 | +48.6700 | +9.82% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 144.1 | -1.8800 | -1.29% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 271.37 | +3.9000 | +1.46% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 347.15 | +0.3800 | +0.11% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 346.19 | +0.0700 | +0.02% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 247.5 | +0.2700 | +0.11% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 130.48 | -1.6600 | -1.26% |  |
+
+Source health:
+- NYSE calendar 2026-07-21: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Jul 21, 2026 4:13 PM ET
+- Nasdaq after-hours article 2026-07-21: skipped - No matching After Hours Most Active article found yet
 
 ### 11:40 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:39 PM ET.
@@ -211,14 +249,14 @@ Source health:
 - **Google News Markets** (Tue, 21 Jul 2026 13:22:09 GMT): High priority | [U.S. stocks set for higher open as strong earnings boost market sentiment: Dow Jones, S&P, Nasdaq, Wall Street Futures - Yahoo Finance](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTExa2NNNGRZMmMwTFUyb0t3SFRqTWUxLW91NHV0TlJwQW1fZTBTY1ZSWDlUVmwxdFlCLXQyU2NpRjJDSjNGSzlEOFo5aUFFV2dhUEdWQlUwT3pwelJTTUQ3THFHekU5RGFpeUFvV0dqVTdHVHpya0tNZmZQTDlyWk1CcWYzS2dwT0g4ZHBRQjRSV1E?oc=5)
 - **Google News Markets** (Mon, 20 Jul 2026 22:07:16 GMT): High priority | [Tesla Q2 Earnings 2026 Predictions: Why is Nasdaq TSLA Stock Down Today? Can Shares Rebound After a 17% YTD Decline – Check Key Factors, IPO Capital, Market Cap, Revenue, EPS Forecast & More - The Sunday Guardian](https://news.google.com/rss/articles/CBMiywJBVV95cUxQQ2lPQ2FCZTNBVWZZVTNpOEROV2tmdklDcW9uSzFJd0FuR1AxWFdRSFoybk1QV3VRTFl3UDNmVTlMQ3BhckhUN3owNXAtdEN2RGstTGVmUHpiV1I5OUh3U29uRy1vQ3JNRHlmaks5Z3NNZTBFNllORzAtTzdXc2g5b2t2S3ZGSko0YUMzX2wwX09HazFTTjY2aU1NZWpLSmtnamVBNFM0N29UdWwxUFRqQW8tTkxZWWs5Mkx0N1Z1a2MxZmF4ZTdGeUwyZXRrdHlpMXpBMlg5RWtXNjFoTlNFUl9pVGRCZHZvcWNiOXpMZVBYTXlsNXNQbF8xTl9XQVdOYld3VnVFcFZaLXFFUnpFd2hKUG5rOFdySmowWXhmU2Z2MVNPNGtLUHNJdVZldXoxZXNpUG94QmgwaEw4RUxlVGNjek9aUVpWOWE40gHQAkFVX3lxTE5MSkE4Sl9oRTVqaGZqZllIaV9NaE9nRUJydzdjR081OFZOUVgtR3lremZRU0FZaDNCSjI2YlhOSVQ2aE9VWkpFRWRITGdyX194aEU5Qkd6bm0tMjVWbVpMRUVRR0JJRjZwbzY3UkNwUlJSeHd6T0ZnZXNvckZBQ0RCUTV6ZkdWZFhGWFRoTW00NXowX21KVjhDaV92YnRoSTItQTFKLTVERjF5SkEtc3E3MHJvbEl1cEM1cWNmSmxJclRpczNISkRMZWRFcjBxei1SRXlTMUZVX1ktd2NZY3pTbGNGdmRqaUQtWXpTTURQdzQzNXZPeXQtWVhURXN1Q3c0VnVXYlZlb1FhODRqdTc0c3gzOXBqWC0xOXVfbWtfZi15WmU3NkljNDRrWXpfbUlIQW05cHkyVExCMW96VmZDaHgxeEhwZUc4ZEFYQXQ4Zw?oc=5)
 - **Google News Markets** (Mon, 20 Jul 2026 20:20:22 GMT): High priority | [Dow falls 290 points as Nasdaq steadies on chip rebound, earnings focus - Invezz](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHZXQldoVmdfY3FOSzd1cUZKa1NaV0NtVllQVmFrSU1MSFJVaERqbGU1RWV6SUwxczFSY01lRHFucTRJYTdzQjkzVGJ1QVVUTzNFYlFqRnlNOEcxcGVmbWx2XzVWRkNxNVN3a2p4eTZSbTV4T0RaMmI2OE1xNnVZbmNkYmpfTVpFY3ZWUWRlTTgwUU8tYk54Q1JqSDE1NmNZMGoxMFVlRVU2QQ?oc=5)
-- **Google News Markets** (Mon, 20 Jul 2026 20:04:34 GMT): High priority | [US stocks today: S&P 500 edges down with Iran and earnings season in focus - The Economic Times](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMXB6MnctZGZYSm9WUFRhcWo4X3J5S2h5R1VBWjVfSGRFbDZycjR2QlFoNVpndXBHdlFKTnpEUWd4WTlubGNwQTQ3bDNRaS1fai1Scm9Ia1hsalVUTVZObktaUDdCUERoelYwRkMxYXpVSE5wdlpPNlp0eXE5LTJMVm50Nm5oZm5GRko1alZURjVHR29QdUU2Y2RXNlVLcld1cEN5QjF3b054azRUZVRzbmpEdjM2dHliOUd6NWdwX2xkMWpTTGxzSjdwRHZNMDkwM1Rrekh2ZC02WEtoTXdFbGZic9IB6AFBVV95cUxOeEdlUWlkaWx2Tml4RUE5Uk5zTmRZekpTRWUyN2JBVTVaTkkwcHMxUGRhWkRjOFdMRTdqX1Robk5tdEdYSEh2akF2MlJmdVNySDdOX216Uk1PdGFtRTN1d3JuVERROVNqZjd2TVFQaVhleFhwcXVTNkVOaThmbzhwUkR3SncyS0JtanBXNlR6VU9nbmxmV3A1VmRtU3d2akpUb29yd3FhcUlXeWRuUGpOMWJtdzdya3JuRUhTUy1LcDM1SVFVR3RaZVhDT0tJZTJUUDZmeVNYdFVFNk9KaGNmQWhZRGxQWnh0?oc=5)
+- **Google News Markets** (Tue, 21 Jul 2026 20:09:09 GMT): High priority | [Nasdaq Rallies Ahead of Magnificent 7 Earnings: Stock Market Today - Kiplinger](https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2VlX2IzWlUxRUxMOU9ISWp5dGlPLVAxVmYxckNNVWlvblJ6X2RUZTFYOHduaUN2SEEyYjYzWjZ1Tm9tYk9VVUtJWm9kRFQxYVZoMDBtbDR2R1lka3pOc1RMTTg4d2poNEhISkY0cXA5RThjSXp6MTZVTk9LUHBOMnZURG00QjlsdjBRR3hmaGtLOENOX3VtOG9DWVpNXzhRUnNZdU8wa2dUSFll?oc=5)
 - **Google News Markets** (Tue, 21 Jul 2026 15:57:44 GMT): High priority | [Nasdaq Today: Nasdaq Composite Jumps Over 1%, Powers Above 25,700 as Semiconductor Stocks Rally Ahead of Big Tech Earnings Season | Here’s What Investors Need to Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMisAJBVV95cUxPSnZSNlAzMWhxWExNcm1BUzJYbXYxcGVBYUkwTjNWclgtUkttVmlrbEIzdWJQWlZoU3VDTFdzSGh3b1RHT2poR3pYa2JRNWMtR0pfSGZQalV2QkpyX0VIZ2xrZElaaE5vZGdoRGl1SDg4MkxUOVpsa0Z5dVlwS1lJRHM5UWdCdV9ZeTNmckVpcFMxNHBxMHpXLWNkLURTOE13ejdKam9GcGxBcjMzbktoTlprZ3h4X2hZVzZ2M0tnd3FNRlloNGQ5MWZyUGo0R2pKZzR5ZnJTZXZZZ2xPcmxTOGFURjV1elNIZkZ6TkZQX3dkUDNMMnJiR2R5MWh4cWJCbXRwQ2JBN3BiVFVBSlk3SWpwNW14V2VXcjVCVDVGTEZaanhMN0dSeFVTR3F4REJZ0gG2AkFVX3lxTE93cDVYc1V1Z3J4TTMySWdwZDZaSDhyZmVvN0RvNkhLNG1ORnVwbDlqR3RNd1R4TmtpRVFWOWYxMHRsdWZqbG9GNEUyZDRRYTVGUDhqaFpzT2VoMkFaRVF2UVBIRnRFMXJDY3V3cFMzTUVPU3ZpTjB4eDlFWEpKcjhHbkJ5c0Y4bElkUDFvRFg5alEwUzBDZk5CRDBoejBQMUQybWJib2NyRV9PTUFEeHJOOHhMZXNOOXFNWHp5cC0wa0txRnBJZmh1VVJ5eGZvZUdiSGVtdkNFemVwZWtsR2NNQVVuRVFvM3FBUXNEMnUtajdtSVdfY3F4ME4xZEUyZXR1SlRMUUdITkg2TDBpZm9CY19FZDZFcHJxQ2l5WjFQSFlhbE1abEJtZnZ5OC1oWXpNeUh5Wnc?oc=5)
 - **Google News Markets** (Tue, 21 Jul 2026 15:01:43 GMT): High priority | [3M Stock Soars to Pace Dow Gainers After Strong Earnings Report - Investopedia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnpPWWNDcTh2Y2w2dnRqSUhPb0ZtOHU0QlZocU9BUWZwd1c3ZUdXZmNNaGpyTU1OYmlhQkRDZTZNcW9kS19LQ1FNZE85R2QwVFRaSlNYaElsNWtvVnZXQ3JxM0g5MTBHblBBYW85bmJuUW5aWjhuY0FLREZwalBRNjFYeEZMbmVJLU40QXRtNU9LVjFJZXNudnN5Tlk0cGR3M3BDSkxyUzQ?oc=5)
 - **Google News Markets** (Tue, 21 Jul 2026 14:52:03 GMT): High priority | [Intel (NASDAQ:INTC) Shares Surge as Options Market Forecasts $63 Billion Earnings Move - TechStock²](https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEt4YlgyX3VIZFRXSy1EQ3habDl3SWdkQzR5YXJvbW1tYXZVVVdiOXZmVzBUZmhzdFBCRVJJek5kd3JRRGRJNnVNQzY0emk3VEMtcHlyalRsQmptNFd0MXRyX3FCX2syX0wyd3hKbTVnNHVCenJEMWtBUTh2WkJKTlVkbzdSU21LQ2kyVE1KSWFMQVBvR0taVnBlWjd2dzVUMW9SMmd3?oc=5)
 - **Google News Markets** (Tue, 21 Jul 2026 13:45:33 GMT): High priority | [Dow jumps 230 points as chip stocks rebound ahead of Big Tech earnings - Invezz](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZThYMF9PMVl5N2lZYlMwUjF3X3hGbXIzNXRGV2IxdXF0eEtIcWh2TlFjQnpZUWlPOHhOQnRzWWVMOHIwZWVLanNCTnd0ZDhvREo4OWhBTjR4dDRxbzZ2cnhMamZyWEowRmFvckM4WEN5cHZzR3RKS3daakh0U3cwdVBSeEN2STNtdzUtS3IzamlPcms5cExLaWhGOHR3UzFQT2lpTnVEN3ZhUQ?oc=5)
-- **Google News Markets** (Tue, 21 Jul 2026 13:41:28 GMT): High priority | [Edwards Lifesciences stock advances on earnings and guidance - Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVlJQjNlYVBSSF9YTnRqNjREN01WS3IzZTZiVXdZTThCb0xhTjh1empxRkJxZk1iejEwVkdyR1VaR0V5UHpSYldKWUExMWdzaXhKcEJFVHVvd0xtdERWZG9GazJkZkFUVXlJWnpsY1EyN0lPUjd3YXN0TFNnOURKcUNIVl9yRnpYcGFZU1ZXbGMtZDI0bWVVS3hHM1Q4Q0dGcFBRZVFiaVNaX3pUeVdRYWlISWZ2UXRjYmxJ?oc=5)
 - **Google News Markets** (Tue, 21 Jul 2026 08:29:06 GMT): High priority | [Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzFUdXktaFo1bUNSYWl4b3AtRGtJOW5fUGtQVzRjMXVoQ2VLLURrOHpqd1pnWmxWc0JZWDVhYk1mcU9maTJaMVM0OGg2UlJ2NzFCVHFjQlcxWjU1SkwxUDUtRWY4NTRIUVlHRmJCUGt4QU5UVUNIZzR1NW5SdVJ3d1dqb044U0NkM0tGS3NVT0htNFNEX0h2Y0g1UTVKa1h0XzBhMVV3QmlZUmRtQ3Z1MU43c2RUNExYamw2STZlYlFWTmxVUUpoV0ZQZnJiUjYwX1dVTg?oc=5)
 - **Google News Markets** (Mon, 20 Jul 2026 23:57:50 GMT): High priority | [Nasdaq ends flat as market breadth remains thin ahead of Big Tech earnings - TechStock²](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcF9sQ1d5bnRuRTdhYkhNRUhBSmZaTEJjeHBVZHdiczZsSWczR1cxcjIzUnhzeHFzRUk4UmN2cktYYzRSNHQyRi1PU1E5RnRxVXZacFo5UU9XZkdUeEUxZFNyMEM2YU93NzZoOXBSVzlGRDBXd2lxS2VrdHZCY1ItR3ZKWVBQdnVsOTJKblkzX1ZJV3pET0xkSkFQaw?oc=5)
+- **Google News Markets** (Mon, 20 Jul 2026 21:43:00 GMT): High priority | [S&P 500 Hits Resistance With Alphabet, Tesla Earnings On Deck - Investor's Business Daily](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0J4cmo0N2xUaTlNWldhdTA5TmxrQmdITGRnalJFenJMT3ZSWkRlS09oVWVHUzFvRGtSSjd3TzhQTDEzSm5rZ2cxMV9yOVZkSi1scnVwcjhIQVJmaUpULUlkTzhzLVBzXzRiYjVuU21WNUQxdUFuVXJaaDlyd2otdjllVTE0Uk9WdDQzMFlGNmpkRkJYNTVHLU1CLS1wY1FXX0w3Z3o4bXVEdE5XWnQtdGJhRzZRM1g0THc?oc=5)
 
 ## 5. Economic Calendar
 
@@ -236,10 +274,8 @@ Source health:
 
 - NYSE calendar 2026-07-21: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Jul 21, 2026 4:13 PM ET
+- Nasdaq after-hours article 2026-07-21: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
