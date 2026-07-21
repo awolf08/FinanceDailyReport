@@ -1,0 +1,717 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-07-21",
+  "snapshots": [
+    {
+      "slot": "06:07",
+      "captured_at": "2026-07-21T06:07:23-07:00",
+      "timezone": "America/Los_Angeles",
+      "market_phase": "premarket",
+      "market_status": {
+        "is_open": "yes",
+        "label": "US market open",
+        "open": "9:30 AM ET",
+        "close": "4:00 PM ET",
+        "reason": "Regular session 9:30 AM ET-4:00 PM ET"
+      },
+      "active_stocks": {
+        "Most Active Stocks": [
+          {
+            "symbol": "UTZ",
+            "name": "Utz Brands Inc",
+            "exchange": "NYSE",
+            "lastSalePrice": "$14.05",
+            "lastSaleChange": "+6.60",
+            "changePercent": "+88.59%",
+            "change": "15,943,787",
+            "marketCap": "$1.07B",
+            "premarketGap": "-0.27%"
+          },
+          {
+            "symbol": "MGY",
+            "name": "Magnolia Oil & Gas Corporation",
+            "exchange": "NYSE",
+            "lastSalePrice": "$24.25",
+            "lastSaleChange": "-1.28",
+            "changePercent": "-5.01%",
+            "change": "2,154,479",
+            "marketCap": "$4.86B",
+            "premarketGap": "-5.99%"
+          },
+          {
+            "symbol": "NOK",
+            "name": "Nokia Corporation Sponsored",
+            "exchange": "NYSE",
+            "lastSalePrice": "$10.44",
+            "lastSaleChange": "+0.36",
+            "changePercent": "+3.57%",
+            "change": "2,094,350",
+            "marketCap": "$56.53B",
+            "premarketGap": "+2.98%"
+          },
+          {
+            "symbol": "INTC",
+            "name": "Intel Corporation",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$102.20",
+            "lastSaleChange": "+5.14",
+            "changePercent": "+5.30%",
+            "change": "2,004,786",
+            "marketCap": "$487.82B",
+            "premarketGap": "+4.47%"
+          },
+          {
+            "symbol": "BMNR",
+            "name": "BitMine Immersion Technologies, Inc.",
+            "exchange": "NYSE",
+            "lastSalePrice": "$17.03",
+            "lastSaleChange": "+0.40",
+            "changePercent": "+2.40%",
+            "change": "1,800,814",
+            "marketCap": "$10.03B",
+            "premarketGap": "+2.22%"
+          },
+          {
+            "symbol": "SKHY",
+            "name": "SK hynix Inc.",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$160.34",
+            "lastSaleChange": "+9.18",
+            "changePercent": "+6.07%",
+            "change": "1,545,772",
+            "marketCap": "$896.75B",
+            "premarketGap": "+5.53%"
+          },
+          {
+            "symbol": "SPCX",
+            "name": "Space Exploration Technologies Corp",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$122.36",
+            "lastSaleChange": "+2.51",
+            "changePercent": "+2.09%",
+            "change": "1,388,540",
+            "marketCap": "$1590.07B",
+            "premarketGap": "+1.23%"
+          },
+          {
+            "symbol": "MU",
+            "name": "Micron Technology, Inc.",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$917.76",
+            "lastSaleChange": "+52.30",
+            "changePercent": "+6.04%",
+            "change": "1,138,698",
+            "marketCap": "$977.44B",
+            "premarketGap": "+5.03%"
+          }
+        ],
+        "Top Gaining Stocks": [
+          {
+            "symbol": "UTZ",
+            "name": "Utz Brands Inc",
+            "exchange": "NYSE",
+            "lastSalePrice": "$14.05",
+            "lastSaleChange": "+6.60",
+            "changePercent": "+88.58%",
+            "change": "15,943,887",
+            "marketCap": "$1.07B",
+            "premarketGap": "-0.27%"
+          },
+          {
+            "symbol": "FWRD",
+            "name": "Forward Air Corporation",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$15.25",
+            "lastSaleChange": "+2.05",
+            "changePercent": "+15.53%",
+            "change": "39,778",
+            "marketCap": "$417.5M",
+            "premarketGap": "+1.89%"
+          },
+          {
+            "symbol": "PKE",
+            "name": "Park Aerospace Corp.",
+            "exchange": "NYSE",
+            "lastSalePrice": "$35.80",
+            "lastSaleChange": "+3.14",
+            "changePercent": "+9.61%",
+            "change": "3,624",
+            "marketCap": "$681.9M",
+            "premarketGap": "+8.48%"
+          },
+          {
+            "symbol": "IQMX",
+            "name": "IQM Quantum Computers Oyj",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$11.81",
+            "lastSaleChange": "+1.01",
+            "changePercent": "+9.35%",
+            "change": "11,232",
+            "marketCap": "$2.26B",
+            "premarketGap": "+6.48%"
+          },
+          {
+            "symbol": "AAP",
+            "name": "Advance Auto Parts Inc.",
+            "exchange": "NYSE",
+            "lastSalePrice": "$56.15",
+            "lastSaleChange": "+4.11",
+            "changePercent": "+7.90%",
+            "change": "8,196",
+            "marketCap": "$3.14B",
+            "premarketGap": "+0.00%"
+          },
+          {
+            "symbol": "ORLY",
+            "name": "O'Reilly Automotive, Inc.",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$91.08",
+            "lastSaleChange": "+6.55",
+            "changePercent": "+7.74%",
+            "change": "63,787",
+            "marketCap": "$70.05B",
+            "premarketGap": "-0.35%"
+          },
+          {
+            "symbol": "WDC",
+            "name": "Western Digital Corporation",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$522.87",
+            "lastSaleChange": "+35.45",
+            "changePercent": "+7.27%",
+            "change": "138,059",
+            "marketCap": "$168.00B",
+            "premarketGap": "+4.21%"
+          },
+          {
+            "symbol": "SNDK",
+            "name": "Sandisk Corporation",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$1,491.60",
+            "lastSaleChange": "+100.65",
+            "changePercent": "+7.24%",
+            "change": "392,333",
+            "marketCap": "$205.99B",
+            "premarketGap": "+6.44%"
+          }
+        ],
+        "Top Declining Stocks": [
+          {
+            "symbol": "CLBK",
+            "name": "Columbia Financial, Inc.",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$10.80",
+            "lastSaleChange": "-13.70",
+            "changePercent": "-55.92%",
+            "change": "117,602",
+            "marketCap": "$2.44B",
+            "premarketGap": "-39.18%"
+          },
+          {
+            "symbol": "DHR",
+            "name": "Danaher Corporation",
+            "exchange": "NYSE",
+            "lastSalePrice": "$172.00",
+            "lastSaleChange": "-29.11",
+            "changePercent": "-14.47%",
+            "change": "261,469",
+            "marketCap": "$142.34B",
+            "premarketGap": "-3.04%"
+          },
+          {
+            "symbol": "AGIO",
+            "name": "Agios Pharmaceuticals, Inc.",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$34.41",
+            "lastSaleChange": "-5.65",
+            "changePercent": "-14.10%",
+            "change": "118,479",
+            "marketCap": "$2.38B",
+            "premarketGap": "+0.00%"
+          },
+          {
+            "symbol": "EFX",
+            "name": "Equifax, Inc.",
+            "exchange": "NYSE",
+            "lastSalePrice": "$157.50",
+            "lastSaleChange": "-22.58",
+            "changePercent": "-12.54%",
+            "change": "16,685",
+            "marketCap": "$21.44B",
+            "premarketGap": "-1.44%"
+          },
+          {
+            "symbol": "MSCI",
+            "name": "MSCI Inc.",
+            "exchange": "NYSE",
+            "lastSalePrice": "$549.00",
+            "lastSaleChange": "-76.11",
+            "changePercent": "-12.18%",
+            "change": "14,789",
+            "marketCap": "$45.51B",
+            "premarketGap": "+0.59%"
+          },
+          {
+            "symbol": "CALX",
+            "name": "Calix, Inc",
+            "exchange": "NYSE",
+            "lastSalePrice": "$34.00",
+            "lastSaleChange": "-4.35",
+            "changePercent": "-11.34%",
+            "change": "87,925",
+            "marketCap": "$2.45B",
+            "premarketGap": "-14.03%"
+          },
+          {
+            "symbol": "TRAX",
+            "name": "First Tracks Biotherapeutics, Inc.",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$32.85",
+            "lastSaleChange": "-4.02",
+            "changePercent": "-10.90%",
+            "change": "438",
+            "marketCap": "$1.29B",
+            "premarketGap": "-0.03%"
+          },
+          {
+            "symbol": "RGEN",
+            "name": "Repligen Corporation",
+            "exchange": "NASDAQ",
+            "lastSalePrice": "$131.00",
+            "lastSaleChange": "-14.49",
+            "changePercent": "-9.96%",
+            "change": "8,151",
+            "marketCap": "$8.21B",
+            "premarketGap": "+0.01%"
+          }
+        ]
+      },
+      "active_stocks_as_of": "TradingView premarket scan as of 9:07 AM ET",
+      "active_stocks_source": "tradingview_premarket",
+      "news": [
+        {
+          "title": "Tesla Q2 Earnings 2026 Predictions: Why is Nasdaq TSLA Stock Down Today? Can Shares Rebound After a 17% YTD Decline \u2013 Check Key Factors, IPO Capital, Market Cap, Revenue, EPS Forecast & More - The Sunday Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQQ2lPQ2FCZTNBVWZZVTNpOEROV2tmdklDcW9uSzFJd0FuR1AxWFdRSFoybk1QV3VRTFl3UDNmVTlMQ3BhckhUN3owNXAtdEN2RGstTGVmUHpiV1I5OUh3U29uRy1vQ3JNRHlmaks5Z3NNZTBFNllORzAtTzdXc2g5b2t2S3ZGSko0YUMzX2wwX09HazFTTjY2aU1NZWpLSmtnamVBNFM0N29UdWwxUFRqQW8tTkxZWWs5Mkx0N1Z1a2MxZmF4ZTdGeUwyZXRrdHlpMXpBMlg5RWtXNjFoTlNFUl9pVGRCZHZvcWNiOXpMZVBYTXlsNXNQbF8xTl9XQVdOYld3VnVFcFZaLXFFUnpFd2hKUG5rOFdySmowWXhmU2Z2MVNPNGtLUHNJdVZldXoxZXNpUG94QmgwaEw4RUxlVGNjek9aUVpWOWE40gHQAkFVX3lxTE5MSkE4Sl9oRTVqaGZqZllIaV9NaE9nRUJydzdjR081OFZOUVgtR3lremZRU0FZaDNCSjI2YlhOSVQ2aE9VWkpFRWRITGdyX194aEU5Qkd6bm0tMjVWbVpMRUVRR0JJRjZwbzY3UkNwUlJSeHd6T0ZnZXNvckZBQ0RCUTV6ZkdWZFhGWFRoTW00NXowX21KVjhDaV92YnRoSTItQTFKLTVERjF5SkEtc3E3MHJvbEl1cEM1cWNmSmxJclRpczNISkRMZWRFcjBxei1SRXlTMUZVX1ktd2NZY3pTbGNGdmRqaUQtWXpTTURQdzQzNXZPeXQtWVhURXN1Q3c0VnVXYlZlb1FhODRqdTc0c3gzOXBqWC0xOXVfbWtfZi15WmU3NkljNDRrWXpfbUlIQW05cHkyVExCMW96VmZDaHgxeEhwZUc4ZEFYQXQ4Zw?oc=5",
+          "description": "Tesla Q2 Earnings 2026 Predictions: Why is Nasdaq TSLA Stock Down Today? Can Shares Rebound After a 17% YTD Decline \u2013 Check Key Factors, IPO Capital, Market Cap, Revenue, EPS Forecast & More The Sunday Guardian",
+          "published": "Mon, 20 Jul 2026 22:07:16 GMT",
+          "published_sort": "2026-07-20T22:07:16+00:00",
+          "source": "Google News Markets",
+          "priority_score": "6"
+        },
+        {
+          "title": "Dow falls 290 points as Nasdaq steadies on chip rebound, earnings focus - Invezz",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHZXQldoVmdfY3FOSzd1cUZKa1NaV0NtVllQVmFrSU1MSFJVaERqbGU1RWV6SUwxczFSY01lRHFucTRJYTdzQjkzVGJ1QVVUTzNFYlFqRnlNOEcxcGVmbWx2XzVWRkNxNVN3a2p4eTZSbTV4T0RaMmI2OE1xNnVZbmNkYmpfTVpFY3ZWUWRlTTgwUU8tYk54Q1JqSDE1NmNZMGoxMFVlRVU2QQ?oc=5",
+          "description": "Dow falls 290 points as Nasdaq steadies on chip rebound, earnings focus Invezz",
+          "published": "Mon, 20 Jul 2026 20:20:22 GMT",
+          "published_sort": "2026-07-20T20:20:22+00:00",
+          "source": "Google News Markets",
+          "priority_score": "6"
+        },
+        {
+          "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzFUdXktaFo1bUNSYWl4b3AtRGtJOW5fUGtQVzRjMXVoQ2VLLURrOHpqd1pnWmxWc0JZWDVhYk1mcU9maTJaMVM0OGg2UlJ2NzFCVHFjQlcxWjU1SkwxUDUtRWY4NTRIUVlHRmJCUGt4QU5UVUNIZzR1NW5SdVJ3d1dqb044U0NkM0tGS3NVT0htNFNEX0h2Y0g1UTVKa1h0XzBhMVV3QmlZUmRtQ3Z1MU43c2RUNExYamw2STZlYlFWTmxVUUpoV0ZQZnJiUjYwX1dVTg?oc=5",
+          "description": "Stock Market: Will S&P 500 Open Up or Down Today? Benzinga",
+          "published": "Tue, 21 Jul 2026 08:29:06 GMT",
+          "published_sort": "2026-07-21T08:29:06+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "S&P 500 Hits Resistance With Alphabet, Tesla Earnings On Deck - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0J4cmo0N2xUaTlNWldhdTA5TmxrQmdITGRnalJFenJMT3ZSWkRlS09oVWVHUzFvRGtSSjd3TzhQTDEzSm5rZ2cxMV9yOVZkSi1scnVwcjhIQVJmaUpULUlkTzhzLVBzXzRiYjVuU21WNUQxdUFuVXJaaDlyd2otdjllVTE0Uk9WdDQzMFlGNmpkRkJYNTVHLU1CLS1wY1FXX0w3Z3o4bXVEdE5XWnQtdGJhRzZRM1g0THc?oc=5",
+          "description": "S&P 500 Hits Resistance With Alphabet, Tesla Earnings On Deck Investor's Business Daily",
+          "published": "Mon, 20 Jul 2026 21:43:00 GMT",
+          "published_sort": "2026-07-20T21:43:00+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Stock market fades to start the week, with the Dow down 0.6% amid big tech earnings ahead - eciks.org",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TQ0tGZDlVUXYwemxGX0haaDU2OWQ1M014bW5TNVhDQUVaUl8ybzJTMFM1d0JJS2JkanctMHMxZHdfUmtLQzJPeno1S1BDMjdLaVVIQWc2YjNROUhRaG8yRlk0R0VPeW5CS1lNYVNNTjdIOTNX?oc=5",
+          "description": "Stock market fades to start the week, with the Dow down 0.6% amid big tech earnings ahead eciks.org",
+          "published": "Mon, 20 Jul 2026 21:36:00 GMT",
+          "published_sort": "2026-07-20T21:36:00+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Magnificent Seven Dominate S&P 500 Earnings, But That's Changing Dramatically - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObDlDeTc1NXNrYlhQWkNTNnlWbUd4V1ktQ1lBcUlVUHVkU0NrcnRDbl9JX2tYN19ySWU5VUZ1RFEtQkZBc2N1d3lLVkNNa3pEdWh5Y090cWpXdVhmcjVDdXhJS3RYbmx1VDhSRGtnc2JRd2V4b2ZFd1k1bVRiTnNzaQ?oc=5",
+          "description": "Magnificent Seven Dominate S&P 500 Earnings, But That's Changing Dramatically Investor's Business Daily",
+          "published": "Mon, 20 Jul 2026 17:12:00 GMT",
+          "published_sort": "2026-07-20T17:12:00+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Dow futures edge higher as U.S. strikes Iran, earnings loom - eciks.org",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uVkhYMmlxOFFTVWhEWG9IamlkRENIMmJYa19mOGxxMWFWblAwdk1mTUwxNzZnS1lrbmQtX3VidlNmdDhxMFlWZDIzamFZMjBRNktkMlBQMXlXRmdjX1psdzZYTWF1M1BDMVlVdHdoNDc?oc=5",
+          "description": "Dow futures edge higher as U.S. strikes Iran, earnings loom eciks.org",
+          "published": "Mon, 20 Jul 2026 14:40:22 GMT",
+          "published_sort": "2026-07-20T14:40:22+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Micron (NASDAQ:MU) jump: how a 7x earnings multiple compares to a 14x cash flow valuation - TechStock\u00b2",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSGtBN3hLMUVxUW9wZUlYTnZiZGZPeFc2YzFRbDZaREdfbUEwODBLYm5nQVVqWFQyZWdmd3JRV1A2LWtXaUowZXpBTUlYTmFIMUNES1dfVXVGZVk1RUpnbjlIZ21pWGY1VDhMQ1ZGcHZoYWFDTmFTX1UyTXhkN2trNVg4aEVoOWhqc2ppY2Z6bW51U1pVd0tpbzJQcHZCblJyVW92SlFWUFU3dw?oc=5",
+          "description": "Micron (NASDAQ:MU) jump: how a 7x earnings multiple compares to a 14x cash flow valuation TechStock\u00b2",
+          "published": "Mon, 20 Jul 2026 14:32:30 GMT",
+          "published_sort": "2026-07-20T14:32:30+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Dow rises 140 points as chip stocks rebound ahead of Big Tech earnings - Invezz",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMnVZbXl3bXlKTkpDM2NDX1ZwVDBkTjdxT01HTjFfM3AtY2R4MVVpMlVVazlWNkpCeU9EUDJNY210bXhoeEUtbG5SekNGaEJmbzVhQkROSExIX0MzXzVyM3lyeVZiWlhPRlUxSERQNHhUN1BtSFlULUhELVdna3FNWWxVQXZaOE5pX0NzbEo2YktPV0s2dndBcGRTZkxCS2pVVVBtUDFfUmFSaDVxQUE?oc=5",
+          "description": "Dow rises 140 points as chip stocks rebound ahead of Big Tech earnings Invezz",
+          "published": "Mon, 20 Jul 2026 14:17:49 GMT",
+          "published_sort": "2026-07-20T14:17:49+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Alphabet is pouring record cash into data centers, and earnings will show whether that\u2019s paying off",
+          "link": "https://www.marketwatch.com/story/alphabet-is-pouring-record-cash-into-data-centers-and-earnings-will-show-if-thats-paying-off-fad38a2c?mod=mw_rss_topstories",
+          "description": "Investors will be looking for more signs of AI monetization when Alphabet reports its earnings Wednesday.",
+          "published": "Tue, 21 Jul 2026 12:35:00 GMT",
+          "published_sort": "2026-07-21T12:35:00+00:00",
+          "source": "MarketWatch Top Stories",
+          "priority_score": "3"
+        },
+        {
+          "title": "GM\u2019s stock bounces back as revenue grows for the first time in over a year",
+          "link": "https://www.marketwatch.com/story/gms-stock-bounces-back-as-revenue-grows-for-the-first-time-in-over-a-year-d5d95804?mod=mw_rss_topstories",
+          "description": "GM\u2019s stock rises after a beat-and-raise earnings report, as revenue grows to snap a four-quarter streak of declines.",
+          "published": "Tue, 21 Jul 2026 12:21:00 GMT",
+          "published_sort": "2026-07-21T12:21:00+00:00",
+          "source": "MarketWatch Top Stories",
+          "priority_score": "3"
+        },
+        {
+          "title": "Why are gasoline prices rising faster than oil prices? Blame it on the \u2018crack.\u2019",
+          "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
+          "description": "The spread between the cost of barrels of gasoline and crude oil \u2014 known as the \u201ccrack spread\u201d \u2014 has widened sharply.",
+          "published": "Tue, 21 Jul 2026 11:53:00 GMT",
+          "published_sort": "2026-07-21T11:53:00+00:00",
+          "source": "MarketWatch Top Stories",
+          "priority_score": "3"
+        }
+      ],
+      "economic_events": {
+        "today": [
+          {
+            "time": "10:00",
+            "event": "US Leading Index",
+            "actual": "-0.2%",
+            "forecast": "-0.1%",
+            "previous": "0.1%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "11:30",
+            "event": "3-Month Bill Auction",
+            "actual": "3.730%",
+            "forecast": "",
+            "previous": "3.760%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "11:30",
+            "event": "6-Month Bill Auction",
+            "actual": "3.835%",
+            "forecast": "",
+            "previous": "3.860%",
+            "country": "United States",
+            "source": "Nasdaq"
+          }
+        ],
+        "tomorrow": [
+          {
+            "time": "08:15",
+            "event": "ADP Employment Change Weekly",
+            "actual": "",
+            "forecast": "",
+            "previous": "19.80K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "08:55",
+            "event": "Redbook",
+            "actual": "",
+            "forecast": "",
+            "previous": "8.2%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "16:30",
+            "event": "API Weekly Crude Oil Stock",
+            "actual": "",
+            "forecast": "-1.500M",
+            "previous": "-0.056M",
+            "country": "United States",
+            "source": "Nasdaq"
+          }
+        ]
+      },
+      "earnings": {
+        "today": [
+          {
+            "lastYearRptDt": "7/17/2025",
+            "lastYearEPS": "$2.42",
+            "time": "time-pre-market",
+            "symbol": "NVS",
+            "name": "Novartis AG",
+            "marketCap": "$293,397,402,163",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$2.20",
+            "noOfEsts": "4"
+          },
+          {
+            "lastYearRptDt": "7/18/2025",
+            "lastYearEPS": "$1.14",
+            "time": "time-pre-market",
+            "symbol": "SCHW",
+            "name": "The Charles Schwab Corporation",
+            "marketCap": "$176,626,602,091",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$1.53",
+            "noOfEsts": "8"
+          },
+          {
+            "lastYearRptDt": "7/17/2025",
+            "lastYearEPS": "$0.51",
+            "time": "time-after-hours",
+            "symbol": "IBKR",
+            "name": "Interactive Brokers Group, Inc.",
+            "marketCap": "$153,570,904,263",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$0.63",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "7/22/2025",
+            "lastYearEPS": "$1.80",
+            "time": "time-pre-market",
+            "symbol": "DHR",
+            "name": "Danaher Corporation",
+            "marketCap": "$144,264,886,901",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$1.84",
+            "noOfEsts": "8"
+          },
+          {
+            "lastYearRptDt": "7/22/2025",
+            "lastYearEPS": "$6.14",
+            "time": "time-after-hours",
+            "symbol": "CB",
+            "name": "Chubb Limited",
+            "marketCap": "$136,588,814,929",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$6.63",
+            "noOfEsts": "10"
+          },
+          {
+            "lastYearRptDt": "7/22/2025",
+            "lastYearEPS": "$5.48",
+            "time": "time-after-hours",
+            "symbol": "COF",
+            "name": "Capital One Financial Corporation",
+            "marketCap": "$128,150,532,632",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$4.85",
+            "noOfEsts": "7"
+          },
+          {
+            "lastYearRptDt": "7/17/2025",
+            "lastYearEPS": "$2.72",
+            "time": "time-pre-market",
+            "symbol": "MRSH",
+            "name": "Marsh",
+            "marketCap": "$87,773,322,192",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$2.88",
+            "noOfEsts": "9"
+          },
+          {
+            "lastYearRptDt": "7/18/2025",
+            "lastYearEPS": "$2.16",
+            "time": "time-pre-market",
+            "symbol": "MMM",
+            "name": "3M Company",
+            "marketCap": "$83,367,310,998",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$2.27",
+            "noOfEsts": "5"
+          }
+        ],
+        "tomorrow": [
+          {
+            "lastYearRptDt": "7/23/2025",
+            "lastYearEPS": "$2.31",
+            "time": "time-after-hours",
+            "symbol": "GOOG",
+            "name": "Alphabet Inc.",
+            "marketCap": "$4,264,710,840,000",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$2.87",
+            "noOfEsts": "12"
+          },
+          {
+            "lastYearRptDt": "7/23/2025",
+            "lastYearEPS": "$2.31",
+            "time": "time-after-hours",
+            "symbol": "GOOGL",
+            "name": "Alphabet Inc.",
+            "marketCap": "$4,264,710,840,000",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$2.87",
+            "noOfEsts": "12"
+          },
+          {
+            "lastYearRptDt": "7/23/2025",
+            "lastYearEPS": "$0.27",
+            "time": "time-after-hours",
+            "symbol": "TSLA",
+            "name": "Tesla, Inc.",
+            "marketCap": "$1,388,002,871,005",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$0.31",
+            "noOfEsts": "10"
+          },
+          {
+            "lastYearRptDt": "7/22/2025",
+            "lastYearEPS": "$1.91",
+            "time": "time-pre-market",
+            "symbol": "PM",
+            "name": "Philip Morris International Inc",
+            "marketCap": "$300,365,460,801",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$2.04",
+            "noOfEsts": "5"
+          },
+          {
+            "lastYearRptDt": "7/23/2025",
+            "lastYearEPS": "$1.86",
+            "time": "time-pre-market",
+            "symbol": "GEV",
+            "name": "GE Vernova Inc.",
+            "marketCap": "$289,997,244,204",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$3.16",
+            "noOfEsts": "8"
+          },
+          {
+            "lastYearRptDt": "7/22/2025",
+            "lastYearEPS": "$1.41",
+            "time": "time-after-hours",
+            "symbol": "TXN",
+            "name": "Texas Instruments Incorporated",
+            "marketCap": "$258,530,059,139",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$1.91",
+            "noOfEsts": "8"
+          },
+          {
+            "lastYearRptDt": "7/23/2025",
+            "lastYearEPS": "$2.80",
+            "time": "time-after-hours",
+            "symbol": "IBM",
+            "name": "International Business Machines Corporation",
+            "marketCap": "$200,195,564,640",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$2.97",
+            "noOfEsts": "4"
+          },
+          {
+            "lastYearRptDt": "7/23/2025",
+            "lastYearEPS": "$0.54",
+            "time": "time-pre-market",
+            "symbol": "T",
+            "name": "AT&T Inc.",
+            "marketCap": "$152,516,037,428",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$0.59",
+            "noOfEsts": "7"
+          }
+        ]
+      },
+      "notes": [
+        {
+          "source": "NYSE calendar 2026-07-21",
+          "status": "open",
+          "detail": ""
+        },
+        {
+          "source": "Network readiness",
+          "status": "ok",
+          "detail": "connected to scanner.tradingview.com:443"
+        },
+        {
+          "source": "TradingView Premarket Most Active",
+          "status": "ok",
+          "detail": "8 rows with market cap at or above $100M and price at or above $5"
+        },
+        {
+          "source": "TradingView Premarket Gainers",
+          "status": "ok",
+          "detail": "8 rows with market cap at or above $100M and price at or above $5"
+        },
+        {
+          "source": "TradingView Premarket Losers",
+          "status": "ok",
+          "detail": "8 rows with market cap at or above $100M and price at or above $5"
+        },
+        {
+          "source": "MarketWatch Top Stories",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Google News Markets",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Federal Reserve",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq economic calendar 2026-07-21",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Census economic indicators",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq economic calendar 2026-07-22",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Census economic indicators",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq earnings 2026-07-21",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq earnings 2026-07-22",
+          "status": "ok",
+          "detail": ""
+        }
+      ]
+    }
+  ]
+}
