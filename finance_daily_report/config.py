@@ -24,7 +24,7 @@ class Settings:
     timezone: str = "America/Los_Angeles"
     output_dir: Path = Path("reports")
     news_limit: int = 12
-    stock_limit: int = 8
+    stock_limit: int = 15
     watchlist: tuple[str, ...] = ()
     smtp_host: str = ""
     smtp_port: int = 587
@@ -44,7 +44,7 @@ class Settings:
             timezone=os.getenv("REPORT_TIMEZONE", "America/Los_Angeles"),
             output_dir=Path(os.getenv("REPORT_OUTPUT_DIR", "reports")),
             news_limit=int(os.getenv("REPORT_NEWS_LIMIT", "12")),
-            stock_limit=int(os.getenv("REPORT_STOCK_LIMIT", "8")),
+            stock_limit=int(os.getenv("REPORT_STOCK_LIMIT", "15")),
             watchlist=parse_csv_symbols(os.getenv("REPORT_WATCHLIST", "")),
             smtp_host=os.getenv("SMTP_HOST", ""),
             smtp_port=int(os.getenv("SMTP_PORT", "587")),

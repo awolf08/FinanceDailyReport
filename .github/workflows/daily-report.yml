@@ -107,7 +107,7 @@ jobs:
         env:
           REPORT_OUTPUT_DIR: reports
           REPORT_NEWS_LIMIT: ${{ vars.REPORT_NEWS_LIMIT || '12' }}
-          REPORT_STOCK_LIMIT: ${{ vars.REPORT_STOCK_LIMIT || '8' }}
+          REPORT_STOCK_LIMIT: ${{ vars.REPORT_STOCK_LIMIT || '15' }}
           REPORT_WATCHLIST: ${{ vars.REPORT_WATCHLIST || '' }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT || '587' }}
