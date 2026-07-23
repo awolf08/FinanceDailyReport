@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-23
 
-_Generated: 2026-07-23 08:23:40 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-23 09:23:28 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -36,6 +36,19 @@ _Generated: 2026-07-23 08:23:40 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 9:23 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session.
+
+- Market movers source unavailable.
+
+Source health:
+- NYSE calendar 2026-07-23: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Yahoo Finance Most Active Stocks: unavailable - 500 Server Error: Internal Server Error for url: https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?formatted=true&lang=en-US&region=US&scrIds=most_actives&count=40
+- Yahoo Finance Most Active ETFs: unavailable - 500 Server Error: Internal Server Error for url: https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?formatted=true&lang=en-US&region=US&scrIds=most_actives_etfs&count=40
+- Yahoo Finance Stock Gainers: unavailable - 500 Server Error: Internal Server Error for url: https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?formatted=true&lang=en-US&region=US&scrIds=day_gainers&count=40
+- Yahoo Finance Stock Losers: unavailable - 500 Server Error: Internal Server Error for url: https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?formatted=true&lang=en-US&region=US&scrIds=day_losers&count=40
 
 ### 8:23 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 11:23 AM ET.
@@ -107,7 +120,6 @@ Source health:
 ## 4. Latest Market News
 
 - **Google News Markets** (Wed, 22 Jul 2026 20:43:11 GMT): High priority | [Dow flat as S&P 500, Nasdaq slip before Big Tech earnings, oil climbs - Invezz](https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3hRVVlzbjVzYUZ3YmNzUUVuSWlzcVZnX2dSVi1Cc2N1MjFja281Qmg2amY5M2U2UXMtNWxBUWhxUUdwT0NqMFNnUzZUOHhndWUxd3R4STZkM2hBRl9ET1UzZU14TlR4NFc4cl8zTTlrMmJfaWpYdXhsVndqQ0hqNDM0eFc2dTEwOFlNNHhRbUs4dUZvRHpuZkIwaWVkR3VHeUN5Z29JUzRLdjBRTjg1RQ?oc=5)
-- **MarketWatch Top Stories** (Thu, 23 Jul 2026 12:16:00 GMT): High priority | [Japan’s $1.8 trillion pension giant might bring money home. That could jolt U.S. stocks and the Fed.](https://www.marketwatch.com/story/japans-1-8-trillion-pension-giant-might-bring-money-home-that-could-jolt-u-s-stocks-and-the-fed-908c66d5?mod=mw_rss_topstories)
 - **Google News Markets** (Thu, 23 Jul 2026 12:06:00 GMT): High priority | [Dow Jones Futures Fall As Oil Prices Top $90; Google, Tesla Skid On Earnings, Capital Spending - Investor's Business Daily](https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlAweGpTejZLSld4UHh1WklPcHF5aXcybHJRN1dLVk1QaDJ1eEFEdndiallicDduZjV2OVFOWEYwUWxsZzVweHBYNjlnVldUSUNpcTNxcWd1cFM2MXFFQ21tVm00cFdLZ1Y4enpaX1hQOEhxMnNsUm5JOUVBa2s2OWh3ckx6QW5fVTRHZXFsRWNTLUJSVjhuYzN4VUV6eW8?oc=5)
 - **Google News Markets** (Thu, 23 Jul 2026 14:21:38 GMT): High priority | [US Stock Market In The Red On Tech Earnings, Surging Oil Prices - Moomoo](https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzlteFFQV0JKUnNndjVVQWpUaHlfTGp3d1JmbUFGSG92SEtpQmZWSzlxUTNqZVZkUDNXUTJUQ1YzMjhrWG5Wd2tLR0dYc25VQjdMUmlVNDFqX3BtYUZxMk9LMHMyOTdQOVhBMGlHRkxrR2lxX0lvZVZRbHhUQkVWSjNhWFJsQlhXVU9wVkQwNkZrVy1HX2Z4aw?oc=5)
 - **Google News Markets** (Thu, 23 Jul 2026 13:42:51 GMT): High priority | [Federal Reserve: Hike pricing questioned – TD Securities - FXStreet](https://news.google.com/rss/articles/CBMinAFBVV95cUxOaXBXTVRBZXJ6cUd1dGtkTWstNkRjNF9RVDZsdlFQTldCZl91al9jXzNkRF9sRFVTYWxXUDBpcE43QTJnTjNnVjg3TGc1a1hObWoxenNkbDhWSlVndzZUZ0VmTnotZWlRZUlsR2hlQWw1OXBBMWcyRUt6dGNzeDVhQzNDa21paXRTcjNIY21USmdrbWtmYmhKLTVxeDk?oc=5)
@@ -118,6 +130,7 @@ Source health:
 - **Google News Markets** (Wed, 22 Jul 2026 22:50:00 GMT): High priority | [Stock Market Today, July 22: Nasdaq Slides Prior to Tesla and Alphabet's Earnings After Market Close - The Motley Fool](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOWd3XzZ6bm9TcWp3dkszcXdfa3hTYWtNX0o0WC1UcG55cFpZa3gxbWNOQmgyOWNRU1NtWkZPV2xOSnRuZkx4djhJSGNsTklWU0E1cDdxcXZOdG9YX2NUUnV6dVMxa1JLek5GZXNaY3dYSFRtdmRwaTg2Nk5qbGZBLVE4VlJUTUpYcWx2bVVJY3RXUDNoelNTY2NYeVFIOEhQaE5LSk5sQkI1S3cxeXdYN05tT0RWR0ZEMXJxQ1pOUnZXemtnMlBzdmdoelpyRWgzb1RVNktHMF9UVmNySDY0dHlfOEF5QmdEemdzcGpESkc?oc=5)
 - **Google News Markets** (Wed, 22 Jul 2026 22:42:21 GMT): High priority | [Stock Futures Point to Lower Open on Big Tech Earnings Day as Oil Prices Jump - MSN](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeGx6LXJsR1VLTERjR0pOZnFJanF3SmllbXd4T1hLTExhbEJqT3FzYlc1akNTMGg1RlpMbW5RU21FYUgzUlF5ZDRpZ0I3SU9qRVI5V0tzdTl6bG1TZ2V6emU0LXJoaGVZb0dtalZCeHktbW51UHdrdHludDctZHRwTWQyYlZmbGN4X3lTR0JsS0FxOE5XcVN4YlZvc1YzNE5NdlVkVWM4SWo4MC1CampMU294SHBlM3R0ZmZoMTR4UHY3YkJBWHpHbmJ3dGo2b0FIQ2RucjJiZjU4bjROQ0hSQ0ZWRUFHaEtJQm1lVjU5N2NHaDY2S1dSSk83SWI3cG1ORnItajR4Z3dGSWRJRGFJ?oc=5)
 - **Google News Markets** (Wed, 22 Jul 2026 22:14:51 GMT): High priority | [[New York Stock Market] Major Earnings Caution, Surging Oil Prices Lead to Lower Close - 아시아경제](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02c1Zkb2dnWkZldFNfbHQxNGRxcm1UOEpvY1JzR29vaUEzZnhvRkRDcEpyRUpNZmgtSDJSS1FacnZ2b3lKaDlXTk42aEhRT2tNUGY1cl9uX3REMmluQnZXZkxoeTA?oc=5)
+- **Google News Markets** (Wed, 22 Jul 2026 22:12:30 GMT): High priority | [Stocks Fall on AI Jitters as Oil Lifts Bond Yields: Markets Wrap - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdXE2ZW9PcjVqTG5idHBwdnBCNzNpQVo2WGZKaVdrZVhrNENlUWlQeXI3ajk1MG12ZUVOYURBdDVzUThwRnAzTkZ6c3FSUWpOOE51Y3MwVFptLTdyZXh5OC0yRVdTdzVoQm1ndEpIclhTNjh2dlRIbDVzME1CaHBJMnllUWhlLWoxd0JMNVRfSkFaYmRH?oc=5)
 
 ## 5. Economic Calendar
 
@@ -159,10 +172,10 @@ Source health:
 
 - NYSE calendar 2026-07-23: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Yahoo Finance Most Active Stocks: unavailable - 500 Server Error: Internal Server Error for url: https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?formatted=true&lang=en-US&region=US&scrIds=most_actives&count=40
+- Yahoo Finance Most Active ETFs: unavailable - 500 Server Error: Internal Server Error for url: https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?formatted=true&lang=en-US&region=US&scrIds=most_actives_etfs&count=40
+- Yahoo Finance Stock Gainers: unavailable - 500 Server Error: Internal Server Error for url: https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?formatted=true&lang=en-US&region=US&scrIds=day_gainers&count=40
+- Yahoo Finance Stock Losers: unavailable - 500 Server Error: Internal Server Error for url: https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?formatted=true&lang=en-US&region=US&scrIds=day_losers&count=40
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
