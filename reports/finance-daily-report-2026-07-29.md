@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-29
 
-_Generated: 2026-07-29 11:15:18 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-29 13:10:43 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -39,6 +39,52 @@ _Generated: 2026-07-29 11:15:18 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 1:10 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Jul 29, 2026 4:08 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $6.84 | -1.2 |  | 206,361,402 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $15.23 | -1.51 |  | 190,985,053 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $190.01 | -7 |  | 140,849,204 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bull 3x Shares | $91.9975 | -17.5425 |  | 138,056,582 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.605 | -0.035 |  | 136,964,880 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $81.88 | -4.42 |  | 133,185,550 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $44.72 | -3.05 |  | 118,845,896 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[DFNS](https://finance.yahoo.com/quote/DFNS/)** | T3 Defense Inc. Common Stock | $50.22 | +26.22 | +109.25% |  |
+| **[SPRC](https://finance.yahoo.com/quote/SPRC/)** | SciSparc Ltd. | $9.09 | +3.76 | +70.5441% |  |
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[LMNX](https://finance.yahoo.com/quote/LMNX/)** | Defiance Daily Target 2x Long LMND ETF | $7.3029 | -6.7998 | -48.2163% |  |
+| **[NIPG](https://finance.yahoo.com/quote/NIPG/)** | NIP Group Inc. | $9.01 | -6.17 | -40.6456% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 263.475 | +25.7250 | +10.82% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 429.49 | -65.4600 | -13.23% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 152.85 | +5.9900 | +4.08% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 287.26 | +8.8600 | +3.18% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 335.95 | +9.3900 | +2.88% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 335.145 | +8.5750 | +2.63% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 226.21 | -5.1800 | -2.24% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 129.555 | -4.0350 | -3.02% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 387.47 | +11.2100 | +2.98% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 78.84 | -1.8700 | -2.32% |  |
+
+Source health:
+- NYSE calendar 2026-07-29: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Jul 29, 2026 4:08 PM ET
+- Nasdaq after-hours article 2026-07-29: skipped - No matching After Hours Most Active article found yet
 
 ### 11:15 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:15 PM ET.
@@ -245,16 +291,16 @@ Source health:
 
 - **Federal Reserve** (Wed, 29 Jul 2026 18:00:00 GMT): High priority | [Federal Reserve issues FOMC statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm)
 - **Google News Markets** (Wed, 29 Jul 2026 13:17:48 GMT): High priority | [U.S. Futures Hold Steady as Investors Await Federal Reserve Decision: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0s1WWd2RHJKSE5SNFhseXJoUm9JdXB0VFg5Mk5lM3dZMzZyM3JZQ1lIM25NWkJiWFlGYjRDcjBsMHB1czJuZzFjZEVrMDZQMVZIQ1ctMzZ3ejEzUnIwSi1XRDNxOHBlcGhUYllqN2p2dDhaSzQ1bWFqbFc3QnZLVE9xdGEwbmQtUEgxNnBZaTE4OWhNRWFNSV9vRFE?oc=5)
-- **Google News Markets** (Wed, 29 Jul 2026 10:13:20 GMT): High priority | [Markets Hold Steady Before Fed Announcement as Microsoft and Meta Earnings Take Center Stage: Dow Jones, S&P, Nasdaq, Wall Street Futures - Yahoo Finance UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS05VY2dDMEE4TmQtRHJ4QW9qQWw4SUw0bE05WHM5Y2ptenFGLWlrNWxWNWFLeS1qcnVwUE1Zcnd5eDFlM1haMWZNa3FrWTZ5THVBTnhtMmttcU1XUENQemdqS2ZDZkJEbEp2ZzBRajg5X3F0MUtjMDdiSVVvbmxYNzFGc3BsWGRKVHN1YkV3?oc=5)
 - **MarketWatch Top Stories** (Wed, 29 Jul 2026 17:12:00 GMT): High priority | [The dollar’s rally matters — but it still won’t help Fed’s Warsh win the inflation fight](https://www.marketwatch.com/story/the-dollars-rally-matters-but-it-still-wont-help-feds-warsh-win-the-inflation-fight-ce278d40?mod=mw_rss_topstories)
-- **Google News Markets** (Wed, 29 Jul 2026 18:10:55 GMT): High priority | [A divided Federal Reserve holds interest rates steady despite high inflation - NCPR: North Country Public Radio](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS0dPbE5VZnNTOEtwcDhkU1l4N19TLVVnQjNsR0FVN3hUS0lzdW1FcHAxRlhTQXNVZWEteGpyWVljVm05OGdNZ1hnMkZOMU5ncjVVT2RkcDlKcjdqSWdjQkdxREUtVkJCOGpkRTM2ZE1rcnl1N1JoeE9UVHJVb2lXM0NINXRhVF9kWUpZWjNyZ2toUm5ITTUwTHZjcEZLbVV1VjVPUUZ5TGs4RC1pZFhaOGt5RXItTXVrcHBIYlpnckgzaW4tYVdJZDlyc1drT2R5N2xtQUxB?oc=5)
-- **Google News Markets** (Wed, 29 Jul 2026 16:22:49 GMT): High priority | [Why is US Stock Market Down Today? Dow Jones Falls 800 Points as Oil Prices Surges Nearly 7% Before Fed Rate Decision Amid Middle East Tensions | What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMiwwJBVV95cUxNX3dMQTlISTc3WloxSUVmb1NJcXYzNERodDNBRVpJRUxicjhWTTQwa285RjExUGc0dGVQMEJCZFB6bVlzRGRENEFaRXhQN1p5QlI3MjNJWm5RT2RVeF9yOTljZHdCY19faUhhYlE5amlqUFRjNDQ3elNidjgwVGlJQTYycEJhSHZyLVIxT1YtN1NtSndXX0dtckt2b2R3S3BUdjhTYTAwNUVxMUlwQ0JOdWRJbnkzUjUyaWtYT2xsV25mM2hjd3ZlOXpUMTRrVV9CWTFaYng0TGJwc01kWGxCbWR3bjlnUGtiXzRfTDRENENnMUJGaUJLeWZZcXplaTVfUjRHRUhYd29MdEktY045cDZBUEx0R1k4NGFBOENHNTUyczJUSHZnM1VRWm5rUHpjbU1SVi1heXZBTnVxZWJDVXdKMNIBwwJBVV95cUxNX3dMQTlISTc3WloxSUVmb1NJcXYzNERodDNBRVpJRUxicjhWTTQwa285RjExUGc0dGVQMEJCZFB6bVlzRGRENEFaRXhQN1p5QlI3MjNJWm5RT2RVeF9yOTljZHdCY19faUhhYlE5amlqUFRjNDQ3elNidjgwVGlJQTYycEJhSHZyLVIxT1YtN1NtSndXX0dtckt2b2R3S3BUdjhTYTAwNUVxMUlwQ0JOdWRJbnkzUjUyaWtYT2xsV25mM2hjd3ZlOXpUMTRrVV9CWTFaYng0TGJwc01kWGxCbWR3bjlnUGtiXzRfTDRENENnMUJGaUJLeWZZcXplaTVfUjRHRUhYd29MdEktY045cDZBUEx0R1k4NGFBOENHNTUyczJUSHZnM1VRWm5rUHpjbU1SVi1heXZBTnVxZWJDVXdKMA?oc=5)
+- **Google News Markets** (Wed, 29 Jul 2026 18:23:40 GMT): High priority | [S&P 500 down after Fed holds rates unchanged - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw?oc=5)
+- **Google News Markets** (Wed, 29 Jul 2026 18:15:21 GMT): High priority | [Federal Reserve votes 9-3 to leave key rate unchanged despite persistently high inflation - LancasterOnline](https://news.google.com/rss/articles/CBMimAJBVV95cUxOLXNGNVRyTHZ2elFsZ3FVR19NanYxMWZkaXB3eW81UmZlYkd0UXZBRWwtY2JZWFBIUFdDX1dlck5vVWdyTW1mdjN5U3lETXFsUU9ZMzR2cTJTTDJ0OE95OGVYRHd4MGZFU2lyQ1NoM3Q0OTVlbEhzYmVLTjhzbndyM3gwbi03eWMyRVlOV2hBaTExV1ItRlRYQ19HTzlXRTZqVEo1Wk9DNW9Tck5XZDhfcElCTklLcXlGZHBzbjBsTGpmVDdveDRZYmRVQnh3R3ZFUXhvTmU1NUpCT1lvQjdVWFRFaWZxNTJ0T0d3VVoxYnRmdmdCNENNeC0yOVBuYmJ3Z0dlOFdNWUFYYnN2bjd4b2JIdERKU3NC?oc=5)
+- **Google News Markets** (Wed, 29 Jul 2026 16:22:48 GMT): High priority | [Why is US Stock Market Down Today? Dow Jones Falls 800 Points as Oil Prices Surges Nearly 7% Before Fed Rate Decision Amid Middle East Tensions | What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMivgJBVV95cUxQbW1kREtxYU5yZVFwbHJXQXNxenptTUZfcktyYmZja0Jha1dKcVF4bVFaUG40aE1Teno2U196eVZfTkUtUlp4TWxuaFpGN3BXcGlTMGxzR2x0T1pVbDR5cGE1RGk0dE9MZ20wc0Y1QTJCbjVTU1ZSX2tYWEJudjlrUmpKUUozV1VIZDF4SFBhVG1XczZGNGlCMlhlZGctMkxMal9JUFdaR2hVSUE4UVRBeGZPeWxwRU56QWZqM2Fxcy10Y09xT3NabjdvREpUejlZcGYxemRyTFFteE9mQ21sbFdFX1lUWHJWSko4aHVvQU53M1VwWl9EVkpCdDVuaVFsVmFrNTRVVHJJVlF5ZGwwVl8wcDV5ZWpyZ2xVSnZnR29CSkZ0MjBlX2lwUXBjc1V2U1VKdVZ6ZEZzMTA5Z1E?oc=5)
 - **Google News Markets** (Wed, 29 Jul 2026 15:38:00 GMT): High priority | [US Federal Reserve expected to hold rates as Iran war clouds inflation outlook - The Economic Times](https://news.google.com/rss/articles/CBMiggJBVV95cUxPN1ZKMFVVMGJaWnRFb1ItV1d5TDVkSXpOU3lqUFdvWWtGWkVVQ1lKVjJiMjVmLUNIMENZRHFnQS04Y3FwYU5ac0dxSy1WbUJfd3VpdU03RnNLQlZVNmlidWZlX0lDN0Uwa0laVW5ZdmtyckJwRWpjSk55YVBkNTFUYWlHbEo2V2xoZ0tfOE0zeW1qQWI1ZmQ3QkRhRXNuVlJmZVEwVS1YbG5yalh6QWJqY0ZwSlR4a0VhUXFDMVZ5R2dRMHRSSV9zcVFlSDlMQlF2X09Db01CRVZpZmRsNmlWWVlfZWJxbHdQTk4wNnVxaW52SHlxU3ZsNHFIeUhCbV9VUUHSAYICQVVfeXFMTzdWSjBVVTBiWlp0RW9SLVdXeUw1ZEl6TlN5alBXb1lrRlpFVUNZSlYyYjI1Zi1DSDBDWURxZ0EtOGNxcGFOWnNHcUstVm1CX3d1aXVNN0ZzS0JWVTZpYnVmZV9JQzdFMGtJWlVuWXZrcnJCcEVqY0pOeWFQZDUxVGFpR2xKNldsaGdLXzhNM3ltakFiNWZkN0JEYUVzblZSZmVRMFUtWGxucmpYekFiamNGcEpUeGtFYVFxQzFWeUdnUTB0Uklfc3FRZUg5TEJRdl9PQ29NQkVWaWZkbDZpVllZX2VicWx3UE5OMDZ1cWludkh5cVN2bDRxSHlIQm1fVVFB?oc=5)
 - **Google News Markets** (Wed, 29 Jul 2026 12:30:00 GMT): High priority | [Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers - Investor's Business Daily](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQnhEWTY2WE1wRE9OUUluNGlqRFdXZDI0bmdOR3hvWV9JcEd5WVktVWZOeFBmNzBEakF2eEduR2JjUEFQdHJQZEk3Y2c3dVFBa3UtYXNDLUtqejJ1UHpXeGxLTDNVdEU5UGxfQk5xT3FTZGx2MWhScHdpZWtoektndVVJS3lYOEt6Qm5hUDlIN25wdkI3aWdadkxUOUpFejFWUy1LQ3NVSWVGOU9IbDV0eFl4VDEwU01pM1hDenJHeHJEQ1RZVTk2WGxvejl0V1k4Wklncw?oc=5)
 - **Google News Markets** (Wed, 29 Jul 2026 12:07:25 GMT): High priority | [【US Pre-Market】Microsoft, Meta Earnings in Focus as Fed Decision Looms; Oil Surges Nearly 5% - TradingKey](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSktJUHVuMld3dldqWDRMbmZXaVRoN0dYVGNjYVdPMjNlWG9QY0ZDdGtVU01aMGduVGE3emJNWWdqZFVoeG55YUdrUHRuekQ1amZwcVRRZVVGVW1tWkN5WlFtcG55NEhpc2gtTEQ3cGF5aTZFMDlPUk1FZWVpaGRhSEVOMVQ3MnNZZ0xVWEtOMWlZNDNvakZDV1RMTmNhYmJEdGVxeGttbFRrRGVtQVRNMXZ5dEhOdkdiYV9tQU9GNnNIMDdpMEhaQWdtaU5JcTViZEtnYm5vVllIVTQ?oc=5)
-- **Google News Markets** (Wed, 29 Jul 2026 08:54:09 GMT): High priority | [Bond yields rise ahead of the Federal Reserve's decision - المتداول العربي](https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFVNaWIwRzhfMzZuLVhReE5KNUJRWlVTdzJZSWxaTkNjZE9uaG41cnJyWFVOUXhSSkJ6dHRnVXB3T2RzeXBlSFpSdGtiRzlNTkc5N3pEbFFLMXpuQzNNSlRZWnJ4bTB4Tk5Od1lxSnI3Y1U1MWZxVkhENzlfRkdiTHZTeFVqSXl6OE9XaFFmUFhXaWdFODNEb0xhYjJ2MU4tcGx0MHFKZnk4MkxHYkl4aUFR?oc=5)
-- **Google News Markets** (Wed, 29 Jul 2026 07:50:26 GMT): High priority | [Will the Federal Reserve maintain interest rates The expected scenarios and their impact on the dollar - المتداول العربي](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRDgtcDFySXl2WTRHMDVCa2hLWFUwalpsdU5DMlA2R1ZzamhKY1dGdGFldk5tb1M1bGtNNzkzeWlrRUZkZWlfNTdiT0RBNzcwUkdvcmpkanNxNUFGZHF1cERVdTBHNlFCdmJnckJKMVdZek5NbElMOVRzZlZNY0FUUmE0S3d6UWVuQllhSHJnbkFqV1ZUdE55SG4yN0FwdGJZQ1VOMHdDakZMdTlsWUZHckExOGNqSFAzelp2TjRvWGw0YU02dms1X1kxN2ltM0pyN3M4ZG85UkwyYmVEWjBzT3hiM2xIU3RYZ2c?oc=5)
-- **Google News Markets** (Tue, 28 Jul 2026 22:12:00 GMT): High priority | [Dow Leaps In Mixed Stock Market Ahead Of Fed Decision; Nucor Jumps On Earnings, Nears Entry - Investor's Business Daily](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN3RORmRGSVpoY0V1eFNrLVlTUjlyQ2xDellHbV9xMTl2NFRXWnFOOEJVLV9MWWhTMGN2aTEtZnVKdFFXb2VSZ0VleUJvQXRYQU1lZDhxTUpBMWJpejMwVlVjNEl2Rk9VT2FkYzkzc1c1eFF6VmpwUDItUXBLZmRCbHZicTNnYWh4X1JIa09GRFBOekY1S0hqSlhBMVZqalRMS01WY3FaWC1aXy1Wb0s0blM0YXkzSXpscUxSdmk4YS1iQQ?oc=5)
+- **Google News Markets** (Wed, 29 Jul 2026 09:00:00 GMT): High priority | [A divided Federal Reserve holds interest rates steady despite high inflation - NPR](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXhqTkhuVFhZUVVRaFdXYXp2OTJ2TXJtVEFFNEp6YVFLbUZKS25KT2JDaGdCbjdGWnVqRVN6NVBfMjI5SEwwU2F1VDF0VndmYWE0U1JzQnRwMjJhZjFNWU1vbjJ2WjduQ1F3cFQ1TVBSQllFUVotX2R4MEw2UXBtTWF1eEdUYjRjc1pBSU9n?oc=5)
+- **Google News Markets** (Wed, 29 Jul 2026 08:54:09 GMT): High priority | [Bond yields rise ahead of the Federal Reserve's decision - arabictrader.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFVNaWIwRzhfMzZuLVhReE5KNUJRWlVTdzJZSWxaTkNjZE9uaG41cnJyWFVOUXhSSkJ6dHRnVXB3T2RzeXBlSFpSdGtiRzlNTkc5N3pEbFFLMXpuQzNNSlRZWnJ4bTB4Tk5Od1lxSnI3Y1U1MWZxVkhENzlfRkdiTHZTeFVqSXl6OE9XaFFmUFhXaWdFODNEb0xhYjJ2MU4tcGx0MHFKZnk4MkxHYkl4aUFR?oc=5)
+- **Google News Markets** (Wed, 29 Jul 2026 07:50:26 GMT): High priority | [Will the Federal Reserve maintain interest rates The expected scenarios and their impact on the dollar - arabictrader.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRDgtcDFySXl2WTRHMDVCa2hLWFUwalpsdU5DMlA2R1ZzamhKY1dGdGFldk5tb1M1bGtNNzkzeWlrRUZkZWlfNTdiT0RBNzcwUkdvcmpkanNxNUFGZHF1cERVdTBHNlFCdmJnckJKMVdZek5NbElMOVRzZlZNY0FUUmE0S3d6UWVuQllhSHJnbkFqV1ZUdE55SG4yN0FwdGJZQ1VOMHdDakZMdTlsWUZHckExOGNqSFAzelp2TjRvWGw0YU02dms1X1kxN2ltM0pyN3M4ZG85UkwyYmVEWjBzT3hiM2xIU3RYZ2c?oc=5)
 
 ## 5. Economic Calendar
 
@@ -303,10 +349,8 @@ Source health:
 
 - NYSE calendar 2026-07-29: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Jul 29, 2026 4:08 PM ET
+- Nasdaq after-hours article 2026-07-29: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
