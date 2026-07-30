@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-30
 
-_Generated: 2026-07-30 11:44:36 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-30 13:13:07 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -36,6 +36,55 @@ _Generated: 2026-07-30 11:44:36 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 1:13 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Jul 30, 2026 4:09 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $10.46 | +3.56 |  | 184,389,172 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $91.13 | +9.25 |  | 135,618,311 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $195.04 | +5.03 |  | 126,442,332 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $52 | +7.15 |  | 124,548,501 |
+| **[MSFT](https://finance.yahoo.com/quote/MSFT/)** | Microsoft Corporation | $451.1 | +60.56 |  | 109,108,383 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PN](https://finance.yahoo.com/quote/PN/)** | PN Smart Energy Limited Class A Ordinary Shares | $23.67 | +12.95 | +120.8022% |  |
+| **[BRUNW](https://finance.yahoo.com/quote/BRUNW/)** | Boost Run Inc. Warrant | $8.48 | +4.17 | +96.7517% |  |
+| **[DFNS](https://finance.yahoo.com/quote/DFNS/)** | T3 Defense Inc. Common Stock | $84.98 | +34.76 | +69.2155% |  |
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[IREZ](https://finance.yahoo.com/quote/IREZ/)** | Tradr 2X Short IREN Daily ETF | $15.32 | -23.9 | -60.9383% |  |
+| **[NBIZ](https://finance.yahoo.com/quote/NBIZ/)** | Tradr 2X Short NBIS Daily ETF | $19.75 | -22.86 | -53.6494% |  |
+| **[BEZ](https://finance.yahoo.com/quote/BEZ/)** | Tradr 2X Short BE Daily ETF | $12.7 | -14.19 | -52.7705% |  |
+| **[SNDQ](https://finance.yahoo.com/quote/SNDQ/)** | Tradr 2X Short SNDK Daily ETF | $29.36 | -31.43 | -51.7026% |  |
+| **[CCB](https://finance.yahoo.com/quote/CCB/)** | Coastal Financial Corporation | $39.91 | -30.75 | -43.5183% |  |
+| **[CORD](https://finance.yahoo.com/quote/CORD/)** | T-REX 2X Inverse CRWV Daily Target ETF | $6.7 | -5.02 | -42.8328% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 247.94 | -1.2400 | -0.50% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 485.59 | +30.9700 | +6.81% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 152.09 | -1.0200 | -0.67% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 205.39 | -83.0200 | -28.79% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. | 333.71 | -3.00 | -0.89% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 333.7 | +1.1000 | +0.33% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 235.94 | +5.0800 | +2.20% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 127.79 | -5.2300 | -3.93% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 387.84 | -5.2600 | -1.34% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 78.23 | -2.1000 | -2.61% |  |
+
+Source health:
+- NYSE calendar 2026-07-30: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Jul 30, 2026 4:09 PM ET
+- Nasdaq after-hours article 2026-07-30: skipped - No matching After Hours Most Active article found yet
 
 ### 11:44 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:44 PM ET.
@@ -244,14 +293,14 @@ Source health:
 - **Federal Reserve** (Thu, 30 Jul 2026 15:00:00 GMT): High priority | [Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm)
 - **Google News Markets** (Thu, 30 Jul 2026 09:11:33 GMT): High priority | [Fed Decision and Big Tech Earnings Dominate Market Attention: Dow Jones, S&P, Nasdaq, Wall Street Futures - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzd2OEN1dThvYVBud1FQU3JiVGZ6bHpkVEZtcXE3OWI0SlBYdWxZa0FCT3gzVE95bG9nXzBXQnluRnJ0eXQyb1VlcDZHNG13VUpWT3VSN09JSG5xNDRkSDVVbkp6NWVpWUY3MjFsZmRDQThKYmNaUDI2cEwwb3BKWEcwLUVNa1pxTlYwS1hZYzhya0VHUGZHVDdTZw?oc=5)
 - **Federal Reserve** (Wed, 29 Jul 2026 18:00:00 GMT): High priority | [Federal Reserve issues FOMC statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm)
+- **MarketWatch Top Stories** (Thu, 30 Jul 2026 19:02:00 GMT): High priority | [Warsh’s Wall Street cred takes a hit as investors doubt the Fed chair’s inflation-fighting resolve](https://www.marketwatch.com/story/warshs-wall-street-cred-takes-a-hit-as-investors-doubt-the-fed-chairs-inflation-fighting-resolve-82be4f77?mod=mw_rss_topstories)
+- **Google News Markets** (Thu, 30 Jul 2026 19:55:28 GMT): High priority | [Microsoft earnings boost Wall Street as long-term Treasury yields surge - The American Bazaar](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSVVPU2EtdnhqQmNzOGtrNzVSWEFycU56Zm14bzZkNEtKcWV2QW1XNktzRnU3YVFqeUhfbkcxd09OTzQwRE9iTmpkWWFBcWdQWTlvM3hIdXV0Ui1KbnNsQWYyM1ZHaHdYUUYweDI5Y2FWc0hIQmZkUVVPQUtEdWJxNHp2OWlYNm56bGtROU1XV25KT0dKMmlSUjNUN1ozUjZZb0VKWTg2ZXNFU2xQeWctdkF4WFNEWUlFamJ4U2ZINFg?oc=5)
 - **Google News Markets** (Thu, 30 Jul 2026 16:14:20 GMT): High priority | [S&P 500 Today: S&P 500 Index Trading Up Today +0.93% Amid Big Tech Earnings, Fed Rate – Check Market Trends, Key Drivers & What This Means for Investors - The Sunday Guardian](https://news.google.com/rss/articles/CBMilwJBVV95cUxNOXhJMWNQVldsOVRzUXZ4RVpFa2FYSGRGOGZnWWpEZlllenAyaUZpUzlmU0h3OGc5NlhqMUdVX2tnRndWYUNEQ1Z0aTRRZjBkV2FwZ3RUSFlsdkllQmNyajlzeXc0a0VIY2JZdC1CVDd1aWdZM3pXSVlqU2J6RUw4TnBleVhtQXAySldMbXdSZ2FWbXRLVmdUWDUzbmg1V1dPeGhVLVZiR29OMjlDcjJTMVRrYVUxS2V3bmYtMm1YWGluT0tRamtKU1doVE5mblR0V18wcnZoekNPTnFzNC01YWowRVpvV0ViQjY0RUFlS0hIc1hSNTdjN3hBZGtLWE1MckJOWFY4X0JQbUdDZGNaUGFMSEk2SkXSAZwCQVVfeXFMTTFFVUREdzM0VnFJREZWVWhGTDZFZkZCRWFMbmd3aVU5QUVzLU03bHQ0UE8tczIxM3M4YTM3UzJXZ0MtWm5KcU1OcW5sb2x6bzlCZ05PWXNqc19STjBIN0wyQTU5Qzk4a1cxcUFjcERGQ3I1OFQ5ZFhJT214M1djWTl1QmV1eDV6Nko1TmRXVDd6SkZvcGlCNklFYTY0NFNuQ2F5bUY4SW5NRHQ3a2thbHlJT3REeXdrUkNubmFDV05FOWxXUjhTQWVMSjZCcjFZREZoMDRYbTJ4MmhuSWlVUHN2RzROUDdpcmZNVVZqWXdEbExRU21CRWh1aXNVZlloeTdDTkxXcFhRM3YwVFJHZS1MSHdIQUN2MzFpdm8?oc=5)
 - **Google News Markets** (Thu, 30 Jul 2026 12:39:54 GMT): High priority | [Warsh's inflation problem, Meta's weak guidance, Chipotle earnings and more in Morning Squawk - CNBC](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWE9tRlQ1cjZRSzI2VlAyY3pNYW1uVHBGYUpCd25td2ZkaUxuVEZxcXhJMEhoX1RWcmlpT2xoa2ppMTZNWnhZY0FVdk1ORVlmLVhTOTFBWnJ2WGxGN2lnVjB1QkxmUDVWNHBlRVI4Q1owZFIxRHJVT0NNWndVcFFNR2Z2aFVGSE5wdHNv0gGQAUFVX3lxTFBaME83a2JuRkJZV2dYZjlRM1NldnVCQWFWQkMzNXoxaGZjZDZiVTRYdnNONm9nbjBkcDU4WTBtdHJGRzJwSDlhX25JbDQ3eU5kUkFGVWZVOGhBRjFZS3BqVzF6M2UyNU5hNXE3X185MmdXckREeUNrNTVhMzlVMXFnYkhPT1NvQUE3RUZERnQ2eA?oc=5)
 - **Google News Markets** (Thu, 30 Jul 2026 12:15:00 GMT): High priority | [Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar - Investor's Business Daily](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGJBdlp5Z0tBenIzTFlwMGF0UkZWVm5ndHlXbTlyUmxWWmdnWEppOUNHWVBoVHFLZk5ubEpaVkJEdHRIcTR3SkdPTldGZU5iUVp2UEZIU1E3djRiNV9iWEdIUEk3N2JTUjkxZUs0LV9oZ2dxVVZNSEhCd09TWThuTkdnODFKWjE5eDZzWk1ZUmc2dE1lRXhFVmViN2x2VTA5X1VEZDl6NDJ5SHlYXzZtUk5EMEp2dTA3YjlXN2IwaTJQUExEaWxXUTJmUUpKM0YyM1g4dy1n?oc=5)
+- **Google News Markets** (Thu, 30 Jul 2026 10:26:24 GMT): High priority | [Dow Jones futures edge up 0.17% as Microsoft earnings ease inflation fears - eciks.org](https://news.google.com/rss/articles/CBMid0FVX3lxTE1HU1pLVzFiNmxGdzRTbERmeUhzTENHU1NCdHQwWjRJc2V3VGYzRDl5dUpkWDdqcnNhZ1N2NHBBcXV1NExJeVlzcXdpSG93cE00X1RpZ3A1UHZsZFJWMzUtRVA5X2U0VVdTR2VNV241MlRMMEhkMjZN?oc=5)
 - **Google News Markets** (Thu, 30 Jul 2026 09:48:21 GMT): High priority | [Key U.S. stock events to watch in August? Focus on earnings from major companies like NVIDIA and SpaceX, U.S. employment and inflation data, and Fed Chair Powell's speech at Jackson Hole. - Moomoo](https://news.google.com/rss/articles/CBMingFBVV95cUxPYXRleURjYk92ZVNRNlE5Mjd3Zm1vVG1TWDhTMEdFLVluUDNTX1J6SkRVNkItNTlqSXZSQi0wSVB0T2F0WWUwUk5JTTBrWE90dENPTWp1QnZyZkNpTXB4Zy1waE1FTVpteUpoZVBLYjR4dDNmVDk3SVdZeVAySFJzQTRyWHUzelpEanhlUjhKV3FCb0FGdmZvTjEtWGpDUQ?oc=5)
 - **Google News Markets** (Thu, 30 Jul 2026 07:32:57 GMT): High priority | [AI earnings, inflation data, and Fed signals make August a key month for markets as investors reassess growth and policy outlooks. - Moomoo](https://news.google.com/rss/articles/CBMirwFBVV95cUxNOUJGX2tCVEJPdk00eFQ2dERUQWU5RGVyVDhrUVp2Uy1CZ1dsQzU0TlJlbWpkQS1xYy03ZklnSHgxdS11UmNJWTl0aEctLUZnS3Bpa2JscERxSFBoNW96ZTB6cW1BQ1pJR2NkbTV3dkRyc1V5Y3VpQVV4QTl0dG1qQk90Q0s1MjNHN3RRbUZQa1U3VzlaQU5BVVNhbm1hakVfSVBBWU9HNWpSbzJZZExV?oc=5)
-- **Google News Markets** (Thu, 30 Jul 2026 00:27:29 GMT): High priority | [Federal Reserve Chair Warsh Abandons Forward Guidance, Shifts to Market-Driven Policy - 조선일보](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQng5NGlteFRsanNvNzRlNXhXVmVjR3p2TXl2UFJ3OVN5RVQ4Q2J2b1ZVTUFhYV8xM01aODFzYU11cEdGT1IzM1JWcHdxZDlCZzNtcEktVWp2VFJWZ1pfdWVLSndhR3N2Y0NydEJ3MHUyOTJXX2trSVpCV1RsQ1otbVp1MFpxaDNXWFU3Ukpn?oc=5)
-- **Google News Markets** (Wed, 29 Jul 2026 20:20:05 GMT): High priority | [Dow Posts Its Worst Day Of The Year After Federal Reserve Maintains Interest Rates - Forbes](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdmhwSjdNOFk5U1dQS3ZFeXlDMDBFcHVoN1JIdVFteEE5THNMRWNXRWtNY2t2ODNHaDIzc2Uyam9VUlg5ZnpRVUhoQkR0bGszOEdqM1lBNTdxV0V0bk9BMHF4YzNTMGhHVjdRZVV5QzctcDBiOHNZelJ4NXhuZzR2aU5iYlBkZ1dISE9pVHhJbUprcVFIM1FiMS1SQ3A3ZGloYjE1MVBFdjdTQmoyaW8taGlGLUd6WWYwVWxnMTdEOXBxdHJ4UlVlUGFMVVVVcVpETXIyUFBOTQ?oc=5)
-- **Google News Markets** (Wed, 29 Jul 2026 20:02:22 GMT): High priority | [Nasdaq 100 Enters Correction, S&P 500 Falls After Fed Decision - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2VxaTRfR2tmSlZWLVE2TDBaT1RmbmdoVk5ldzl5Q2NDX21xaXNqam1xakNlamRNTXNGaUUydkprMEZLWk5kQzRJWXJtcy1HbGhIc0FaS21qUU9iLXZOcmQ2YUdmTGgtbWVtOXV6TXUxYjlOTVVocWFmZ01oY2QxNUFsWURjcEFTN3ZOSHRnOWFYZHo1dmYta2xobzVCd0RYS1lLSHp0bDJ6R3RRYkU4OWpaMA?oc=5)
 
 ## 5. Economic Calendar
 
@@ -276,37 +325,35 @@ Source health:
 - **14:30** FOMC Press Conference | Source: Nasdaq
 
 ### Tomorrow (2026-07-31)
-- **08:30** Employment Benefits | Previous: 1.20% | Source: Nasdaq
-- **08:30** Employment Cost Index | Forecast: 0.8% | Previous: 0.9% | Source: Nasdaq
-- **08:30** Employment Wages | Previous: 0.80% | Source: Nasdaq
-- **09:45** Chicago PMI | Previous: 56.7 | Source: Nasdaq
-- **10:00** Michigan 1-Year Inflation Expectations | Forecast: 4.2% | Previous: 4.2% | Source: Nasdaq
-- **10:00** Michigan 5-Year Inflation Expectations | Forecast: 3.3% | Previous: 3.3% | Source: Nasdaq
-- **10:00** Michigan Consumer Expectations | Forecast: 54.0 | Previous: 54.0 | Source: Nasdaq
-- **10:00** Michigan Consumer Sentiment | Forecast: 54.4 | Previous: 54.4 | Source: Nasdaq
-- **10:00** Michigan Current Conditions | Forecast: 54.9 | Previous: 54.9 | Source: Nasdaq
-- **13:00** U.S. Baker Hughes Oil Rig Count | Source: Nasdaq
-- **13:00** U.S. Baker Hughes Total Rig Count | Source: Nasdaq
-- **15:30** CFTC Aluminium speculative net positions | Previous: -0.6K | Source: Nasdaq
-- **15:30** CFTC Copper speculative net positions | Previous: 74.0K | Source: Nasdaq
-- **15:30** CFTC Corn speculative net positions | Previous: 186.7K | Source: Nasdaq
-- **15:30** CFTC Crude Oil speculative net positions | Previous: 81.7K | Source: Nasdaq
-- **15:30** CFTC Gold speculative net positions | Previous: 183.9K | Source: Nasdaq
-- **15:30** CFTC Nasdaq 100 speculative net positions | Previous: 4.5K | Source: Nasdaq
-- **15:30** CFTC Natural Gas speculative net positions | Previous: -171.1K | Source: Nasdaq
-- **15:30** CFTC S&P 500 speculative net positions | Previous: -16.8K | Source: Nasdaq
-- **15:30** CFTC Silver speculative net positions | Previous: 23.5K | Source: Nasdaq
-- **15:30** CFTC Soybeans speculative net positions | Previous: 175.6K | Source: Nasdaq
-- **15:30** CFTC Wheat speculative net positions | Previous: -7.0K | Source: Nasdaq
+- **08:30** Continuing Jobless Claims | Forecast: 1,800K | Previous: 1,789K | Source: Nasdaq
+- **08:30** Core PCE Price Index | Forecast: 0.2% | Previous: 0.3% | Source: Nasdaq
+- **08:30** Core PCE Prices | Forecast: 3.50% | Previous: 4.40% | Source: Nasdaq
+- **08:30** GDP | Forecast: 2.1% | Previous: 2.1% | Source: Nasdaq
+- **08:30** GDP Price Index | Forecast: 4.1% | Previous: 3.6% | Source: Nasdaq
+- **08:30** GDP Sales | Previous: 1.9% | Source: Nasdaq
+- **08:30** Initial Jobless Claims | Forecast: 201K | Previous: 188K | Source: Nasdaq
+- **08:30** Jobless Claims 4-Week Avg. | Previous: 207.75K | Source: Nasdaq
+- **08:30** PCE price index | Forecast: -0.1% | Previous: 0.5% | Source: Nasdaq
+- **08:30** PCE Price index | Forecast: 3.7% | Previous: 4.1% | Source: Nasdaq
+- **08:30** PCE Prices | Previous: 4.6% | Source: Nasdaq
+- **08:30** Personal Income | Forecast: 0.3% | Previous: 0.7% | Source: Nasdaq
+- **08:30** Personal Spending | Forecast: 0.4% | Previous: 0.9% | Source: Nasdaq
+- **08:30** Real Consumer Spending | Previous: 0.5% | Source: Nasdaq
+- **08:30** Real Personal Consumption | Previous: 0.4% | Source: Nasdaq
+- **10:00** Dallas Fed PCE | Previous: 2.80% | Source: Nasdaq
+- **10:20** Atlanta Fed GDPNow | Source: Nasdaq
+- **10:30** Natural Gas Storage | Forecast: 37B | Previous: 32B | Source: Nasdaq
+- **11:30** 4-Week Bill Auction | Previous: 3.730% | Source: Nasdaq
+- **11:30** 8-Week Bill Auction | Previous: 3.795% | Source: Nasdaq
+- **16:30** Fed's Balance Sheet | Previous: 6,747B | Source: Nasdaq
+- **16:30** Reserve Balances with Federal Reserve Banks | Previous: 3.064T | Source: Nasdaq
 
 ## Source Health
 
 - NYSE calendar 2026-07-30: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Jul 30, 2026 4:09 PM ET
+- Nasdaq after-hours article 2026-07-30: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
