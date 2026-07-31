@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-07-31
 
-_Generated: 2026-07-31 11:44:36 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-07-31 13:18:15 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -20,6 +20,51 @@ _Generated: 2026-07-31 11:44:36 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 1:18 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Jul 31, 2026 4:17 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $9.34 | -1.14 |  | 170,409,792 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $200.75 | +5.71 |  | 138,610,847 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[FCUV](https://finance.yahoo.com/quote/FCUV/)** | Focus Universal Inc. | $11.6 | +9.72 | +517.0213% |  |
+| **[REPL](https://finance.yahoo.com/quote/REPL/)** | Replimune Group, Inc. | $11.2 | +5.79 | +107.024% |  |
+| **[WLDSW](https://finance.yahoo.com/quote/WLDSW/)** | Wearable Devices Ltd. | $12 | +4.7 | +64.3836% |  |
+| **[TCX](https://finance.yahoo.com/quote/TCX/)** | Tucows Inc. | $15.44 | +5.74 | +59.1753% |  |
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[JDZG](https://finance.yahoo.com/quote/JDZG/)** | JIADE LIMITED | $6.01 | -43.99 | -87.98% |  |
+| **[DFNS](https://finance.yahoo.com/quote/DFNS/)** | T3 Defense Inc. Common Stock | $27.68 | -57.3 | -67.4276% |  |
+| **[BIOA](https://finance.yahoo.com/quote/BIOA/)** | BioAge Labs, Inc. | $9.04 | -15.81 | -63.6217% |  |
+| **[INHD](https://finance.yahoo.com/quote/INHD/)** | Inno Holdings Inc. | $18 | -21.49 | -54.4188% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 250.41 | -13.0200 | -4.94% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 476.15 | +46.5900 | +10.85% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 151.52 | -1.4900 | -0.97% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 205.52 | -81.1000 | -28.30% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 356.13 | +19.4200 | +5.77% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 356.65 | +20.8900 | +6.22% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 271.58 | +44.9300 | +19.82% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 127.85 | -1.5500 | -1.20% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 385.16 | -2.4800 | -0.64% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 78.2 | -0.5500 | -0.70% |  |
+
+Source health:
+- NYSE calendar 2026-07-31: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Jul 31, 2026 4:17 PM ET
+- Nasdaq after-hours article 2026-07-31: skipped - No matching After Hours Most Active article found yet
 
 ### 11:44 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:44 PM ET.
@@ -229,7 +274,7 @@ Source health:
 - **Federal Reserve** (Thu, 30 Jul 2026 15:00:00 GMT): High priority | [Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm)
 - **Federal Reserve** (Thu, 30 Jul 2026 15:00:00 GMT): High priority | [Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm)
 - **Federal Reserve** (Wed, 29 Jul 2026 18:00:00 GMT): High priority | [Federal Reserve issues FOMC statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm)
-- **Google News Markets** (Thu, 30 Jul 2026 19:55:28 GMT): High priority | [Microsoft earnings boost Wall Street as long-term Treasury yields surge - The American Bazaar](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSVVPU2EtdnhqQmNzOGtrNzVSWEFycU56Zm14bzZkNEtKcWV2QW1XNktzRnU3YVFqeUhfbkcxd09OTzQwRE9iTmpkWWFBcWdQWTlvM3hIdXV0Ui1KbnNsQWYyM1ZHaHdYUUYweDI5Y2FWc0hIQmZkUVVPQUtEdWJxNHp2OWlYNm56bGtROU1XV25KT0dKMmlSUjNUN1ozUjZZb0VKWTg2ZXNFU2xQeWctdkF4WFNEWUlFamJ4U2ZINFg?oc=5)
+- **Google News Markets** (Fri, 31 Jul 2026 19:00:01 GMT): High priority | [August kicks off next week with jobs report, earnings as momentum recovers. Here's what's ahead - CNBC](https://news.google.com/rss/articles/CBMijAFBVV95cUxQdHdLOTM0bDNnRnU4Tmh4TDc5ZGlidzhGVXJUVnc3SmtSY3ZnSVl5RUNYUUp0RDJ4YUhHdHc2djNnT1FVakdzYWx1dmVyRXBTcWkySXV3Q0ZFMkY4bVYwZFZzelVTR3lXdGVIUWpkcDhNTGc1eFoxZXBaMk5qX0QyTWFKRHEzbE1Pcy1teg?oc=5)
 - **Google News Markets** (Fri, 31 Jul 2026 16:38:00 GMT): High priority | [Stocks Rise After Huge Earnings And Surging Yields: Weekly Review - Investor's Business Daily](https://news.google.com/rss/articles/CBMivgFBVV95cUxPc19SV2ZzQ1VOYnFRSG0zSktjeTRiM3NvcEhZd09HNGY5TG9GOGthWGVTbjM2bjV4LXhja2FXQ25ZTmtpeUNsdkZlNzZqOGhzTnctMTZJYlJMYXhOeXY4OFloSGktaDlvUEFwSXBQcEFjRDNTbUo2RjlscVZUWldjd3VOV25IYS1Wc1g5dkJiVXpZSXY5LUlBNmJ0cU1VOUIxdDlBVGVZRnJIVkhiXy0yWlVDdXl4eHRiVkRyVWJB?oc=5)
 - **Google News Markets** (Fri, 31 Jul 2026 15:09:43 GMT): High priority | [Stock Market Week Ahead: AI Earnings Heat Up with Pivotal Jobs Report on Deck - TipRanks](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTJmdEdEbHFORFpNY1pSQWlfS3BtUWR0MHVSdHBrYVF2bUpyb0Fwb0gxN3c5T0NONl9na2tqb213WnJWZ2l3aXM3VG9zb1VlTXdWb3R3eXZJNzBVdEpZNXFoOWRWeHo0cjJScXVvNTNFWVJ5QVNzcXZjc2tGbW5fdlRUeDMxX2FRYkdBZGhnSnB0Q2RFNTl5dzRCdmZLNXpVNTA4ekNkZm5idw?oc=5)
 - **Google News Markets** (Fri, 31 Jul 2026 14:32:00 GMT): High priority | [Exxon, Chevron Earnings Soar On Iran War Surge, But Big Oil Stocks Diverge - Investor's Business Daily](https://news.google.com/rss/articles/CBMigwFBVV95cUxPeS02SWc5ZzlwaU0yYlJTQ3BVd2lTS0VwYm5Uc1BnS1B0WmhCUXZHSjN2N0JWOTRZalBkdzAyLVJkSjNqUE13cHpnZVpYR2pwbHNUbVN5QmRuNzVWdGJpelJ0LWtmMEMxajl3X0w3MU1hYUJjT2FGeEhDQ000Q0s5TU9DNA?oc=5)
@@ -291,10 +336,8 @@ Source health:
 
 - NYSE calendar 2026-07-31: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Jul 31, 2026 4:17 PM ET
+- Nasdaq after-hours article 2026-07-31: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
