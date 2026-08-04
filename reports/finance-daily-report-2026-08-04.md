@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-04
 
-_Generated: 2026-08-04 09:49:13 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-04 11:50:56 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -32,6 +32,73 @@ _Generated: 2026-08-04 09:49:13 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 11:50 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:50 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PLTR](https://finance.yahoo.com/quote/PLTR/)** | Palantir Technologies Inc. | $163.18 | +37.53 | +29.87% | 139,056,557 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.04 | +0.68 | +7.26% | 83,424,402 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $212.90 | +6.26 | +3.03% | 80,490,713 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $100.91 | +9.91 | +10.89% | 78,400,317 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $124.95 | +10.42 | +9.10% | 78,241,989 |
+| **[SNAP](https://finance.yahoo.com/quote/SNAP/)** | Snap Inc. | $5.66 | +0.62 | +12.40% | 67,600,715 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $8.87 | +0.50 | +5.97% | 56,990,542 |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. | $277.27 | -6.75 | -2.38% | 48,104,151 |
+| **[CIFR](https://finance.yahoo.com/quote/CIFR/)** | Cipher Digital Inc. | $21.64 | -2.52 | -10.45% | 46,027,524 |
+| **[PATH](https://finance.yahoo.com/quote/PATH/)** | UiPath, Inc. | $13.85 | +0.80 | +6.17% | 43,177,372 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $12.80 | +2.36 | +22.67% | 90,365,427 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $8.11 | +0.30 | +3.87% | 87,077,241 |
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $41.86 | -11.22 | -21.14% | 66,649,637 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.69 | +0.06 | +0.70% | 65,307,587 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $37.18 | -4.25 | -10.25% | 62,446,205 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $74.95 | +6.99 | +10.29% | 58,430,533 |
+| **[PLTD](https://finance.yahoo.com/quote/PLTD/)** | Direxion Daily PLTR Bear 1X ETF | $5.68 | -2.40 | -29.76% | 57,754,458 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $141.44 | +24.73 | +21.19% | 56,513,448 |
+| **[QQQ](https://finance.yahoo.com/quote/QQQ/)** | Invesco QQQ Trust, Series 1 | $724.11 | +24.04 | +3.43% | 43,482,393 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $55.26 | +4.13 | +8.09% | 43,306,952 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[W](https://finance.yahoo.com/quote/W/)** | Wayfair Inc. | $116.51 | +27.21 | +30.46% | 9,757,910 |
+| **[PLTR](https://finance.yahoo.com/quote/PLTR/)** | Palantir Technologies Inc. | $163.25 | +37.60 | +29.92% | 139,060,834 |
+| **[PAY](https://finance.yahoo.com/quote/PAY/)** | Paymentus Holdings, Inc. | $44.78 | +10.26 | +29.74% | 3,186,277 |
+| **[UFPT](https://finance.yahoo.com/quote/UFPT/)** | UFP Technologies, Inc. | $333.12 | +65.59 | +24.52% | 497,718 |
+| **[ZBRA](https://finance.yahoo.com/quote/ZBRA/)** | Zebra Technologies Corporation | $362.29 | +70.64 | +24.22% | 1,972,108 |
+| **[IT](https://finance.yahoo.com/quote/IT/)** | Gartner, Inc. | $185.81 | +34.28 | +22.62% | 2,019,068 |
+| **[VOYG](https://finance.yahoo.com/quote/VOYG/)** | Voyager Technologies, Inc. | $34.06 | +6.05 | +21.58% | 3,277,421 |
+| **[AAOI](https://finance.yahoo.com/quote/AAOI/)** | Applied Optoelectronics, Inc. | $134.19 | +23.98 | +21.76% | 16,290,932 |
+| **[AEHR](https://finance.yahoo.com/quote/AEHR/)** | Aehr Test Systems | $109.30 | +17.59 | +19.18% | 2,586,991 |
+| **[ARM](https://finance.yahoo.com/quote/ARM/)** | Arm Holdings plc | $281.00 | +41.94 | +17.54% | 6,336,383 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BRKR](https://finance.yahoo.com/quote/BRKR/)** | Bruker Corporation | $51.17 | -13.14 | -20.44% | 5,845,544 |
+| **[CTRI](https://finance.yahoo.com/quote/CTRI/)** | Centuri Holdings, Inc. | $22.48 | -5.38 | -19.31% | 4,849,968 |
+| **[NRG](https://finance.yahoo.com/quote/NRG/)** | NRG Energy, Inc. | $114.34 | -24.13 | -17.43% | 8,630,136 |
+| **[APTV](https://finance.yahoo.com/quote/APTV/)** | Aptiv PLC | $47.35 | -9.88 | -17.26% | 12,971,184 |
+| **[ULS](https://finance.yahoo.com/quote/ULS/)** | UL Solutions Inc. | $77.01 | -14.04 | -15.41% | 2,649,356 |
+| **[KNF](https://finance.yahoo.com/quote/KNF/)** | Knife Riv Holding Co. | $69.03 | -9.81 | -12.44% | 2,333,184 |
+| **[ICHR](https://finance.yahoo.com/quote/ICHR/)** | Ichor Holdings | $70.99 | -9.24 | -11.52% | 1,545,169 |
+| **[CIFR](https://finance.yahoo.com/quote/CIFR/)** | Cipher Digital Inc. | $21.64 | -2.52 | -10.45% | 46,029,911 |
+| **[STRL](https://finance.yahoo.com/quote/STRL/)** | Sterling Infrastructure, Inc. | $551.08 | -60.39 | -9.88% | 1,576,685 |
+| **[CBT](https://finance.yahoo.com/quote/CBT/)** | Cabot Corporation | $80.63 | -8.95 | -9.99% | 784,954 |
+
+Source health:
+- NYSE calendar 2026-08-04: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
 ### 9:49 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 12:49 PM ET.
@@ -170,17 +237,17 @@ Source health:
 ## 4. Latest Market News
 
 - **MarketWatch Top Stories** (Tue, 04 Aug 2026 16:25:00 GMT): High priority | [Bessent defends Warsh, saying markets are going through ‘detox’ from too much Fed guidance](https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories)
+- **Google News Markets** (Tue, 04 Aug 2026 17:27:45 GMT): High priority | [S&P 500, Dow hit record highs on strong AI-linked earnings, Mideast deal hopes - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5)
 - **Google News Markets** (Mon, 03 Aug 2026 22:11:00 GMT): High priority | [Dow Hits Record Close As Nasdaq Charges Higher; Palantir Soars Late On Earnings Beat - Investor's Business Daily](https://news.google.com/rss/articles/CBMipgFBVV95cUxPelhxajFERi1jWXlWdFdDbW9odElibUhxdUFSb3UtTXdvUzQwS2RXTzNwMUdmZURtc091VFpqZHZnSm51bnJzYlBic0Zhc3FXaFd0SVlCUThROVhIQUtOejFLdG9CcnVsRFRxUVo0cUlWSERpSGJWRzFKS2JYNWZ2aEJTWk1ua00yNmJiME5iZkhhQjE1aEpCYWQwTTJ0LXdReXpXSVV3?oc=5)
 - **MarketWatch Top Stories** (Tue, 04 Aug 2026 14:36:00 GMT): High priority | [Caterpillar’s stock gives the Dow a 200-point boost as data-center demand drives record revenue](https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories)
+- **Google News Markets** (Tue, 04 Aug 2026 18:14:42 GMT): High priority | [S&P 500 Crosses $70 Trillion: Earnings Gap Between AI and Rest Narrows - Tech Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDM3SUdwWEhuMWlvOWVNMi1YQjlwblZLLUpyNTJ0VDY5VVVNLUZlMnZrNnZWXzhMRmFzLTNUeXpQX0haejRpYXFYTzFFVU5qel9oSDlPcF9CRllVTEU2S01sNERxSkpsQ0ZMQUdmYTc4MzJ0RVJMVGlhaW1RaWhLeV80Q2tMRGI5NTBna2Y1Z01GLUMxX2dJRm1RMHpxaTd2MGI4a1g0WkVhdmFZYW84emw5cVRsRzVFSHc?oc=5)
 - **Google News Markets** (Tue, 04 Aug 2026 12:05:00 GMT): High priority | [CAT Stock Lifts Dow Jones With Massive Earnings Beat - Investor's Business Daily](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWjlaY21vSGY5TmFUcmJTQ0htTTZMaXY4U18tMVQ1aW4zcUpFNDdaUEhUNDFxWHpBUWQxb3ctUW1FX0IxTWdKcGtFdkQtU1ZLM1V6MHFfWUU3azZHZWI4TVMyMlFKQnB5NXk0NEFuRzhFLTNaYmtJNl9RVzF0dWlEbg?oc=5)
 - **Google News Markets** (Tue, 04 Aug 2026 11:31:12 GMT): High priority | [Dow hits record, Palantir stock jumps 16% on Q2 earnings - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFJCNnRzaDRVWUFEZ2NLSzE4Zkt5RUNQemM2RHpPeWkxSkMzaUNsR2VLRWdLMkpnRzBrcWk4YkhBUzdyaXZRY0dKNU5ielhtSjVIQ1lHdHE2RFVOYkpUWGZNeFFGdDhMeGtUdXVvWTgyUEpEdGVHQmVCcHp3LW5fNG9Gekk4MWJBOVNUN1FMVEhMbjRBMmZteXdBRQ?oc=5)
 - **Google News Markets** (Tue, 04 Aug 2026 02:45:00 GMT): High priority | [Dow Jones Futures: Trump Sparks Stock Market Rally; Palantir Soars On Earnings With SpaceX On Deck - Investor's Business Daily](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkF3SWhJTWdNVWRlTlBSV09tbTg2bTZIakRNTUx5cmhGekw0UUlDSlBSdXktVExFa0VURjBaeGZ4YWVCQ3FHTjlMVG5TQ1Jad19rOVFTUTJWbE9Md3NMX3pxNjdiSjNvcUNYZm1IR3JMX1hDb18zbVhTNW5UWjkyTURWbDM5VDlCVmNHYlpZM0JvLWJBZ3ZWZUlqdWxaek5jUVY2SEwzMDlNLVRVd0dNMmpNcjFVenJzTllaTThib1FYZ0J3V01Xc1YxMnNCcjg?oc=5)
-- **Google News Markets** (Mon, 03 Aug 2026 20:33:47 GMT): High priority | [Teetering US stock market faces jobs report, big earnings week - aol.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdG12N0pMSF80djJBMXlaTEt1eHo4Z3JLV1ZIamR4SUVJbjVYYWxqQWJxX2RuOGwxT2pIWW16Mm5rMC1ZY2djZVBVVk52QjFHQTZYaWc1WW9neVhsN1ZUa05pMmpjSlpxOG9kOFM0UTJTVmZHRW1pN05KOE1kOW9NUw?oc=5)
+- **Google News Markets** (Tue, 04 Aug 2026 01:15:02 GMT): High priority | [Stocks surge as stellar start to August sees S&P 500, Dow back at record levels - Investing.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0VEV2NmX0kxRkhPcVRtclZ1d21zN0JueWNDVGZUakMtMk9zM2pRRjJGVEZ0X1l1N3g4TGJ1NUNpaWt2SEtmYzBFeWFDM3N3WnhwdjM4bnZuQUhRSVRjUE9IM2R3Q19tenAtOElNcWhuOUcwRmRCSmdpNmo1VUU3TEh3U3c0ejFsRkJyX0VHYzdycklKS2ZaQ2ZqNk54REFQcGJleGhWcGZDNVd5WHN0WlRTcFJOWWRhb2J1c0pnbw?oc=5)
+- **Google News Markets** (Mon, 03 Aug 2026 20:33:47 GMT): High priority | [Teetering US stock market faces jobs report, big earnings week - AOL.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdG12N0pMSF80djJBMXlaTEt1eHo4Z3JLV1ZIamR4SUVJbjVYYWxqQWJxX2RuOGwxT2pIWW16Mm5rMC1ZY2djZVBVVk52QjFHQTZYaWc1WW9neVhsN1ZUa05pMmpjSlpxOG9kOFM0UTJTVmZHRW1pN05KOE1kOW9NUw?oc=5)
 - **Google News Markets** (Mon, 03 Aug 2026 20:06:00 GMT): High priority | [Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly - Investor's Business Daily](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNkFmQ0Y3Z1ZkQUozOFd0R3lRV0pZcWhtaXlRX2FTdzZhS3pleEdZWUd6M2tfMHFxNE93cGduXzEzZzV6QnlsRmlNTExfQmV1RGdhTFdIQzNTUERxQkJzR3JYUFNqcUVMLW5zRHVIR042MlZMWUNNc1A2eVFXN2NpTnJZN0VvMUgzTjdn?oc=5)
 - **Google News Markets** (Mon, 03 Aug 2026 20:04:59 GMT): High priority | [US Futures Climb as Focus Shifts Back to Earnings, Oil Slides - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWJvS0hxbGZiUVc3T1V0NUxKMHZ2ODBNYTJ6d0tKRTJkTTF3b2Q5RjE4SmtNdkxRWXNneEU3clBib1dIUGdFajhDZnh0azdkT214a1pQMmVweTNCaExqcERHS2RmSERTV01aLXZaNDQxSjk4ZllCamNfNkxTZzZqbEticlVvdU1hU1RHV3p2OENBejBCZGd5QTdzT3IzcnlmektFUGVQbTJ6VFRFb2sySA?oc=5)
-- **Google News Markets** (Mon, 03 Aug 2026 18:34:26 GMT): High priority | [Palantir Q2 on deck: Options market imply 9.3% swing after earnings (PLTR:NASDAQ) - Seeking Alpha](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcXZpNkNpaEtVc1dUYnJrTkFOdW14VG85U0JONjA2T2FjX212OGZEMExGM1ZqblIxejJZTXVSU1FkVHdnX0sxeFJ4SS1hZnBRNjBINUdfUFdoWUMxZWVzbENoM2pmVFRwdVNKY09lWmxvbHlzN2tPWEw0aWJJT1l0cUZkdktwYUFaS2FCMU9GOElKVS1hQ1V3YWJIcUJHYWNNWDRqNQ?oc=5)
-- **Google News Markets** (Mon, 03 Aug 2026 18:20:00 GMT): High priority | [How investors are interpreting corporate earnings amid uncertainty over interest rates and Fed signals - Economies.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaTJYTnVsRmtIOFM1U0huZ3M1VFpXMnc4VGZ5UVRZQng3N2tfczUxeWNuUE9IUHNJQm83a0JROGk1U2NhTk5XMU1kckZjdGxBTVhwTi00bXlSc3FwaS1udFFZU0tpNF9uRTZFQmZpWWV6YUFqWjVpeXBPYWhXV3BYcGdYZDhzbURmbC1HcEt1Rzg5YnR3eWFHYTdkT0FTMHBCZW5VT3B4TXl3R3haOE5FR3FMSnJESmJ6Y010RHRUOWRUZlBnWk5fNGh2WFRTUHZPYVB4eFVnM0VBMndSSG1xUV9qaHNGZThqQTNONw?oc=5)
-- **Google News Markets** (Tue, 04 Aug 2026 16:11:35 GMT): [SanDisk options market brace for a 13.1% post-earnings swing; key details here - Seeking Alpha](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGt4T2JXM2I3RzNWTmpUYTYyY29uRlV3UHhKdzZCSXpOWmZta01SbHJSNkdOcEpzQi1uLV9JNnBEdmJReWJsTjh6eW52V01mX0FhUWNBTUY2MS12cGpqNFRPaG44Nm9TNDBsZFUycmx5WGI2NzNXdVJGLXFURUxKZ3RYU0RxMVR3QUtJVGpSUVNqQ2FBQk1KX2pNNGtNc2xha2UtSm9UYWdLMzRHSlFseEFQdw?oc=5)
 
 ## 5. Economic Calendar
 
