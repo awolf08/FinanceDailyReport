@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-04
 
-_Generated: 2026-08-04 11:50:56 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-04 13:22:19 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -32,6 +32,50 @@ _Generated: 2026-08-04 11:50:56 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 1:22 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Aug 4, 2026 4:18 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PLTR](https://finance.yahoo.com/quote/PLTR/)** | Palantir Technologies Inc. | $162.66 | +37.01 |  | 172,002,815 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $211.94 | +5.3 |  | 128,346,184 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp. Class A Common Stock | $125.33 | +10.8 |  | 120,921,480 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $100.86 | +9.86 |  | 117,044,046 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[AMIX](https://finance.yahoo.com/quote/AMIX/)** | Autonomix Medical, Inc. | $19.5 | +15.85 | +434.2466% |  |
+| **[PLTL](https://finance.yahoo.com/quote/PLTL/)** | Corgi PLTR 2x Daily ETF | $52.89 | +19.7242 | +59.4715% |  |
+| **[PLTG](https://finance.yahoo.com/quote/PLTG/)** | Leverage Shares 2X Long PLTR Daily ETF | $15.94 | +5.86 | +58.1349% |  |
+| **[PTIR](https://finance.yahoo.com/quote/PTIR/)** | GraniteShares ETF Trust | $16.72 | +6.14 | +58.034% |  |
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PLTZ](https://finance.yahoo.com/quote/PLTZ/)** | Defiance Daily Target 2x Short PLTR ETF | $11.87 | -16.88 | -58.713% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 257.49 | +7.0800 | +2.83% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 518.58 | +42.4300 | +8.91% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 149.92 | -1.6000 | -1.06% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 219.0 | +13.4800 | +6.56% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 377.65 | +21.5200 | +6.04% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 375.35 | +18.7000 | +5.24% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 277.42 | +5.8400 | +2.15% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 128.35 | +0.5000 | +0.39% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 390.02 | +4.8600 | +1.26% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 77.75 | -0.4500 | -0.58% |  |
+
+Source health:
+- NYSE calendar 2026-08-04: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Aug 4, 2026 4:18 PM ET
+- Nasdaq after-hours article 2026-08-04: skipped - No matching After Hours Most Active article found yet
 
 ### 11:50 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:50 PM ET.
@@ -236,18 +280,18 @@ Source health:
 
 ## 4. Latest Market News
 
-- **MarketWatch Top Stories** (Tue, 04 Aug 2026 16:25:00 GMT): High priority | [Bessent defends Warsh, saying markets are going through ‘detox’ from too much Fed guidance](https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories)
-- **Google News Markets** (Tue, 04 Aug 2026 17:27:45 GMT): High priority | [S&P 500, Dow hit record highs on strong AI-linked earnings, Mideast deal hopes - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5)
+- **Google News Markets** (Tue, 04 Aug 2026 17:12:18 GMT): High priority | [Why is US Stock Market Up Today? Dow Jones Climbs 900 Points, S&P 500 Hits Record High as Micron & Intel Drops After Fed Policy & Inflation Amid Middle East Tensions | What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQOHdNYjhSM2xPMkVhZEVwU1N6YllKLWFsdGZXZmp4UE42OHZkWTY5V3FKb25ib2JfTUczbzUwaDRLaFNLVml1S2ZBeFlDbS1hXzk5UWVSZVplZ2lkbFVUOXFuZU5CQndQb0lGREh2dzdUUDA4b3ZrMC1qYW5iQzk5X08wbWF2YTdhQk1RSGN1YkxwQkpEOVNPdWFpQXMyc0g4RzRxdDBpdTZ3WXEyQ1FCUkxXWVkwa1BXbDQ1c1MzSlM4c2djY2Q0UlN0ZDczeEpKazk2dEQxYTBHNkJfRHNOUFJWRXFLdzA3OUU4TGx6WHc1blk5YUZhLVgxbmFPekhuejBiSVNsdmtaeFBCaTVRZGw0M2lnVFhGNkJneFdGVTZOX0p3LVBTSVFQSC04aXM5ZTZlazM1c3hsMFVJcTVjX3hIcTVJNWFHUHZJWXU4aHBHcWhS0gHaAkFVX3lxTE0wUXhyWTJIbzAzZUVTTm5YX2luV3RTZmw2enQ2UUxIanNFZkdvSlRhTFdnTGRPLVFycEJFamFtb0xIQWVQNDVCSVNoR0lOY0h0SFFyTUVtZkFtcU1kdW9EeklMX3ZLeW05bmNyNHdZOWJReUtGZ2dXMmpnbm5OQ19aOGFwMjNtOVpVWWlLVGhtQ2ZKOVhWY2hvQU1fNUFtb0NfbHgxdmpqVG5WN0wxQ0w2YlhnVEItRTVLbWhHbHMxbEF6cTNKOF95RnpHVGxZV0NmZDlGUTlhOEo2OWZsVjA5eE91T3NHM2tYTkYxUFNpOHQ5Z3oyU2tUQ2pHbGNiM2NCOVFRNkZfMm5ISm9FZEg3TnpLajJyTkd2cnFYU1ZzdTVxWlpIQWNIOERKazJpbUJ1cDNVcnNoZTU0a3Z2bk1TZFQyRThMeUpFR3VGLXBDUXNtY0ZKUGYzc3c?oc=5)
+- **Google News Markets** (Tue, 04 Aug 2026 20:01:27 GMT): High priority | [Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5)
 - **Google News Markets** (Mon, 03 Aug 2026 22:11:00 GMT): High priority | [Dow Hits Record Close As Nasdaq Charges Higher; Palantir Soars Late On Earnings Beat - Investor's Business Daily](https://news.google.com/rss/articles/CBMipgFBVV95cUxPelhxajFERi1jWXlWdFdDbW9odElibUhxdUFSb3UtTXdvUzQwS2RXTzNwMUdmZURtc091VFpqZHZnSm51bnJzYlBic0Zhc3FXaFd0SVlCUThROVhIQUtOejFLdG9CcnVsRFRxUVo0cUlWSERpSGJWRzFKS2JYNWZ2aEJTWk1ua00yNmJiME5iZkhhQjE1aEpCYWQwTTJ0LXdReXpXSVV3?oc=5)
-- **MarketWatch Top Stories** (Tue, 04 Aug 2026 14:36:00 GMT): High priority | [Caterpillar’s stock gives the Dow a 200-point boost as data-center demand drives record revenue](https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories)
+- **Google News Markets** (Tue, 04 Aug 2026 20:10:17 GMT): High priority | [Dow soars 1,000 points on strong corporate earnings and hopes of Iran deal - wdef.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmNRVWI4UHZYN2ItdVJGMVRPR2JLcDNlc0YwNFdCNkZ0SUIwamdYb3BIVDBUVWxSZFpTdkdtSnQ0STRkTGFIOHlWMHhZb0VFQ3FpcVVabEpMb3JOaWRXbEE3WWIwWEFuNnBVR1RFanpWRWhQUXlTb05ud1JkZ2dqN2lIeGoweXJyNkp5M3VUV0s2VHZsdEZSLWhtNA?oc=5)
+- **Google News Markets** (Tue, 04 Aug 2026 19:14:29 GMT): High priority | [Column: The Federal Reserve maintains a steady course - Chicago Tribune](https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTWFMUkhUTEY1STRmeHIwSUhtSGZLWGtEMFRFZXU2NjhMdDB5elVsdW5lb29INmpMeW1sWXFFWkh3c0M0VVkwNHZPM2ZmZE40WS1DLVJTM25KTUMtem1melg5S1dnWWc2bmh1SDlnejM3SktaZkdIc3JJUzNiVjQ?oc=5)
 - **Google News Markets** (Tue, 04 Aug 2026 18:14:42 GMT): High priority | [S&P 500 Crosses $70 Trillion: Earnings Gap Between AI and Rest Narrows - Tech Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDM3SUdwWEhuMWlvOWVNMi1YQjlwblZLLUpyNTJ0VDY5VVVNLUZlMnZrNnZWXzhMRmFzLTNUeXpQX0haejRpYXFYTzFFVU5qel9oSDlPcF9CRllVTEU2S01sNERxSkpsQ0ZMQUdmYTc4MzJ0RVJMVGlhaW1RaWhLeV80Q2tMRGI5NTBna2Y1Z01GLUMxX2dJRm1RMHpxaTd2MGI4a1g0WkVhdmFZYW84emw5cVRsRzVFSHc?oc=5)
 - **Google News Markets** (Tue, 04 Aug 2026 12:05:00 GMT): High priority | [CAT Stock Lifts Dow Jones With Massive Earnings Beat - Investor's Business Daily](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWjlaY21vSGY5TmFUcmJTQ0htTTZMaXY4U18tMVQ1aW4zcUpFNDdaUEhUNDFxWHpBUWQxb3ctUW1FX0IxTWdKcGtFdkQtU1ZLM1V6MHFfWUU3azZHZWI4TVMyMlFKQnB5NXk0NEFuRzhFLTNaYmtJNl9RVzF0dWlEbg?oc=5)
 - **Google News Markets** (Tue, 04 Aug 2026 11:31:12 GMT): High priority | [Dow hits record, Palantir stock jumps 16% on Q2 earnings - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFJCNnRzaDRVWUFEZ2NLSzE4Zkt5RUNQemM2RHpPeWkxSkMzaUNsR2VLRWdLMkpnRzBrcWk4YkhBUzdyaXZRY0dKNU5ielhtSjVIQ1lHdHE2RFVOYkpUWGZNeFFGdDhMeGtUdXVvWTgyUEpEdGVHQmVCcHp3LW5fNG9Gekk4MWJBOVNUN1FMVEhMbjRBMmZteXdBRQ?oc=5)
 - **Google News Markets** (Tue, 04 Aug 2026 02:45:00 GMT): High priority | [Dow Jones Futures: Trump Sparks Stock Market Rally; Palantir Soars On Earnings With SpaceX On Deck - Investor's Business Daily](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkF3SWhJTWdNVWRlTlBSV09tbTg2bTZIakRNTUx5cmhGekw0UUlDSlBSdXktVExFa0VURjBaeGZ4YWVCQ3FHTjlMVG5TQ1Jad19rOVFTUTJWbE9Md3NMX3pxNjdiSjNvcUNYZm1IR3JMX1hDb18zbVhTNW5UWjkyTURWbDM5VDlCVmNHYlpZM0JvLWJBZ3ZWZUlqdWxaek5jUVY2SEwzMDlNLVRVd0dNMmpNcjFVenJzTllaTThib1FYZ0J3V01Xc1YxMnNCcjg?oc=5)
-- **Google News Markets** (Tue, 04 Aug 2026 01:15:02 GMT): High priority | [Stocks surge as stellar start to August sees S&P 500, Dow back at record levels - Investing.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0VEV2NmX0kxRkhPcVRtclZ1d21zN0JueWNDVGZUakMtMk9zM2pRRjJGVEZ0X1l1N3g4TGJ1NUNpaWt2SEtmYzBFeWFDM3N3WnhwdjM4bnZuQUhRSVRjUE9IM2R3Q19tenAtOElNcWhuOUcwRmRCSmdpNmo1VUU3TEh3U3c0ejFsRkJyX0VHYzdycklKS2ZaQ2ZqNk54REFQcGJleGhWcGZDNVd5WHN0WlRTcFJOWWRhb2J1c0pnbw?oc=5)
+- **Google News Markets** (Tue, 04 Aug 2026 01:15:02 GMT): High priority | [S&P, Dow at records in tech-fueled rally; investors await SpaceX’s first earnings By Investing.com - Investing.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0VEV2NmX0kxRkhPcVRtclZ1d21zN0JueWNDVGZUakMtMk9zM2pRRjJGVEZ0X1l1N3g4TGJ1NUNpaWt2SEtmYzBFeWFDM3N3WnhwdjM4bnZuQUhRSVRjUE9IM2R3Q19tenAtOElNcWhuOUcwRmRCSmdpNmo1VUU3TEh3U3c0ejFsRkJyX0VHYzdycklKS2ZaQ2ZqNk54REFQcGJleGhWcGZDNVd5WHN0WlRTcFJOWWRhb2J1c0pnbw?oc=5)
 - **Google News Markets** (Mon, 03 Aug 2026 20:33:47 GMT): High priority | [Teetering US stock market faces jobs report, big earnings week - AOL.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdG12N0pMSF80djJBMXlaTEt1eHo4Z3JLV1ZIamR4SUVJbjVYYWxqQWJxX2RuOGwxT2pIWW16Mm5rMC1ZY2djZVBVVk52QjFHQTZYaWc1WW9neVhsN1ZUa05pMmpjSlpxOG9kOFM0UTJTVmZHRW1pN05KOE1kOW9NUw?oc=5)
-- **Google News Markets** (Mon, 03 Aug 2026 20:06:00 GMT): High priority | [Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly - Investor's Business Daily](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNkFmQ0Y3Z1ZkQUozOFd0R3lRV0pZcWhtaXlRX2FTdzZhS3pleEdZWUd6M2tfMHFxNE93cGduXzEzZzV6QnlsRmlNTExfQmV1RGdhTFdIQzNTUERxQkJzR3JYUFNqcUVMLW5zRHVIR042MlZMWUNNc1A2eVFXN2NpTnJZN0VvMUgzTjdn?oc=5)
-- **Google News Markets** (Mon, 03 Aug 2026 20:04:59 GMT): High priority | [US Futures Climb as Focus Shifts Back to Earnings, Oil Slides - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWJvS0hxbGZiUVc3T1V0NUxKMHZ2ODBNYTJ6d0tKRTJkTTF3b2Q5RjE4SmtNdkxRWXNneEU3clBib1dIUGdFajhDZnh0azdkT214a1pQMmVweTNCaExqcERHS2RmSERTV01aLXZaNDQxSjk4ZllCamNfNkxTZzZqbEticlVvdU1hU1RHV3p2OENBejBCZGd5QTdzT3IzcnlmektFUGVQbTJ6VFRFb2sySA?oc=5)
+- **MarketWatch Top Stories** (Tue, 04 Aug 2026 20:00:00 GMT): [‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?](https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories)
 
 ## 5. Economic Calendar
 
@@ -287,10 +331,8 @@ Source health:
 
 - NYSE calendar 2026-08-04: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Aug 4, 2026 4:18 PM ET
+- Nasdaq after-hours article 2026-08-04: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
