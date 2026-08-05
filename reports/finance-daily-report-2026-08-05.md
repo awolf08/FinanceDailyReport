@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-05
 
-_Generated: 2026-08-05 11:48:57 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-05 13:25:07 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -34,6 +34,51 @@ _Generated: 2026-08-05 11:48:57 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 1:25 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Aug 5, 2026 4:21 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp. Class A Common Stock | $108.27 | -17.06 |  | 201,185,898 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $219.22 | +7.28 |  | 155,411,750 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Holdings Inc. | $8.87 | +0.01 |  | 107,356,193 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $11.38 | -1.39 |  | 100,084,676 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[YXT](https://finance.yahoo.com/quote/YXT/)** | YXT.COM GROUP HOLDING LIMITED | $23.43 | +20.23 | +632.1875% |  |
+| **[INLF](https://finance.yahoo.com/quote/INLF/)** | INLIF LIMITED Class A Ordinary Shares | $6.27 | +3.09 | +97.1698% |  |
+| **[JLHL](https://finance.yahoo.com/quote/JLHL/)** | Julong Holding Limited Class A Ordinary Shares | $9.35 | +3.93 | +72.5092% |  |
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[TDCL](https://finance.yahoo.com/quote/TDCL/)** | GraniteShares 2x Long TDC Daily ETF | $12.7888 | -12.0989 | -48.614% |  |
+| **[IPCXU](https://finance.yahoo.com/quote/IPCXU/)** | Inflection Point Acquisition Corp. III Units | $5.16 | -4.84 | -48.4% |  |
+| **[SUJA](https://finance.yahoo.com/quote/SUJA/)** | Suja Life, Inc. Class A Common Stock | $6.135 | -5.265 | -46.1842% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 259.32 | +7.9800 | +3.17% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 482.05 | -2.5900 | -0.53% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 152.49 | +1.8500 | +1.23% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. | 228.72 | +9.72 | +4.44% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 362.43 | -11.0800 | -2.97% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 360.13 | -12.3400 | -3.31% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 272.65 | -11.3700 | -4.00% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 126.47 | -1.8500 | -1.44% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 407.83 | +28.9600 | +7.64% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 77.2 | -0.4900 | -0.63% |  |
+
+Source health:
+- NYSE calendar 2026-08-05: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Aug 5, 2026 4:21 PM ET
+- Nasdaq after-hours article 2026-08-05: skipped - No matching After Hours Most Active article found yet
 
 ### 11:48 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:48 PM ET.
@@ -245,31 +290,41 @@ Source health:
 - **Google News Markets** (Tue, 04 Aug 2026 20:28:33 GMT): High priority | [Dow, S&P 500 hit record highs as AI earnings and oil drop lift stocks - Invezz](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTZKbnR1OEx3N0FIQmpSY1FocWNDdGR2X2dHT1FVLTYzWmRCc050RlJsazlvNXo4V2J1dkc1bUQ5NndLZ0hDRmxDVUFhd2hSVUZTUGo5T0FVejlFSnhsd2VFbTZVMlgyMFBETi01NmRmWV96SVVRRnlpMTVtd3loUGtJbGZKVXJldGFFbTVyVkFaSVRMeWZmMHd2REhvbjBkVXRFakhR?oc=5)
 - **Google News Markets** (Tue, 04 Aug 2026 23:02:38 GMT): High priority | [Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5)
 - **Google News Markets** (Tue, 04 Aug 2026 22:12:00 GMT): High priority | [U.S. Market Close | Geopolitical tensions ease and AI earnings reports align positively, driving the S&P 500 and Dow Jones to new highs; the Philadelphia Semiconductor Index surges 6%; memory and optical communications stocks rally across the board, wit - 富途牛牛](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzhDMXlpT0Y4OVpaRDZJMF9XaDQxOVVIYURHTUxhTDhMcnRrRnlmaklVLVVsNjJHU0tKZUJaaXFmYUxMQzJUZ3NrbFhmblR1YUpIZDZkdkYwUTVHWU1sUVViQk15VjMzNXBvUU1fcFRLc3lGT0FLU2M5bEdjMWFTQktwUTFsa25MLTdoT3NsSkJWX1A5LWhxLUZVZjRpWThaZ1RnQXFxcFhnVUE?oc=5)
+- **MarketWatch Top Stories** (Wed, 05 Aug 2026 18:57:00 GMT): High priority | [Why AT&T, Verizon and T-Mobile shares are down after SpaceX’s earnings](https://www.marketwatch.com/story/why-at-t-verizon-and-t-mobile-shares-are-down-after-spacexs-earnings-033a07ce?mod=mw_rss_topstories)
+- **Google News Markets** (Wed, 05 Aug 2026 18:50:00 GMT): High priority | [Flutter Stock Falls After Earnings Miss Expectations, CEO Steps Down - Barron's](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sNkFRRGlaV2s5NjFsTFViZEJmNHdwMlpLWDlLUGZ2cVpka1JZOHJ1N2hXQkh5SFVDam9mS2dmU1BjZGYtSjU4WUhFVjZpSnlnSGJ3VW9hbTZIMHR3bmlUU093c0FNVzBtbHpnUkZnYVpVN0FiYXdlT2lR?oc=5)
 - **Google News Markets** (Wed, 05 Aug 2026 16:35:23 GMT): High priority | [US stock market could ride earnings strength to more gains after S&P 500 hits record - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDhYYlFmZ3FHcjh0dS1TQ2Z3ampQM2tjSmZha3pHMzhVelB5Q0xzTE8zVThKM1haMFVuTWlpNkFXUHA3WlRORjE0NFhBcExMS1hWeVRIbUtxU3RmbEI2NS1FNmNtamhnZXY5QXlUa1FGN1FMRWc4cF9PMVVJM0pfeEFWQmJfY291UFVtLWFiN292QzMzQjNRQWFmY0RIeDBLQlZKS1dPbEZUMDVidHI3d1RSNkVqYjhlX2Y0Z295M3hDb0k?oc=5)
+- **Google News Markets** (Wed, 05 Aug 2026 16:28:24 GMT): High priority | [US stock market could ride earnings strength to more gains after S&P 500 hits record - marketscreener.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOEpHZXVBSzQxMC1tMWwxWmZTMk9KbUlhSnh0YmdvZk91d2lJZkpTSG1YMWpzeXNpeDVHUVV4MnpVdk05Y0JIcDFhRWgwMTEteWNXWXVaejYwUVd6RWtuZjlvUGpmemQ5TkV2bm5DU1lNM3dWVk9MZ29mV0MzMi1EVjdlN0oxVnh3UlYyazJnQlk0REJjSHN1NHE5Y1lkTVNaUko0T0RpSGt3NDlfT3RXUzMtTVVzbk5OUWFUbFA3aDB3enpFMHJjcmlFZUVfREpNYThj?oc=5)
 - **Google News Markets** (Wed, 05 Aug 2026 15:38:19 GMT): High priority | [SpaceX stock down 7% after earnings: can it make a comeback? - Invezz](https://news.google.com/rss/articles/CBMioAFBVV95cUxObEVpQjAzYURRbF82NFRyMWk3RmxyUno2d2VRbGdRS3dhT3pqZFBkcTBrTVZDbDlJR2kzMi1YZUpMcDVaMEw1TW5xMFVqdHpvay1kOGFHMUZsQi1mQjFxMFhHN2kyblF2eWoyR2Q5SUstX2dCdURsZDBvM2VxWmJ6ZlBqbDZ4S3ZjM2VfVmFMeWdRajRfaXJzS1oxTF9tUUtP?oc=5)
-- **Google News Markets** (Wed, 05 Aug 2026 15:09:00 GMT): High priority | [S&P 500 Hits Record High at 7,791 as Earnings and AI Optimism Fuel Rally - CoinCodex](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZE43aDNTX0dOWGRsTk9KbzlPUDNlNXY3QjFDLXAtQlF5UDZrRkUtVEsyeER6Q3lKNGZiLUF0dDZtLXpWWEliT3lDUV9tNFgya054T01BRUMyUGpnVy1aV3N0eGYwTndvUVBUZk9PU2c2MmRjVFJpMl9pVEY2Ukljb21jVzBfNWstcVk4SjNyNEpSSmRFdzlaZzJpUDU2YWR1OVVfcjZSMEtqUFE?oc=5)
-- **Google News Markets** (Wed, 05 Aug 2026 14:25:37 GMT): High priority | [Dow rises as SpaceX, AMD slide despite earnings, Iran hopes lift stocks - Invezz](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTBrUUtOam1icEl5c2JPdFBySjFwbGZWNXM4Q0NaaEpLV1A4WUs2eVRtQ2hQbWRVcXlid1F6d21QSlRScVhJUjZyN25iT2Z2bGRXUnhySEhfN3pHZ0R1bkdkNVJqcmpFeFRGOVVyMlE5UVJwZGtVU1daOW4wRzZ5eDZ1OXdrVm9ETWo4RWE5dFgtVzFhWHNNZnM4OW5uUUpBZFZDblN2N0FYamdZ?oc=5)
-- **Google News Markets** (Wed, 05 Aug 2026 08:21:37 GMT): High priority | [Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1RrYkNra3Y2Ujk5WWJHbktfc2xSbnFWS3Zham5XMl9xVXFlUnNYSkVsWFBKQWxtSFIyeU13NG5pdlZob1lscFRYYkIwRFJoeEhoQzJiNmpvR0U1Y1BHeWV2UUpiV2xZTVVvS2VHVWVUVFhWcWdzUHFfUXYtdjY2QWZFLTF3TDh6SWNYTGlWeGJYVUhxQWdKdWZBNmoyQmtOQjdXUzBGaDRoaWRwdUswMU02ZXJuTnJCTHFxVjhCV3BPSDE1N3l4U0tNWWt5N0R5eWhiX2JYT0d6UQ?oc=5)
 
 ## 5. Economic Calendar
 
 ### Today (2026-08-05)
-- **08:30** Exports | Previous: 317.70B | Source: Nasdaq
-- **08:30** Imports | Previous: 395.30B | Source: Nasdaq
-- **08:30** Trade Balance | Forecast: -73.00B | Previous: -77.60B | Source: Nasdaq
-- **08:55** Redbook | Previous: 8.3% | Source: Nasdaq
-- **10:00** All Car Sales | Previous: 2.69M | Source: Nasdaq
-- **10:00** All Truck Sales | Previous: 13.87M | Source: Nasdaq
-- **10:00** Durables Excluding Defense | Forecast: 0.3% | Previous: 0.3% | Source: Nasdaq
-- **10:00** Durables Excluding Transport | Previous: 0.6% | Source: Nasdaq
-- **10:00** Factory Orders | Forecast: 0.2% | Previous: -1.1% | Source: Nasdaq
-- **10:00** Factory orders ex transportation | Previous: 2.0% | Source: Nasdaq
-- **10:00** IBD/TIPP Economic Optimism | Forecast: 47.5 | Previous: 45.5 | Source: Nasdaq
-- **10:00** JOLTS Job Openings | Forecast: 7.440M | Previous: 7.537M | Source: Nasdaq
-- **11:10** Atlanta Fed GDPNow | Forecast: 6.2% | Previous: 6.2% | Source: Nasdaq
-- **11:30** 52-Week Bill Auction | Previous: 3.860% | Source: Nasdaq
-- **16:30** API Weekly Crude Oil Stock | Forecast: -2.000M | Previous: 3.296M | Source: Nasdaq
-- **20:15** Fed Schmid Speaks | Source: Nasdaq
+- **07:00** MBA 30-Year Mortgage Rate | Previous: 6.76% | Source: Nasdaq
+- **07:00** MBA Mortgage Applications | Previous: -6.4% | Source: Nasdaq
+- **07:00** MBA Purchase Index | Previous: 159.8 | Source: Nasdaq
+- **07:00** Mortgage Market Index | Previous: 247.2 | Source: Nasdaq
+- **07:00** Mortgage Refinance Index | Previous: 723.1 | Source: Nasdaq
+- **08:15** ADP Nonfarm Employment Change | Forecast: 68K | Previous: 95K | Source: Nasdaq
+- **09:45** S&P Global Composite PMI | Forecast: 53.6 | Previous: 51.9 | Source: Nasdaq
+- **09:45** S&P Global Services PMI | Forecast: 53.6 | Previous: 51.2 | Source: Nasdaq
+- **10:00** ISM Non-Manufacturing Business Activity | Previous: 55.4 | Source: Nasdaq
+- **10:00** ISM Non-Manufacturing Employment | Forecast: 51.2 | Previous: 51.2 | Source: Nasdaq
+- **10:00** ISM Non-Manufacturing New Orders | Forecast: 55.9 | Previous: 55.1 | Source: Nasdaq
+- **10:00** ISM Non-Manufacturing PMI | Forecast: 54.5 | Previous: 54.0 | Source: Nasdaq
+- **10:00** ISM Non-Manufacturing Prices | Forecast: 65.0 | Previous: 67.7 | Source: Nasdaq
+- **10:30** Crude Oil Inventories | Forecast: -1.500M | Previous: -7.167M | Source: Nasdaq
+- **10:30** EIA Refinery Crude Runs | Previous: 0.271M | Source: Nasdaq
+- **10:30** Crude Oil Imports | Previous: -0.237M | Source: Nasdaq
+- **10:30** Cushing Crude Oil Inventories | Previous: -0.771M | Source: Nasdaq
+- **10:30** Distillate Fuel Production | Previous: 0.015M | Source: Nasdaq
+- **10:30** EIA Weekly Distillates Stocks | Forecast: 0.200M | Previous: 1.062M | Source: Nasdaq
+- **10:30** Gasoline Production | Previous: 0.178M | Source: Nasdaq
+- **10:30** Heating Oil Stockpiles | Previous: 0.308M | Source: Nasdaq
+- **10:30** EIA Weekly Refinery Utilization Rates | Previous: 1.1% | Source: Nasdaq
+- **10:30** Gasoline Inventories | Forecast: -1.300M | Previous: 0.007M | Source: Nasdaq
+- **16:05** Fed Governor Cook Speaks | Source: Nasdaq
+- **16:30** U.S. President Trump Speaks | Source: Nasdaq
+- **20:35** FOMC Member Daly Speaks | Source: Nasdaq
 
 ### Tomorrow (2026-08-06)
 - **07:00** MBA 30-Year Mortgage Rate | Previous: 6.76% | Source: Nasdaq
@@ -304,10 +359,8 @@ Source health:
 
 - NYSE calendar 2026-08-05: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Aug 5, 2026 4:21 PM ET
+- Nasdaq after-hours article 2026-08-05: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
