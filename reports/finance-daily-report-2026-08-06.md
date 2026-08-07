@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-06
 
-_Generated: 2026-08-06 08:27:26 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-06 17:39:57 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -39,6 +39,47 @@ _Generated: 2026-08-06 08:27:26 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 5:39 PM Closed Snapshot
+- Latest source timestamp: Data as of Aug 6, 2026 8:36 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp. Class A Common Stock | $114.92 | +6.65 |  | 252,584,999 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $9.81 | -1.57 |  | 139,667,553 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $218.99 | -0.23 |  | 113,058,300 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[WYHG](https://finance.yahoo.com/quote/WYHG/)** | Wing Yip Food Holdings Group Limited | $9.83 | +6.48 | +193.4328% |  |
+| **[CLRO](https://finance.yahoo.com/quote/CLRO/)** | ClearOne, Inc. | $9.8 | +6.12 | +166.3043% |  |
+| **[AMEM](https://finance.yahoo.com/quote/AMEM/)** | Amana Developing World ETF | $53 | +28.48 | +116.1501% |  |
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[YXT](https://finance.yahoo.com/quote/YXT/)** | YXT.COM GROUP HOLDING LIMITED | $7.95 | -15.48 | -66.0691% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 260.2400 | +0.9200 | +0.35% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 489.2800 | +7.2300 | +1.50% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 151.6400 | -0.8500 | -0.56% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 216.1200 | -12.6000 | -5.51% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 357.7500 | -4.6800 | -1.29% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 356.6200 | -3.5100 | -0.97% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 272.2600 | -0.3900 | -0.14% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 126.4700 | -1.8800 | -1.46% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 404.8500 | -2.9800 | -0.73% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 76.9700 | -0.2300 | -0.30% |  |
+
+Source health:
+- NYSE calendar 2026-08-06: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Aug 6, 2026 8:36 PM ET
 
 ### 8:27 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 11:27 AM ET.
@@ -109,18 +150,18 @@ Source health:
 
 ## 4. Latest Market News
 
-- **Google News Markets** (Wed, 05 Aug 2026 17:12:23 GMT): High priority | [Why is US Stock Market Up Today? Dow Jones Gains 570 Points, S&P 500 Edge Higher as Nvidia Leads Winner Ahead Fed Policy & Inflation Amid Middle East Tensions | What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMizgJBVV95cUxNNHBTLUpQci1SekhfTk56bFFEU0Y0ajRqX2s2THZON1pwSjhPZElGdG02bEdQQmlMUml1T2FzU1huNnBHRXo1cW9pdkpvLTFWQ3Q5R1VNYUx5VE82U2NzaTBJOWU5ZWRRSmRUb29TSUwzNmtBWGFFcWs2QTdPOFJ3emFTZWhQMWxleWh3Y18zN2lTZTJqaXhLVkdzeEFCWm1ORlFRdkJGWW4wX3BVX2p0elNWUU5mTXJ1OHJVaWp3Q0Y1S1NCZE41UzNjeDB3M3NudHFtRVVuQ1ZLT1lxWXlGd0l0TEliRElqM2plOFVLbmgtbUhvUWMtbVA3M3k1eFBzVHhfa2Z4WEI3STlwZVEtTjZOSGdrTTJlRVhmaWNaOFdBMW96TWVoMHg0VGItd19ZMnVrZG9ZUWJjOHNYa1Y1Z1BvWkZZblpSenBZQWRn0gHTAkFVX3lxTE10WHdGM3ZFSFRaY1dKX3c4OEQ5RHAyRnNOd3NQd2tZVWdVVjNORWJpYVVFVXRJRTktSi1DalN0WDlqNVFZSG45cmgtTmk1aWFIWFRqMjBiLWpXZ3NPUkRQMnAwNzNBQm9BTVRHSldYSF9LTFd2cWdTcFpsUVVDWVo2UlA4b1MtbWdkMm5zVnZuRFJMN2I1NlgxMV81b3YzdDdYVHJOZzdBeUFQVWlvdlY1bDkyZWZWa3IzemQxcm1yX2VQT1Fub3JQemxiUm1YUTFGSkNNSWcyWHZ4eEdlbGhDbXdwUDhWVUJ2SDBxM3dJbTlXbUJXREJrckZST3d6eUlDLVpSSUw1emEzbnNma1lCSTJZT1pPc19pbC1HbElxQ2tVci1ZNUQ2SDFWaVcwYWtycTJ2UVkzWXRLOU1HeXVrOUZHVHZ4ZHVBU1lGSTh4a0JCVQ?oc=5)
+- **Google News Markets** (Thu, 06 Aug 2026 14:50:59 GMT): High priority | [US Stock Market Today LIVE: Dow Jones Falls, Nasdaq & S&P 500 Hit Fresh Highs on Tech Rally; Gold & Silver Gains as Bitcoin Crash Amid Fed Uncertainty & US-Iran Tensions | What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMi2wJBVV95cUxNbF9MOEpfNS1lcUV5aXRpV2VLbDZmWTAwTUVTOFF1N3hsbHR6c1ZRMmNiaTBjODBQWmNjMmU2cE5vR3NlZkpGam9TV2tmTGQ5WVdhbE5HNUIzb3VrRlZ6U1R1dXBNdGcxNWpMYmtvT0FZR00tVFo3ZFM2Z09rRjRkLWtjZHExalNweThfcU5FRUwzMTRka2xVcmtCc29wQ1RUM3FULVBtQ19OdlJrSjZXNVE2RlNFZUgtUGJGNDAzUEVKMWotNXZmMWs2dDZmT1paVFhqcUphVVU1MFBxQUd1cl9ndmJuSmE0X1ViSTI3ZjlITE1odU1SbXBSR1d1b3F5QjlsUm5ia0huVzBKc0ZjRnRfb0luZEM5VkVEMVdLekNrdzV0YWF3M05YQjRPTEZqeUdaeWRYVE9IeFppWWhUYlo0djU2UldrNjBhUk5FNmxfNEMtTVFqX3dGd9IB2wJBVV95cUxNbF9MOEpfNS1lcUV5aXRpV2VLbDZmWTAwTUVTOFF1N3hsbHR6c1ZRMmNiaTBjODBQWmNjMmU2cE5vR3NlZkpGam9TV2tmTGQ5WVdhbE5HNUIzb3VrRlZ6U1R1dXBNdGcxNWpMYmtvT0FZR00tVFo3ZFM2Z09rRjRkLWtjZHExalNweThfcU5FRUwzMTRka2xVcmtCc29wQ1RUM3FULVBtQ19OdlJrSjZXNVE2RlNFZUgtUGJGNDAzUEVKMWotNXZmMWs2dDZmT1paVFhqcUphVVU1MFBxQUd1cl9ndmJuSmE0X1ViSTI3ZjlITE1odU1SbXBSR1d1b3F5QjlsUm5ia0huVzBKc0ZjRnRfb0luZEM5VkVEMVdLekNrdzV0YWF3M05YQjRPTEZqeUdaeWRYVE9IeFppWWhUYlo0djU2UldrNjBhUk5FNmxfNEMtTVFqX3dGdw?oc=5)
+- **Google News Markets** (Thu, 06 Aug 2026 11:02:57 GMT): High priority | [Dow reaches all-time high while S&P 500 and Nasdaq retreat on tech earnings concerns - eciks.org](https://news.google.com/rss/articles/CBMickFVX3lxTE9PZVNLdEEyMkZoMEU3ZjlKbkw1MTV5TkVqbWtfRUwxSVNTMWFNa0hpVkM0emFrejdOakVLRlp0VVU5ZENCb0wyZHZ3RGs0RjZ3QzZhODZxUUg4bGlHazdURTN4ZlR6SEdWWWZNZ0JFSVpUUQ?oc=5)
 - **Federal Reserve** (Tue, 4 Aug 2026 20:30:00 GMT): High priority | [Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm)
 - **Federal Reserve** (Tue, 4 Aug 2026 20:30:00 GMT): High priority | [Federal Reserve Board announces approval of the application by FS Bancorp, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm)
 - **Federal Reserve** (Tue, 4 Aug 2026 20:30:00 GMT): High priority | [Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm)
+- **Google News Markets** (Thu, 06 Aug 2026 16:39:09 GMT): High priority | [Why is US Stock Market Down Today? Dow Jones Falls 387 Points, S&P 500 Slips as Google Slides While PayPal Gains & Mixed Earnings Weigh Amid Middle East Tensions | What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMi0gJBVV95cUxPTThsYmhzd2haM3YxRU9vOGFIVVM1d05nZWw3WFRkbi1pVGpiUDR4LUtra19LV2Q3UUVOZWt0OGJFc1BMa19wenhSVVJrcFN3SVJhdXU3c1VFX1BMck1sVmRRYk1uSHZIeUF6U3B0UGRia3lUYjROMUhjVUgwSWJINUUzUFNtckxYWmhFOXl3bHk3bmZ2cmdfVjhZTnNZNEVSSnlFTUZCalhiY0Y0aGV0d3M5Ty1SMFNxdGN0eTdqNjYtblhjSGdRS19mV2dMVmkteEpsdDlJTmg1V2FsQ0RoMjEwVmJyM0lXOVE5NDktc0RobFRWX1I0VlJ5MzJ0clBQQ1VhSG94a0J5YkcwczFOeHRoeE9yQ0k1ZDFtaFZiYzZaYUM3S2NvU19IWWpLRW9EdC1UVDQwanBmbjFkYmctSnl0MmhYcXpBY3k1NWVGQ3NyUdIB1wJBVV95cUxONFhMdUpSRFdSb1pHWnBRdTNOdzRpUDJIejFwYTFNeXNWdTRwUDFnWHE3M1FTdENtb3Y4TEhObkROT2lnek9nZzNkbHZQdFBLOWszLUZTRlV3a25Obmg5WTJBV19QTkFkanhKSW1UVDdZVGFhQWhJc0ZHVnRWcXJVZ2VLWDlzQUxJY19YRW9BeWZpMnF0alZOTHV4blRLa29RdmlNVkd2Z0F2LXJKTk15amhvTHY1SjR2eWRodG16M3IzTHRMdkQ1bzkxOThFT3otYjd5MHJ5OE1fT3MzcVNBX3g2Wi1qRFBnbC1YRXVyTy1mTGgweGhOTVBFcGpTY01MRmVuZExnUTFwS2QyODZzaDdpWlZONFpEQWRXTkExbms2V3VKcldudVkxNHRhcmFQbmRabWtfSHdxSzZKc1FSSVhVYzRHbVg1Ni12UjVUd3NPX0VpWkxF?oc=5)
 - **Google News Markets** (Thu, 06 Aug 2026 14:01:45 GMT): High priority | [Why is Datadog stock down 18% despite a Q2 earnings beat and guidance raise? - Invezz](https://news.google.com/rss/articles/CBMirwFBVV95cUxPam95WDFqSVdXbE1RZkxXeFVsc2ppTUg5RWw4SmJjWnhOekJmV05tUkxVSXVYaVV2MC1FNnNyUHAxRnk2SFN6bmlIUlR3aFczLVhFeENoVV9Oby14UzBOQVd6cFExaXF3WDBIUlltd245ZUZMcGdQLTlXbEl1OFBRV3F4Y0Q1TnV4akZGVWZ0UXB2bUdzbXRpZUhBMGFOMDhFWGR6TTNqdDJNaktCMjQ4?oc=5)
-- **Google News Markets** (Thu, 06 Aug 2026 08:26:00 GMT): High priority | [The Federal Reserve's Initial August Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag That Can Come Back to Bite Wall Street - The Globe and Mail](https://news.google.com/rss/articles/CBMizAJBVV95cUxOSWthUzJTdk1DMVJTd2hmYVpHdm9kZ0VHUTFyZENKc3lOUmlyOUd3ZklSMDluZ3FRYksxZE5SX3h2U1B2WnJLTWMzdDU2akdlbEM2RkRLSm9weGRpLUNnMGU3aEVRZUgyN1V6aDQ5QWJ4MnBZUHhRWWQ4bVZqMG40VUxuSVhrSlRZQ0t1UTc4ckdZbnpneFdjYW9MN0paUVFwVlJldVJva0sxM2wyckRYdW9NMDEwcGZEYWJZeFg4MmdkZ1l4NXpVZWFMVTIwQVVIczA4clZqbkxiQzdSM0NKYkdrdng3T3Jwbng3eDZfbTNOQVZvcENDa3RadzY1NlRfT2VmSmVqdWhRR01NV3pRa21Md3N0VkIzYVJjWVdyZjBSeklISktXR2NST2w0TE1uanV6a1l1UC13ZDFBeHY5TGNJVVMwVVhuVUpNaw?oc=5)
-- **Google News Markets** (Thu, 06 Aug 2026 13:27:47 GMT): High priority | [July Nonfarm Payrolls Preview: Job Growth May Remain Low; How Will US Stocks, Dollar, and Gold React? - TradingKey](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMy1UUHZQREpIcEJwemFSZGxhbmNhUnJlazI1ZkktZlFUemwxQXZUeXJDVW8yY3RwNVBTeU9HUmRTN1FiUTdqaGZ2NnlneG9BQm5KaWF1WXE5eVVjZTAwRlhMQlE1UXRkal83SUdsRWxGNkRCUkdDODRNcW1JamJPSkQ2cEpvQXVlT2JDUXc3bEkxa2lDVWpkdE9OSktpeThzWXNWd3NNUVA1OE1pU2c3RDYxd05WT2ZkQ1lMTE55bDltRURyeHdRQUlnTloydGxocmFsUUJNbEhnVGRrSy1wUWJtYXUwbmhSMkE?oc=5)
-- **Google News Markets** (Thu, 06 Aug 2026 12:04:00 GMT): High priority | [Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers - Investor's Business Daily](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdi03blNSNW1ZUGROanFvNHA0dTlNbm00NzdTanhSSlIxVXFrWW9DUGZLR0NwdEs0Tk5RcFJ0YWI3ZzNWdk5ORnN1RUhpWXlweDNmSHcwRllRZ3A0OUM2c2pxV1h5b1NOdHUxelh3a0NOZ2tFVm5fa1RvdjViYmxsdUJFbUliNlV2ek1lNnkzM1l3ZWhPNEpldTdBS3pMZmE5SUZsOU54eE5jdkQ4Sk1qeVRVM3kyYk5vSzdWVERrYzBtaDN2YzhoaUxQRnNqRzMz?oc=5)
-- **Google News Markets** (Thu, 06 Aug 2026 10:32:18 GMT): High priority | [Treasury Yields Surge As Markets Bet On September Hike - Investor's Business Daily](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdkJCN3U0cVJ3OUlVdkNscHNQOWtqeTk3dkNIZ0tBVHZzWW9LUEQtWUwyN0JiSENKQmtfQzcxZ00wSmhuNnYtOEIwUjJ5RmcxZlJfeHRZMFYzTE5USjVjaGd2UlctSVZCbTRPUFRnbEc1ak1VdkZ6NGV1MFdueWtVU21EWnRrX1FreUNRalEwUEE0NEZKVVAzYlB0X201MWp1WEE?oc=5)
-- **Google News Markets** (Thu, 06 Aug 2026 07:00:00 GMT): High priority | [ONE CYR'S VIEW: The steady course of the Federal Reserve - Imperial Valley Press Online](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDUxUUw5WE1MeWtZaXpoR3pNcWtpS2swYWJ4X1lXMXVSYnJGeU5sa1kzSFJMTlltYlZrYUg0a1lWdTZ2M01weHRhcmNMU3lGUjlVd2RSNTNLTlo2d1V5U00yVnVta0hDc1VDQ3ZkU0xMc3pFNzNkVkk2TFBhVVlPeWVocWlkc0Z6bXIzUEQ5TllQR2dkVHp0M2RoMUpLbDMzSlVyWVZ6WGJQODFaZE5yVl9hY3ZuY1ZpU0ViLVRQLVZaeGFjOVN0ZHhTTllXSU01Tlk1OE02eXh6dw?oc=5)
-- **Google News Markets** (Thu, 06 Aug 2026 05:27:15 GMT): High priority | [Teetering US stock market faces jobs report, big earnings week - AOL.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdG12N0pMSF80djJBMXlaTEt1eHo4Z3JLV1ZIamR4SUVJbjVYYWxqQWJxX2RuOGwxT2pIWW16Mm5rMC1ZY2djZVBVVk52QjFHQTZYaWc1WW9neVhsN1ZUa05pMmpjSlpxOG9kOFM0UTJTVmZHRW1pN05KOE1kOW9NUw?oc=5)
-- **Google News Markets** (Wed, 05 Aug 2026 23:00:53 GMT): High priority | [Dow makes history again, as strong earnings could keep stocks climbing, analyst says - WBFF](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1RBb2xTcFdnNl9mdHk2NlAzRVR5WjEtWlFGSDkyOG5SWUgtNVdYSkNVRld5Q1hpemVlMnViVVFPZ1Fhei1JOUF3c2xlSnZXaWV0VUY2LXFPUzV4bjRwOU1DN3pDNGxZWUFxWlJxR0c3Q1FUTnZoZ1pHZXVDOXhBOWpVbzBLdEpOMjlPWXV1ZHU3OXZidFFBT1NSVWtkX2FtU3FUSDJzbUN2SmNIYjhncFJJODM4VmlEcHkwRzQ0aU9wSUU?oc=5)
+- **Google News Markets** (Thu, 06 Aug 2026 08:26:00 GMT): High priority | [The Federal Reserve's Initial August Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag That Can Come Back to Bite Wall Street - The Globe and Mail](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNMkxPdy15bkRKR21VNHF0c3lZckk3OWFhM3lKbWc2NG1oZllKRzhCaWNyNkN5ZGVkZnBqLXFSa1RYUW5ybzZzbF9PVXdEUHA5WGc4X3N5bzlKSEJtUTFuUTJTWmpmVHk4aWMzM2R0RmY2dnlTakF3cTJTbjlvTDJLWXN3NkF2ZG1JTWVSOWhkWUxCem1sX2dBTldUSllMRjNQUHQ0bHlwWVphY2p2b0JmMW9PaTNudXQwaFQyVTFWeDgyWFg2OGxRdjdkTTVybXY2QjY1RHdwSi12S2duNkFQZlBzbURVWGhtQ2hCaHBSUl9TZV9yTUJSY21SRG5ET3B0WXhmVzh4eTR0amJyZkJCcThEdlVpSTZkaHZnUGFneVhXaVJuaVcxWmUySkMtTzd2T05pYm44RHlxRXJ3M1RwZU5XSHdSR1pY?oc=5)
+- **MarketWatch Top Stories** (Thu, 06 Aug 2026 22:59:00 GMT): High priority | [Trade Desk shares tumble on earnings miss and weak outlook](https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 06 Aug 2026 20:57:00 GMT): High priority | [Gold prices are breaking higher after a tough stretch. Could fresh records be within reach?](https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 06 Aug 2026 20:37:00 GMT): High priority | [How to use options to trade stocks around an earnings announcement](https://www.marketwatch.com/story/how-to-use-options-to-trade-stocks-around-an-earnings-announcement-e1ba7920?mod=mw_rss_topstories)
+- **Google News Markets** (Fri, 07 Aug 2026 00:12:39 GMT): High priority | [How the Median Net Worth for Americans Ages 55-64 Compares, According to Federal Reserve Data - Investopedia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQOE9kTkxkckhtTlhpUnhUY1Y1c2Z4dVUxUGR6ZGNkcDVWR04xeFhsTGlWdFA5bWtxUXpoeHZ1R1RXb0RHVkJmYWJ2UEdxYXp0d1pJSW5US3drdllCX0lPSElmUDluTnZtdzIyS1ZfbXdqTTdaYmZNRnQ3N29Cb2hJeEUwMEJuQjJ1RzFocjRycUw4UjVaNWpZNlJWWlhyRlgxZFlWLVY1MndUTENfU3pxdFhiRnRmMmdpTUhuVkEzTFNtVzJDSjM1ZGxn?oc=5)
 
 ## 5. Economic Calendar
 
@@ -154,29 +195,13 @@ Source health:
 - **10:00 AM** Monthly Wholesale Trade: Sales and Inventories (June 2026) | Source: Census
 
 ### Tomorrow (2026-08-07)
-- **05:30** Challenger Job Cuts | Previous: -4.5% | Source: Nasdaq
-- **08:30** Continuing Jobless Claims | Forecast: 1,790K | Previous: 1,777K | Source: Nasdaq
-- **08:30** Initial Jobless Claims | Forecast: 203K | Previous: 198K | Source: Nasdaq
-- **08:30** Jobless Claims 4-Week Avg. | Previous: 203.25K | Source: Nasdaq
-- **08:30** Nonfarm Productivity | Forecast: 0.6% | Previous: 0.8% | Source: Nasdaq
-- **08:30** Unit Labor Costs | Forecast: 2.2% | Previous: 1.3% | Source: Nasdaq
-- **10:00** Wholesale Inventories | Forecast: 0.3% | Previous: 0.3% | Source: Nasdaq
-- **10:00** Wholesale Trade Sales | Previous: 3.4% | Source: Nasdaq
-- **10:30** Natural Gas Storage | Forecast: 30B | Previous: 28B | Source: Nasdaq
-- **11:30** 4-Week Bill Auction | Previous: 3.630% | Source: Nasdaq
-- **11:30** 8-Week Bill Auction | Previous: 3.675% | Source: Nasdaq
-- **11:30** Atlanta Fed GDPNow | Forecast: 5.9% | Previous: 5.9% | Source: Nasdaq
-- **16:30** Fed's Balance Sheet | Previous: 6,738B | Source: Nasdaq
-- **16:30** Reserve Balances with Federal Reserve Banks | Previous: 2.944T | Source: Nasdaq
+- No major events returned by configured sources.
 
 ## Source Health
 
 - NYSE calendar 2026-08-06: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Aug 6, 2026 8:36 PM ET
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
