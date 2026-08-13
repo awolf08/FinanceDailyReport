@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-13
 
-_Generated: 2026-08-13 11:06:13 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-13 12:54:51 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -37,6 +37,73 @@ _Generated: 2026-08-13 11:06:13 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 12:54 PM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 3:54 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $8.95 | -0.82 | -8.39% | 115,258,196 |
+| **[SMCI](https://finance.yahoo.com/quote/SMCI/)** | Super Micro Computer, Inc. | $39.37 | +1.76 | +4.68% | 111,353,019 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $141.53 | -4.62 | -3.16% | 107,402,804 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.56 | +0.24 | +2.32% | 101,780,947 |
+| **[PATH](https://finance.yahoo.com/quote/PATH/)** | UiPath, Inc. | $16.62 | +1.36 | +8.94% | 98,973,330 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $104.83 | +3.88 | +3.84% | 94,269,618 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $225.55 | +1.46 | +0.65% | 77,383,653 |
+| **[IREN](https://finance.yahoo.com/quote/IREN/)** | IREN LIMITED | $44.59 | +0.92 | +2.11% | 66,697,685 |
+| **[ARX](https://finance.yahoo.com/quote/ARX/)** | Accelerant Holdings | $19.49 | +5.88 | +43.20% | 66,623,822 |
+| **[ACHR](https://finance.yahoo.com/quote/ACHR/)** | Archer Aviation Inc. | $6.92 | +0.63 | +10.02% | 55,820,647 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $14.06 | +2.99 | +27.07% | 168,597,371 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $8.60 | +0.55 | +6.83% | 115,414,914 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $56.94 | +2.15 | +3.91% | 73,521,019 |
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $40.15 | -0.82 | -1.99% | 63,154,833 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.56 | +0.01 | +0.06% | 62,258,641 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $145.11 | +2.95 | +2.08% | 50,240,164 |
+| **[SPCH](https://finance.yahoo.com/quote/SPCH/)** | Leverage Shares 2X Long SPCX Da | $9.24 | -0.64 | -6.43% | 48,887,835 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $77.21 | +2.61 | +3.50% | 46,776,387 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $36.01 | -1.31 | -3.51% | 45,146,918 |
+| **[NBIZ](https://finance.yahoo.com/quote/NBIZ/)** | Tradr 2X Short NBIS Daily ETF | $5.51 | +0.20 | +3.86% | 44,142,503 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ARX](https://finance.yahoo.com/quote/ARX/)** | Accelerant Holdings | $19.49 | +5.88 | +43.20% | 66,623,822 |
+| **[AVAH](https://finance.yahoo.com/quote/AVAH/)** | Aveanna Healthcare Holdings Inc | $11.35 | +2.30 | +25.36% | 8,548,303 |
+| **[WDAY](https://finance.yahoo.com/quote/WDAY/)** | Workday, Inc. | $204.90 | +29.61 | +16.89% | 13,269,124 |
+| **[WIX](https://finance.yahoo.com/quote/WIX/)** | Wix.com Ltd. | $79.50 | +10.75 | +15.65% | 3,816,970 |
+| **[TBBB](https://finance.yahoo.com/quote/TBBB/)** | BBB Foods Inc. | $49.01 | +6.71 | +15.86% | 2,834,522 |
+| **[HUBS](https://finance.yahoo.com/quote/HUBS/)** | HubSpot, Inc. | $242.02 | +31.90 | +15.18% | 2,732,225 |
+| **[BVC](https://finance.yahoo.com/quote/BVC/)** | BitVentures Limited | $15.13 | +1.99 | +15.14% | 17,170 |
+| **[MH](https://finance.yahoo.com/quote/MH/)** | McGraw Hill, Inc. | $13.40 | +1.80 | +15.52% | 1,521,852 |
+| **[EROC](https://finance.yahoo.com/quote/EROC/)** | ERock, Inc. | $15.70 | +1.88 | +13.60% | 10,619,051 |
+| **[XE](https://finance.yahoo.com/quote/XE/)** | X-Energy, Inc. | $23.31 | +2.95 | +14.53% | 6,367,853 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CLBT](https://finance.yahoo.com/quote/CLBT/)** | Cellebrite DI Ltd. | $10.66 | -4.59 | -30.10% | 34,513,549 |
+| **[REZI](https://finance.yahoo.com/quote/REZI/)** | Resideo Technologies, Inc. | $20.66 | -5.05 | -19.66% | 6,829,798 |
+| **[LFTO](https://finance.yahoo.com/quote/LFTO/)** | Liftoff Mobile, Inc. | $20.42 | -4.84 | -19.16% | 2,949,739 |
+| **[BSP](https://finance.yahoo.com/quote/BSP/)** | Bending Spoons S.p.A. | $40.33 | -8.65 | -17.66% | 4,167,845 |
+| **[TPR](https://finance.yahoo.com/quote/TPR/)** | Tapestry, Inc. | $128.97 | -24.77 | -16.11% | 7,335,022 |
+| **[FRMI](https://finance.yahoo.com/quote/FRMI/)** | Fermi Inc. | $6.58 | -1.02 | -13.41% | 29,355,476 |
+| **[DKL](https://finance.yahoo.com/quote/DKL/)** | Delek Logistics Partners, L.P. | $52.22 | -7.78 | -12.96% | 1,499,721 |
+| **[BGSI](https://finance.yahoo.com/quote/BGSI/)** | Boyd Group Services Inc. | $92.04 | -13.02 | -12.40% | 105,416 |
+| **[STUB](https://finance.yahoo.com/quote/STUB/)** | StubHub Holdings, Inc. | $7.53 | -1.01 | -11.77% | 20,402,052 |
+| **[CBRS](https://finance.yahoo.com/quote/CBRS/)** | Cerebras Systems Inc. | $232.00 | -30.06 | -11.47% | 15,502,264 |
+
+Source health:
+- NYSE calendar 2026-08-13: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
 ### 11:06 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:06 PM ET.
@@ -247,12 +314,12 @@ Source health:
 - **Google News Markets** (Thu, 13 Aug 2026 16:22:24 GMT): High priority | [FGI shares surge 186% as market growth outpaces earnings guidance by factor of 16 - TechStock²](https://news.google.com/rss/articles/CBMigwFBVV95cUxOYVNkVExHRzZwRUNmMEhTY3R3Y01yS1B1aVRTcnJnLVF4RFVXSUI4UXhvLVd0Z2RyUDBva2F0UEdVNW1COGVIWU1kT0NVWHhoLU1aMGdQRkVram5za3NEWkhvRURJRTczS3FSeHdrV0ZFYWZ4bVVzSzFyU2t4ZElYVVRRaw?oc=5)
 - **Google News Markets** (Thu, 13 Aug 2026 12:13:00 GMT): High priority | [Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally - Investor's Business Daily](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZkpNVy1RdU5INWhpeVV3TFdaMVVLeVRMVnRvRkoyRzFXcUZwdDF2cXhySVpyWHVnbGpodDc3cGhCbXQzaGVpNUdsb3doX2NBYmNGR0F4YlF6djNwQnV1MTl3bGU4SV92aFlaaHBpa2pCeF9wTmFaRk51VXJDZFZJVkpyZ25PSzdNeTFyaFJnUXVXVnV6VTBTQTZROXZjNTR3MzhoVnF1X2VPdl9aazBsdjVvMi1wbHNEMldnUWFXV1VTUHYxUkd1YVZpU29CcVJuZjVkdl95SGY5QQ?oc=5)
 - **Google News Markets** (Thu, 13 Aug 2026 12:09:47 GMT): High priority | [Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk - CNBC](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQnJkWmJHSE1PNWNnbDJIRzNSZlYzeDRlNmFCekJ3b2xEcWxMd3RWVGI0dmtsS1dMcUw3SmpzLUxEVU9WVnJKNVI3TTc5T1FHTmk0VF8yeDRJdXFOY1ZRX2xSSElRMC1sc1dnamYtVHFPZ1hlQlNEWG9TbDFfQnpYakNiNXh1d9IBiwFBVV95cUxNLVVLTFBUTUNxRjlxME0wemhiZmdNQ0lWV19XT1Jfc1hGZVBKSnpyVE54V2d5dWk4OUwwLVJRSlVpYnhSRjROZnhWTllDbUFUMTlTcl9QQ01rSDZhblo1YmUyQUJDdXpNQnZmSWNWQUhqN0tfb2JhdXFjZ1lLNXpubi1nOVZsbEhlX2Yw?oc=5)
-- **Google News Markets** (Thu, 13 Aug 2026 11:48:00 GMT): High priority | [Cisco Earnings Beat, But Shares Are Down. Here's Why. - Investor's Business Daily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0NESkRhQzVlbU1IOUgyb3k4ODlxT04xRDZ0SE1zMkR0TjMyM0NkWGxvR1c5bFZFRVp0TElIejZXa2hEa0NIb2FzbmhNSUhscS1ETkRDSlhKWVBlbmdhZk02WHFHWDlWRmhuQ3U2ZUxiT0xfbmhqcnJTN1VvdTJBR0l0SWNmZjBX?oc=5)
 - **Google News Markets** (Wed, 12 Aug 2026 21:31:31 GMT): High priority | [Stock Market Today, Aug. 12: Stocks Edge Higher as Inflation Data Eases Fed Rate Pressure - The Globe and Mail](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNnFMcGRlWE56QXkxWTJSMWZVV1NlVnFZQ21ZOEtJdXF6NURfbGs1SGN6bU9DcllDdHpUX0ItM01tM3RCZnNoZm00WHVERHc1UDQ4MmZmam5saFQzckNYaEJzUU1vVTZnYl95Y0pOb1ltQzl1OWNaWUV6UFkxOXltdWJMNmY3T2ppMEFNQmF2V0x4aDBUbWEtbmdGcS1SeUc5djRvY2dJN3ZJX0Q0cldiY0VoSG01eHpBTHJEb05rYWJmNUN1T0FmOXViWWFuYUV0Vk05TU8ySkE2TC1ZY2hlaHlycVRPQ0FKUlVWUlE3eE9PeENkMVhxTnpmaDJJQQ?oc=5)
 - **Google News Markets** (Wed, 12 Aug 2026 20:50:00 GMT): High priority | [Chip Stocks, Tech Earnings Fuel Nasdaq Rally; Credo, Aehr, Astronics In Focus - Video - Investor's Business Daily](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QMTlBbmZja0d0a2lrSURwaGNRY0MwOTh5NE1EaGZPVlFOQW5ZNTRWdzUyQ3RHNS1wM2Y0YlVFX3dJZTNaRUZyNF91ODk?oc=5)
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 15:08:00 GMT): [Rich Americans are propping up the travel economy as airfares soar 25% higher than last year](https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Thu, 13 Aug 2026 19:51:00 GMT): [Rich Americans are propping up the travel economy as airfares soar 25% from a year ago](https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories)
 - **MarketWatch Top Stories** (Thu, 13 Aug 2026 14:49:00 GMT): [These workers have charisma, confidence — and no fear of AI taking their jobs. They’re the personality hires.](https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 14:08:00 GMT): [Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains](https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories)
+- **Google News Markets** (Thu, 13 Aug 2026 18:27:00 GMT): [Super Micro Stock Is on a Tear. Why the Market Loved Its Earnings More Than Cisco’s. - Barron's](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSFRsbHE3Y092ZURjbnNNYzBySzNUYUhUS2tXUFNzM2Z1TDlLQVVhcDc1TDg3T2lvUHVzYnZfWTJDTy1YamprdXk0RDE3bkVmaXJOMzl4a0tpTTdBV3YwVDVHMDVSM0Y0Y2pLeFVNWmpWWjZiNzlpcDIzUEI4WlY5UGZhVWxQYzZncHhMUU1aQQ?oc=5)
+- **Google News Markets** (Thu, 13 Aug 2026 17:27:00 GMT): [Do SMCI earnings make it a better pick than DELL? - Invezz](https://news.google.com/rss/articles/CBMikAFBVV95cUxOWkxKdGlnaG02OVM4bTVRZzZ3d1ZmenhCMU9ET1lHckh5YnFBWm91TjQ0WXdjTzBXTWZMcENIT01wb0IyNEtqenRKT2NmWFRQcUxjTmNWT0tnOWFQQm94TFNYSV9fWF9nVDZMY0FaNlFXZTdRR3YxRzhhQ205R1BJRy1DMEZBZld4SDh1MTNlMUQ?oc=5)
 
 ## 5. Economic Calendar
 
