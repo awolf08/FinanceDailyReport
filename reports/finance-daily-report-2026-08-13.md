@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-13
 
-_Generated: 2026-08-13 06:08:04 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-13 07:32:58 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -36,6 +36,73 @@ _Generated: 2026-08-13 06:08:04 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 7:32 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 10:32 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $9.32 | -0.45 | -4.55% | 61,348,696 |
+| **[SMCI](https://finance.yahoo.com/quote/SMCI/)** | Super Micro Computer, Inc. | $41.82 | +4.21 | +11.19% | 43,745,490 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $142.41 | -3.74 | -2.56% | 36,125,126 |
+| **[ARX](https://finance.yahoo.com/quote/ARX/)** | Accelerant Holdings | $19.57 | +5.96 | +43.75% | 34,814,785 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $105.92 | +4.97 | +4.92% | 34,752,995 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $226.12 | +2.03 | +0.90% | 30,314,084 |
+| **[IREN](https://finance.yahoo.com/quote/IREN/)** | IREN LIMITED | $48.05 | +4.38 | +10.03% | 30,162,327 |
+| **[CRWV](https://finance.yahoo.com/quote/CRWV/)** | CoreWeave, Inc. | $111.12 | +3.39 | +3.15% | 23,082,894 |
+| **[CSCO](https://finance.yahoo.com/quote/CSCO/)** | Cisco Systems, Inc. | $115.46 | -8.42 | -6.80% | 23,031,801 |
+| **[AXIA](https://finance.yahoo.com/quote/AXIA/)** | AXIA Energia | $10.22 | -0.25 | -2.39% | 21,163,323 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $12.22 | +1.15 | +10.40% | 41,372,551 |
+| **[DRAM](https://finance.yahoo.com/quote/DRAM/)** | Roundhill Memory ETF | $56.29 | +1.49 | +2.72% | 25,478,404 |
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $38.31 | -2.66 | -6.49% | 23,274,143 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $151.59 | +9.43 | +6.63% | 21,885,138 |
+| **[SPCH](https://finance.yahoo.com/quote/SPCH/)** | Leverage Shares 2X Long SPCX Da | $9.36 | -0.52 | -5.26% | 20,960,382 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $77.66 | +3.06 | +4.10% | 19,779,857 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $8.32 | +0.27 | +3.42% | 18,778,580 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $35.81 | -1.51 | -4.05% | 17,307,484 |
+| **[MUU](https://finance.yahoo.com/quote/MUU/)** | Direxion Daily MU Bull 2X ETF | $30.92 | +2.39 | +8.38% | 15,540,834 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $8.63 | +0.08 | +0.92% | 13,535,788 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ARX](https://finance.yahoo.com/quote/ARX/)** | Accelerant Holdings | $19.57 | +5.96 | +43.75% | 34,815,071 |
+| **[BIRK](https://finance.yahoo.com/quote/BIRK/)** | Birkenstock Holding plc | $43.45 | +6.71 | +18.27% | 1,948,715 |
+| **[AVAH](https://finance.yahoo.com/quote/AVAH/)** | Aveanna Healthcare Holdings Inc | $10.62 | +1.57 | +17.35% | 2,105,505 |
+| **[TBBB](https://finance.yahoo.com/quote/TBBB/)** | BBB Foods Inc. | $49.01 | +6.71 | +15.86% | 1,211,713 |
+| **[RUM](https://finance.yahoo.com/quote/RUM/)** | RUM Group Inc. | $8.48 | +0.93 | +12.38% | 3,747,505 |
+| **[MH](https://finance.yahoo.com/quote/MH/)** | McGraw Hill, Inc. | $13.02 | +1.42 | +12.28% | 470,466 |
+| **[BLSH](https://finance.yahoo.com/quote/BLSH/)** | Bullish | $27.39 | +2.76 | +11.21% | 1,569,250 |
+| **[SMCI](https://finance.yahoo.com/quote/SMCI/)** | Super Micro Computer, Inc. | $41.82 | +4.21 | +11.19% | 43,745,490 |
+| **[EROC](https://finance.yahoo.com/quote/EROC/)** | ERock, Inc. | $15.23 | +1.41 | +10.20% | 2,283,005 |
+| **[IREN](https://finance.yahoo.com/quote/IREN/)** | IREN LIMITED | $48.05 | +4.38 | +10.03% | 30,163,139 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CLBT](https://finance.yahoo.com/quote/CLBT/)** | Cellebrite DI Ltd. | $10.53 | -4.72 | -30.95% | 13,792,517 |
+| **[LFTO](https://finance.yahoo.com/quote/LFTO/)** | Liftoff Mobile, Inc. | $21.20 | -4.06 | -16.07% | 841,791 |
+| **[BSP](https://finance.yahoo.com/quote/BSP/)** | Bending Spoons S.p.A. | $41.24 | -7.74 | -15.80% | 1,347,402 |
+| **[TPR](https://finance.yahoo.com/quote/TPR/)** | Tapestry, Inc. | $130.03 | -23.71 | -15.42% | 3,333,034 |
+| **[REZI](https://finance.yahoo.com/quote/REZI/)** | Resideo Technologies, Inc. | $21.89 | -3.82 | -14.86% | 1,957,272 |
+| **[DKL](https://finance.yahoo.com/quote/DKL/)** | Delek Logistics Partners, L.P. | $52.19 | -7.81 | -13.02% | 718,811 |
+| **[STUB](https://finance.yahoo.com/quote/STUB/)** | StubHub Holdings, Inc. | $7.41 | -1.12 | -13.17% | 6,967,752 |
+| **[YETI](https://finance.yahoo.com/quote/YETI/)** | YETI Holdings, Inc. | $44.46 | -6.38 | -12.55% | 2,049,909 |
+| **[CBRS](https://finance.yahoo.com/quote/CBRS/)** | Cerebras Systems Inc. | $235.61 | -26.45 | -10.09% | 7,557,106 |
+| **[PAAS](https://finance.yahoo.com/quote/PAAS/)** | Pan American Silver Corp. | $47.31 | -5.08 | -9.69% | 3,337,145 |
+
+Source health:
+- NYSE calendar 2026-08-13: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
 ### 6:08 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:07 AM ET.
@@ -106,16 +173,18 @@ Source health:
 
 ## 4. Latest Market News
 
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 12:38:00 GMT): High priority | [Wholesale inflation flattens out in July and price pressures ease](https://www.marketwatch.com/story/wholesale-inflation-flattens-out-in-july-and-price-pressure-ease-c0ea1b91?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 12:11:00 GMT): [The AI boom is not just driving stocks — it’s also moving the foreign-exchange market](https://www.marketwatch.com/story/the-ai-boom-is-not-just-driving-stocks-its-also-moving-the-foreign-exchange-market-275d2f74?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 12:36:00 GMT): [Bill Ackman once exited his Netflix stake in a huff. He’s buying the streaming giant again, as well as these five stocks.](https://www.marketwatch.com/story/bill-ackman-once-exited-netflix-stake-in-a-huff-why-hes-buying-the-streaming-giant-again-as-well-as-these-five-stocks-ae0d9220?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 12:05:00 GMT): [Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.](https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 12:04:00 GMT): [If you can answer this one question, you’ll never worry about money again](https://www.marketwatch.com/story/if-you-can-answer-this-one-question-youll-never-worry-about-money-again-6cf8d0a8?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 12:03:00 GMT): [Nvidia, Intel, Google: Wall Street is partying like it’s 1999](https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 12:02:00 GMT): [We live on a farm and have $2.2 million saved for retirement. We’re ready to retire abroad. Can we afford it?](https://www.marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 11:00:00 GMT): [Lenovo profits soar past expectations on AI computers, servers and services](https://www.marketwatch.com/story/lenovo-profits-soar-past-expectations-on-ai-computers-servers-and-services-162e11e6?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 10:30:00 GMT): [Flying first class is getting cheaper — if you don’t mind giving up some perks](https://www.marketwatch.com/story/flying-first-class-is-getting-cheaper-if-you-dont-mind-giving-up-some-perks-76035942?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Thu, 13 Aug 2026 10:28:00 GMT): [Cisco’s stock falls on margin concerns. Here’s what Wall Street analysts are saying.](https://www.marketwatch.com/story/cisco-stock-falls-on-margin-concerns-heres-what-wall-street-analysts-are-saying-582e39fe?mod=mw_rss_topstories)
+- **Google News Markets** (Wed, 12 Aug 2026 17:00:40 GMT): High priority | [Why is US Stock Market Up Today? Dow Jones Rises 0.10%, Nasdaq Surges 0.66% as Wall Street Trades Higher, Oil Hits $89 Ahead of CPI Data Amid Fed Rate-Hike Bets | What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMizAJBVV95cUxPN3dGV2Z6UWNqMkRBSGZtVThFeGEwNWV1WGxWNy1XRjBTaTRzOU5uX0FXa1VjaExfaDdEMmVkRzFNQ096VVJicHpBVTR4WDBFYktFQWJOaUNlV0ZGeDhIOUM0VEcwTV84Rlk2bTMwX0toQlVBN0dyM1ZzWUFzTkFMcVM4QlJ4cmRUUWNNbHRNN2h3NUdoYnlGcUxEZk5zQ1d3dXVudWxzOVBEU0VweEhWNFBqNTFqQWR6QTVFLWl1RGxubk5yZVpWYjNIeDZfOGphbkVfNFJIaWtyVHZ5TXVLdnRjaUVTclBmS205blRlTUR5LTJ1cUZPUXRvdTZvMUJsTmozOHZVYjFPMUtMR09OdXBpVmNLZ2ZiWEh6eTg4NHc1UnpycDF0ZnJOTEF6Y25jR2FaM29tc2s3THJ0N0Q3UGJETXhxbEUxS21SX9IB0gJBVV95cUxNdDVyNTZGTDdHbjFLZ1Q0WmRkeDZHZ3ZsLWxCeHdPY0cxdXZiV2NoLUU5VGY1MHd5dGZXZjIzMVd5QTMwOVdoQjdSdVItRGR1bXdhNk5GSC1TOWhYUXZUbEgtU1VsbVh1MTBnelM1VHlXb3VsZUxzSkFjajlzSnZvVE90Z2wwTmJKNjBESE9pR0hDWmc2d2w0SFByT3NQdXpRSkhTVDVXU2RkeTNUYnVxZmFYRzVTdXNGWFkwUjcxOURvUklpSEFNdkpROWRDb3g3ZXRoMjhuWXRWS3VJMlY3b3g1YVdsSzB0blU4c3pyZ011ekpyaXBZTURDeENYa0RtMUhILTBHUmU5V2gwdFhwTWtmYWpuZjl2d0FNb2ZsUUtrd3VIX3VTNHhiWXBzOUhBQm85SkdJMExuQ1VmUnMyeVA3ZV81ZnlIa2prOHFyU1Zydw?oc=5)
+- **Google News Markets** (Wed, 12 Aug 2026 21:27:19 GMT): High priority | [S&P 500, Nasdaq rise as CoreWeave earnings boost AI stocks - staradvertiser.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGQ3Nk91SnYwbDhwT3pJQTdoQUJodGhvNkRFYU5JTGt6Q3BFN1B6YUlSQlVJTzE3aWRETnByUkF3NWV3VDIyS2NfanRnb3ZiQUg2ZmxaRVA5R3JONmR5dERHTEtUblRFdW9wb0VRVTRyQm94M18xaE4wYzMweVlLbWdKOFFSSzdEcDhLNXVVc0dJOFhUTVZZTTRtOG9NQktPeEJMeUNaZTZnUXI4TFdXNTN4TQ?oc=5)
+- **Google News Markets** (Wed, 12 Aug 2026 15:54:00 GMT): High priority | [Track Current Stock Market Data On The S&P 500, Nasdaq, Dow Jones And SPDR ETFs - Investor's Business Daily](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdXRWLWJlT2p2aXdxSFhhT29Ra2NrY0daZzFOQnlLSG40R08xX1NmYVRSbVpJNVBLS2pmVjdJUWFqeUVyTVBEcnliY2ZnR0hxRjdvdU9fbnJiLVlGQk82aEl0Q29oTEZGcE9QeUhKS1NIdWQ3THhHUTJta2RzSzlHMnZTYlRPMzdwQXNpS2h3cDM?oc=5)
+- **MarketWatch Top Stories** (Thu, 13 Aug 2026 13:17:00 GMT): High priority | [Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.](https://www.marketwatch.com/story/wholesale-inflation-flattens-out-in-july-and-price-pressure-ease-c0ea1b91?mod=mw_rss_topstories)
+- **Google News Markets** (Thu, 13 Aug 2026 12:13:00 GMT): High priority | [Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally - Investor's Business Daily](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZkpNVy1RdU5INWhpeVV3TFdaMVVLeVRMVnRvRkoyRzFXcUZwdDF2cXhySVpyWHVnbGpodDc3cGhCbXQzaGVpNUdsb3doX2NBYmNGR0F4YlF6djNwQnV1MTl3bGU4SV92aFlaaHBpa2pCeF9wTmFaRk51VXJDZFZJVkpyZ25PSzdNeTFyaFJnUXVXVnV6VTBTQTZROXZjNTR3MzhoVnF1X2VPdl9aazBsdjVvMi1wbHNEMldnUWFXV1VTUHYxUkd1YVZpU29CcVJuZjVkdl95SGY5QQ?oc=5)
+- **Google News Markets** (Thu, 13 Aug 2026 12:09:47 GMT): High priority | [Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk - CNBC](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQnJkWmJHSE1PNWNnbDJIRzNSZlYzeDRlNmFCekJ3b2xEcWxMd3RWVGI0dmtsS1dMcUw3SmpzLUxEVU9WVnJKNVI3TTc5T1FHTmk0VF8yeDRJdXFOY1ZRX2xSSElRMC1sc1dnamYtVHFPZ1hlQlNEWG9TbDFfQnpYakNiNXh1d9IBiwFBVV95cUxNLVVLTFBUTUNxRjlxME0wemhiZmdNQ0lWV19XT1Jfc1hGZVBKSnpyVE54V2d5dWk4OUwwLVJRSlVpYnhSRjROZnhWTllDbUFUMTlTcl9QQ01rSDZhblo1YmUyQUJDdXpNQnZmSWNWQUhqN0tfb2JhdXFjZ1lLNXpubi1nOVZsbEhlX2Yw?oc=5)
+- **Google News Markets** (Thu, 13 Aug 2026 11:54:10 GMT): High priority | [S&P 500 (SPX) Approaches Record Territory as PPI Report and Earnings Dominate Trading - Blockonomi](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVm8zVFcyLXBYMnJyeHE4ZTVsS2JxOGxoRVFuZkVldXVkYVFRa3NpUUZLUXZjeTFjbkk4b28tRHJ0am5zUVNQTXNjRF9Ed3VfZi1ZcGszLVRIbGVma0FlZHdNVVhNLUUtVVgwc0pfeTRraC1NazA2OTZSLVFMU0E3aENZTlJFcGhCbDd2amZPQkpfQlZIczFpMHhTTE1nY0dOTTd0UlozVEVkUQ?oc=5)
+- **Google News Markets** (Thu, 13 Aug 2026 06:11:05 GMT): High priority | [SET Index Moves Upward on Strong Corporate Earnings and Cooling US Inflation - kaohoon international](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkMWFnSDdzcWJReEdURVVZOTJZa1QtQ1drSVk4REwwNjBpTDNSdWh5TnBwVHVFVVN6emZGOUpUa0VzRllHamx2SFBGOHNnREFHSnpyZFZRRUVJc0xrNWc2LQ?oc=5)
+- **Google News Markets** (Wed, 12 Aug 2026 21:31:31 GMT): High priority | [Stock Market Today, Aug. 12: Stocks Edge Higher as Inflation Data Eases Fed Rate Pressure - The Globe and Mail](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNnFMcGRlWE56QXkxWTJSMWZVV1NlVnFZQ21ZOEtJdXF6NURfbGs1SGN6bU9DcllDdHpUX0ItM01tM3RCZnNoZm00WHVERHc1UDQ4MmZmam5saFQzckNYaEJzUU1vVTZnYl95Y0pOb1ltQzl1OWNaWUV6UFkxOXltdWJMNmY3T2ppMEFNQmF2V0x4aDBUbWEtbmdGcS1SeUc5djRvY2dJN3ZJX0Q0cldiY0VoSG01eHpBTHJEb05rYWJmNUN1T0FmOXViWWFuYUV0Vk05TU8ySkE2TC1ZY2hlaHlycVRPQ0FKUlVWUlE3eE9PeENkMVhxTnpmaDJJQQ?oc=5)
+- **Google News Markets** (Wed, 12 Aug 2026 20:50:00 GMT): High priority | [Chip Stocks, Tech Earnings Fuel Nasdaq Rally; Credo, Aehr, Astronics In Focus - Video - Investor's Business Daily](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QMTlBbmZja0d0a2lrSURwaGNRY0MwOTh5NE1EaGZPVlFOQW5ZNTRWdzUyQ3RHNS1wM2Y0YlVFX3dJZTNaRUZyNF91ODk?oc=5)
+- **Google News Markets** (Wed, 12 Aug 2026 17:58:21 GMT): High priority | [Robinhood Beat Earnings by 44% in Q2. So Why Is the Stock Down 38% From Its High? - TIKR.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVdfZ1ozeGNVTEtweGJxQnRyUGpKMUtjRWttSmVFY0RybXc1NzVORGJBZGtTS04xWEJLMFFIYVpmd3pESzl6Zktwd3BWd3dMZ0Jwc2R4R3JVZVZDWmEwTFNOVXNHZFpiMTlBOVZ2Ty12bi0wZ2U4c3ZDUERWSERmQjhaRi1OWmlTWmVNWTVPaXdzNGw4eWFBSTRjcnkycWZVMjJiLWpB?oc=5)
+- **Google News Markets** (Wed, 12 Aug 2026 14:48:27 GMT): High priority | [USA: US FEDERAL RESERVE CHAIRMAN ALAN GREENSPAN ADDRESSES PANEL Frankie Valli (4cBEketmWA) - Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlY3IyQXVoQXE5aVpSYWNVX1hxRkFkZUtPaGZab1dUaF9MQ3lTOWtGNVBJWDhBZzdfOGRzUWVSaFN2cFR6ZW1Qa25ZQmxsTkE0eXhza2EyVjlDa3M?oc=5)
 
 ## 5. Economic Calendar
 
@@ -151,12 +220,12 @@ Source health:
 - **14:00** Federal Budget Balance | Forecast: -348.3B | Previous: -120.0B | Source: Nasdaq
 
 ### Tomorrow (2026-08-14)
-- **08:30** Continuing Jobless Claims | Forecast: 1,800K | Previous: 1,801K | Source: Nasdaq
-- **08:30** Core PPI | Forecast: 0.3% | Previous: 0.2% | Source: Nasdaq
-- **08:30** Initial Jobless Claims | Forecast: 202K | Previous: 199K | Source: Nasdaq
-- **08:30** Jobless Claims 4-Week Avg. | Previous: 198.75K | Source: Nasdaq
-- **08:30** PPI | Forecast: 4.9% | Previous: 5.5% | Source: Nasdaq
-- **08:30** PPI ex. Food/Energy/Transport | Previous: 5.1% | Source: Nasdaq
+- **08:30** Continuing Jobless Claims | Forecast: 1,800K | Previous: 1,799K | Source: Nasdaq
+- **08:30** Core PPI | Forecast: 0.3% | Previous: 0.4% | Source: Nasdaq
+- **08:30** Initial Jobless Claims | Forecast: 202K | Previous: 200K | Source: Nasdaq
+- **08:30** Jobless Claims 4-Week Avg. | Previous: 199.00K | Source: Nasdaq
+- **08:30** PPI | Forecast: 0.2% | Previous: -0.1% | Source: Nasdaq
+- **08:30** PPI ex. Food/Energy/Transport | Previous: 5.0% | Source: Nasdaq
 - **08:40** FOMC Member Barkin Speaks | Source: Nasdaq
 - **10:30** Natural Gas Storage | Forecast: 31B | Previous: 33B | Source: Nasdaq
 - **11:30** 4-Week Bill Auction | Previous: 3.640% | Source: Nasdaq
@@ -171,11 +240,12 @@ Source health:
 
 - NYSE calendar 2026-08-13: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
-- TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
-- TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 - MarketWatch Top Stories: ok
-- Google News Markets: unavailable - 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(stock%20market%20OR%20Federal%20Reserve%20OR%20earnings)%20when:1d&hl=en-US&gl=US&ceid=US:en
+- Google News Markets: ok
 - Federal Reserve: ok
 - Nasdaq economic calendar 2026-08-13: ok
 - Census economic indicators: ok
