@@ -141,9 +141,15 @@ def render_weekly_markdown(data: WeeklyReportData, settings: Settings) -> str:
         "",
         "[Baybell Home](https://www.baybell.com/)",
         "",
-        "## Summary",
+        "## 下周展望与关注点",
         "",
     ]
+    lines.extend(f"- {item}" for item in chinese_weekly_outlook(data))
+    lines.extend([
+        "",
+        "## Summary",
+        "",
+    ])
     summary = weekly_summary(data)
     if summary:
         lines.extend(f"- {item}" for item in summary)
@@ -252,6 +258,10 @@ def render_weekly_html(data: WeeklyReportData, settings: Settings) -> str:
         "</header>",
     ]
 
+    parts.extend(["<h2>下周展望与关注点</h2>", '<div class="section"><ul>'])
+    parts.extend(f"<li>{escape(item)}</li>" for item in chinese_weekly_outlook(data))
+    parts.extend(["</ul></div>"])
+
     parts.extend(["<h2>Summary</h2>", '<div class="section"><ul>'])
     summary = weekly_summary(data)
     if summary:
@@ -334,6 +344,66 @@ def weekly_summary(data: WeeklyReportData) -> list[str]:
     if fed_count:
         summary.append(f"{fed_count} Fed speech/testimony item(s) from Federal Reserve feeds.")
     return summary
+
+
+def chinese_weekly_outlook(data: WeeklyReportData) -> list[str]:
+    categories = weekly_event_categories(data)
+    earnings_symbols = sorted({row.get("symbol", "") for rows in data.earnings.values() for row in rows if row.get("symbol")})
+    lines: list[str] = []
+
+    if not categories and not earnings_symbols:
+        return [
+            "下周目前缺少明确的高影响宏观数据或重点大型科技财报，市场主线可能更多由利率走势、美元、地缘消息和个股新闻驱动。",
+            "操作上重点观察 SPX/NDX 是否延续原有趋势，以及 10 年期美债收益率和黄金是否出现方向性突破。",
+        ]
+
+    main_focus = []
+    if categories.get("inflation"):
+        main_focus.append("通胀数据")
+    if categories.get("labor"):
+        main_focus.append("就业数据")
+    if categories.get("fed"):
+        main_focus.append("FOMC/Fed 信号")
+    if categories.get("growth"):
+        main_focus.append("GDP/PCE/增长预期")
+    if categories.get("auction"):
+        main_focus.append("国债拍卖与期限溢价")
+    if earnings_symbols:
+        main_focus.append(f"{', '.join(earnings_symbols)} 等重点财报")
+
+    lines.append(f"下周市场主线：{ '、'.join(main_focus) }。重点不是数据本身，而是实际值相对市场预期的偏离，以及它如何改变降息/收益率路径。")
+
+    if categories.get("inflation"):
+        lines.append("通胀关注点：CPI/PPI/PCE 若高于预期，通常会推升美债收益率并压制 SPX/NDX 估值，黄金也可能受实际利率上行拖累；若低于预期，则有利于风险资产和长债。")
+    if categories.get("labor"):
+        lines.append("就业关注点：就业或初请数据偏强会强化经济韧性和高利率更久的定价，对 NDX 较敏感；偏弱则可能利好美债和黄金，但若过弱也会引发增长担忧。")
+    if categories.get("fed"):
+        lines.append("Fed 关注点：FOMC 纪要或官员讲话如果偏鹰，SPX/NDX 可能承压、收益率上行；如果偏鸽，市场可能交易流动性改善和估值修复。")
+    if categories.get("growth"):
+        lines.append("增长关注点：GDP/GDPNow/PCE 相关数据会影响软着陆叙事。增长上修利好周期和盈利预期，但若同时推高收益率，科技股估值可能受压。")
+    if categories.get("auction"):
+        lines.append("美债关注点：国债拍卖需求是下周利率风险的关键变量。拍卖疲弱可能推高长端收益率，压制 SPX/NDX 和黄金；需求强劲则有助于缓和利率压力。")
+    if earnings_symbols:
+        lines.append(f"财报关注点：{', '.join(earnings_symbols)} 的业绩和指引会影响相关行业情绪。大型科技/AI/云资本开支相关评论尤其会影响 NDX，消费龙头则可反映需求韧性。")
+
+    lines.append("交易观察：优先看 10 年期美债收益率、美元指数、黄金和 NDX 的同向/背离。如果收益率上行但 NDX 不跌，说明风险偏好仍强；如果收益率回落但 SPX/NDX 也走弱，则要警惕增长担忧取代降息利好。")
+    return lines
+
+
+def weekly_event_categories(data: WeeklyReportData) -> dict[str, bool]:
+    names = [
+        event.get("event", "").lower()
+        for events in data.economic_events.values()
+        for event in events
+    ]
+    names.extend(event.get("event", "").lower() for event in data.fed_events)
+    return {
+        "inflation": any(any(term in name for term in ("cpi", "ppi", "pce", "inflation")) for name in names),
+        "labor": any(any(term in name for term in ("payroll", "jobless", "employment", "unemployment", "jobs")) for name in names),
+        "fed": any(any(term in name for term in ("fomc", "fed", "powell", "federal reserve")) for name in names),
+        "growth": any(any(term in name for term in ("gdp", "growth")) for name in names),
+        "auction": any(any(term in name for term in ("treasury", "auction", "note", "bond", "bill", "tips")) for name in names),
+    }
 
 
 def event_expectation_details(event: dict[str, str]) -> str:
