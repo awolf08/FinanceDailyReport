@@ -10,10 +10,12 @@ from .emailer import send_email
 from .fetchers import collect_report_data
 from .render import render_html, render_markdown
 from .snapshots import update_snapshot_file
+from .weekly import collect_weekly_report_data, write_weekly_report
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Generate a daily finance report.")
+    parser.add_argument("--weekly", action="store_true", help="Generate a next-week market events report instead of the daily report.")
     parser.add_argument("--date", help="Report date in YYYY-MM-DD format. Defaults to today.")
     parser.add_argument("--email", action="store_true", help="Send the report by email after writing it.")
     parser.add_argument("--email-if-configured", action="store_true", help="Send email only when SMTP settings exist.")
@@ -33,6 +35,12 @@ def main() -> int:
     report_date = datetime.now(ZoneInfo(settings.timezone)).date()
     if args.date:
         report_date = datetime.strptime(args.date, "%Y-%m-%d").date()
+
+    if args.weekly:
+        data = collect_weekly_report_data(report_date, settings)
+        for path in write_weekly_report(data, settings, settings.output_dir, args.format):
+            print(f"Wrote {path}")
+        return 0
 
     settings.output_dir.mkdir(parents=True, exist_ok=True)
     output_stem = settings.output_dir / f"finance-daily-report-{report_date.isoformat()}"

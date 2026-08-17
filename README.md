@@ -9,6 +9,7 @@ It creates a Markdown report with:
 - Today and tomorrow economic calendar checks
 - NYSE market status so holidays and closed sessions are clearly labeled
 - After-hours and next pre-market earnings calendar from Nasdaq
+- Sunday next-week market events report covering CPI/PPI, jobs, FOMC/Fed items, GDP/PCE, Treasury auctions, and important mega-cap earnings
 
 ## Setup
 
@@ -57,6 +58,19 @@ python -m finance_daily_report --format html
 python -m finance_daily_report --format md
 ```
 
+Generate the next-week market events report:
+
+```bash
+python -m finance_daily_report --weekly
+```
+
+The weekly report is saved as:
+
+```text
+reports/weekly-market-events-YYYY-MM-DD.md
+reports/weekly-market-events-YYYY-MM-DD.html
+```
+
 ## Daily automation
 
 Use the local fallback publisher as the primary daily automation around 5:55 AM Pacific:
@@ -69,6 +83,17 @@ scripts/fallback-publish-report.sh
 It rebases local `main` onto `origin/main`, generates the report with `--email-if-configured` when needed, refuses to publish reports that still show DNS/network failures, force-adds the ignored report files, commits and pushes them, and syncs the public `awolf08/reports` site. If today's report already exists on GitHub, it skips generation and still makes sure the public site is current.
 
 On US market holidays the report still sends, but the active-stock section is skipped and marked as closed.
+
+## Weekly automation
+
+Use the weekly publisher every Sunday around 6:00 PM Pacific:
+
+```bash
+cd /path/to/FinanceDailyReport
+scripts/publish-weekly-report.sh
+```
+
+It generates the next-week market events report, force-adds the ignored weekly report files, commits them, and pushes them to `origin/main`.
 
 This repo also includes a best-effort GitHub Actions backup at [`.github/workflows/daily-report.yml`](/Users/weicheng/Desktop/Projects/FinanceDailyReport/.github/workflows/daily-report.yml). It checks shortly after the local run window and generates/publishes only if the day's report is still missing. GitHub scheduled workflows can be delayed or dropped, so do not treat that schedule as the primary delivery path.
 
