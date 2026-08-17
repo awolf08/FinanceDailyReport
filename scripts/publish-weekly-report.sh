@@ -15,6 +15,7 @@ report_html="${report_stem}.html"
 repo_report_stem="reports/weekly-market-events-${report_date}"
 repo_report_md="${repo_report_stem}.md"
 repo_report_html="${repo_report_stem}.html"
+reports_site_repo="${REPORTS_SITE_REPO:-https://github.com/awolf08/reports.git}"
 
 if [ "$(git branch --show-current)" != "main" ]; then
   echo "Weekly publish must run from the main branch." >&2
@@ -62,6 +63,80 @@ if [ "$report_exists_on_origin" = "false" ] || [ "$force_generate" = "true" ]; t
   fi
 fi
 
+if [ ! -f "$report_html" ] || [ ! -f "$report_md" ]; then
+  echo "Weekly report files for ${report_date} are missing locally after sync." >&2
+  exit 1
+fi
+
+reports_site_dir="$(mktemp -d)"
+git clone "$reports_site_repo" "$reports_site_dir"
+mkdir -p "$reports_site_dir/weekly-finance"
+cp "$report_html" "$reports_site_dir/weekly-finance/${report_date}.html"
+cp "$report_md" "$reports_site_dir/weekly-finance/${report_date}.md"
+cat > "$reports_site_dir/weekly-finance/index.html" <<EOF
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Weekly Finance Report</title>
+  <script>
+    location.replace("./${report_date}.html");
+  </script>
+</head>
+<body>
+  <p>Opening the latest Weekly Finance Report.</p>
+  <p><a href="./${report_date}.html">Open latest report</a></p>
+</body>
+</html>
+EOF
+
+python3 - "$reports_site_dir/index.html" <<'PY'
+from pathlib import Path
+import sys
+
+path = Path(sys.argv[1])
+if not path.exists():
+    raise SystemExit(0)
+
+html = path.read_text(encoding="utf-8")
+if 'href="./weekly-finance/"' not in html:
+    html = html.replace(
+        '<a href="./daily-finance/">Daily Finance</a>',
+        '<a href="./daily-finance/">Daily Finance</a>\n        <a href="./weekly-finance/">Weekly Finance</a>',
+    )
+if 'metric-label">Weekly Finance<' not in html:
+    insert_after = '''          <a class="metric-card" href="./daily-finance/">
+            <span class="metric-icon">DF</span>
+            <span class="metric-label">Daily Finance</span>
+            <strong>Live</strong>
+            <small>Auto-published latest report</small>
+          </a>'''
+    weekly_card = insert_after + '''
+          <a class="metric-card" href="./weekly-finance/">
+            <span class="metric-icon">WF</span>
+            <span class="metric-label">Weekly Finance</span>
+            <strong>Live</strong>
+            <small>Next-week market events</small>
+          </a>'''
+    html = html.replace(insert_after, weekly_card)
+path.write_text(html, encoding="utf-8")
+PY
+
+(
+  cd "$reports_site_dir"
+  git config user.name "FinanceDailyReport weekly publisher"
+  git config user.email "weekly@users.noreply.github.com"
+  git add index.html weekly-finance/
+  if git diff --cached --quiet; then
+    echo "Reports site already contains weekly report ${report_date}."
+  else
+    git commit -m "Publish weekly finance report for ${report_date}"
+    git push origin HEAD:main
+  fi
+)
+
 echo "Weekly report ready:"
 echo "- ${report_md}"
 echo "- ${report_html}"
+echo "- https://baybell.com/weekly-finance/${report_date}.html"
