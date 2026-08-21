@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-21
 
-_Generated: 2026-08-21 06:02:32 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-21 06:06:44 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -24,6 +24,73 @@ _Generated: 2026-08-21 06:02:32 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:06 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:06 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[USDE](https://finance.yahoo.com/quote/USDE/)** | StablecoinX Inc. | $5.10 | +1.10 | +27.50% | 5,684,786 |
+| **[BMNR](https://finance.yahoo.com/quote/BMNR/)** | BitMine Immersion Technologies, Inc. | $22.43 | +0.86 | +3.99% | 3,442,749 |
+| **[MSTR](https://finance.yahoo.com/quote/MSTR/)** | Strategy Inc | $121.38 | +8.99 | +8.00% | 3,280,509 |
+| **[MARA](https://finance.yahoo.com/quote/MARA/)** | MARA Holdings, Inc. | $11.82 | +0.67 | +6.01% | 2,577,684 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp | $135.38 | +1.38 | +1.03% | 1,767,327 |
+| **[CRCL](https://finance.yahoo.com/quote/CRCL/)** | Circle Internet Group, Inc. | $88.42 | +4.76 | +5.69% | 1,632,079 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.36 | +0.21 | +2.07% | 1,628,542 |
+| **[MRNA](https://finance.yahoo.com/quote/MRNA/)** | Moderna, Inc. | $134.29 | +0.97 | +0.73% | 1,261,954 |
+| **[PURR](https://finance.yahoo.com/quote/PURR/)** | Hyperliquid Strategies Inc | $10.33 | +0.25 | +2.48% | 1,255,178 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $218.04 | +1.19 | +0.55% | 1,140,834 |
+| **[HOOD](https://finance.yahoo.com/quote/HOOD/)** | Robinhood Markets, Inc. | $100.01 | +4.91 | +5.16% | 1,129,701 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $93.08 | +0.95 | +1.03% | 1,043,848 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $18.20 | +0.28 | +1.56% | 836,414 |
+| **[IREN](https://finance.yahoo.com/quote/IREN/)** | IREN Limited | $43.60 | +1.00 | +2.35% | 775,345 |
+| **[SBSW](https://finance.yahoo.com/quote/SBSW/)** | D/B/A Sibanye-Stillwater Limited | $12.75 | +0.93 | +7.87% | 749,920 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[RFAIU](https://finance.yahoo.com/quote/RFAIU/)** | RF Acquisition Corp II | $56.00 | +44.97 | +407.71% | 300 |
+| **[RFAI](https://finance.yahoo.com/quote/RFAI/)** | RF Acquisition Corp II | $36.40 | +23.67 | +185.94% | 97,901 |
+| **[USDE](https://finance.yahoo.com/quote/USDE/)** | StablecoinX Inc. | $5.10 | +1.10 | +27.50% | 5,684,786 |
+| **[PAL](https://finance.yahoo.com/quote/PAL/)** | Proficient Auto Logistics, Inc. | $6.09 | +0.88 | +16.89% | 100 |
+| **[RPC](https://finance.yahoo.com/quote/RPC/)** | Ridgepost Capital, Inc. | $9.51 | +0.88 | +10.20% | 400 |
+| **[ABUS](https://finance.yahoo.com/quote/ABUS/)** | Arbutus Biopharma Corporation | $5.23 | +0.46 | +9.64% | 403,063 |
+| **[CMTDF](https://finance.yahoo.com/quote/CMTDF/)** | Sumitomo Mitsui Trust Group, Inc. | $11.22 | +0.92 | +8.93% | 3,400 |
+| **[ASST](https://finance.yahoo.com/quote/ASST/)** | Strive, Inc. | $17.55 | +1.42 | +8.78% | 533,843 |
+| **[BCCQU](https://finance.yahoo.com/quote/BCCQU/)** | Bleichroeder Acquisition Corp. III | $11.03 | +0.89 | +8.78% | 440 |
+| **[GLSI](https://finance.yahoo.com/quote/GLSI/)** | Greenwich LifeSciences, Inc. | $16.63 | +1.32 | +8.65% | 1,479 |
+| **[BTDR](https://finance.yahoo.com/quote/BTDR/)** | Bitdeer Technologies Group | $11.27 | +0.84 | +8.05% | 497,180 |
+| **[MSTR](https://finance.yahoo.com/quote/MSTR/)** | Strategy Inc | $121.38 | +8.99 | +8.00% | 3,280,509 |
+| **[SBSW](https://finance.yahoo.com/quote/SBSW/)** | D/B/A Sibanye-Stillwater Limited | $12.75 | +0.93 | +7.87% | 749,920 |
+| **[BKKT](https://finance.yahoo.com/quote/BKKT/)** | Bakkt, Inc. | $8.08 | +0.58 | +7.73% | 146,378 |
+| **[SUTNY](https://finance.yahoo.com/quote/SUTNY/)** | Sumitomo Mitsui Trust Group, Inc. | $5.62 | +0.38 | +7.25% | 6,800 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[OSIS](https://finance.yahoo.com/quote/OSIS/)** | OSI Systems, Inc. | $198.02 | -20.07 | -9.20% | 14,530 |
+| **[BCARU](https://finance.yahoo.com/quote/BCARU/)** | D. Boral ARC Acquisition I Corp. | $5.35 | -0.49 | -8.31% | 404 |
+| **[TLX](https://finance.yahoo.com/quote/TLX/)** | Telix Pharmaceuticals Limited | $11.39 | -1.03 | -8.29% | 4,006 |
+| **[ZSTK](https://finance.yahoo.com/quote/ZSTK/)** | ZeroStack Corp. | $5.45 | -0.44 | -7.47% | 23,282 |
+| **[GLIBA](https://finance.yahoo.com/quote/GLIBA/)** | Liberty Capital Corporation - Series A GCI Group | $24.20 | -1.92 | -7.35% | 100 |
+| **[PHOS](https://finance.yahoo.com/quote/PHOS/)** | First Phosphate Corp. | $16.46 | -1.27 | -7.16% | 300 |
+| **[OPHC](https://finance.yahoo.com/quote/OPHC/)** | OptimumBank Holdings, Inc. | $8.61 | -0.61 | -6.62% | 300 |
+| **[AVAH](https://finance.yahoo.com/quote/AVAH/)** | Aveanna Healthcare Holdings Inc. | $12.28 | -0.69 | -5.32% | 207,158 |
+| **[BNAI](https://finance.yahoo.com/quote/BNAI/)** | Brand Engagement Network Inc. | $14.50 | -0.74 | -4.86% | 6,226 |
+| **[IA](https://finance.yahoo.com/quote/IA/)** | Innovative Solutions and Support, Inc. | $20.00 | -0.93 | -4.44% | 1,000 |
+| **[FLO](https://finance.yahoo.com/quote/FLO/)** | Flowers Foods, Inc. | $6.80 | -0.30 | -4.23% | 231,284 |
+| **[SVCO](https://finance.yahoo.com/quote/SVCO/)** | Silvaco Group, Inc. | $6.50 | -0.25 | -3.70% | 1,776 |
+| **[PPHC](https://finance.yahoo.com/quote/PPHC/)** | Public Policy Holding Company, Inc. | $9.75 | -0.36 | -3.56% | 1,390 |
+| **[MANE](https://finance.yahoo.com/quote/MANE/)** | Veradermics, Incorporated | $101.76 | -3.56 | -3.38% | 300 |
+| **[BABA](https://finance.yahoo.com/quote/BABA/)** | Alibaba Group Holding Limited | $126.43 | -4.10 | -3.14% | 591,667 |
+
+Source health:
+- NYSE calendar 2026-08-21: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
 
 ### 6:02 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:02 AM ET.
