@@ -86,7 +86,7 @@ On US market holidays the report still sends, but the active-stock section is sk
 
 ## Weekly automation
 
-Use the weekly publisher every Sunday around 6:00 PM Pacific:
+Use the weekly publisher every Sunday around 8:00 AM Pacific:
 
 ```bash
 cd /path/to/FinanceDailyReport
