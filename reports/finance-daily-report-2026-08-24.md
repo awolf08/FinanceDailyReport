@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-24
 
-_Generated: 2026-08-24 06:00:50 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-24 06:06:29 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -35,6 +35,73 @@ _Generated: 2026-08-24 06:00:50 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:06 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:06 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[USDE](https://finance.yahoo.com/quote/USDE/)** | StablecoinX Inc. | $7.53 | +0.12 | +1.64% | 3,004,180 |
+| **[XPEV](https://finance.yahoo.com/quote/XPEV/)** | XPeng Inc. | $11.73 | -0.46 | -3.77% | 2,456,656 |
+| **[BRZE](https://finance.yahoo.com/quote/BRZE/)** | Braze, Inc. | $31.06 | +0.00 | +0.00% | 1,840,100 |
+| **[BMNR](https://finance.yahoo.com/quote/BMNR/)** | BitMine Immersion Technologies, Inc. | $23.60 | +0.77 | +3.37% | 1,639,419 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $215.49 | +0.77 | +0.36% | 1,381,050 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.06 | -0.15 | -1.47% | 1,268,117 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $88.28 | -1.79 | -1.99% | 1,253,159 |
+| **[MSTR](https://finance.yahoo.com/quote/MSTR/)** | Strategy Inc | $122.50 | +3.25 | +2.73% | 1,225,650 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp | $133.74 | -3.23 | -2.36% | 1,215,230 |
+| **[BABA](https://finance.yahoo.com/quote/BABA/)** | Alibaba Group Holding Limited | $117.40 | -1.94 | -1.63% | 1,098,128 |
+| **[WBD](https://finance.yahoo.com/quote/WBD/)** | Warner Bros. Discovery, Inc. - Series A | $28.89 | +0.34 | +1.19% | 1,078,574 |
+| **[USAR](https://finance.yahoo.com/quote/USAR/)** | USA Rare Earth, Inc. | $18.96 | -0.30 | -1.56% | 908,126 |
+| **[MARA](https://finance.yahoo.com/quote/MARA/)** | MARA Holdings, Inc. | $11.32 | +0.06 | +0.53% | 830,251 |
+| **[PDD](https://finance.yahoo.com/quote/PDD/)** | PDD Holdings Inc. | $91.50 | +3.12 | +3.53% | 807,924 |
+| **[FIG](https://finance.yahoo.com/quote/FIG/)** | FIGMA INC | $27.03 | -0.07 | -0.26% | 791,617 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[IVBXF](https://finance.yahoo.com/quote/IVBXF/)** | Innovent Biologics Inc. | $14.23 | +2.43 | +20.55% | 115 |
+| **[NSSC](https://finance.yahoo.com/quote/NSSC/)** | NAPCO Security Technologies, Inc. | $45.40 | +7.31 | +19.19% | 49,521 |
+| **[HVII](https://finance.yahoo.com/quote/HVII/)** | Hennessy Capital Investment Corp. VII | $7.49 | +1.11 | +17.31% | 21,977 |
+| **[SUPX](https://finance.yahoo.com/quote/SUPX/)** | SuperX AI Technology Limited | $9.68 | +1.16 | +13.62% | 36,458 |
+| **[PEBK](https://finance.yahoo.com/quote/PEBK/)** | Peoples Bancorp of North Carolina, Inc. | $48.01 | +3.68 | +8.30% | 100 |
+| **[HYNE](https://finance.yahoo.com/quote/HYNE/)** | Hoyne Bancorp, Inc. | $18.00 | +1.34 | +8.04% | 100 |
+| **[CV](https://finance.yahoo.com/quote/CV/)** | CapsoVision, Inc. | $6.50 | +0.48 | +7.97% | 268 |
+| **[JLHL](https://finance.yahoo.com/quote/JLHL/)** | Julong Holding Limited | $7.11 | +0.51 | +7.73% | 57,674 |
+| **[TOELF](https://finance.yahoo.com/quote/TOELF/)** | Tokyo Electron Ltd. | $362.00 | +23.13 | +6.83% | 5 |
+| **[CAPR](https://finance.yahoo.com/quote/CAPR/)** | Capricor Therapeutics, Inc. | $6.71 | +0.42 | +6.68% | 269,339 |
+| **[RUM](https://finance.yahoo.com/quote/RUM/)** | RUM Group Inc. | $9.64 | +0.59 | +6.52% | 484,260 |
+| **[SPRB](https://finance.yahoo.com/quote/SPRB/)** | Spruce Biosciences, Inc. | $54.50 | +2.92 | +5.66% | 5,001 |
+| **[FWDI](https://finance.yahoo.com/quote/FWDI/)** | Forward Industries, Inc. | $5.43 | +0.29 | +5.64% | 91,321 |
+| **[ODTX](https://finance.yahoo.com/quote/ODTX/)** | Odyssey Therapeutics, Inc. | $27.85 | +1.46 | +5.53% | 200 |
+| **[UMC](https://finance.yahoo.com/quote/UMC/)** | United Microelectronics Corporation (NEW) | $19.35 | +1.01 | +5.51% | 333,437 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[RFAI](https://finance.yahoo.com/quote/RFAI/)** | RF Acquisition Corp II | $40.15 | -17.85 | -30.78% | 7,021 |
+| **[RGNX](https://finance.yahoo.com/quote/RGNX/)** | REGENXBIO Inc. | $8.50 | -2.22 | -20.71% | 218,705 |
+| **[AMCI](https://finance.yahoo.com/quote/AMCI/)** | AMC Robotics Corporation | $5.60 | -0.90 | -13.85% | 2,846 |
+| **[AAOI](https://finance.yahoo.com/quote/AAOI/)** | Applied Optoelectronics, Inc. | $110.00 | -14.82 | -11.87% | 409,517 |
+| **[VCRE](https://finance.yahoo.com/quote/VCRE/)** | Vicore Pharma Holding AB | $11.38 | -1.12 | -8.96% | 823 |
+| **[TIC](https://finance.yahoo.com/quote/TIC/)** | TIC Solutions, Inc. | $8.70 | -0.81 | -8.52% | 387 |
+| **[BCAR](https://finance.yahoo.com/quote/BCAR/)** | D. Boral ARC Acquisition I Corp. | $5.20 | -0.47 | -8.29% | 202 |
+| **[AKA](https://finance.yahoo.com/quote/AKA/)** | a.k.a. Brands Holding Corp. | $10.01 | -0.89 | -8.16% | 1,972 |
+| **[SNMCY](https://finance.yahoo.com/quote/SNMCY/)** | Suncorp Group Ltd | $12.90 | -0.94 | -6.79% | 85,000 |
+| **[JATT](https://finance.yahoo.com/quote/JATT/)** | JATT II Acquisition Corp | $12.35 | -0.89 | -6.72% | 200 |
+| **[AZTA](https://finance.yahoo.com/quote/AZTA/)** | Azenta, Inc. | $35.03 | -2.37 | -6.34% | 7,673 |
+| **[MFI](https://finance.yahoo.com/quote/MFI/)** | mF International Limited | $9.06 | -0.59 | -6.07% | 1,687 |
+| **[KNSL](https://finance.yahoo.com/quote/KNSL/)** | Kinsale Capital Group, Inc. | $360.52 | -23.03 | -6.00% | 62 |
+| **[TMCR](https://finance.yahoo.com/quote/TMCR/)** | The Metals Royalty Company Inc. | $5.77 | -0.35 | -5.72% | 232,452 |
+| **[KXIAY](https://finance.yahoo.com/quote/KXIAY/)** | KIOXIA HLDGS CORP | $32.00 | -1.91 | -5.63% | 100 |
+
+Source health:
+- NYSE calendar 2026-08-24: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
 
 ### 6:00 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:00 AM ET.
