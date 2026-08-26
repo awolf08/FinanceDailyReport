@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-26
 
-_Generated: 2026-08-26 12:18:56 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-26 14:38:16 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -36,6 +36,50 @@ _Generated: 2026-08-26 12:18:56 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 2:38 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Aug 26, 2026 5:36 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $209.66 | -3.39 |  | 128,466,213 |
+| **[GOVT](https://finance.yahoo.com/quote/GOVT/)** | iShares U.S. Treasury Bond ETF | $22.54 | -0.03 |  | 101,670,036 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Shares ETF Trust | $8.87 | -0.22 |  | 100,919,363 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $10.59 | -0.07 |  | 87,576,869 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CRE](https://finance.yahoo.com/quote/CRE/)** | Cre8 Enterprise Limited Class A Ordinary Shares | $6.81 | +4.22 | +162.9344% |  |
+| **[XPON](https://finance.yahoo.com/quote/XPON/)** | Expion360 Inc. | $9.17 | +3.9 | +74.0038% |  |
+| **[RDIB](https://finance.yahoo.com/quote/RDIB/)** | Reading International Inc | $15.38 | +5.58 | +56.9388% |  |
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[GRML](https://finance.yahoo.com/quote/GRML/)** | Greenland Mines Ltd. Common Stock | $5.04 | -4.67 | -48.0947% |  |
+| **[WETO](https://finance.yahoo.com/quote/WETO/)** | Wetour Robotics Limited Ordinary Shares | $17.28 | -11.03 | -38.9615% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 273.47 | -2.8000 | -1.01% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 480.93 | +24.1850 | +5.30% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 188.07 | -2.1400 | -1.13% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 239.0 | +2.9900 | +1.27% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 342.0 | -6.0600 | -1.74% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 339.1 | -5.4900 | -1.59% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 260.28 | -1.7900 | -0.68% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 123.36 | +1.3800 | +1.13% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. | 440.34 | -1.90 | -0.43% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 77.68 | +0.3500 | +0.45% |  |
+
+Source health:
+- NYSE calendar 2026-08-26: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Aug 26, 2026 5:36 PM ET
+- Nasdaq after-hours article 2026-08-26: skipped - No matching After Hours Most Active article found yet
 
 ### 12:18 PM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 3:18 PM ET.
@@ -308,17 +352,17 @@ Source health:
 ## 4. Latest Market News
 
 - **Google News Markets** (Wed, 26 Aug 2026 17:34:09 GMT): High priority | [Why is US Stock Market Down Today? Dow Jones Drops 0.22%, S&P 500 Fall 0.10%, Nasdaq Slide 0.38% Ahead Of Nvidia Earnings, PCE Inflation Data & Fed Rate Outlook; Check What Investors Should Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMizAJBVV95cUxOMTlsRGEtQXEwX0lxbjktU0RUS2R6ME1DNHdTSXdENGpOMkJoYnJQWERFdU9yLVRaeTByUHJHak5Od0VCdUFmVDVxYkNVdjBXR1NBUThQTWhrZ3JnWjV0Zmo1Q3BOcS1TNW5OUUpZWkdzUnN0TUhsdjM0bFp0MnlXUG44MjVEX1d3Q05ZbXIwZzl4RjlwYWFGUllnOFcyRy1CSFk4Z1pxZXN1ZzdxaTJqbDIzN05ocVo3SnRUNUoxbEpNYVktUVBBYkJQSzJlYm5JZ2ZFMnA0VXQ0VDA3MmxZTWh4YUpOZTl6QkJTR0dYR1BPLTFTNnJIanFHNm1Ecy1MSWNoSjN5UnVZNVBWSHlRZ285TWI2Y0U2RGlSU28yODgtNVYtbnV5SFZsNlVVX0ZaSkxRdjM3VFpEdDYxblpsYUtKVElBQmJQaUpnOdIB0gJBVV95cUxNUnJVeWNWMWppaWtldjZvWmwza2dmTm91N3RQVnd1LWZNd1BKUEJHRWJxSjBpYzFhbEdXbVNsb2J3d2ZsVUotc0d5RUo3allIbXV3LUtHODlSbHllZ1JpRjI4czZVcTNEb0JoTFY5SDFadzQ2aGE4dEN1amQ2NXBoTmdWZjhodml4UE5iMzJ3eDJ4R2wyNmx3WEVlbXhYUWZ6TW1FSTE2dnQtRFBJV2hXSXAzS2RpZnR2NVBZRXRJWFFtU2ZScGhpajRnak1sRTExa3VvR3JVOHFmcjg1dm41N3FsZnVrd0kwZzNUQzJYMUpmRXFsWVdVMk5mZDR4N2Y0aFN4N3dtMUpkQzlLN09UWjVtQXlyUzdHX3dMeE8zcTZwNTNnUFRuMFFXT3FQcXc5RlExdlhhNkZuV1FvbWdsTkd4bGE0LXh4UWM5SVNNc1VJUQ?oc=5)
-- **Google News Markets** (Wed, 26 Aug 2026 16:03:56 GMT): High priority | [S&P 500 Today LIVE: Index Down 0.10% as Accenture, Alphabet, Intuit Lead Tech Sell-Off, Oil Prices Falls Ahead Of Nvidia Earnings, PCE Inflation Data & Fed Rate Outlook – Here’s What Investors Should - The Sunday Guardian](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNYkJCNUZVTXJPRnVCc1lrNC1LX3hkZHZNNTJndFZjd2Y1ekh5dEtobXJtM0xlLWZtbFMyYVNBc1dFaEdhdmZXUXp3WHc5alRtQk13dDdMNjBOUnBVNTgxU0FsaVJJazhXa2lSSi11YU01SFVNeGJpSmg3SUlJeFlDd0tEeUthRmtoT2tuREtZaUFYVi1vbEc3aDhkTng5VkNUZ0hHd2lxSmZrd2ppZExwVnhmbUtIX08xZ0tsNzVCVVVwb1RINXd0X1lQUDBISWJ5TkdleklmTjNiWVBIdEs2UGJ2ekpWTUFJbnlzRG5fQVZVTy12UnNDQkhwdXR0TmdtanVUZnhyOEFtYUE4ZmhpaTNJcHVRWG9LNFJNeFZpcWx1S2lZSVYwbXZ3RWZqbVlrbTh1NGhQV1BMaHFNTXVIRXdENVJoSUlibXFBaVctSmUyV3FxMXFNXzZjNW55bzF40gHmAkFVX3lxTE5KRHNuUTVmZ3dMWkpVTldMS3RXU09JWU9IeDh1dWVPaE9oWktadHpOX3IxaFFNZzRqOUVtNGNuUThvaUJ6YzB6V19feERkcmRzSG9qXzBKU2ZqdUdBTm1qVUlPcHhRZ2hTR2FIZ3hKWHptV3dYTl9CRVNCamZvRWlCT21SV205TTZpUUgxUXpVa3RzaHd5ZWloZEhJcDNXMzBPWUVubHBnSVJRYUVvX21hdTJvTTNrVTJHYVpDN2QwVXpwdnI3TXR1OENzVU41c0cwLVZ0WkdneWQtZ3MwYTR2Q0llc05MMzhtTDd3T0V4WDF4a1BrYnR1YVJKVndyRE5Wb2VxaFFnX053ODFOUExnclFrVnZNZUk3NnB0MmtTaHZWN3dLdjgtQzZtalp2MGlhbFZzb0ViV01HQlhUSUI1OUl4aTZCWHdFdU9SNEZPTWpwQURXajRCSDMyVHJOYi1FY0h1ZlE?oc=5)
 - **Google News Markets** (Wed, 26 Aug 2026 12:02:35 GMT): High priority | [Dow Jones Today: Dow Futures Edge 0.02% Higher ahead of Nvidia Earnings & US Inflation Data as Investors Track Federal Reserve Rate Outlook, Check What Investors Should Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPMm8wek01ZHNYNjQ5SGFtbzRJa2wzMFRYM2pqLTQ4a2N0WS1aRDJLSEFGdGJ1V2o4S2lwaUlxeGhBUkVkTU1CazZlaVNFVzdlc0tTVUtPbDYtVDZqRkl5c2JTWTN0WldBcDNBVmEwQzlXd09qR3dfaEJpZHJvLVkxcndfcURzeThleDJJWjF3ZnZudlBrZGl6ODN5eEtwZW5TV3Y3N3Vmem94aW5haXZHblBZdG9qYzNiNVMxbXpfYW1mc1pTY0JIZFZhUGlnR0w2d2FpaGtNaTN3eFFvNk9SMERQelozQzU3UWpxWjVpai1JdWZxeVpQcXVYXy1EOXFITndmaGJBVlZkQ2Y0WTVYQUdQR1FVZGpZYlhyYVpWTklvVlBMcS1laURIbnhMaHR6ZkNqVDhIVGM5bEXSAcACQVVfeXFMTnBvbm5fenB3dWxydUN4UGQ2VmN5V2kyemp5bmJUaGJLcHI5dnl2Q2ZrTTVyYjlpa0RwLTNwRDRLU2lKTHVfVjZyYUNwOU1KU0dxMUE2eFVoNnlKMV8za1oxa1JzSE00RUhaRDNjTDl4aHBYRGFfZDc1YjU4UklWNkgwNV9JTS1UNVNTUFdMVkFURWdUa0MzRGZPWHkxNHh2WG4tZ0U5ZWZCUEVpaXJ1elprN1BYOWJzR25MeW5iWmFpeGR1WkozMDhCSWk2bGQ3bVk3UkNvak9BeWpIM3hoQ1h5NERrRDAxWVduQWRFQ3JGVV9KUzdseVRHMFJUTVkwdHNKeEthX3FVOHluSXZKS05RVWd6bl9nR1k4Ukp1a2tnanAwN2F6UWdDRXo1M3hESThFRFdOSlJXNjF4WldoZ0c?oc=5)
+- **Google News Markets** (Wed, 26 Aug 2026 17:30:00 GMT): High priority | [S&P 500, Nasdaq Trade Flat After Sticky PCE as Nvidia Earnings Take Focus - Analytics Insight](https://news.google.com/rss/articles/CBMisAFBVV95cUxPaDVLZlRUT3NlQ1dRc2c3Q0s4N1lMbmFwNUJ3a1FmSHJZbVBQZE85X2p1bkZhSkU4bTZVOTdNVHVNLVhwaURVVEJ3LUtXTnpuaHF0bTc4TlVBLVkwbkpoeVJSR3V6cGI0VTN0akVraXAxWElrMXNTNHRJQklqaW5kTW9ITlNIblNnQm84bTdjcWZhYXVjdmdjYXMtbHJqdDZ6Vm5tME9jTDhQbkV4Qk1Hd9IBvgFBVV95cUxOckdXY2hWZ0xDSmIydHRESjdObnNob1NXcGxhZml5TmhOQjFIZmhiNkdzZmVVbF96QmNIQ0pPRVhKZFp2THNNWmFvd3pLVDJJUVVEZ3pVem9MdEpadk51QmJzbUp4MmxjMlR6X1R6MWdSMnlQaXNyaTBVeGd3MXhaZHBZYVIzeE10SmV2U3dDdGxxRERjTlg1UXM5MW51Q0dqTVdJLVc4QVJKSTNXRTdOUXFtY0VFaEF6VDB1UUZ3?oc=5)
 - **Google News Markets** (Wed, 26 Aug 2026 08:48:05 GMT): High priority | [Dow Jones futures hold flat as traders await US PCE inflation data, Nvidia earnings - tmgm.com](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV2JacGRIUXBCdnotMl82ampta1ZCcTNnam4wM3YyUmRoUllFY2Z2QzlHOG80bXpiTlI5dl9mTXNuaFJjVFo0LW9ja21RdUxnNW5VNmZFNDRmRUlaMkJaUjRZX3RjWkhMaGVJaU1XODR6ZmFyREdldFRxTGxfNDA2Sl9Ga1RxQTRaV2VUR3dBcHdEamZSZ21OVGpJZnA1bzJVNlMxYlFuMWlTdWxLM2J4V191ajhZb1M3TUI4djVVZF81dEV0QjRTWG9sdWZ5aVdtTkoyTG5oSmthekNQenFNZlJn?oc=5)
 - **Google News Markets** (Wed, 26 Aug 2026 13:11:17 GMT): High priority | [Urgent| The inflation preferred by the Federal Reserve keeps the markets in anticipation of interest rates - المتداول العربي](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNnpqcVJzZXVjWVBYNVNLUnE1eHhJeUdQSm15VWZiUnlyVEV2Sk5ZUE1ZWWtFeklneXk3YW1qdGplSUZNdmFWRl9OZzl4UWNUUXRvelEycEs1SHRjNWstZ0xZamtmQVh5QUxKajRzV2FLdHlNZ2JTclpNZUtCblRSbVFFRTJXUDkzUE1BdF92ZDBHNkRQcEZfaHBINjM4SXJmZ2ZIYXdrdmpRS3VfS0o2SWUwakpBcTFzenNpLTFLeGhJc2paY1ZOU1ZfajFRcDd2alhWTUVYNFRMSEd1RmFua0ttczhVeExBcVh0S2t3?oc=5)
 - **Google News Markets** (Wed, 26 Aug 2026 13:03:27 GMT): High priority | [US stocks edge lower after PCE inflation data; Nvidia earnings in focus - CNBC TV18](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEd4Z0Z2OTVqM09NV2dqNUJSV2gxX1ZWZ2hhdVh4MHJTcmM2NzU4MF9PdlRnZE1uTkNSbm1iRExOaFNjZmNRQVhfa0lWMTRMZTFWWllsNkg0MUNKc1MwNk95TWRQRUtLV2tEbnhGblBPalhydTZSX0dZdmFKMUg5aHZaTi1PZW9aeHg4SkYtYW9qUllveXRLUkItVjFOUlhtdzR2aExrQ21PSFo0TURMdlJhMXNBUzDSAbwBQVVfeXFMTlNqSVdhbWF5V3Z5OEJvVUJsOVdjUjVRWlJUTTUzdHcxQ0pxYU1uMGdOanBub0ZKcml0T0pWY3IxQ0tsajZUdmRvMlRFbGZpZDR6ZUJqUFFjT3ZxN1NJMWR6SGtaQW9mZ2NFYWVPMk9SemFiWGZ3WHpEbDcweFZIakdfMXZwNkU2SmF5VTRrS0pZUUdZSWpwdmFOZi1zVjNDR0JFZXhlZWRtSklLNzVCRXFXbF9za2lQdDV5SF8?oc=5)
 - **Google News Markets** (Wed, 26 Aug 2026 12:00:00 GMT): High priority | [Dow Jones Futures Await Inflation Data, Nvidia Earnings; Robinhood In Buy Area - Investor's Business Daily](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ1g0Zi1LVEZtRElWZlduNnhGaEltUXdNSWxHR1VaOWVxNzZ6MjA3eTNLU0hQdUxMUldYNHNiY0QyWk1uaHJmUWcwN09mZFBGOTRvcDR0VWpWTzlTZkVfWno5MUtuVHRzMlYxTGg5MkRuQ2E3eUNVb3RBMkpBNUx1VnlYQzFYY1hpb19hQkhIanVDQUo1OUhGLWV2Q2NpSjNrWVlNYVFNYjY1SS1ZNndWOUdyRXVncm1EMGxZMVk5dHVMVlBKcE95S0xuZG0zaXd3ZDhjamZ3?oc=5)
 - **Google News Markets** (Wed, 26 Aug 2026 09:59:01 GMT): High priority | [Why Is the UK Stock Market Down Today? FTSE 100 Drops 0.21% as Oil Prices Slide; Strait of Hormuz, Nvidia Earnings in Focus – What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQ19PU2dWaDJScm9paF9IemJoSmVzdjRHZFZ4cjh1UjhJd3VWUmpFWU52czJ0R1J0Z3U4c1RtYlNpckRKS0hDNEJwdXJiOEZfNnN2cWFEY3R5OEs0d1hZTHFjREVjMTFLTUdGWXo1TVZYMVJaWGFGSFhQeDJUNXFyM2kzVEU0OGVqV2tjcWg3VGtUaDlVYllzQ2FKOFYzYURJRDcyQ2R6YVdRX2VpNkFhaXlDWXFROVYyUkwzTE5vaHdNV3NrZV9wOXFraEk1dEUyTzJQeXFBdFktQkVyb1NuTkNwTVhENDhEM04yRFJRX3kwMUtyb2JqemNzMjMtVTZld0k3ZjFCbW4ycWpnOWpYZjRkWF9hRGNxYTh4OWk0VdIBpAJBVV95cUxOX0dBZzRhVk82dnVzeHgtUFJwemMtSkhpSktpUVFtMXBsSG5LcWdJM095VERlbmxGUV81THdKUXU5bXVyTzlQM3R4eVlBV1I5b01wbGd2UXBKSTVIZmRCbHFaY0hTOVJpb2l4cXJBZjg5UFJ1a0V2RVg4OFVfXzBNT3NMdVZHdm5FQUk0NXFUSFpka3IzbTRmNjBqeUR4MEhrVW00UllHcEU3N01ybkd4WTFmSF9FNG9pQzlkYXVnUFZNUXpWdlVKNVVoTDNmb19uRnBCX1ozeVdkZ0ZKa2RvX1dERWJfM0V0TkgzdU53U05yZFg0UVpXOEo4N2R0UHEzLVNVY2FNVGJqeW9wWWlTMnFwYWJVZkU2dXVKM0JyR2U2azZP?oc=5)
 - **Google News Markets** (Tue, 25 Aug 2026 23:35:00 GMT): High priority | [Falling Treasury Yields Spark Tech Rebound as Nvidia Earnings Loom as Key Market Catalyst - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9IX2prM05OUHItQTNfTWNENW1DM01UV1RnYlJsT0c1WE5haUJDU3ZhS2x3V0xPX0twQ0YxdWZjVkZDWVJUay1pbmhTUFk1TFNCU1FkUmdGZW14a0RxUkVneVpHZnNKSktrcTAwVUVDVmQyYVppdVE?oc=5)
-- **Google News Markets** (Tue, 25 Aug 2026 22:08:45 GMT): High priority | [Treasury Yields Rise as Data Keep Fed Bets in Play: Markets Wrap - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEp0MDBrTWc0UWtjcEVfNThBU1NJc0xNN3pLVUMwZDIxTDFSMU9OdFY1Yk1VUm9CajJJUlVjdnRfWWpLLV94T21mV291NmdBWFRzNzZIa0UxcUZsVVFJcXlWTHYwa29Zd1Z0YUZKMk4tYlNscm1XVTdiSjJVRmlzZG9JdXl2TkpCQ2ZCWlYxX1pGa1BLZTUxbng0WGV2V2FDa21FdExxcjFjSFFvNTJjQ093?oc=5)
-- **Google News Markets** (Wed, 26 Aug 2026 17:31:00 GMT): High priority | [DLTR Stock: Dollar Stores In Earnings Spotlight With 2 Stocks In Buy Zones - Investor's Business Daily](https://news.google.com/rss/articles/CBMinAFBVV95cUxONG0ydUlvMGMyb3JQSFhFS0sxUThacjk1ZmRuVjBjdy1MM1JDSnVGNnNBQ1RQQzBMdnU2dXJheDR1ekVpWHByZV8wZjJFLVBmWGJ5Q3ozcTM0Y1RnVHRHcFVmNWNfTEU2TUoxbjBLYlNOZWN2dENiZThRQnJOTjhpZk9FbERDelZSR2g2Z3RLTENrMFE2X0xEUVV0eVY?oc=5)
-- **Google News Markets** (Wed, 26 Aug 2026 17:20:06 GMT): High priority | [Market Movers Today: Nvidia (NVDA) Earnings, Inflation Jump, and Meta (META) Legal Victory - Blockonomi](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcE5Sc3BZNFIwQy1lNUZWNmRZY1B5dkVLLUhWLV9CMVo1WTVfSkdOTEh1eXJ5em5VbEVNOGgyMkxNSmJOazlwMzczZndLcUc0Y0dBRG5CYzBEOVFhZW9CaUZyZnlUZjU3NWxUZ0Y0bnFEZnlIMTBLWTVyZmgxXzl4aVN4OFBid0tvR09odE8ySE10TG04cG9yb0lQVW1OTTMyXzZ2UHF3SGhUTUE?oc=5)
+- **Google News Markets** (Tue, 25 Aug 2026 22:08:45 GMT): High priority | [Treasury Yields Rise as Data Keep Fed Bets in Play: Markets Wrap - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEp0MDBrTWc0UWtjcEVfNThBU1NJc0xNN3pLVUMwZDIxTDFSMU9OdFY1Yk1VUm9CajJJUlVjdnRfWWpLLV94T21mV291NmdBWFRzNzZIa0UxcUZsVVFJcXlWTHYwa29Zd1Z0YUZKMk4tYlNscm1XVTdiSjJVRmlzZG9JdXl2TkpCQ2ZCWlYxX1pGa1BLZTUxbng0WGV2V2FDa21FdExxcjFjSFFvNTJjQ093?oc=5)
+- **Google News Markets** (Wed, 26 Aug 2026 21:10:00 GMT): High priority | [Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers Late - Investor's Business Daily](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5)
+- **Google News Markets** (Wed, 26 Aug 2026 20:51:00 GMT): High priority | [Salesforce Pops As Q2 Earnings, Revenue Beat Amid Strong Guidance - Investor's Business Daily](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOV9kaHNQRW9vSjI5Rm1WT1JwZVctNHdoTGxYUG9ocHdtLUxYenhmbUpVT1cwQ3IxcnpXT0NBNGVYYWY3OGJFUEtwc1JRLXZCN3pvaktyWkJtX0tXQ0NjZzNja1FNUFJTa1hOa2RVdGoxWUZBRm9tQk1QeVoxdVhsbU5TRmdzcXNtMjJlT0ZOSUdqNV9JdUp1a29OOA?oc=5)
 
 ## 5. Economic Calendar
 
@@ -377,7 +421,6 @@ Source health:
 - **11:45** FOMC Member Barkin Speaks | Source: Nasdaq
 - **12:00** Dallas Fed PCE | Previous: 1.50% | Source: Nasdaq
 - **13:00** 5-Year Note Auction | Previous: 4.408% | Source: Nasdaq
-- **15:00** 2-Year Note Auction | Previous: 4.315% | Source: Nasdaq
 - **8:30 AM** Advance Economic Indicators Report (International Trade, Retail, & Wholesale) (July 2026) | Source: Census
 - **10:00 AM** Preliminary U.S. Imports for Consumption of Steel Products (July 2026) | Source: Census
 
@@ -385,10 +428,8 @@ Source health:
 
 - NYSE calendar 2026-08-26: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Aug 26, 2026 5:36 PM ET
+- Nasdaq after-hours article 2026-08-26: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
