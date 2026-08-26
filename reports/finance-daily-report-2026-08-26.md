@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-26
 
-_Generated: 2026-08-26 06:02:17 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-26 06:07:48 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -36,6 +36,73 @@ _Generated: 2026-08-26 06:02:17 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:07 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:07 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[RHI](https://finance.yahoo.com/quote/RHI/)** | Robert Half Inc. | $44.90 | +0.00 | +0.00% | 1,483,809 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $212.73 | -0.32 | -0.15% | 1,418,106 |
+| **[CRML](https://finance.yahoo.com/quote/CRML/)** | Critical Metals Corp. | $7.99 | -0.11 | -1.36% | 1,323,265 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $86.47 | -1.01 | -1.15% | 1,297,652 |
+| **[BMNR](https://finance.yahoo.com/quote/BMNR/)** | BitMine Immersion Technologies, Inc. | $24.59 | -0.23 | -0.93% | 1,108,465 |
+| **[PSNYW](https://finance.yahoo.com/quote/PSNYW/)** | Polestar Automotive Holding UK Limited | $5.75 | +2.02 | +54.16% | 1,074,238 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.21 | -0.14 | -1.35% | 1,059,896 |
+| **[BSX](https://finance.yahoo.com/quote/BSX/)** | Boston Scientific Corporation | $47.00 | -2.86 | -5.74% | 988,096 |
+| **[SMR](https://finance.yahoo.com/quote/SMR/)** | NuScale Power Corporation | $9.92 | +0.11 | +1.12% | 919,422 |
+| **[FA](https://finance.yahoo.com/quote/FA/)** | First Advantage Corporation | $20.32 | +0.00 | +0.00% | 842,027 |
+| **[BE](https://finance.yahoo.com/quote/BE/)** | Bloom Energy Corporation | $215.34 | -2.11 | -0.97% | 839,160 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp | $137.04 | -0.91 | -0.66% | 802,972 |
+| **[SMMT](https://finance.yahoo.com/quote/SMMT/)** | Summit Therapeutics Inc. | $15.35 | +1.99 | +14.90% | 791,331 |
+| **[KSS](https://finance.yahoo.com/quote/KSS/)** | Kohl's Corporation | $16.54 | -1.14 | -6.45% | 784,174 |
+| **[TIGR](https://finance.yahoo.com/quote/TIGR/)** | UP Fintech Holding Limited | $5.32 | -0.14 | -2.65% | 716,696 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PSNYW](https://finance.yahoo.com/quote/PSNYW/)** | Polestar Automotive Holding UK Limited | $5.75 | +2.02 | +54.16% | 1,074,238 |
+| **[PLAB](https://finance.yahoo.com/quote/PLAB/)** | Photronics, Inc. | $35.79 | +6.47 | +22.07% | 339,472 |
+| **[JIAXF](https://finance.yahoo.com/quote/JIAXF/)** | Jiangxi Copper Co., Ltd. | $5.25 | +0.75 | +16.67% | 617 |
+| **[SMMT](https://finance.yahoo.com/quote/SMMT/)** | Summit Therapeutics Inc. | $15.35 | +1.99 | +14.90% | 791,331 |
+| **[ANF](https://finance.yahoo.com/quote/ANF/)** | Abercrombie & Fitch Company | $122.80 | +13.90 | +12.76% | 333,964 |
+| **[WXIBF](https://finance.yahoo.com/quote/WXIBF/)** | Wuxi Biologics (Cayman) Inc | $6.95 | +0.75 | +12.10% | 5,461 |
+| **[AAIGF](https://finance.yahoo.com/quote/AAIGF/)** | AIA Group, Ltd. | $10.24 | +0.85 | +9.01% | 159 |
+| **[FEIM](https://finance.yahoo.com/quote/FEIM/)** | Frequency Electronics, Inc. | $64.26 | +4.45 | +7.44% | 769 |
+| **[NNNN](https://finance.yahoo.com/quote/NNNN/)** | Anbio Biotechnology | $8.41 | +0.58 | +7.41% | 100 |
+| **[TH](https://finance.yahoo.com/quote/TH/)** | Target Hospitality Corp. | $18.59 | +1.20 | +6.90% | 86,306 |
+| **[SEDG](https://finance.yahoo.com/quote/SEDG/)** | SolarEdge Technologies, Inc. | $31.86 | +1.98 | +6.63% | 260,275 |
+| **[PPHC](https://finance.yahoo.com/quote/PPHC/)** | Public Policy Holding Company, Inc. | $11.60 | +0.64 | +5.84% | 600 |
+| **[STRT](https://finance.yahoo.com/quote/STRT/)** | STRATTEC SECURITY CORPORATION | $83.00 | +3.93 | +4.97% | 100 |
+| **[ANPDY](https://finance.yahoo.com/quote/ANPDY/)** | Anta Sports Products Ltd. | $242.08 | +11.29 | +4.89% | 2 |
+| **[MOV](https://finance.yahoo.com/quote/MOV/)** | Movado Group Inc. | $36.65 | +1.68 | +4.81% | 2,467 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[QFIN](https://finance.yahoo.com/quote/QFIN/)** | Qfin Holdings, Inc. | $9.63 | -1.90 | -16.48% | 248,131 |
+| **[SYRE](https://finance.yahoo.com/quote/SYRE/)** | Spyre Therapeutics, Inc. | $96.00 | -11.36 | -10.58% | 28,835 |
+| **[INTU](https://finance.yahoo.com/quote/INTU/)** | Intuit Inc. | $320.00 | -37.46 | -10.48% | 482,117 |
+| **[DY](https://finance.yahoo.com/quote/DY/)** | Dycom Industries, Inc. | $325.61 | -26.19 | -7.44% | 154,213 |
+| **[KSS](https://finance.yahoo.com/quote/KSS/)** | Kohl's Corporation | $16.50 | -1.18 | -6.67% | 784,027 |
+| **[CAAS](https://finance.yahoo.com/quote/CAAS/)** | China Automotive Systems, Inc. | $5.00 | -0.34 | -6.37% | 2,020 |
+| **[AVTX](https://finance.yahoo.com/quote/AVTX/)** | Avalo Therapeutics, Inc. | $18.50 | -1.24 | -6.28% | 200 |
+| **[RPD](https://finance.yahoo.com/quote/RPD/)** | Rapid7, Inc. | $11.39 | -0.74 | -6.10% | 25,600 |
+| **[ZM](https://finance.yahoo.com/quote/ZM/)** | Zoom Communications, Inc. | $94.79 | -6.13 | -6.07% | 152,820 |
+| **[UGP](https://finance.yahoo.com/quote/UGP/)** | Ultrapar Participacoes S.A. (New) | $6.30 | -0.40 | -5.97% | 347 |
+| **[BSX](https://finance.yahoo.com/quote/BSX/)** | Boston Scientific Corporation | $47.00 | -2.86 | -5.74% | 987,996 |
+| **[ZSTK](https://finance.yahoo.com/quote/ZSTK/)** | ZeroStack Corp. | $6.10 | -0.37 | -5.72% | 13,907 |
+| **[HVII](https://finance.yahoo.com/quote/HVII/)** | Hennessy Capital Investment Corp. VII | $7.41 | -0.43 | -5.48% | 2,676 |
+| **[OSCUF](https://finance.yahoo.com/quote/OSCUF/)** | Japan Exchange Group, Inc. | $14.33 | -0.73 | -4.84% | 500 |
+| **[WSM](https://finance.yahoo.com/quote/WSM/)** | Williams-Sonoma, Inc. | $223.60 | -11.14 | -4.75% | 21,133 |
+
+Source health:
+- NYSE calendar 2026-08-26: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
 
 ### 6:02 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:02 AM ET.
@@ -117,7 +184,7 @@ Source health:
 - **Google News Markets** (Tue, 25 Aug 2026 16:23:23 GMT): High priority | [Nasdaq Today LIVE: Index Opens 0.18% Higher At 26,851 As Investors Track Nvidia Earnings, Fed Rate Outlook, Economic Data & Market Risks | Check What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMitAJBVV95cUxPQUFyNFRPc09LZWRMX3lkXzg0YUY1RW96WWROazFhU2dNZDVVSFlDWTRVYW5QdERXUmNVSDJ1WVRhSnZ3TUtRSEpLZkpNMGdUUjB5b19telM2SkJubUVWZnZMQmRmS1pQbHhCUFJkdTYxZ3FRRE0yT2dTRlllbmR5VkNzOUxpdXVXT3F0Y1dJM1dCMm9fUF96ODJXYk9td2RRbzNXTks2MXlMX294TElxWFRpQzRFdnZhNXBSem83Y3pqS1JRdkFFa2g4NmhvOGRIYUUzQ09FWlZlcVBRazNqSTBiZTFNLVlyVEFGQmdOYU1fb045MGxNTy1nUF9LWUNtQ2R2NXV6MTQ3THd6NUJIaWxCNkVWVFVjeVdJRmpzWENka2ZxSnVhaGx4OTNibHdmMGMxYtIBugJBVV95cUxQeVpjOXMzSzFVMS1pdjdJMnliVzc1MkF2TUVuVHVWRlhyelhqMDRaVWRxajFKMmxZSGhJZllzaVFGRl94V3BLYTNHZUNUYS1Fb2pTVVF4bnhseS03WTRPdS1QX3Jza3lEZFFvclAxaTJmMEl0YWJYaHZMNU9yZEhZQTJYUjh0R1FoODVVS3QxRVlNcE1acFR4MU5KRzRWY3pGSkJMYWdMbmlYaUIzTWd0bTBhQWtpel9HLVpmaHIyS0VlTjZnZ19CUUl6SDZ5ZHJPSzk3S2RIQl9DdDJtZHlhVWhhR3p5M2FvTmdVdGh3ZUZCcjlpQkh3UVdOZHNjaVozSDVNSVRNRlZQRE1LeVNpU3FkQktlZFRVcWdieU9IR3kwM0FXMkFFX19OZmF2YW1fWEo3c184dW9ndw?oc=5)
 - **Google News Markets** (Tue, 25 Aug 2026 15:33:07 GMT): High priority | [Dow Jones Today LIVE: Index Rises 0.14% as Tech Stocks Rebound Ahead of Nvidia Earnings & Key Inflation Data; Intel, Meta & AMD Gain; Check What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMiswJBVV95cUxNSTROQjFVWjB6WmFaRXhEbnl0amRFV3NOellpTWx6dWlNSVZSMUstRTF0RlNIU0U5WWltS0tzYlJXcEJlbmVTVG9rQ3M2UG5GTWFYOENZcWE4eWt3cFA5VDVVM3dWNEcxcmJjRlBvb2xnOFl2SVl4dzhnS25oVkgwZV91dTIzbGNZX2hHOHhXMzdpbmN4TmNwTGlDS3ZrR3NqaDEyYlRSVFoyRTZLMldOeWRmOTNYVC14bzlYSVQyWkFHc0Job25VNUIxOGZJT2JtZFFhSTh2TFc5YnNiVlRVU0VKdndobWlpWFE4ZDZIQXAtS0VsMWFYc3g4Y2FnN0htRTNsMXl2WEJGejczNjhfRGZkT3hIRzFIcFZmVDFLallwYU43ZndDX2R2NmFiVEIxVlVV0gGzAkFVX3lxTE1JNE5CMVVaMHpaYVpFeERueXRqZEVXc056WWlNbHp1aU1JVlIxSy1FMXRGU0hTRTlZaW1LS3NiUldwQmVuZVNUb2tDczZQbkZNYVg4Q1lxYTh5a3dwUDlUNVUzd1Y0RzFyYmNGUG9vbGc4WXZJWXh3OGdLbmhWSDBlX3V1MjNsY1lfaEc4eFczN2luY3hOY3BMaUNLdmtHc2poMTJiVFJUWjJFNksyV055ZGY5M1hULXhvOVhJVDJaQUdzQmhvblU1QjE4ZklPYm1kUWFJOHZMVzlic2JWVFVTRUp2d2htaWlYUThkNkhBcC1LRWwxYVhzeDhjYWc3SG1FM2wxeXZYQkZ6NzM2OF9EZmRPeEhHMUhwVmZUMUtqWXBhTjdmd0NfZHY2YWJUQjFWVVU?oc=5)
 - **Google News Markets** (Tue, 25 Aug 2026 13:45:29 GMT): High priority | [Dow Rises as Wall Street Awaits Nvidia Earnings and Fed's Jackson Hole Symposium Amid Iran and Canada Tensions - International Business Times Australia](https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0ozYVA1R2o5U0VVSFU5OVRxUDNIdU16NVlnNDJJWFVqM01zNGpVV0wwSDFIUmhzS1JTc29VRWxmbno0UXdwaDdMMi1MeGJnNk9LYUJsRGhBVWtFTXA5THlMTHRHY0p6Qld5Mlh5REpHbnY3UldGZGFCVUhFQzBxVg?oc=5)
-- **Google News Markets** (Wed, 26 Aug 2026 11:27:34 GMT): High priority | [Bath & Body Works Shares Drop 1.8% Ahead of Market Open; $80 Million Refund Overshadows Q2 Earnings Win - TechStock²](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQmttX3I2NmtCX21qVTl6ZWl2ZXBzbVJ1UDFpLWFaRDJ6UVBQNHdMTlhVeGtDUXlxc2kySmtCUmJULWJha0R1VlZNYmw2UnRPNDV3NEhKOXRMUDAtUUFRT3BQZExJUTV2bk1penJmRmNvd3dvSm9rTmMxcERHaHhTdkpTeXlMaFR4bjBCN1RTbEltRjFGS3MxQjREa3kwWW8?oc=5)
+- **Google News Markets** (Wed, 26 Aug 2026 10:32:01 GMT): High priority | [The Stock Market Faces a Critical Test on Wednesday -- Nvidia Earnings, Inflation, and GDP on the Same Day. Here’s What Investors Need to Know. - Currently.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMHJ0ZUo4N24zT2s0c2NHUUZIbjRnMVpVZXFDZU5BYzQ0N1dTMm1Vd1cxUnJJZlpsTldvNWo4R2E3cFFMUTJKQWptY1Y5bFF0T3lsbWFaZlAzdnpUeEtMVHZXbzJwQ3doX0J3YmRqV25zUDFJMXBvcnI4cnlVM05Rb2h1Vk9CTUpUWXJJ?oc=5)
 
 ## 5. Economic Calendar
 
@@ -145,16 +212,16 @@ Source health:
 - **07:00** MBA Purchase Index | Previous: 154.8 | Source: Nasdaq
 - **07:00** Mortgage Market Index | Previous: 247.7 | Source: Nasdaq
 - **07:00** Mortgage Refinance Index | Previous: 755.9 | Source: Nasdaq
-- **08:30** Core Durable Goods Orders | Forecast: 0.6% | Previous: 0.6% | Source: Nasdaq
+- **08:30** Core Durable Goods Orders | Forecast: 0.6% | Previous: 1.1% | Source: Nasdaq
 - **08:30** Core PCE Price Index | Forecast: 0.2% | Previous: 0.1% | Source: Nasdaq
 - **08:30** Core PCE Prices | Forecast: 3.40% | Previous: 4.40% | Source: Nasdaq
 - **08:30** Corporate Profits | Previous: 0.5% | Source: Nasdaq
 - **08:30** Durable Goods Orders | Forecast: 0.4% | Previous: 0.3% | Source: Nasdaq
-- **08:30** Durables Excluding Defense | Previous: 0.5% | Source: Nasdaq
+- **08:30** Durables Excluding Defense | Previous: 0.3% | Source: Nasdaq
 - **08:30** GDP | Forecast: 1.5% | Previous: 2.1% | Source: Nasdaq
 - **08:30** GDP Price Index | Forecast: 6.3% | Previous: 3.6% | Source: Nasdaq
 - **08:30** GDP Sales | Forecast: 2.2% | Previous: 1.9% | Source: Nasdaq
-- **08:30** Goods Orders Non Defense Ex Air | Forecast: 0.9% | Previous: 0.9% | Source: Nasdaq
+- **08:30** Goods Orders Non Defense Ex Air | Forecast: 0.9% | Previous: 1.7% | Source: Nasdaq
 - **08:30** PCE Price index | Forecast: 3.6% | Previous: 3.7% | Source: Nasdaq
 - **08:30** PCE price index | Forecast: 0.1% | Previous: -0.1% | Source: Nasdaq
 - **08:30** PCE Prices | Forecast: 5.1% | Previous: 4.6% | Source: Nasdaq
