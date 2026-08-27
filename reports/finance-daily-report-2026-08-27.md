@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-27
 
-_Generated: 2026-08-27 06:01:18 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-27 06:07:54 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -36,6 +36,73 @@ _Generated: 2026-08-27 06:01:18 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:07 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:07 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $222.09 | +12.44 | +5.93% | 9,627,741 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $89.50 | +1.26 | +1.43% | 3,284,100 |
+| **[BMNR](https://finance.yahoo.com/quote/BMNR/)** | BitMine Immersion Technologies, Inc. | $25.58 | +0.67 | +2.69% | 2,431,208 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.65 | +0.24 | +2.31% | 1,651,412 |
+| **[IREN](https://finance.yahoo.com/quote/IREN/)** | IREN Limited | $40.88 | +1.30 | +3.28% | 1,044,515 |
+| **[MRNA](https://finance.yahoo.com/quote/MRNA/)** | Moderna, Inc. | $143.50 | -6.16 | -4.12% | 961,077 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp | $139.81 | +0.18 | +0.13% | 953,250 |
+| **[HPQ](https://finance.yahoo.com/quote/HPQ/)** | HP Inc. | $26.86 | -3.66 | -11.99% | 886,305 |
+| **[PURR](https://finance.yahoo.com/quote/PURR/)** | Hyperliquid Strategies Inc | $12.01 | +0.45 | +3.89% | 838,470 |
+| **[MSTR](https://finance.yahoo.com/quote/MSTR/)** | Strategy Inc | $125.75 | +2.56 | +2.08% | 783,338 |
+| **[SMCI](https://finance.yahoo.com/quote/SMCI/)** | Super Micro Computer, Inc. | $38.65 | +1.26 | +3.37% | 764,189 |
+| **[STLA](https://finance.yahoo.com/quote/STLA/)** | Stellantis N.V. | $5.30 | +0.15 | +2.91% | 675,518 |
+| **[MRVL](https://finance.yahoo.com/quote/MRVL/)** | Marvell Technology, Inc. | $252.84 | +7.73 | +3.15% | 628,112 |
+| **[MU](https://finance.yahoo.com/quote/MU/)** | Micron Technology, Inc. | $973.55 | +35.15 | +3.75% | 627,629 |
+| **[BBY](https://finance.yahoo.com/quote/BBY/)** | Best Buy Co., Inc. | $82.23 | -5.21 | -5.96% | 613,616 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[OKTA](https://finance.yahoo.com/quote/OKTA/)** | Okta, Inc. | $158.57 | +24.15 | +17.97% | 238,592 |
+| **[LTRX](https://finance.yahoo.com/quote/LTRX/)** | Lantronix, Inc. | $6.48 | +0.82 | +14.49% | 93,387 |
+| **[AVNW](https://finance.yahoo.com/quote/AVNW/)** | Aviat Networks, Inc. | $23.89 | +2.98 | +14.26% | 2,718 |
+| **[JIAXF](https://finance.yahoo.com/quote/JIAXF/)** | Jiangxi Copper Co., Ltd. | $5.12 | +0.62 | +13.78% | 818 |
+| **[MBUU](https://finance.yahoo.com/quote/MBUU/)** | Malibu Boats, Inc. | $29.65 | +3.01 | +11.30% | 1,357 |
+| **[PFX](https://finance.yahoo.com/quote/PFX/)** | PhenixFIN Corporation | $59.00 | +5.93 | +11.17% | 100 |
+| **[AAPG](https://finance.yahoo.com/quote/AAPG/)** | Ascentage Pharma Group International - American Depository Shares | $18.70 | +1.80 | +10.65% | 352 |
+| **[CRM](https://finance.yahoo.com/quote/CRM/)** | Salesforce, Inc. | $226.96 | +21.34 | +10.38% | 567,663 |
+| **[MTLS](https://finance.yahoo.com/quote/MTLS/)** | Materialise NV | $7.34 | +0.67 | +10.04% | 5,835 |
+| **[CRWD](https://finance.yahoo.com/quote/CRWD/)** | CrowdStrike Holdings, Inc. | $206.80 | +17.62 | +9.31% | 296,307 |
+| **[TISCY](https://finance.yahoo.com/quote/TISCY/)** | Taisei Corp. | $20.14 | +1.63 | +8.80% | 13,145 |
+| **[PHOS](https://finance.yahoo.com/quote/PHOS/)** | First Phosphate Corp. | $21.00 | +1.63 | +8.42% | 100 |
+| **[VEEV](https://finance.yahoo.com/quote/VEEV/)** | Veeva Systems Inc. | $264.65 | +19.74 | +8.06% | 6,543 |
+| **[AMKR](https://finance.yahoo.com/quote/AMKR/)** | Amkor Technology, Inc. | $52.30 | +3.90 | +8.06% | 159,098 |
+| **[IVBXF](https://finance.yahoo.com/quote/IVBXF/)** | Innovent Biologics Inc. | $15.34 | +1.14 | +8.00% | 465 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BBW](https://finance.yahoo.com/quote/BBW/)** | Build-A-Bear Workshop, Inc. | $33.27 | -5.83 | -14.91% | 73,105 |
+| **[WEN](https://finance.yahoo.com/quote/WEN/)** | Wendy's Company (The) | $7.78 | -1.26 | -13.94% | 511,620 |
+| **[HPQ](https://finance.yahoo.com/quote/HPQ/)** | HP Inc. | $26.86 | -3.66 | -11.99% | 886,305 |
+| **[LUCK](https://finance.yahoo.com/quote/LUCK/)** | Lucky Strike Entertainment Corporation | $6.07 | -0.67 | -9.94% | 31,105 |
+| **[KWHIF](https://finance.yahoo.com/quote/KWHIF/)** | Kawasaki Heavy Industries Ltd. | $16.24 | -1.73 | -9.64% | 6,400 |
+| **[HMY](https://finance.yahoo.com/quote/HMY/)** | Harmony Gold Mining Company Limited | $20.27 | -2.16 | -9.63% | 269,707 |
+| **[GGZ](https://finance.yahoo.com/quote/GGZ/)** | Gabelli Global Small and Mid Cap Value Trust (The) | $15.00 | -1.58 | -9.53% | 2,195 |
+| **[ADV](https://finance.yahoo.com/quote/ADV/)** | Advantage Solutions Inc. | $29.99 | -2.82 | -8.59% | 200 |
+| **[CUVL](https://finance.yahoo.com/quote/CUVL/)** | Clinuvel Pharmaceuticals Limited | $7.00 | -0.64 | -8.43% | 355 |
+| **[PRNDY](https://finance.yahoo.com/quote/PRNDY/)** | Pernod Ricard S.A. | $14.47 | -1.19 | -7.60% | 1,281 |
+| **[HQY](https://finance.yahoo.com/quote/HQY/)** | HealthEquity, Inc. | $96.81 | -7.61 | -7.29% | 13,818 |
+| **[MGYR](https://finance.yahoo.com/quote/MGYR/)** | Magyar Bancorp, Inc. | $18.30 | -1.38 | -7.01% | 2,115 |
+| **[GDEV](https://finance.yahoo.com/quote/GDEV/)** | GDEV Inc. | $10.25 | -0.74 | -6.73% | 451 |
+| **[GLU](https://finance.yahoo.com/quote/GLU/)** | Gabelli Global Utility | $18.00 | -1.28 | -6.64% | 2,523 |
+| **[DLTR](https://finance.yahoo.com/quote/DLTR/)** | Dollar Tree, Inc. | $123.50 | -8.68 | -6.57% | 188,649 |
+
+Source health:
+- NYSE calendar 2026-08-27: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
 
 ### 6:01 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:01 AM ET.
@@ -117,7 +184,7 @@ Source health:
 - **Google News Markets** (Thu, 27 Aug 2026 00:50:56 GMT): High priority | [Today’s Market Recap: Nvidia Earnings Beat Expectations, Strong PCE Inflation Weighs on Market Sentiment as Focus Turns to Jackson Hole Meeting - TradingKey](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMUlJQVZnYTI5by1QYm5IVUVTMjcxUkxiVGF5Njh0Vlo3d0Izbm93aGlKZzRvNkN0OTVhbHU5cjNEb3Nsd0pvNGxEcVZ1dnNoaDhqOXlOM252VnVuZ0dFWnN2M29OeVpndTdlRWo4c05JVFRhR2lNMWZ5VHlLQ1VtbktIVFozcTM0X0lUTUsxT0pVRlpBbHdVM0drNGJ0Vk9UU2FpT2RGeUZWQmhQX1VHNmJEb2RFM0hTOE8taEt6a1h1MS1hWHRUbkJKdFg5bnpmY3p2UVQ1N1FtUQ?oc=5)
 - **Google News Markets** (Wed, 26 Aug 2026 22:16:18 GMT): High priority | [[New York Stock Market] Weak Close Ahead of Nvidia Earnings... Nasdaq Down 0.08% - 아시아경제](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UTXRnVGtIMnk2Nmc3bHhMc0ZhRkh3Q0I5QlItbHpKZDRETVd5Yk9xVDU3STltRkVUQXRlcTJ6VERVNXMxQVhEekIzRkF4RVhpcGxLeUlwYVQ2NU1FejlDZnA5bFY?oc=5)
 - **Google News Markets** (Wed, 26 Aug 2026 13:11:17 GMT): High priority | [Urgent| The inflation preferred by the Federal Reserve keeps the markets in anticipation of interest rates - المتداول العربي](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNnpqcVJzZXVjWVBYNVNLUnE1eHhJeUdQSm15VWZiUnlyVEV2Sk5ZUE1ZWWtFeklneXk3YW1qdGplSUZNdmFWRl9OZzl4UWNUUXRvelEycEs1SHRjNWstZ0xZamtmQVh5QUxKajRzV2FLdHlNZ2JTclpNZUtCblRSbVFFRTJXUDkzUE1BdF92ZDBHNkRQcEZfaHBINjM4SXJmZ2ZIYXdrdmpRS3VfS0o2SWUwakpBcTFzenNpLTFLeGhJc2paY1ZOU1ZfajFRcDd2alhWTUVYNFRMSEd1RmFua0ttczhVeExBcVh0S2t3?oc=5)
-- **Google News Markets** (Wed, 26 Aug 2026 13:03:27 GMT): High priority | [US stocks edge lower after PCE inflation data; Nvidia earnings in focus - CNBC TV18](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEd4Z0Z2OTVqM09NV2dqNUJSV2gxX1ZWZ2hhdVh4MHJTcmM2NzU4MF9PdlRnZE1uTkNSbm1iRExOaFNjZmNRQVhfa0lWMTRMZTFWWllsNkg0MUNKc1MwNk95TWRQRUtLV2tEbnhGblBPalhydTZSX0dZdmFKMUg5aHZaTi1PZW9aeHg4SkYtYW9qUllveXRLUkItVjFOUlhtdzR2aExrQ21PSFo0TURMdlJhMXNBUzDSAbwBQVVfeXFMTlNqSVdhbWF5V3Z5OEJvVUJsOVdjUjVRWlJUTTUzdHcxQ0pxYU1uMGdOanBub0ZKcml0T0pWY3IxQ0tsajZUdmRvMlRFbGZpZDR6ZUJqUFFjT3ZxN1NJMWR6SGtaQW9mZ2NFYWVPMk9SemFiWGZ3WHpEbDcweFZIakdfMXZwNkU2SmF5VTRrS0pZUUdZSWpwdmFOZi1zVjNDR0JFZXhlZWRtSklLNzVCRXFXbF9za2lQdDV5SF8?oc=5)
+- **MarketWatch Top Stories** (Thu, 27 Aug 2026 11:00:00 GMT): High priority | [2 charts show why beaten-down Treasury bonds may be due for an epic rebound rally](https://www.marketwatch.com/story/2-charts-show-why-beaten-down-treasury-bonds-may-be-due-for-an-epic-rebound-rally-50eaf9dd?mod=mw_rss_topstories)
 
 ## 5. Economic Calendar
 
