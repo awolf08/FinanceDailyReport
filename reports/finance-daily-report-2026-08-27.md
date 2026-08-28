@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-27
 
-_Generated: 2026-08-27 18:29:28 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-27 19:25:33 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -36,6 +36,45 @@ _Generated: 2026-08-27 18:29:28 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 7:25 PM Closed Snapshot
+- Latest source timestamp: Data as of Aug 27, 2026 10:22 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $227.98 | +18.32 |  | 293,378,706 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $92.09 | +3.85 |  | 99,365,593 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[OKTG](https://finance.yahoo.com/quote/OKTG/)** | Leverage Shares 2X Long OKTA Daily ETF | $40.83 | +14.8132 | +56.9371% |  |
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[WLDSW](https://finance.yahoo.com/quote/WLDSW/)** | Wearable Devices Ltd. | $8 | -9.66 | -54.6999% |  |
+| **[WETO](https://finance.yahoo.com/quote/WETO/)** | Wetour Robotics Limited Ordinary Shares | $11.5 | -5.78 | -33.4491% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 289.1500 | +15.6800 | +5.73% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 476.6700 | -4.2600 | -0.89% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 184.4000 | -3.6700 | -1.95% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 236.5600 | -2.4400 | -1.02% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 340.6500 | -1.3500 | -0.39% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 337.7100 | -1.3900 | -0.41% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 256.2600 | -4.0200 | -1.54% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 122.7100 | -0.6500 | -0.53% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 436.9900 | -3.3500 | -0.76% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 77.1600 | -0.5200 | -0.67% |  |
+
+Source health:
+- NYSE calendar 2026-08-27: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Aug 27, 2026 10:22 PM ET
 
 ### 6:29 PM Closed Snapshot
 - Latest source timestamp: Data as of Aug 27, 2026 9:26 PM ET.
@@ -259,10 +298,10 @@ Source health:
 - **Google News Markets** (Thu, 27 Aug 2026 09:32:00 GMT): High priority | [Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent - The Motley Fool](https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3RBVmE5SDZkNmIyMDc5VFI2TE5Wemtwa0FmTmlhLU1pWERuNERfdktiU2JSOXplcU5weTRQUEFlUHJQVVE5NU90LUk3ZlBzamNBT1BJZEkwdXhiby1wNVdpcTR2eGdwU2g0MlB3NFFtZG5uLXlZbXlzUEdESFI0MnBzRkd3QTU3bWpocHhwUHJsRURxSUZN?oc=5)
 - **Google News Markets** (Thu, 27 Aug 2026 08:52:00 GMT): High priority | [Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent - Currently.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN280bnJ3S3YzbFREcGpUbi1lZU91TEJBdVFYd1Q1cWFyc0tJcHBfY3ZvMHdjS0gyS005Y0RyZlFqTjd5M3VaQTg0OTREYXdMQ1F6STRRV1pLZTJhTFViV0pyLWNzSDFDZi15dzdKbzh5bDZheWh1ZExfd05vY0gtNW1EelVXMzU3S3pua2NWOA?oc=5)
 - **Google News Markets** (Thu, 27 Aug 2026 08:12:35 GMT): High priority | [Persistent Inflation and Treasury Yields: Stock Market Impact August 2026 - Intellectia AI](https://news.google.com/rss/articles/CBMikwFBVV95cUxOalctVHJfU0xxM1d5V0x3WFY1bUpMTl8xdEJzZHczTWpDTmpyeHhsQTNaQ0NCampxZGpST0J1SXlVYmxqS1B1aE5RNi1jd3BpMnNxTmJrd3ZFY2gySllka2hPTmJYYzFkeWtMZENjRkNwTTBVNV9uSmRmNTdaMjNQV1VsR2UwMXRpY1l1TVN6R3NsWUU?oc=5)
+- **Google News Markets** (Thu, 27 Aug 2026 03:23:33 GMT): High priority | [Stock Market Today, August 27: GIFT Nifty signals weak start - US inflation, Nvidia earnings and crude oil among 6 key triggers to watch - ET Now](https://news.google.com/rss/articles/CBMikAJBVV95cUxPdXN0cVdBcFhxWVY0MHVjNW9rU19wQ0RRMHRUeHpROHZ4amRuOFB3TUk3RkMwNFBoYXhIeW9yRVFLVEhENExTMWQ3VDZCVFdDeEFzQWtnNS1tT1BSQVFESTFsZHc5NzFYWFY2Nk0tM01KekNiR3c2TE9RS2lxWTlJLWdzSXU3azV4ZkJ6OFdpVmRvMHpKTXppeUhURjlaYVZMd2RsODZMT1ZFWUxNUW1Ga09aaGFzTHpuN2d0bGV0Uzh0SWlXSXVOT3Vha01BNGlNMGc0NjZMdGtEQUR0QjZia2hrcW5DdU1lMUhyeWg2bmhPX29FZktzR3RZSE9vcHVmNjllQXBweUhjRHpQTHh5QtIBlgJBVV95cUxQNFJsSDBEV0pUemhRWGJaNGF1N043TncxX0tYWUFJSkNEWHI0a19jay1KckIzV1ZubzdGTFB0UUxzS0lUdElRcTZnQUxkQ013cDlaVUFyU2hEekUzdUVRbG5Vcm9GaWE0Zm00b0JMdXVodUpSYUdib0ZhcWJtYWdPY1M0VGNoQmFhMlVSanpZcEpFVllWVGlhWHpIVnJHeUZxY0NPTWZuMXRHS2x2WW1EVFYzUzFUWnBZcTk0eThLeld5cU9qNlhac1ZveTF6U3dOM2o1MTFxbWhNRDZDT0E4elhGb2RVbEY5OVVseU1XMzQycF92a3hJeHo3cmZIRTUzS3F6RklObF9CZktJc3lCRkJKU3NWQQ?oc=5)
 - **Google News Markets** (Thu, 27 Aug 2026 22:11:13 GMT): High priority | [[New York Stock Market] Tech Stocks Rally on Nvidia's Surprise Earnings... Nasdaq Rises 1.57% - 아시아경제](https://news.google.com/rss/articles/CBMifEFVX3lxTE5WYkJIclFBeUNISFozWWxKR3JFRkxzME9sVGdPalJuS1BHa1VRSlZEY3dFLUctSERHX3BIN19laGJ1dXhpcVBGYTZ3TmdkQmM1VXlYc09wS3lUZFBVMWNyMkdERTZPZUZVT1UwQWR5cWktTWhaR1ZrYl9NLTE?oc=5)
 - **Google News Markets** (Thu, 27 Aug 2026 20:43:00 GMT): High priority | [Tech Earnings Fuel Bullish Gain For Nasdaq: JFrog, Twilio, Microsoft In Focus - Video - Investor's Business Daily](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QMTlBbmZja0d0a2lrSURwaGNRY0MwOTh5NE1EaGZPVlFOQW5ZNTRWdzUyQ3RHNS1wM2Y0YlVFX3dJZTNaRUZyNF91ODk?oc=5)
 - **Google News Markets** (Thu, 27 Aug 2026 20:43:00 GMT): High priority | [Workday Stock Falls As Earnings Beat, Guidance Underwhelms - Investor's Business Daily](https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1gtSVlRQTRicTlaMFpfV2VZLVNWQWhZS1U5VkVseVFnVmdFMGJOSC1VVXI1ZV9PS3FUdVRWR0IwT3doRHVFTUo2bGFPZEYxSC1TVWZYR3hJbTExTFRrcWhPN2pQTWt5SFo1ZXB3YUNWbnhBc2RfXzJ6YzktdE5OeXR4aGIzNmpsdmRjR09R?oc=5)
-- **Google News Markets** (Thu, 27 Aug 2026 20:10:26 GMT): High priority | [Nasdaq Jumps 411 Points as Nvidia Stock Soars on Big Earnings Beat: Stock Market Today - Kiplinger](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGpOLWl2YjU3MlBXdkxjb0lIdHFjZUhZbUI5cTFPRkE4aEM1dGxFUXBFTmk4Wm1yQS1xZEVmcURPTVVQcWZ0R0lzenZYcjVvU3AxMUNoQ2hoTHh0RzFXdS1NLUtiUUIzUXN1WUNXVGh5WHRTSlJDaDZXdVlQdkRQVG9jMThSNXBmNkJ5c1VuSFNidmZ1NGV2WVNQV2NFZ0lHT1N2N2F5aHV2VjQ?oc=5)
 
 ## 5. Economic Calendar
 
@@ -328,7 +367,7 @@ Source health:
 
 - NYSE calendar 2026-08-27: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Nasdaq market movers: ok - Data as of Aug 27, 2026 9:26 PM ET
+- Nasdaq market movers: ok - Data as of Aug 27, 2026 10:22 PM ET
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
