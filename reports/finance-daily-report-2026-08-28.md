@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-28
 
-_Generated: 2026-08-28 16:49:56 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-28 17:58:13 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -24,6 +24,43 @@ _Generated: 2026-08-28 16:49:56 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 5:58 PM Closed Snapshot
+- Latest source timestamp: Data as of Aug 28, 2026 8:55 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $217.55 | -10.43 |  | 193,204,284 |
+| **[PCG](https://finance.yahoo.com/quote/PCG/)** | Pacific Gas & Electric Co. | $16.615 | -1.335 |  | 114,230,986 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $10.445 | -0.335 |  | 103,770,968 |
+
+#### Gainers
+- No rows at or above $5 returned.
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[WETO](https://finance.yahoo.com/quote/WETO/)** | Wetour Robotics Limited Ordinary Shares | $5.72 | -5.78 | -50.2609% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. | 291.5200 | +2.3700 | +0.82% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 465.5800 | -11.0900 | -2.33% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 189.4300 | +5.0300 | +2.73% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 237.1000 | +0.5400 | +0.23% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 346.5900 | +5.9400 | +1.74% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 342.8800 | +5.1700 | +1.53% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 266.4300 | +10.1700 | +3.97% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 122.3100 | -0.4000 | -0.33% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 432.4200 | -4.5700 | -1.05% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 76.4500 | -0.7100 | -0.92% |  |
+
+Source health:
+- NYSE calendar 2026-08-28: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Aug 28, 2026 8:55 PM ET
 
 ### 4:49 PM After Hours Snapshot
 - Nasdaq market movers captured after the close. Latest source timestamp: Data as of Aug 28, 2026 7:48 PM ET.
@@ -140,10 +177,10 @@ Source health:
 - **Google News Markets** (Fri, 28 Aug 2026 17:52:50 GMT): High priority | [More U.S. rate hikes possible with inflation still elevated, Federal Reserve chair Kevin Warsh says - CBC](https://news.google.com/rss/articles/CBMifEFVX3lxTFBlMG5rRjJBM3V6RHo2MC1tTm8zc2FvNVdaQW9BSHZBTlRCd2NXdWwyZ1V3VTU3dFROTWR6a1gzM0g4Qy1jNWUwbVp6QW5WQjliNGlmSEw2ejIzZTg0cndOdVBKa3FZRTVnLUJ3QVhxV0JmbHoxM3Fmc2RERWo?oc=5)
 - **Google News Markets** (Fri, 28 Aug 2026 15:55:43 GMT): High priority | [Nasdaq Today LIVE: Index Jumps 0.44% As Nvidia Earnings, Paypal Fall & Fed Rate-Hike Bets Keep Wall Street On Edge; Check What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMimgJBVV95cUxQOUVEeUxzdWZHS0VSNmhIeU5uSlU5UmJvX3Z1SURwMjVObjlCU0JkWTNoTDZGV3hNLXExbmVDeGZiVW9yTk5pRHViN3ZhLUF1YzBGMENGek5ZUEZBTjBDTHBBUkxSeWd1NnBrSExwdE4xVjJNRHMzYld2QXBORzl1cVVEU1RDZDhkR3J3UVdfSEZUMjQ4Vng0OGxocGtQR0xsNnlvUUkxMExXc0t4MEswamhuOFVvMzBOcGQwdVA0SC1KWFZDT2planBlOFBsT2F1VmhwNXpwV2xSY3dZNHRkWXhzN1MzMGplcElzNE9RS2dkaHhPRDBRcE9xbHF4c0h5MFY1QlFfcF9MMDZHemRmUVdqaHJxUWFUMFHSAZ8CQVVfeXFMTkVPNXJmQjdlR3hwV0dJLWdXcGQtaVFBZkdQNlZieFdLUFNqcUt2eGw5OWpuQVREa1pZZWhzWkg5ckJucUo2S1BPSHYzMEJWRk5pVXk4WWJoX3FSeTVaR2hBcVpZckRJQ2dab2V5elFLWC1TdFhxQjhqTkJpM0RLV2VEYTJjeU9mT2cyazBGN3hmVGdPeC1EdlJxYTdFOU9obi02QlZyci1BT0lpeGFzb09rMzVZbXNISktoSkVYelhIVlpLeUdoX0dzTS1RWVptRmp6c08wUzF2d3JxRHY2REo0Qklhd1EwWTBCVS1lMTRZYU1qeGhYN0hMQVdXYmpscFZzZnJzaUJQQ0tSUWpYdUlxeGczSXhtWUtsVmdXOUU?oc=5)
 - **Google News Markets** (Fri, 28 Aug 2026 15:28:15 GMT): High priority | [US Federal Reserve Chair Kevin Warsh hints interest rate hikes may come as inflation ‘still too high’ - Livemint](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdlBWd04yY19TZXl1TWFvb2pzci1BSENSMEtmVGFCQnpaazRMNnI0cENwTGViR21lNTFYNXY0X282cFVCUmpUU21DbGxIZkNZVmpZTTg2UFk1X21rTmsyQjU5TkNFd0xERVRnaWVydEhiamR3VmF5VWo3bW0xd2dUTjdDTDNqeGpuYUM5VFY2aDlFNUpUYWFwUThlMkwyTGdxb3I4UV9HSzhNYzRHc3NITVVaOFVwUGNJcFRPdkZtZVMwc2F2U2tubUUxVjBGRTlXeU81TmhmRTdycU1hNW1FNHA5bi1BUkVucFliS0JmelBoSU5xc0g3TTVzZ2hQVkpGRDI1SnRfempJM3pGREE2UmFjbEpHYko30gGeAkFVX3lxTE9IZXlNaEtqZVJqcEdBZTI0dVVOa0RJYjlvY2FaQUQ1OGFEaUVHR2cwanlQdHZBbDc1cjJaSUlBWm5QRG9IMXhNNHJzWU0tU0JhOE5RZV9rNzFfVEVNS0ZlUHJiSXVCck1tQ1ppS280QmdUUl9DWFpFTDlPeTZqS3N1TjdZUkpwQ0I5RWlxQnJEVV9HR0s5QVRNRXlTOGJwTFQxa3pyN1JqRml3eUxsV2RIbUVEWTE1eEZQSHlPczBGdndEb0JJNEd3MUh3QlRzeS1tVnVnSlV2RmVKY2p2LXhYSnRBSjQwQ2ZEdU5lTUZYMC1uamlLOTItR0RKRjVtODdnWDVrT2hXUzlnWnBFV1hHR28wc29VeXVPT0dpUmc?oc=5)
-- **Google News Markets** (Fri, 28 Aug 2026 18:49:59 GMT): High priority | [Investors Expect Higher Rates After Fed Chairman’s Inflation Pledge - The New York Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVVNSWJVV19KbXhlZEVYaEU2eUlsUUVaeGV0QjBlYUtKU0ZZOEg0MExlOFBobmk5YkFPUVoyRlJjMnh5WmxQWWNCTHo4NTZBdVdYSVBLeVVDS0czcGVKNWRGM1RNT1NMTUtQOEk1WHVHTHlvQ0p2Zjg3SUoyQ1lqSVpVUDRGdmdaek5zSjVpTnc4dw?oc=5)
+- **Google News Markets** (Fri, 28 Aug 2026 19:05:27 GMT): High priority | [Dow Jones Round-Trips as Fed Holds Rates, Signals No Imminent Cuts - CryptoRank](https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ2Y0a3ZlVnIwZG9iN0J4Z09NeTlWYkR2dDJtQmxsR1hVRkJ2Ym50eGk2WXZkTTJiVG8yZVdydXFJME0tLVdIUjc2TGxLalJISDlTQTBpMU9ScHZjZlBQQUtjd0ZNTGs2XzhLaThFVzZvaElIckhBdUJndmlJWEo2Nw?oc=5)
+- **Google News Markets** (Fri, 28 Aug 2026 16:40:15 GMT): High priority | [EOG Resources stock steadies after Q2 2026 earnings beat and analyst downgrade - Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdGNxdUxQUUU5SXM3NExURWl6OXpNZklRcmNSQzZKMC1ZYlNuYXl6Y0FmYnNYQ0FwaDl0ZjdnN1pKVU5Xc28ybnA3X2x5UU1SQm9kZENXS2FkQlFNRnJqMjhMYkN5bFJobXZfaXpzSVFVRXVpRi1uRzNTREhtVW8yVmctdFNDenZka19RaTRvX3BtaThxOHBLUzM2ZkVQN2hVWlhNZUZXelB3bVl4M0lhdjloVlNvS1p4MXlvWFljTG5nSVpXTWxvRmxNcw?oc=5)
 - **Google News Markets** (Fri, 28 Aug 2026 15:25:17 GMT): High priority | [Wall Street is stuck in a holding pattern ahead of a big speech by the head of the Federal Reserve - WDEF](https://news.google.com/rss/articles/CBMivAFBVV95cUxQckN3RzN4WTh6NXExVkV5dFhjVHp3TUlNdk00QnZHTGNraU05U2JqZTIxdzI5dmNHOUUzeFE5ZFI5WVgzMnRDNWtZRk96U0lHRGRsYzlVSkdMUGQxSHo0cHpfRmpjaXIzY0NfYkFtMkNZcmt6Qkk4WGEyZ2lSQTF3Wlc1SXdLbTJIeXF4MXQ1MFFwOXJwQnVBNmg0Q1VMZjAza1pTVXhmdTd5RXVQMmdVYUNPdnBBbGQ3LUxiYg?oc=5)
 - **Google News Markets** (Fri, 28 Aug 2026 15:18:39 GMT): High priority | [Why US Federal Reserve Chair Kevin Warsh is advocating for a ‘quieter Fed’ amid criticism over lack of communication - Livemint](https://news.google.com/rss/articles/CBMilwJBVV95cUxObExOZ2VGX2ZvWUVRTXk1X2JxUVc2M1k4WWZNekRfdVltaXl2dlcta2I5UDZoa0NjOHBrVkFSMGZiLXZicHZpcVRqV2NBZGRzQnhBUnRBU0FzWVowMHVNakRjSnFBbnEwdmtHTjE2N2hmTUpVRFNwbWxSSjFqZ3NlNDNrTnVNODZZcUlLVzZnUmFlaFVESkRnYi1GVnJyWjhocEdzNGhqUkpwUTBDdkhqaDA4YWRWTG90V0YwWC1xNFZreXV1aG92VmQwcm5jRVIwYkFvaEtfbHpuQk9KRDNrd3hYVFVKSGV5c0RDQTh6X3RORW94OTRKdDdVTmNMeWE4WmZHejJhaVoybWJfYklZcWNIekxwWVHSAZwCQVVfeXFMTkc2TVFsdEJCM3cxVlVIbFlDVV9WR3RfLXpnTC1pNW56UkJfVi1QSFdPOUwxTWc1SlJwbndsNUx4YlRCellLUUx4UTNMTFN1UDUyakkxM2J3VmREYmkzaG9LNHBYQ0t4dU1oUVhVZ3BzSXFKZ2JRczM3WUctVjZVdE45NVBSbDJBNUVEUnludzlFQmxKNW53TFhHSWJVaTlkbnRicFpkdDk3RjgwSzlLTlJnSk9lTWpyUzd3OHpwNFRlS3N1VmcyMDQxV0k4TmFaNE1WZHlsdTFBZ3htX2w4aklDeThJeVZMdE41Vkw0eEYwanVDeFl4ZGVVRG8zTXpsMW90NFNrUWRQRUZOelNhZHVmYTB4QVg1b1NGckQ?oc=5)
-- **Google News Markets** (Fri, 28 Aug 2026 15:14:50 GMT): High priority | [US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates - ABC Columbia](https://news.google.com/rss/articles/CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ?oc=5)
 
 ## 5. Economic Calendar
 
@@ -192,8 +229,7 @@ Source health:
 
 - NYSE calendar 2026-08-28: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Nasdaq market movers: ok - Data as of Aug 28, 2026 7:48 PM ET
-- Nasdaq after-hours article 2026-08-28: skipped - No matching After Hours Most Active article found yet
+- Nasdaq market movers: ok - Data as of Aug 28, 2026 8:55 PM ET
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
