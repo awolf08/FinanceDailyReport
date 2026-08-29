@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-28
 
-_Generated: 2026-08-28 17:58:13 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-28 18:58:54 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -24,6 +24,43 @@ _Generated: 2026-08-28 17:58:13 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:58 PM Closed Snapshot
+- Latest source timestamp: Data as of Aug 28, 2026 9:57 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $217.55 | -10.43 |  | 193,204,284 |
+| **[PCG](https://finance.yahoo.com/quote/PCG/)** | Pacific Gas & Electric Co. | $16.615 | -1.335 |  | 114,230,986 |
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $10.445 | -0.335 |  | 103,770,968 |
+
+#### Gainers
+- No rows at or above $5 returned.
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[WETO](https://finance.yahoo.com/quote/WETO/)** | Wetour Robotics Limited Ordinary Shares | $5.72 | -5.78 | -50.2609% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 291.5200 | +2.3700 | +0.82% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 465.5800 | -11.0900 | -2.33% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 189.4300 | +5.0300 | +2.73% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 237.1000 | +0.5400 | +0.23% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 346.5900 | +5.9400 | +1.74% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 342.8800 | +5.1700 | +1.53% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 266.4300 | +10.1700 | +3.97% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 122.3100 | -0.4000 | -0.33% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 432.4200 | -4.5700 | -1.05% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 76.4500 | -0.7100 | -0.92% |  |
+
+Source health:
+- NYSE calendar 2026-08-28: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Aug 28, 2026 9:57 PM ET
 
 ### 5:58 PM Closed Snapshot
 - Latest source timestamp: Data as of Aug 28, 2026 8:55 PM ET.
@@ -229,7 +266,7 @@ Source health:
 
 - NYSE calendar 2026-08-28: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Nasdaq market movers: ok - Data as of Aug 28, 2026 8:55 PM ET
+- Nasdaq market movers: ok - Data as of Aug 28, 2026 9:57 PM ET
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
