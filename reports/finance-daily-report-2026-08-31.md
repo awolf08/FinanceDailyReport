@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-08-31
 
-_Generated: 2026-08-31 13:36:05 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-08-31 14:54:06 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -36,6 +36,45 @@ _Generated: 2026-08-31 13:36:05 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 2:54 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Aug 31, 2026 5:53 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PCG](https://finance.yahoo.com/quote/PCG/)** | Pacific Gas & Electric Co. | $13.28 | -3.32 |  | 153,172,904 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $220.5 | +2.95 |  | 120,604,098 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Shares ETF Trust | $9.97 | +0.99 |  | 112,921,369 |
+| **[CNH](https://finance.yahoo.com/quote/CNH/)** | CNH Industrial N.V. | $11.84 | +0.16 |  | 101,288,772 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[AEHL](https://finance.yahoo.com/quote/AEHL/)** | Antelope Enterprise Holdings Limited | $6.49 | +2.95 | +83.3333% |  |
+
+#### Decliners
+- No rows at or above $5 returned.
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 292.79 | +3.6400 | +1.26% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 470.72 | -5.9500 | -1.25% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 183.22 | -1.1800 | -0.64% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 240.69 | +4.1300 | +1.75% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 339.35 | -1.3000 | -0.38% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 335.41 | -2.3000 | -0.68% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 259.77 | +3.5100 | +1.37% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 122.43 | -0.2800 | -0.23% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. | 429.88 | -2.54 | -0.59% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 75.69 | -1.4700 | -1.91% |  |
+
+Source health:
+- NYSE calendar 2026-08-31: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Aug 31, 2026 5:53 PM ET
+- Nasdaq after-hours article 2026-08-31: skipped - No matching After Hours Most Active article found yet
 
 ### 1:36 PM After Hours Snapshot
 - Nasdaq market movers captured after the close. Latest source timestamp: Data as of Aug 31, 2026 4:31 PM ET.
@@ -281,8 +320,7 @@ Source health:
 
 - **Google News Markets** (Mon, 31 Aug 2026 16:35:33 GMT): High priority | [Why is US Stock Market Down Today? Dow Jones Falls 0.67%, S&P 500 Slips 0.51%, Nasdaq Drop 0.44% as Oil Surges & Fed Rate Outlook Amid US-Iran Tensions; Check What Investors Should Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZ2FSQ1hybGY0cGdNX1FwUTlzdFR0ZHF1RVJheTNUcjcxYmJvbXV6R3hvZmNVWHdiTVB4Y1dSNXhydUN1bXh3VVY3b0NyZnlNeXJUR09xRkYwUnNfZ2M3YUk4WlV3YTVPQ0dXTG1CdW1YRFN4ZW4wYTJTdGVyVU5WQ0JkdmhXV1NxUFROZHlQQlJIU20zZ2lWZU9OQjlpY3pfX1FZb21MbVB5dWpkZzZ6OHhWS1oxWG1ITER1QlhZV01yenE3SnNxeTB3QWtNZll0Vi13ZlEtdFdzc3hTb2h5aG1RbmlDa250dzFnbnJ5aWhXUHQxM1VTeFV2Y3RsNlg1NjFlSk1YQ0d4TFQtbjd3WXFZWEhKbHJjT2NVVU5oNDN2UlBVdS1xWi1lM2ZSWGx2TUNMYnVqbERsTnNfZ3UxenZR0gHHAkFVX3lxTE1vOWtSTlFsQmlMY0NmaGVmMkRqNHhzeENZeng3MEtyZG5MWksyWl9NSl9wTGlOcmp4c0FZYjQtX1BnUFBBd1JLdERzbEx2U3V1ZTlIVlkyeW1JWUtMdGE4QmVua3ZOdTZ3WExTVVFVZ25hd3VodG5OV0Vwdi1MR1g0bWFNT1VEclU3djNsa2hJODRXak5GZjRJZ2dmVVNtMENKZEpydDRFV1RnRlUwaVVvZVdIS0VaYU1UY21sOVdBLTBIT0ZQZ1huMEpWT2ROa09vZGRWVU05LWktc0F4MmV6OHRLX01XS1BJQ2tDeXV4RFhaU1BsNElFOHY1clJpNERnNGRNZGhVbWFJQjVqbW9GeFU2eXUzWDZOT3EtaWpGYTl0Ukd4RWw1NEc2YlBnQmY0aU9JYjNHNkZ6azhjbjl0UmY0UXBEbw?oc=5)
 - **Google News Markets** (Mon, 31 Aug 2026 11:10:48 GMT): High priority | [Dow Jones, Nasdaq, S&P 500 weekly preview: Jobs data, more earnings on tap - Investing.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVmhKN2xSckNFX1pDSWgwdEVFV2ZyMXdXS2VvYnVjZ21yTzVpN0RNbG1XNkZkXzVySVZpeDUwMXF5bUtHc1lnb1lpYjUtaU1ZeTFYNUlkYTdGSHBxTWZFVGgxVEZ3WnJMZDdta3Z6cnQ3WHZXUi1UcU9rUmlrSW5FcENyZ3VEQmNZT0RYTmEzZXFQOXZWcGFNZGpONGFBR0JhLXNMdXlhVlhpNWN1NEM3UFlDb0FhYU9tS0FqdlVWVFlnTWZy?oc=5)
-- **MarketWatch Top Stories** (Mon, 31 Aug 2026 20:26:00 GMT): High priority | [The 10-year Treasury yield just crossed a key threshold that should make people ‘sit up and take notice’](https://www.marketwatch.com/story/the-10-year-treasury-yield-just-crossed-a-key-threshold-that-should-make-people-sit-up-and-take-notice-ffc0b5b5?mod=mw_rss_topstories)
-- **Google News Markets** (Mon, 31 Aug 2026 16:06:08 GMT): High priority | [S&P 500 Today LIVE: Index Falls 0.44% as Oil Surges & Fed Rate-Hike Bets Weigh on Wall Street Amid US-Iran Hormuz Tensions; Check What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNNWZ5YVYyb0N1WGhLalZzLTE3NWV2d0E0ODZBN3hBLXVjY0dpbzZqR0t4aGJqSGxUMVhBZmpGc3d3N3JLNjAxUUJCbERVMlZvNzBXeFdYaGRRbDFOYURJZEs5Y1pqZnF4MXE1czltTHVHckdxM3lYRUczU0NRT1hYbmYwVzcxNUlRRkpjRllBUGU3aVV4U0VNZWxjSmJzS3ltc29NLXRFX2UyZThEY1JqLXYwSzAxR1hvbGpBdExjUGVGczlUdjFIcEw0RlAwTUMwbmlULXlpQ0hQNnNPbVcwekU0RDZZWUd6WlB4UjdEUUg4dzgydWE2UHVBQkQydnQ1MjdiOGZ2ZDR4VnpJMVBveFMxeHpRX3FXYThqbjFtSThaREhWbkZpUzNR0gGqAkFVX3lxTE01ZnlhVjJvQ3VYaEtqVnMtMTc1ZXZ3QTQ4NkE3eEEtdWNjR2lvNmpHS3hoYmpIbFQxWEFmakZzd3c3cks2MDFRQkJsRFUyVm83MFd4V1hoZFFsMU5hRElkSzljWmpmcXgxcTVzOW1MdUdyR3EzeVhFRzNTQ1FPWFhuZjBXNzE1SVFGSmNGWUFQZTdpVXhTRU1lbGNKYnNLeW1zb00tdEVfZTJlOERjUmotdjBLMDFHWG9sakF0TGNQZUZzOVR2MUhwTDRGUDBNQzBuaVQteWlDSFA2c09tVzB6RTRENllZR3paUHhSN0RRSDh3ODJ1YTZQdUFCRDJ2dDUyN2I4ZnZkNHhWekkxUG94UzF4elFfcVdhOGpuMW1JOFpESFZuRmlTM1E?oc=5)
+- **Google News Markets** (Mon, 31 Aug 2026 21:04:57 GMT): High priority | [Nasdaq Composite Eases 0.1% with Treasury Yield at 4.75% Challenging Earnings Support - TechStock²](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0V3Q2hJdzllR3ptMm5uQlRoTkphNEQ1ajdVY2cwVkNNTHR5SVlaemNUdFNkUlgxdS1xMmdvUEhhNmk2eFQ3alZiZm9XbUpsRkxMUldfTUhoRHFWTFdaeEIxUXdaZ1RKcFlKXzU4ZUtrMlk5Z2F1dUdwNzFZRWZfeDVjMUFkUTd0YUFLN0FhWHgtcFJwZzJxZA?oc=5)
 - **Google News Markets** (Mon, 31 Aug 2026 01:07:00 GMT): High priority | [Surge in dollar influx prompts Federal Reserve to reduce short-term rates - The Economic Times](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMmdGdlZsbzZ5RGU0TUNQbDlIZ3pMTDJPdU5zZlNCd0kwSXJWT1VxWjFsM2ZTcTdnelFaMEl5OFo4alpsdF8talhISDlHNG8xcmF0cENDRUh5Y3V5VzdaRTQ2ZnNNMVFVRnItZkhLdHM5WHl5Z1U3QThvQld3UkdGQWNGMHFCSnJBMy0zdkRqLVgyQ3F4WGwyVG9OTWJRMHRPS0lyNkJhXzJXczVTMXJjTWRWSlllMFUtUzExbWNrUWQ0TDNCQmJZLW5YY1BZY01HQ2UwLXhKM1NOU2JWd09fUGYwQ1BxQdIB5gFBVV95cUxPMmdGdlZsbzZ5RGU0TUNQbDlIZ3pMTDJPdU5zZlNCd0kwSXJWT1VxWjFsM2ZTcTdnelFaMEl5OFo4alpsdF8talhISDlHNG8xcmF0cENDRUh5Y3V5VzdaRTQ2ZnNNMVFVRnItZkhLdHM5WHl5Z1U3QThvQld3UkdGQWNGMHFCSnJBMy0zdkRqLVgyQ3F4WGwyVG9OTWJRMHRPS0lyNkJhXzJXczVTMXJjTWRWSlllMFUtUzExbWNrUWQ0TDNCQmJZLW5YY1BZY01HQ2UwLXhKM1NOU2JWd09fUGYwQ1BxQQ?oc=5)
 - **Google News Markets** (Mon, 31 Aug 2026 00:46:51 GMT): High priority | [Today’s Market Recap: Escalating US-Iran Conflict Pushes Oil Past $90, Warsh's Hawkish Remarks Boost Fed Rate-Hike Expectations, August Nonfarm Payrolls in Focus This Week - TradingKey](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOTRXQTR2Z1lsa1NlZDB4dlpGakpSTFhBN3ZUVGV4SlNXZ1ZBWlVmcWE3UjJZZVNuRjB4RU5WVUJ2WnlhbVZETldEZjliV0NObVlZc3FhdVRud2F0RWlKZmxhckt5akY0OTVScmZSUF94ODJvWGRUTDF6T2RTUzJjQWVnenpWV3Z4T2RvaFVsWU1BZW5HZzdZZHA1QnZnNkViMTlvZzVCUTNmZ3pkeVk1Vmp3YmtzdmdLd1pHbi0yOTVOTnctekZwMjA3dHEzblRjMmlZRFlfeDBMNXh2NDdLZlA1WQ?oc=5)
 - **Google News Markets** (Mon, 31 Aug 2026 16:39:00 GMT): High priority | [This Federal Contractor Stock Jumps After Earnings. It’s Becoming a Government Darling. - Barron's](https://news.google.com/rss/articles/CBMidkFVX3lxTE9vX3R4dF9XUi04VTRfanhZaXpiaTVwdHh1aHBjNWp3U0g4N2VRVWM0WE9BUG9OdWdYc2c2OWtmdnQzazItWnNtVGVvcnRqWTJDY0JQNTBjTW52bTdVM2RSdEhRSUhJVmp2TzVjUUZvcG5Oak91OGc?oc=5)
@@ -291,6 +329,7 @@ Source health:
 - **Google News Markets** (Mon, 31 Aug 2026 14:03:52 GMT): High priority | [Willis Towers Watson stock holds steady as investors weigh recent earnings and guidance - AD HOC NEWS](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaWZnZ2U5aXBQYlJhVllKX3NjWkJSLWxaZndoV2tHdXFQajdEUzdrUkZPRGJnUms3RUtYRjMyWGpNX1BDLWs1TlRGUDVralJFWEc2YlhRMktQWXptdGJSdld1LUx1WHVZU0hqejZHZDMxRHNGb0pPcXE3R3NuaVRWMTkyelJaN2JBV3BMOHUzbnlodGlyb2RPcEc5TUpzaEFsRlpmbHI1Q1JpT09RWUFvR0Y4bXRfLUhkaTVhbWNKVHFtTnVING14RlBoa1lpN1FzMGI4?oc=5)
 - **Google News Markets** (Mon, 31 Aug 2026 13:39:41 GMT): High priority | [Nasdaq stock holds steady as Q2 2026 earnings beat expectations - AD HOC NEWS](https://news.google.com/rss/articles/CBMixAFBVV95cUxOREhHby05aVNPWkt2OXFWd1hNb3AtMC0wNkVIWlJsZ3hiVlBpSG5kM3FObmQtQVMxUGxBTzJYbkJNaVpZNkZxZnF1eHNCRkpCZHlZRVRIdWtXY01Ta0lkN1pLOGswNWlHYmt5dlVhSlZieDhoUWRlYXFveXJZcUZBZjVJM19MZWFtQlpGUmtxVGxvcFRmZlRFMTVSbjF1T2c5bEY3UlMyUHZ6U0ZRdmZoYlpDU0RQNGdhb2xlTnU3SWVncFVJ?oc=5)
 - **Google News Markets** (Mon, 31 Aug 2026 12:21:00 GMT): High priority | [Lululemon Athletica stock rebounds ahead Q2 earnings as guidance reset weighs on outlook - AD HOC NEWS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOeVJUWnE3YlBCVC1oSlJGOFpOZlUtcFNSMk5wZGkzVUxiV2NObTltSGdabkJtdzRsZmRVUG9uM1ZKejZGVHBYSGYxOFFTdnJ2WVZ6VGszamk4c0d4d2tfQVIyeExXbFEydGUyTHpnRk1mSm1rNUM5QTAxLXlXMmxMLUVqby1pYmk1TmtIcGgydVR5Z1B6S3pEb09VY3NWNFREajAzSUV0bktEYWZTLVhLcnlxbFprSW8zMWFxdkFza2hNalVyaXZJQURiVTJDUQ?oc=5)
+- **Google News Markets** (Mon, 31 Aug 2026 12:13:00 GMT): High priority | [Dow Jones Futures Fall, Oil Prices Jump As U.S., Iran Exchange Attacks - Investor's Business Daily](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSW5MQXJjSmlxRnRnb3hOcEJFcDRrbVFYT091VjhrdjNWU2dWNnRrZ3JTNlMzRjM3RUotaGNBZG1rT3JWTF9VT1hVUWVMa0NnbERXLV9XeDVlTFE0dEZYanFzSE1haldYM3VXMy1wbHktelJEaWJTb2R3dG5rT0FiT3dUZ0RlaFdmUFNHSnVGLUx0UUQtLUdiU2N2c25LVE0zN2t0cHBnUWdwOTA5OHhXMVJTMk4?oc=5)
 
 ## 5. Economic Calendar
 
@@ -308,7 +347,7 @@ Source health:
 
 - NYSE calendar 2026-08-31: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Nasdaq market movers: ok - Data as of Aug 31, 2026 4:31 PM ET
+- Nasdaq market movers: ok - Data as of Aug 31, 2026 5:53 PM ET
 - Nasdaq after-hours article 2026-08-31: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
