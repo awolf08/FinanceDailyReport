@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-09-02
 
-_Generated: 2026-09-02 11:22:34 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-09-02 14:35:03 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -37,6 +37,47 @@ _Generated: 2026-09-02 11:22:34 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 2:35 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Sep 2, 2026 5:30 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $224.41 | +6.97 |  | 152,856,670 |
+| **[PCG](https://finance.yahoo.com/quote/PCG/)** | Pacific Gas & Electric Co. | $13.325 | -0.735 |  | 118,494,102 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Shares ETF Trust | $9.37 | +0.04 |  | 87,500,484 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BIAF](https://finance.yahoo.com/quote/BIAF/)** | bioAffinity Technologies, Inc. | $9.75 | +3.16 | +47.9514% |  |
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[CRDU](https://finance.yahoo.com/quote/CRDU/)** | Tradr 2X Long CRDO Daily ETF | $6.81 | -4.63 | -40.472% |  |
+| **[CRD](https://finance.yahoo.com/quote/CRD/)** | Corgi CRDO 2x Daily ETF | $9.91 | -6.6 | -39.9758% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 279.79 | -13.0000 | -4.44% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 457.06 | -13.6600 | -2.90% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. | 182.5450 | -0.6750 | -0.37% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 267.4 | +26.7100 | +11.10% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 337.12 | -2.2300 | -0.66% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 333.78 | -1.6300 | -0.49% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 254.98 | -4.7900 | -1.84% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. | 122.9600 | +0.5300 | +0.43% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 442.84 | +12.9600 | +3.01% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 75.51 | -0.1800 | -0.24% |  |
+
+Source health:
+- NYSE calendar 2026-09-02: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Sep 2, 2026 5:30 PM ET
+- Nasdaq after-hours article 2026-09-02: skipped - No matching After Hours Most Active article found yet
 
 ### 11:22 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:22 PM ET.
@@ -309,17 +350,17 @@ Source health:
 ## 4. Latest Market News
 
 - **Google News Markets** (Wed, 02 Sep 2026 12:03:20 GMT): High priority | [Dow Jones Today: Dow Futures Edge Lower ahead Of US Jobs Report as Investors Track Federal Reserve Rate Outlook, Check What Investors Should Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMioAJBVV95cUxOZXdXMjhHdFlGX3VBREZ1bEdzU2p3b1VnUjV0RWVIQjRNUEFoZl91Wm1xWFp6aTJGMl9GdnlBYkhCRWplaGdEODF0b09sOE5fcDV0QzVqQU1fdnU2czBqX2M0anFxeWVLMTU0bGdaNUxPNjRycTBGMHdqVUxWNTdHZ2s1U05hb1M2SHFLR1BNNHlTaHM4SGlQemhDTDFhVk5NNkpmMjJOMXdKT20yZzlWMGNrRXhDUXBydFVkWnVKeFNIVUphQXR4QUFPZGtZa3NWNHRicnFlTjcwemdlTjh1ZkU0dnZENEZSZnRvY1ozY0tBQ21feXptZHpUajh0eVhIMnYwV0pyOGM5WUZmajFhaWRGb3BfdXhvUEpOdjNmRVTSAaACQVVfeXFMTmV3VzI4R3RZRl91QURGdWxHc1Nqd29VZ1I1dEVlSEI0TVBBaGZfdVptcVhaemkyRjJfRnZ5QWJIQkVqZWhnRDgxdG9PbDhOX3A1dEM1akFNX3Z1NnMwal9jNGpxcXllSzE1NGxnWjVMTzY0cnEwRjB3alVMVjU3R2drNVNOYW9TNkhxS0dQTTR5U2hzOEhpUHpoQ0wxYVZOTTZKZjIyTjF3Sk9tMmc5VjBja0V4Q1FwcnRVZFp1SnhTSFVKYUF0eEFBT2RrWWtzVjR0YnJxZU43MHpnZU44dWZFNHZ2RDRGUmZ0b2NaM2NLQUNtX3l6bWR6VGo4dHlYSDJ2MFdKcjhjOVlGZmoxYWlkRm9wX3V4b1BKTnYzZkVU?oc=5)
-- **MarketWatch Top Stories** (Wed, 02 Sep 2026 17:44:00 GMT): High priority | [Wall Street is nervous about a Fed rate hike, which looks more likely after a top official’s remarks](https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories)
-- **Google News Markets** (Wed, 02 Sep 2026 12:11:00 GMT): High priority | [Dow Jones Futures Rise As Oil Prices Fall; Dell, Credo, Palo Alto Are Earnings Movers - Investor's Business Daily](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUdvU0pXc0dwSE44VUhDNkdFZTltY2p2Sm1SdF82Q3FCM3B0TnhqenJwQ1pMR1NOcXV3Ni1pYkJPM1JXcUk3UFhpM0QyX2hoeDF6SVZ5QldfQkNpMkwyOWtQdzdzQ2p5bElKY1FGOHZ0WDUxaWZsM2VDQ0tHZndKZFRRelcweVhLSnp2SG1iVUVtWE5UbnlJcTcyb2xNT2VLWmNRUmZNX0N4ekx1Tk9FNDVzeFNRWUFTUzBEcWpZNA?oc=5)
-- **Google News Markets** (Wed, 02 Sep 2026 11:01:33 GMT): High priority | [Analysis-Rising Treasury yields could rattle US stocks as earnings season ends - WNWN-FM](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ3k4aGZEZzdVSG12S3EweTQ5UXhBTWpCYzJpSGZicy1mMTd1ZmxmNjV1dGcwZ3RlUHN5bjBrT0xXWFduNl9UN255TkxZblppOGJfNlN4X1dhZ29HTVRPZ2ZLcE96bFd0bktFaGlrRjE1czVGWktfcDJaYnhoMTJXeW9DT3NzQUxvTlZtOXJ4c0pPNTdxdHloSWRnME5VaU92cmJjal9pNkZLMHlPX1JROWlMZw?oc=5)
-- **Google News Markets** (Wed, 02 Sep 2026 15:46:25 GMT): High priority | [Caseys General Stores stock eyes next earnings as investors watch guidance - ad-hoc-news.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2R2T2FjaFREZk1xSFZlZnl0TjlkdjFtWVRWdUdTRUh5OEtnM3FLczg0Qlg4TVhZd0pfUlJjVnUtRDM3ZjhVdmh1SGdCemFFbzNSbFU3LUlJUnNhM2JLMDFDUGxwN3JlSUs0Ymd6Z195bWxkeTA4X3lHc0pNVFQ3amwzeU8zRWpMV3p2M3FUV0p3YTZHWHlqdTlZMndQOVNTMXVENFZ4SEUyUi1YcmpqZmgtQTBVU1RpcVJfV2liMllIQkdXX2tzMS1fR1NCQQ?oc=5)
+- **Google News Markets** (Wed, 02 Sep 2026 18:15:05 GMT): High priority | [Downside Risk to the Stock Market and Consumption - Atlanta - Federal Reserve Bank](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW?oc=5)
+- **Google News Markets** (Wed, 02 Sep 2026 15:55:25 GMT): High priority | [Rising Treasury yields could rattle US stocks as earnings season ends - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JPMlNBNHNJUVR2WWhfd0xOR3ZnWHAzampvY0tJRGFrN1NteWRFR28tekVYR0F1VW5GQ3I4M0FsR0dFalZzYUdERVlOSHJqOWRNNUFCVnFsaURzb0ZwWFZEZ3VHRTQ5czJaYkk2Ym9sOGROUEMxUHJzMzdFMnctMGZDbGRpUHdiOE1DSFI2VHhDNHdwWHlXTW13cG9FSUhOb0lrbEx5bXRaVzAyeVNsaGRYTWJYRnNqWjh1ZjFCcw?oc=5)
+- **MarketWatch Top Stories** (Wed, 02 Sep 2026 21:12:00 GMT): High priority | [Palantir’s stock is slumping. Why bond yields and Google may be to blame.](https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Wed, 02 Sep 2026 19:22:00 GMT): High priority | [Rising yields aren’t scaring off investors. Why money is still pouring into bond funds.](https://www.marketwatch.com/story/rising-yields-arent-scaring-off-investors-why-money-is-still-pouring-into-bond-funds-a23e9e7c?mod=mw_rss_topstories)
+- **Google News Markets** (Wed, 02 Sep 2026 20:52:00 GMT): High priority | [Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due - Investor's Business Daily](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkZOeGVKMnczSWdGQm02WF9GNk5fN0w1SDY1X1hmZGl6ZXZNUE55eGZMdVEzZWxWS1VZWTFRY0pUYzhsYUJnZ1hjU0FMX3NyVjEzSkhtT0EzQXl0MlpaMTJDZ0pCNDVDSEhzdC01YzhvcmJkY2l2RXdlMFBaazFKUkU4Ml9vai1fV2tJRFNINFdVQnpHcHdjZ1hnLVUzQmRaNE5pTTF5aWtTNHNfWHZoa05aVlhUMm9lbkc4SzFoamZwSldMWTZGXw?oc=5)
+- **Google News Markets** (Wed, 02 Sep 2026 20:31:00 GMT): High priority | [Snowflake Earnings, Revenue, Guidance Top Estimates. AI Software Stock Jumps. - Investor's Business Daily](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEpnZGtxUDcySzRDRFhObENxaW1ORXV6M1ZQaVJaVmVpM09IWk42U0hFZkdYN0FuakpBdlhmVHpWRTFaVTRTR3pPM0Jlc2otNFFPMG9ZLXFIbVBLODhRNkVNWWpBRFlObWpzZi1iczRjbWRfc0tUWWpIbkQtWXlxZlNjRmJRTlhFb09zem5IRF9wTHNJQkhGVk93?oc=5)
+- **Google News Markets** (Wed, 02 Sep 2026 19:34:01 GMT): High priority | [BofA says the coming jobs report is just an appetizer for the next Fed meeting - businessinsider.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmNoczlwOE03US1IdzhsMGYyQUxXLXBESmMxekc4bzFSdUhwOFJ5QVZqY1EtRDJMMXZkSFl3Q0NNVDVUZGpPRDRyWUlncXJRem81TzRFdWJxOGoyUjhDZTNvR0d3WTJObXZUMlV1TkY1QUJhTlE1cU5PUE1aLXNPdVlzbEgza1N5b3dWWHBORjVMMUE5ejZaZzFab0YtNk0zUXhTV3NqTQ?oc=5)
 - **Google News Markets** (Wed, 02 Sep 2026 15:34:44 GMT): High priority | [Palo Alto crushes earnings expectations: stock is down 8%- here's why - Invezz](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFI5Wk9aSW11d2dPa2Z1cXNRRWJhZEpKR2JsN1VmYXl0cHlQZkswV0lYOTAwQ2dDeU9XbEx4NExKMm02N0NBR2JWOFQzS1doU3pxY1d1eF9sajltZlFoMGUzVGgtT0RuMTBIWWRBckxoRnJ0TV9QTlJZSlpRbG1Oem5QWTNhZFlIc2tDUXR1cWdTbkdIWldsUjNTUjYySHJwbmNNdl9WeDVYbVBhZUhwNA?oc=5)
 - **Google News Markets** (Wed, 02 Sep 2026 13:33:26 GMT): High priority | [Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus - Goodreturns](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcHNXazJwRlJyWHgzV0RpdlY2QW9hNHhfeENLZWYzd3puVnBOd1N1NjNnRF9ZMGRYeEhxLVVWMWxHQ0xoQ0FpcHBFenlxX29taGJhb2VtLUdPTnVIaHdlRXNSa0lrNERrSF93dVU4bmRUZ1NWYVc4OWF6al9ONkI0bjhkYllKUlAybDlfM3FKb3Q1c2RIUWlXb3RUbTJlMXF5OXg4UnBEZUlGdVpBdVAtemplVXpiWlMxVzVEbGFvVElHcXJMa2p2LTJGUlg3UGNlRWdLOHNHVVVQeXdzUHc?oc=5)
-- **Google News Markets** (Wed, 02 Sep 2026 12:07:59 GMT): High priority | [Rising Oil Prices and Inflation Fears Rock Stock Market in September 2026 - Intellectia AI](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQREpEY2t0NG0xNnR4QUgwbGVsUkpxa29vbk1jd21VZjcwVExRMW43RWxYbWR2bDI2eWhMSXpRMWt5RUpKenZZa09JSDVleTZlU2RCQmQxd24wbkI5ejkxd2RDZnp4aGNia2czdHVqVnFua29YUmJ1dmU1YXpRelBSN1JQREFWZW5OYTRJ?oc=5)
-- **Google News Markets** (Wed, 02 Sep 2026 10:27:00 GMT): High priority | [Federal Signal (FSS) Stock Looks Cheap On Cash Flow While Earnings Look Fair - simplywall.st](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWUliemE2STkzNnFNZ3F4NDViLTJfZ1pLampqM1NsYkFER1pENkNfcGl2MmlnMG9qSzJKNHhVekx3cC1wODRGYmY0M04yZjdoUzIyNGVmTGhfaF9pMDVYcUQ3VDZZc2YxUXdfNWNlNjY3S3ZCX2VoQXAtQWdqRklOcEhSY0pWMldTZ3pEcDMyQ0o2dFg0Y3NjVGNxTVUyc0JsdEhXMGxwYzd2S29oV3E3U1NSQmQ3Ml9JdnZQQnl1NkJ1bUNCcXNnZ0Z6YWpzWGtk0gHWAUFVX3lxTE83MTNXNnpwYU9YSi0ydjNVRnI2NEVEQXg2ckJseU45X1dXM1lJNE9ReGlBZE4ySmVGUFFnUVJDN2xLaHlzMTd1QUt4MVppUWdnRDFYZlktMDRPMjU5S1BUQWNXdUxfbUxTaU5RUWNVazR5OW1WNzFxQ0E3VV9fSk9qU20wV3IxaTJyd2xTWGpPU2V3QXFGcUpBRkhJeFo4bTlReEhEcV9mZGYwOURDaVZMRzAzQnJkWlJabHdsVk00WEJBZGQ0TDAzN181NGF2OXVOMUlMY1E?oc=5)
-- **Google News Markets** (Wed, 02 Sep 2026 07:47:47 GMT): High priority | [Cochlear stock trades steadily as investors look to recent earnings and guidance - ad-hoc-news.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPNV9waHdJREVEbl9IM1Q0N2ZQRGRfU0FkNVRpaUtOV3NzOWhkLWlGQ2g4SjYzVHRRVU93bllSOS1LejEzM01KWWxKdjFjSzJGMERzN1UxOXdvcDFublVFTTVsdmpFYWltM1VVbVp1X0sxeWxaNUo2N21FVFNUYUlpc0d6VzlwQ3lza3R0RFhINzFEemRiVmw3RVlzRUZsdVdWOHVjUThPNGFnaWo4Nkp4bnpabzNmcmk0elRGOHB1Q3pJcC1sMTNMS2xB?oc=5)
-- **Google News Markets** (Wed, 02 Sep 2026 06:44:28 GMT): High priority | [The Scotts Miracle-Gro Company stock steadies near 59 dollars after Q3 2026 earnings - ad-hoc-news.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkt5YmNPXy01SmZ3OGlBMVN2bHVjaHdIU1VCVFN6MjB6R1R0NEpYY3VRcU4zUkkzYnFOWTA1Um55cG1mUWJJc3BUclN2MER2REV6Ym02UjIzZkJtRDNjNzlabEJQNDRvWVFLSnc0dnZXd1JoRVRxS2lGc0swRm01UTQ5elJsd0ZjZmFfbmJ2aUFoZGU4cGRSLXNjNTcxWUM0MU00VlFOc3R6VklLZHJJNTBXSjNTU3VDX3VzVno3dWItR1kwQ2k4bg?oc=5)
-- **Google News Markets** (Tue, 01 Sep 2026 18:59:20 GMT): High priority | [Otis Worldwide stock holds near 71 dollars as Q2 2026 earnings beat expectations - ad-hoc-news.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV3N2UGpBbkl5ckVjWGQ5TmhCSUkxQzM4RHhDRjhsRHZxZVpDdUxiTVE1T2pKZC1KWkUxaThsVzdoT0gzdklxNXpLbVVlcXRBZ1dfRk5ibnR1WTZRNFNxajA2bzRNR2xzUlNweTBBMW5iUmRZUDF0MWowTFExTWZzdC1VdTFDdjNGNUVDMnZYaHFURTluaWVvdFBFaFIyN25BXzU0aXhVWGpLWVp0QngwVUZ0b2hkRDdMLWwzNEl1VFAwWjlXNUVHWlRR?oc=5)
+- **Google News Markets** (Wed, 02 Sep 2026 10:27:00 GMT): High priority | [Federal Signal (FSS) Stock Looks Cheap On Cash Flow While Earnings Look Fair - simplywall.st](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNzEzVzZ6cGFPWEotMnYzVUZyNjRFREF4NnJCbHlOOV9XVzNZSTRPUXhpQWROMkplRlBRZ1FSQzdsS2h5czE3dUFLeDFaaVFnZ0QxWGZZLTA0TzI1OUtQVEFjV3VMX21MU2lOUVFjVWs0eTltVjcxcUNBN1VfX0pPalNtMFdyMWkycndsU1hqT1Nld0FxRnFKQUZISXhaOG05UXhIRHFfZmRmMDlEQ2lWTEcwM0JyZFpSWmx3bFZNNFhCQWRkNEwwMzdfNTRhdjl1TjFJTGNR0gHWAUFVX3lxTE83MTNXNnpwYU9YSi0ydjNVRnI2NEVEQXg2ckJseU45X1dXM1lJNE9ReGlBZE4ySmVGUFFnUVJDN2xLaHlzMTd1QUt4MVppUWdnRDFYZlktMDRPMjU5S1BUQWNXdUxfbUxTaU5RUWNVazR5OW1WNzFxQ0E3VV9fSk9qU20wV3IxaTJyd2xTWGpPU2V3QXFGcUpBRkhJeFo4bTlReEhEcV9mZGYwOURDaVZMRzAzQnJkWlJabHdsVk00WEJBZGQ0TDAzN181NGF2OXVOMUlMY1E?oc=5)
+- **Google News Markets** (Wed, 02 Sep 2026 09:21:31 GMT): High priority | [CARR stock slips as investors digest strong Q2 earnings and guidance - AD HOC NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxNay1SaUduSG9pQVJGWUhKV1lmcEd2SVZrUTlCZndHQkx2NVRhblE3UzRCZ0VjY2lRd0tvSmtxWXhqa28xcEVEb2UtQzVEZjNTRkpOa3pURy1PMFlFOGswMktmeHZCanloMWZrSWVFY2Rfb2JNQ1FLM3VxLURBQnVOMVJCVXJvelRhMjdtd3o2U3NQQUlVcjB1QXNGZXVZbHV2a3dMWThJeDNzc08tMjJqRXFIcnl1dnpkMGlUNjBWamNldV9XeWc?oc=5)
 
 ## 5. Economic Calendar
 
@@ -372,10 +413,8 @@ Source health:
 
 - NYSE calendar 2026-09-02: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Sep 2, 2026 5:30 PM ET
+- Nasdaq after-hours article 2026-09-02: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
