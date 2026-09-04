@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-09-04
 
-_Generated: 2026-09-04 12:34:09 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-09-04 14:13:30 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -17,6 +17,7 @@ _Generated: 2026-09-04 12:34:09 PDT. Timezone: America/Los_Angeles. Not financia
 - **[NB](https://finance.yahoo.com/quote/NB/)** NioCorp Developments Ltd. | Time: time-not-supplied | EPS est: ($0.03) | Quarter: Jun/2026
 - **[IMPP](https://finance.yahoo.com/quote/IMPP/)** Imperial Petroleum Inc. | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
 - **[HTLM](https://finance.yahoo.com/quote/HTLM/)** HomesToLife Ltd | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
+- **[VIRC](https://finance.yahoo.com/quote/VIRC/)** Virco Manufacturing Corporation | Time: time-not-supplied | EPS est: N/A | Quarter: Jul/2026
 - **[NRT](https://finance.yahoo.com/quote/NRT/)** North European Oil Royality Trust | Time: time-not-supplied | EPS est: N/A | Quarter: Jul/2026
 - **[ZONE](https://finance.yahoo.com/quote/ZONE/)** Zone Frontier Inc. | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
 - **[PLCE](https://finance.yahoo.com/quote/PLCE/)** Children's Place, Inc. (The) | Time: time-not-supplied | EPS est: N/A | Quarter: Jul/2026
@@ -30,6 +31,47 @@ _Generated: 2026-09-04 12:34:09 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 2:13 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Sep 4, 2026 5:09 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Shares ETF Trust | $9.15 | -1.23 |  | 134,846,227 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $230.36 | +1.91 |  | 131,784,191 |
+| **[PATH](https://finance.yahoo.com/quote/PATH/)** | UiPath, Inc. | $15.205 | -3.015 |  | 104,305,877 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $17.35 | +3.28 |  | 94,975,101 |
+
+#### Gainers
+- No rows at or above $5 returned.
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BANL](https://finance.yahoo.com/quote/BANL/)** | CBL International Limited | $9.01 | -6.19 | -40.7237% |  |
+| **[TRBG](https://finance.yahoo.com/quote/TRBG/)** | TurboGen Ltd. Ordinary Shares | $7.34 | -4.5 | -38.0068% |  |
+| **[IPEXU](https://finance.yahoo.com/quote/IPEXU/)** | Inflection Point Acquisition Corp. V Units | $8 | -4.38 | -35.3796% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 266.51 | -13.2800 | -4.75% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 477.57 | +20.5100 | +4.49% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 181.94 | -1.3200 | -0.72% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 266.11 | -1.2900 | -0.48% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 338.46 | +1.3400 | +0.40% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 335.31 | +1.5300 | +0.46% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 258.51 | +3.5300 | +1.38% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 124.5 | +0.9300 | +0.75% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 437.23 | -5.6100 | -1.27% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 75.7238 | +0.2138 | +0.28% |  |
+
+Source health:
+- NYSE calendar 2026-09-04: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Sep 4, 2026 5:09 PM ET
+- Nasdaq after-hours article 2026-09-04: skipped - No matching After Hours Most Active article found yet
 
 ### 12:34 PM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 3:33 PM ET.
@@ -301,18 +343,18 @@ Source health:
 
 ## 4. Latest Market News
 
-- **Google News Markets** (Fri, 04 Sep 2026 17:34:58 GMT): High priority | [Why is US Stock Market Up Today? Dow Falls 0.19%, S&P 500 Edges 0.03% Higher & Nasdaq Gains 0.01% as Jobs Report Lifts Fed Rate-Hike Bets | Here’s What Investors Need to Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMisgJBVV95cUxOaU13N2ZUSkNtVDBaM18yeFJxZUsyRnZEVUtKc202MF81b0FuR19HZF9JemR5ZjB0ckZuaWc3OW05MzM0Uk1hUWJ3Ty1EaXM5YVRWZTFTekRtM1Q1amxJMWFnUUx4d05BTll3YXNKSmZpeHJfQWtjalBxTVl3enZkYmNHRXVtN1IyWmxtRExfaXQ5SU9pMFhDUVQ4dFRZbmE5VnoxUDlmeFNpVEl5dVZudl9paE1zNHh2VWtOcGx2RTN2dmY4MXlmLVZ2ZDJGUjJpbTlfcmVFY0NPSzZ4VnZUUW5vV21ucGJ1S3c4dEVTRzUyWmdrU1VGNWtjRkJDZVp5ZnFnVG5LZW02SzRjekVVVU02d1ByanlQVUFNS0dTck4xcGJscV8zNGFnSGtpTkFYU3fSAbcCQVVfeXFMTkpaZGZ0Rk44VVIwMVBhS0xKUDQtdjVVc25uNmhXcXVpaVZlM0JpZHhCUlhiMW02ZWpPSHJ5bWN4UVB2ZkZhVEE4SXBJZ3o1VUpKYmVzcVQ1bTN6Y3d0aDdadUFuOEZuSWlVRThta2ltU2doNnJGdkRLbGJxUEdmaXk2eXc2ZWxVUlRBU0pwWlNjeDFxdEw0UU1LVXhMNDZ6akN5dVYxTmRXaXA0VGtmSW1hS0tpX2FJLXk0QTdoV2hXS2cwU1hFalVmcnZOd2VUMVpTOGRNb19UODl1Rmx0UXRWSU1rX0owVEpjOTVrZXdSbTFWYWg5dFY4R1BOMm5rZkhVTUxwckYwNHpkZjRVemFyRF9KNnNVLUdHUXIxdFJScm5wemh2TGI3THNrMjcyUW9wNXJVZm8?oc=5)
+- **Google News Markets** (Fri, 04 Sep 2026 17:34:58 GMT): High priority | [Why is US Stock Market Up Today? Dow Falls 0.19%, S&P 500 Edges 0.03% Higher & Nasdaq Gains 0.01% as Jobs Report Lifts Fed Rate-Hike Bets | Here’s What Investors Need to Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMitwJBVV95cUxOSlpkZnRGTjhVUjAxUGFLTEpQNC12NVVzbm42aFdxdWlpVmUzQmlkeEJSWGIxbTZlak9IcnltY3hRUHZmRmFUQThJcElnejVVSkpiZXNxVDVtM3pjd3RoN1p1QW44Rm5JaVVFOG1raW1TZ2g2ckZ2REtsYnFQR2ZpeTZ5dzZlbFVSVEFTSnBaU2N4MXF0TDRRTUtVeEw0NnpqQ3l1VjFOZFdpcDRUa2ZJbWFLS2lfYUkteTRBN2hXaFdLZzBTWEVqVWZydk53ZVQxWlM4ZE1vX1Q4OXVGbHRRdFZJTWtfSjBUSmM5NWtld1JtMVZhaDl0VjhHUE4ybmtmSFVNTHByRjA0emRmNFV6YXJEX0o2c1UtR0dRcjF0UlJybnB6aHZMYjdMc2syNzJRb3A1clVmb9IBtwJBVV95cUxOSlpkZnRGTjhVUjAxUGFLTEpQNC12NVVzbm42aFdxdWlpVmUzQmlkeEJSWGIxbTZlak9IcnltY3hRUHZmRmFUQThJcElnejVVSkpiZXNxVDVtM3pjd3RoN1p1QW44Rm5JaVVFOG1raW1TZ2g2ckZ2REtsYnFQR2ZpeTZ5dzZlbFVSVEFTSnBaU2N4MXF0TDRRTUtVeEw0NnpqQ3l1VjFOZFdpcDRUa2ZJbWFLS2lfYUkteTRBN2hXaFdLZzBTWEVqVWZydk53ZVQxWlM4ZE1vX1Q4OXVGbHRRdFZJTWtfSjBUSmM5NWtld1JtMVZhaDl0VjhHUE4ybmtmSFVNTHByRjA0emRmNFV6YXJEX0o2c1UtR0dRcjF0UlJybnB6aHZMYjdMc2syNzJRb3A1clVmbw?oc=5)
 - **Federal Reserve** (Fri, 4 Sep 2026 15:00:00 GMT): High priority | [Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm)
+- **Google News Markets** (Fri, 04 Sep 2026 20:26:15 GMT): High priority | [Stock Market Week Ahead: Prepare for Key Inflation Data as Earnings Season Winds Down - TipRanks](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjJlMkNLcHJBZkxzVnkwV0hLd0J3dy1vd1BrbTVFUUhkV29xRDY0Z0cwdjFjdy1CNmRxWHRFRkQ2NTVqZnItSTZNUG1OS2NnUDlDclJsUWVMTlVFUy1kNjlUbEM1c0Zpd0FVcDFUQXQwZnN3UWhYSUJCaS1nMGYyMHgtU3hMR0lXVmtzVGNoeXctMFgwMU1zTS1Wcmh5dmxHNm5NQXg0SjJnVTIwWnlnZ3lGUkE?oc=5)
 - **Google News Markets** (Fri, 04 Sep 2026 16:06:00 GMT): High priority | [Zscaler Falls 4% as FY2027 Growth Guidance Overshadows Earnings Beat; CrowdStrike Slips, Palo Alto Holds Steady - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3lzNlNDY3k1Szl3bWtQUTk1QkNsc00wTVJaZVlTeHRCVWZvRjlOLW5JVGpOVTZmTlI2WHdubFpqTzFOYXNzNGhGRlB0aURRLTYtR2M0LXFqMnFGaExCWEdVZVh3SEx3QWhTeE9NaTBDOHRzdUF4RVRnNmxXSWVvdGxLLTYxb2NHdDBtWlZJS1prbUNzcTZxMmN2V1BRb0YtSUZ6YjZRWVRENmhfem5abFB5TWlsOS1ISUdURTlVREI2dXQ0M2gtZHV4Ni1OR2xsWUVRLW1XOEgyS3lEX2txd1ZvZURwVm8?oc=5)
-- **Google News Markets** (Fri, 04 Sep 2026 14:19:52 GMT): High priority | [Stock Market Week Ahead: Prepare for Key Inflation Data as Earnings Season Winds Down - TipRanks](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjJlMkNLcHJBZkxzVnkwV0hLd0J3dy1vd1BrbTVFUUhkV29xRDY0Z0cwdjFjdy1CNmRxWHRFRkQ2NTVqZnItSTZNUG1OS2NnUDlDclJsUWVMTlVFUy1kNjlUbEM1c0Zpd0FVcDFUQXQwZnN3UWhYSUJCaS1nMGYyMHgtU3hMR0lXVmtzVGNoeXctMFgwMU1zTS1Wcmh5dmxHNm5NQXg0SjJnVTIwWnlnZ3lGUkE?oc=5)
 - **Google News Markets** (Fri, 04 Sep 2026 08:26:00 GMT): High priority | [The Federal Reserve's Initial September Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag for Wall Street - Yahoo Finance](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRTRIYXVYUGJPa2dDdVFpSVhubGxISmlnYko2TXlnN0VydFMyZ0dSa0ZMMkV2dnlBZmVBMUgwaGJkNUJPc3hISlFUTGNiTmJVZGszb1I5T3dRZVFVUzNCYm1xM3VDZTE0eVNqLTlJcnJTbXdjak5PQk1EaHlZaXJmTnlONmdRaTI0dDBMR1drMzBwMm0yeVplUXcwUnBwZ1hibGYxYVdJLXM5dXEtbGc?oc=5)
-- **Google News Markets** (Thu, 03 Sep 2026 20:10:48 GMT): High priority | [Dow Jumps 624 Points as Treasury Yields, Rate-Hike Odds Drop: Stock Market Today - Kiplinger](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXVUa0d1ME1WVWJNUGJVd2l3bFpDUTFLa3d2RldIOUpMQzlFLXlzVncxUjZkcmdlaGxQU3E3bUNSbnFIdVJrOHdrRFg3Ync2Vnh4WklXRU1rNGxUWHJvUExPbW1TUWxpVmVKbWo3bmdVTmlXNUJrSklWa0hCV2xuX25KcDlMR21lTjRxZlFWbDcwTGl1d0d3TURGQWFxWjR6WVNtZGFRQ3N1NFF2Q2Q3Mg?oc=5)
-- **MarketWatch Top Stories** (Fri, 04 Sep 2026 18:59:00 GMT): High priority | [Trump’s latest threat — to stop trading with some countries unless there’s a rate cut — risks shock to U.S. economy](https://www.marketwatch.com/story/trumps-threat-to-stop-trade-unless-theres-a-rate-cut-risks-shock-to-u-s-economy-2e6b9798?mod=mw_rss_topstories)
 - **Google News Markets** (Fri, 04 Sep 2026 15:10:03 GMT): High priority | [United Texas Bank, Quontic Entities See Federal Reserve Actions Terminated - Securities.io](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmFmbE9OWl9CbUUzSDJXRlAwYUJELWJmN1UwQ0ZlMDVZY0lJOHAzTEtVRDE0SWczT0l4dWhHX21fRFdkdUdEY1BFZWtkVXJmVTFtVW02YkN2NjlMaUJaS3B4NHV0ei1CeVdDRm91Y2xTQ19qbGJWRnFmc3JFS1NIdmVRMk5LOXNvLU55X0xOclEzUEwzYUJxUk1nZ3l6NG1LdGc?oc=5)
-- **Google News Markets** (Fri, 04 Sep 2026 14:57:37 GMT): High priority | [US stocks fall on rising expectations of rate hike by Federal Reserve - upstox.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ0txTUpZajJZNU5HWkptWFB1eHZtS2ZNYXBReElob1lxZUZUTmVwWC1fNW83UnZGZklKaF9qYVRtSVZwUFpxdlhtQkNQV0VneDVkSmdCX0FsZzBfMFRHS2NZS2NSRm1pWXd2LUN4U3hRQUVQVGUxQWNyM3hmNWRNMFlERDJYYlNqT0drZ2hTcmNpMS1QWUJBaU9QTXpxajVybXhlNUltQnNMak1CN1RNRkd0cmdWS0ExZHBVVDlxc3E1QS03MHRDVDVvUQ?oc=5)
+- **Google News Markets** (Fri, 04 Sep 2026 14:57:37 GMT): High priority | [US stocks fall on rising expectations of rate hike by Federal Reserve - Upstox](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ0txTUpZajJZNU5HWkptWFB1eHZtS2ZNYXBReElob1lxZUZUTmVwWC1fNW83UnZGZklKaF9qYVRtSVZwUFpxdlhtQkNQV0VneDVkSmdCX0FsZzBfMFRHS2NZS2NSRm1pWXd2LUN4U3hRQUVQVGUxQWNyM3hmNWRNMFlERDJYYlNqT0drZ2hTcmNpMS1QWUJBaU9QTXpxajVybXhlNUltQnNMak1CN1RNRkd0cmdWS0ExZHBVVDlxc3E1QS03MHRDVDVvUQ?oc=5)
 - **Google News Markets** (Fri, 04 Sep 2026 14:56:00 GMT): High priority | ['Cut rates or I'll halt trade with countries US has deficit with': Donald Trump threatens Federal Reserve - The Times of India](https://news.google.com/rss/articles/CBMioAJBVV95cUxNWjNvYTFjYWNiMnFURW1pWWJZSjViM1hvbzRYMW1iTWFlNV9CLWdZdHlvcGtrLTRSM2x4bnM4bVRnc3Z1UjFkbndpX21NN2t0RGt6ajFjUWl6U0JVT3ZvcUk2NmExZlU3Q3lIdDdwVUZHU0VrY25JZWNRRTJCNnRwNmRrRnlCVW1oelkydy1BV0NlUGJmZC1PTXp0MjdPcU9VSFJOV0IzVkU5Q0E5TTNhV1ppUF92cU9WbEpuc2NpdnJKbEZYd0N2Yl9wTTU1VnpUYXFYUFdGUmdlVUN0SXc0VXN6cVRYRzdwS0dtQzB1enFMSm5tWGFRRmk0ZUxxMEwybEFzWXRacXRBTjItbDF2OTZueE5xMlBmaGw5aG5RbDLSAaYCQVVfeXFMTUotcERTRXE4NGkyOXduUVVBZmVRcXRDVExrMEx3REdMZ01mbzdLZ1RMOUlVN3B2elJveFJvdkpiTFdVZDlzV2t1clp1cGpHV1FJQzNSLVlJSFJVSGw1eEc4UzNhYldrQ3NDZnNLOHBzWl93RDR1ZDh0OFNwdUNBa3g1LW9LNTFJV1Q4YzE0LW1ZWFk1dWpGc1ktZ3REOEFHaW5YNG0yY01HUDM1Q1ByRVB6bVQwNVU2X0s2WlM4dEh0bXlhNVBOd3gwQi1pQ2xqa3d5S1JfajI5aGlGZV9UWHp3OWhxOWx5TWktRkxlaXZ2RGxuWFVMUzlIVFdsaTJIOFhsSFZrTTFfb1VVcTZCd01rNFVQX05wc1VWMUV1V3JzYkpTV0tn?oc=5)
 - **Google News Markets** (Fri, 04 Sep 2026 14:28:00 GMT): High priority | [Strong Jobs Report May Tilt Fed Toward Rate Hike; Trump Freaks Out - Investor's Business Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZlg5aGdQaWVtWnltOVVNSmZwYWI3aUN6VWFmYXNxMXVLWVQ3S3AwYXl2TS1ZSzV3RkhfUHBaS3BrT3dqYWoxN2FJanBpOUd3cEgtNnhrQklyS0ZNckVGRmZFekdDVzRmMTR6aUx3QzhSd0NNd1RyTThtX2FsUQ?oc=5)
 - **Google News Markets** (Fri, 04 Sep 2026 14:27:55 GMT): High priority | [Trump Issues Stark Threat To Federal Reserve: “Lower The Rate Or I’ll Stop Trading With Countries With Which We Have A Deficit” - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxQQzR0UDVhblRSRExuazJkR3IxaW5KUVJKbjRmckZWQnJBYm90RTlsUk5DTThlZ2F6aFBhQzdVWlp4a2pGS3FzNklJZElUcS1FSUNPSGZFTWY1elF4LWJQN05TRy1wZE5zRDczYXRnR3hBRlNWSmFLWHphcE5nbVVhazg4eXc0SktpRC1OVXZIZlE0Vi1LNHNJTkpzamc5ZkE?oc=5)
+- **Google News Markets** (Fri, 04 Sep 2026 14:27:00 GMT): High priority | [Trump Issues Stark Threat To Federal Reserve: "Lower The Rate Or I'll Stop Trading With Countries With Which We Have A Deficit" - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWhQdXpvel9OX2M5enV0ekVVamwweGZvUGVMTVhwczl1Rm54eXRBWWVPd0hkTVk5aHhneXdUZjYtMms5elJHUE5BS0JFUUxWVWg1R1BURGRpXzZKcjl4bEFkNmk2VFNRZzMxOEFuaEZRODlzSExicWM2NEdaSDc1NENHNm9BZ2hIY3EyLXJINFVIcW50Yl9YdDFCQ0tCbXFUcWlSOU9CY1hoenNjN2ZISjBxYUdOdFdfZUxzSjV4SjBXVkNNdkE4SFg4OWxFZ0lETk01OVl1YzVicm15TFNHcmdpeDlRbHVwaldfTnViblo5NlJyVWxVVkRKcw?oc=5)
+- **Google News Markets** (Fri, 04 Sep 2026 12:55:00 GMT): High priority | [GrainCorp (ASX:GNC) Navigates Cyclical Downturn as Market Focuses on Earnings Recovery Path - Kalkine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRVhzUEI2S0lNMDYya1VjUnBtdGZ2bWxvYk1WbDZuZUtwMUZiR1VTcWtzMnozT2RQUkNBLWNFcXlRWTdoZkEzQTRFeTBsQ3JrdVpKZk51U2h0U29CRThpWktzbTFIdVJ2NGJjMGhFMzFaTXJkbjhLSlNhcDNvb1FfNi1qb212d0d5c1JPWGF5WER5cFVDSVhvcDRZT2JyVThPWUlwM056bXlKaWtYMjR5OHpiSER0djdFVkJ0Smh0dmc5VmZRM1NkYQ?oc=5)
 
 ## 5. Economic Calendar
 
@@ -371,10 +413,8 @@ Source health:
 
 - NYSE calendar 2026-09-04: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Sep 4, 2026 5:09 PM ET
+- Nasdaq after-hours article 2026-09-04: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
