@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-09-09
 
-_Generated: 2026-09-09 11:15:32 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-09-09 14:30:01 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -31,6 +31,48 @@ _Generated: 2026-09-09 11:15:32 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 2:30 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Sep 9, 2026 5:25 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp. Class A Common Stock | $147.55 | -5.92 |  | 119,903,801 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $106.24 | +1.77 |  | 95,691,941 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation | $10.755 | +0.105 |  | 84,688,800 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $223.67 | -2.06 |  | 79,039,955 |
+
+#### Gainers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[RML](https://finance.yahoo.com/quote/RML/)** | Resolution Minerals Ltd American Depositary Shares | $11.6 | +3.6 | +45% |  |
+
+#### Decliners
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[TTAN](https://finance.yahoo.com/quote/TTAN/)** | ServiceTitan, Inc. Class A Common Stock | $57.12 | -24.46 | -29.9828% |  |
+| **[GRNQ](https://finance.yahoo.com/quote/GRNQ/)** | Greenpro Capital Corp. | $13.23 | -5.57 | -29.6277% |  |
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 254.86 | -11.6500 | -4.37% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 521.095 | +43.5250 | +9.11% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 169.63 | -12.3100 | -6.77% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 258.0 | -8.1100 | -3.05% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 330.65 | -7.8100 | -2.31% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 328.38 | -6.9300 | -2.07% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 252.4 | -6.1100 | -2.36% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 124.67 | +0.1700 | +0.14% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 391.27 | -45.9600 | -10.51% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 76.19 | +0.4700 | +0.62% |  |
+
+Source health:
+- NYSE calendar 2026-09-09: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Sep 9, 2026 5:25 PM ET
+- Nasdaq after-hours article 2026-09-09: skipped - No matching After Hours Most Active article found yet
 
 ### 11:15 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:15 PM ET.
@@ -302,15 +344,15 @@ Source health:
 
 ## 4. Latest Market News
 
-- **Google News Markets** (Wed, 09 Sep 2026 16:14:04 GMT): High priority | [Why is US Stock Market Down Today? Dow Jones Tumble 400 Points, S&P 500 Slips 0.42%, Nasdaq in Red as Oil Surges, Yields, Inflation & Fed Rate Amid US-Iran Tensions – Check What Investors Should Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMi2wJBVV95cUxPYnVoS1MwTUlUVjY2bllkYWw3cGV2ZVNUM3FsbFZSSXlUTHdmS0RpOFB0TWpzZzFBOGZHcGFvdVYxSVc3RFlGTlVGOHJsOHF0dHdyOFBlS2kweGNrQkNUZVUxdVpUZlJoTjRiQ1QzdHJwdG9IRVZGc0RTandYTnV1OXFKVDdXaUltQTBxYThOOFZhVzljUVhXR05wVzFFTkszMHRPRXFidU9NdW54YXFkS01MWHl5cmxlLTJndlBqSXlPTDI0Sjczbmc5UFdXSzJQcVhzY2x6M2tmaVB5UVk4VjRNS2VaU3l4LWRRdTlVMzZYQ1A4MHo5WHBocnFUcUNnRW9OUGtfWTFaQUlUTHBsWlF0amk5WU42bVJlMFNXTWVCSjhoQ3BUaFZSMmhKRk90VVJJYlFreDdXeUxyc3JKcFFXRjIxMFIzQlVmTVJFY3RBaEg1SFhpNldrMNIB2wJBVV95cUxPYnVoS1MwTUlUVjY2bllkYWw3cGV2ZVNUM3FsbFZSSXlUTHdmS0RpOFB0TWpzZzFBOGZHcGFvdVYxSVc3RFlGTlVGOHJsOHF0dHdyOFBlS2kweGNrQkNUZVUxdVpUZlJoTjRiQ1QzdHJwdG9IRVZGc0RTandYTnV1OXFKVDdXaUltQTBxYThOOFZhVzljUVhXR05wVzFFTkszMHRPRXFidU9NdW54YXFkS01MWHl5cmxlLTJndlBqSXlPTDI0Sjczbmc5UFdXSzJQcVhzY2x6M2tmaVB5UVk4VjRNS2VaU3l4LWRRdTlVMzZYQ1A4MHo5WHBocnFUcUNnRW9OUGtfWTFaQUlUTHBsWlF0amk5WU42bVJlMFNXTWVCSjhoQ3BUaFZSMmhKRk90VVJJYlFreDdXeUxyc3JKcFFXRjIxMFIzQlVmTVJFY3RBaEg1SFhpNldrMA?oc=5)
+- **Google News Markets** (Wed, 09 Sep 2026 16:14:03 GMT): High priority | [Why is US Stock Market Down Today? Dow Jones Tumble 400 Points, S&P 500 Slips 0.42%, Nasdaq in Red as Oil Surges, Yields, Inflation & Fed Rate Amid US-Iran Tensions – Check What Investors Should Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMi1gJBVV95cUxQbm0wMkZsaDlvTDUzNlIwdlc3NG92Y2JWODlZQnNuLU84TkpadjFfMVhJZUxDTGJ3WVE1YmxwS1hFaWZDbmk5eVZqU2NacDlHUnBFYlVwc2toaWN3NFczeTkxNGJSUEZLb0dhLU9WMl9WZ0N6M3BtQU1sUHpraTAyVkJJMVFyd1pTWXdYM3NoSGFJb3V5aXNXTk4tLTFvWXBjc1oxT3FnS0JwcjAtZWZQT2hCSTdnV09Eek1jWHVnN21uLXpyZHEyNktwNVhmekdOMDUxdWdScVlNaUN3bDlvNjYyTHprdkJkMVpxX09XaGZPSU5QX3NDRGtfeHR5WkJnSGEwQm04SlNQQ1hjMmhQb0Jfb25HRWZLMUZTc2RSSXAzOHAzWXkzUk9OZGViZTBYYjMzdjdrZnhPeElMcmdBek1pZTFPN2ZXaks0bXdnU2xoOGdPUlHSAdsCQVVfeXFMT2J1aEtTME1JVFY2Nm5ZZGFsN3BldmVTVDNxbGxWUkl5VEx3ZktEaThQdE1qc2cxQThmR3Bhb3VWMUlXN0RZRk5VRjhybDhxdHR3cjhQZUtpMHhja0JDVGVVMXVaVGZSaE40YkNUM3RycHRvSEVWRnNEU2p3WE51dTlxSlQ3V2lJbUEwcWE4TjhWYVc5Y1FYV0dOcFcxRU5LMzB0T0VxYnVPTXVueGFxZEtNTFh5eXJsZS0yZ3ZQakl5T0wyNEo3M25nOVBXV0syUHFYc2NsejNrZmlQeVFZOFY0TUtlWlN5eC1kUXU5VTM2WENQODB6OVhwaHJxVHFDZ0VvTlBrX1kxWkFJVExwbFpRdGppOVlONm1SZTBTV01lQko4aENwVGhWUjJoSkZPdFVSSWJRa3g3V3lMcnNySnBRV0YyMTBSM0JVZk1SRWN0QWhINUhYaTZXazA?oc=5)
 - **Google News Markets** (Wed, 09 Sep 2026 15:55:07 GMT): High priority | [S&P 500 Today LIVE: Index Falls 0.34% As Oil Prices Crosses $100 Fed Rate-Hike Bets, Treasury Yields & Tech Stocks Amid Amazon, Alphabet, Google Leads Wall Street | Check What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMi1AJBVV95cUxOVHlRWnpzaU9Yc3J5bUNDWUVHTThXZG54WmlRU3hTRVJSMjNYSG1iY3ctM05RT1hRYVlON21tQWtZbXVXQUhvWndsMGprXzJKbndKMWt3bENHOUV5c3l6TldPRG8zcEd5clN1LW9jdGdLVks1azhIendjZ3gzaXFkTTd3c0JhY3ZLUDdXZEhLc0xIaWZqSkFubWs0NFNoTnVVR2c0WDNyZ21kTDIyaHRkMl8waDl6WDJxMXZ2V21Ra0R0UnVZWkUyUDMwaXktVXdGT18xVGFHdlcwNEdaSE1kS09RRWNlcFoweTJ6Q09SSzZYR1ViSXdEejluNnFMMWhzdkdxMTR0eDBzbTRZeGxXY1VlRms2bmpaYmZ0N1I0aDN0U01VQ0pDS01zaVIzVWdkUl8wOUMyVVhVZG9FaEFUUFFMOWxkcFpmLXBvcHRzN2QxcWZP0gHaAkFVX3lxTFAyU2FyUjV6Y1UxWEdERUtiYlFtcXJPYUR3YzJ4YUtSVjA1bF9DelU1RE83NFZkbUwzMDJZVmNxbjRySzhzQk1VRDVwMVBhZnNERkg4dlVrS0IzeGRVM2dXTFhjQkJheXZGSGhISnA0WnhtanVDQmNDd18xa2VkbUlGUXJUczJCTktJX0pqQjd4ZmVuYnBPRVh1QmpGcXdaSFIwbVNqODlsN2FHVjRISC1fU1pSTFljTUtHMFdLSk9vV1NzQXRrbVR4Q0VrcUhUc05QcDVMX0pkY2kwSEZnU09obFhWakZOOFVNend4WC01aFo4d3J0M3RxTktEa1R3SWJvRUZGSTNOMk16Q2JidG1acVZuUGZMUzNWbktoLVpvdER1SHVwUDRLMzdpa1pIQnFyYUo5ei1ZU2tnRDVJVkJfZ3dreUwyX2UzSFp3THdLaTRleVRQOTRaWnc?oc=5)
-- **MarketWatch Top Stories** (Wed, 09 Sep 2026 16:09:00 GMT): High priority | [Investors worried about rising bond yields are keeping a close eye on this corner of the market](https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Wed, 09 Sep 2026 21:17:00 GMT): High priority | [The bull market’s biggest enemy right now could be Bessent’s interventions](https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Wed, 09 Sep 2026 20:36:00 GMT): High priority | [Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates](https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Wed, 09 Sep 2026 19:27:00 GMT): High priority | [Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’](https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories)
 - **MarketWatch Top Stories** (Wed, 09 Sep 2026 16:18:00 GMT): High priority | [Fed rate hike hinges on two key inflation reports in the next two days](https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Wed, 09 Sep 2026 15:53:00 GMT): High priority | [Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’](https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Wed, 09 Sep 2026 15:14:00 GMT): High priority | [Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates](https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories)
-- **Google News Markets** (Wed, 09 Sep 2026 16:53:41 GMT): High priority | [COIN Stock Outlook as Wall Street Forecasts 32% S&P 500 Earnings Growth in 2026 - CoinGape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXhEYXVNbUJxUXNiTzdhRXgzQnJ1anNlZ0NqR0ExSGY1eVRWZkFkc243LWs1NWpiX0lFUHo3WnloeVBVdUZoQVM4N2RLc096YWlxNGRjYTlweGJ0VFVVZGdWNVhmeGtmdk5hREpjVGFieE5ZLThLNm1jSnlfTUNoMVZsVHlDQWNlSzE5X2pOeVl0WUJLNGtvd2dKTXk1NElxTjBsV0ViZnhQbnM?oc=5)
+- **Google News Markets** (Wed, 09 Sep 2026 19:08:00 GMT): High priority | [ExxonMobil Is Up 40% in 2026: Can Rising Oil Prices and Strong Earnings Boost XOM Stock to $200? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNnc5bWE2cUNFSVRZLVpXbDVtR29xM0h1ZWE3NnVmTlBpblFrZ3F3SWJMckFad1BrNlBOSVl2dE1RanJMWHR1Rko0VjhPQm1XS0prLXA2bDdEY1pRQnNoRDViTFkwc1R1RF9icV9LTzBfWHhXcjh2Uk9pbTNoUU1oWVh2M3kzTkpkLWFtTW9GSkc4LUNrY0NBOEk0amNDWlJWQTlRNWVKWGFWZ2NGelJxdE55ZklXNHVqZkhFWUROMFA1S3ZkZ29XSTUtcTVvbnk5Q1E?oc=5)
 - **Google News Markets** (Wed, 09 Sep 2026 13:49:40 GMT): High priority | [Dow Tumbles 350 Points; Signet Jewelers Shares Jump Following Upbeat Q2 Earnings - Benzinga](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZkcwSndhSklYVm55R1REUm9TYld6MzVmQnI1LUJnbUF2M05Kc2xXal9OUS0tdHB3UGtYcGh6dWdWQ2s5S00wUXpyN0ZjT2E2RXRlOU5yNXNxLUQ1aFhDTHFOV1pIS2p0WWlXNDNZRm1nX2hDX0JsSnJXVEVDc2hoc0dIaTRxd0REdXdyTFA3b3JFczh3YmJlNVVlNWRodkowRGplMzlyd2pGaWM0SVA0dWdtSzNvR3A4MWFNNE9VU3RyZmdVZEF3QkV0ejJyUGJRcDhZZjEwMWZ4Zw?oc=5)
-- **Google News Markets** (Wed, 09 Sep 2026 13:27:00 GMT): High priority | [Braze Sinks 12% as Soft Earnings Guide Overshadows Beat and Raise; Klaviyo Advances 3% - 24/7 Wall St.](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFhmTUt6UzFtdDM4Y19MZVMxZDZxUXkwb1hpWW1QYk15OWREVWRRZVFuWWhPbUM2V2lVNmswTVRDMFJVZXNvZHROMXlwU0JkY1JOTmpUNEhtWGV2alNHUG11YUZ4MmVBN1BaQnRObGdUeGZ2ekIxTzEzQ21TZklHdFFMek1iS2ViTXRFWFhoM1RrcDVNOVQ3Z3luTFBWS1pDTW5fYWxEbzl4YkVxMFRERXpYWElEblhvSkpIUkMwOGFzUjMwdnc?oc=5)
+- **Google News Markets** (Wed, 09 Sep 2026 13:27:00 GMT): High priority | [Braze Sinks 12% as Soft Earnings Guide Overshadows Beat and Raise; Klaviyo Advances 3% - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi9AFBVV95cUxORlYzTlM4NkQ3WUxqZmZDZU1fcDJiMExTM2V0S0c3Z2pNSFNGalJUbjIxXy1Qa2ZXMDcyVWtJQXdYYmx4NVZ2SzNuXzZ4eGx6YWtBd2hwMjBnZURobEk4bENGdFhLM0t0ZjRuYWk5OHhHNjRRaE1iOVdtcGdhV3VZSENlV1NZczlUaW1UQmRUa01OdWkxUHphZnBsOXRaa3FIRW9paTRqS2NDcU9RTjV3Y2V2MnpZemctb0pOM3d6LW94ZjVyc25HUjB4NUNrZm5mOU5LcVd3c1k2NDQ1MUVvNWlfaEhBb1ZpQ3hFM3RIQVVZY05J?oc=5)
 - **Google News Markets** (Wed, 09 Sep 2026 09:56:30 GMT): High priority | [Federal Realty stock sees volatility as analysts trim earnings expectations - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ09CQkFsODBnQXRyUWp2ckEtWmplZUtFX1V1WlVXMzJzT1VmU3VNMVJyVnRxdDRDSmJ0eFllWnlRTFFBN2lsbl9tVWZaUDhwb2Z4bXpZVTUwUlNURll0SkFaT1dWeU16eEh2SzlvVXJWU2NvUDBZSURfUEh1VGNkbUFnRHBlN01ZaHlsUkF5ZUNuN3dzdzNqOHdxcWVjZW9seTE2S1FJX0ctY3pHZ2xJTDVnNXVEeFlUZmprZ0U0bVlaVlU?oc=5)
 - **Google News Markets** (Wed, 09 Sep 2026 08:00:19 GMT): High priority | [Federal Reserve: Market mispricing risk into blackout – TD Securities - FXStreet](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUJ0VXRXYzhOMEZtblpyZ1dMdF9aR1oxTm5yZW9uYXpncHRuT1BjUUptNkFER2NrWTZjT1ItYWJ2U1VKdkNJMlUxbkR4dnRpLU0tOTZ4cksxREFiYjEtazF3ZDBUZFZaZE1uSHNXQkFnMlJQWEYtWGloQjhOalViTURJeHFDbGktdkJpWTU1UW1lUE5IUnV6WENyNVlPSE96WGxiQl9aS3VKZC1EVGc?oc=5)
 - **Google News Markets** (Wed, 09 Sep 2026 06:28:48 GMT): High priority | [Chinese stocks face US Fed and oil pressures in September, says top fund manager - South China Morning Post](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0c3V3dPMmNQRnRIZFRKOGFmeEd5R25seGE3UjQ4anpya29TTGRYM1VhYnJyLXA1ajBPNklVNjF0RDBTZ3VpR1RkTFVTUHc1aGRCdzF1eTRkeEd1cUlFR0ZQYTM5VXkwR3QwaGdrZVVtMFNBMEtHRFVpbC1keUg1blFsV3AtaVpFQTM1VDgwbjYzRE96WmZ5U1BBeUhQNExRN1dSSFBVMVA3MFhMaFlxdWluOEwzUEpnajJEZ05uNm9GSDFvSmZYSnFpbmt1RGRhVnYzQjlqdTBtcFVQeDVv0gHfAUFVX3lxTE5GNElqay1Qd3BpRTk5bHdXa3lrSHd2Nm5pUFlnTzFad0NJeGR5azV4eWE5VDlhcDI3b3R6UmxxZklFMFRmOW54UGNhTXV6SHJ0SEZMYWRHZ2NRT3Yya1ZwbWhTSVJUTkVkdUkzTXlaVUFOclM2bFJtUGdQWlUyUXBoVlc1T2NtZnJydGFsa3hfeUM5d2xSdFhWZUlPMDYxUVBkSG53OW5WbXI0M2xqN0h1ZXpiT2ZiYzlxb1FpM0o4Y0tTQlVmejcwX3FtREgzVXo5Ym1BWGFnTDBGbVpLcjA?oc=5)
@@ -346,10 +388,8 @@ Source health:
 
 - NYSE calendar 2026-09-09: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Sep 9, 2026 5:25 PM ET
+- Nasdaq after-hours article 2026-09-09: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
