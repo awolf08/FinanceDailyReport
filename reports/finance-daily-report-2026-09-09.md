@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-09-09
 
-_Generated: 2026-09-09 06:02:01 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-09-09 06:08:39 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -31,6 +31,73 @@ _Generated: 2026-09-09 06:02:01 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:08 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:08 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.90 | +0.25 | +2.35% | 5,934,751 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp | $151.60 | -1.87 | -1.22% | 2,538,500 |
+| **[SNAP](https://finance.yahoo.com/quote/SNAP/)** | Snap Inc. | $5.42 | -0.01 | -0.18% | 2,022,407 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $102.53 | -1.94 | -1.86% | 1,599,400 |
+| **[IRD](https://finance.yahoo.com/quote/IRD/)** | Opus Genetics, Inc. | $5.30 | +0.96 | +22.12% | 1,465,342 |
+| **[META](https://finance.yahoo.com/quote/META/)** | Meta Platforms, Inc. | $643.15 | +29.67 | +4.84% | 1,340,821 |
+| **[BMNR](https://finance.yahoo.com/quote/BMNR/)** | BitMine Immersion Technologies, Inc. | $25.30 | +0.53 | +2.14% | 1,152,153 |
+| **[ODD](https://finance.yahoo.com/quote/ODD/)** | ODDITY Tech Ltd. | $17.31 | +4.28 | +32.87% | 1,113,483 |
+| **[RKLB](https://finance.yahoo.com/quote/RKLB/)** | Rocket Lab Corporation | $67.48 | +1.61 | +2.45% | 1,097,050 |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. | $331.70 | -6.66 | -1.97% | 1,095,683 |
+| **[BNC](https://finance.yahoo.com/quote/BNC/)** | CEA Industries Inc. | $5.20 | -0.05 | -0.95% | 1,048,040 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $224.66 | -1.07 | -0.47% | 1,000,244 |
+| **[IREN](https://finance.yahoo.com/quote/IREN/)** | IREN Limited | $46.26 | -0.67 | -1.43% | 808,780 |
+| **[DQJCY](https://finance.yahoo.com/quote/DQJCY/)** | Pan Pac Intl Hldgs Corp. | $9.83 | -0.14 | -1.39% | 740,000 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $7.54 | -0.08 | -1.05% | 731,263 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ODD](https://finance.yahoo.com/quote/ODD/)** | ODDITY Tech Ltd. | $17.31 | +4.28 | +32.87% | 1,113,483 |
+| **[IRD](https://finance.yahoo.com/quote/IRD/)** | Opus Genetics, Inc. | $5.30 | +0.96 | +22.12% | 1,465,342 |
+| **[SIG](https://finance.yahoo.com/quote/SIG/)** | Signet Jewelers Limited | $94.14 | +11.47 | +13.87% | 217,866 |
+| **[JILL](https://finance.yahoo.com/quote/JILL/)** | J. Jill, Inc. | $21.86 | +2.02 | +10.18% | 100,484 |
+| **[CHYM](https://finance.yahoo.com/quote/CHYM/)** | Chime Financial, Inc. | $35.54 | +3.23 | +9.99% | 102,545 |
+| **[FBYD](https://finance.yahoo.com/quote/FBYD/)** | Falcon's Beyond Global, Inc. | $8.83 | +0.76 | +9.48% | 4,336 |
+| **[ASO](https://finance.yahoo.com/quote/ASO/)** | Academy Sports and Outdoors, Inc. | $48.48 | +3.77 | +8.43% | 142,817 |
+| **[INNV](https://finance.yahoo.com/quote/INNV/)** | InnovAge Holding Corp. | $11.40 | +0.88 | +8.37% | 32,528 |
+| **[SUPX](https://finance.yahoo.com/quote/SUPX/)** | SuperX AI Technology Limited | $8.09 | +0.57 | +7.58% | 6,357 |
+| **[CSR](https://finance.yahoo.com/quote/CSR/)** | D/B/A Centerspace | $56.70 | +3.99 | +7.57% | 10,473 |
+| **[JIAXF](https://finance.yahoo.com/quote/JIAXF/)** | Jiangxi Copper Co., Ltd. | $5.15 | +0.34 | +7.07% | 328 |
+| **[AVO](https://finance.yahoo.com/quote/AVO/)** | Mission Produce, Inc. | $13.75 | +0.88 | +6.84% | 6,369 |
+| **[CGNT](https://finance.yahoo.com/quote/CGNT/)** | Cognyte Software Ltd. | $8.79 | +0.56 | +6.80% | 27,117 |
+| **[AAIGF](https://finance.yahoo.com/quote/AAIGF/)** | AIA Group, Ltd. | $10.27 | +0.65 | +6.73% | 132 |
+| **[CAL](https://finance.yahoo.com/quote/CAL/)** | Caleres, Inc. | $12.80 | +0.77 | +6.40% | 5,915 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[TYRA](https://finance.yahoo.com/quote/TYRA/)** | Tyra Biosciences, Inc. | $18.45 | -8.28 | -30.98% | 711,468 |
+| **[TTAN](https://finance.yahoo.com/quote/TTAN/)** | ServiceTitan, Inc. | $65.85 | -15.73 | -19.28% | 295,644 |
+| **[TBBK](https://finance.yahoo.com/quote/TBBK/)** | The Bancorp, Inc. | $55.00 | -9.41 | -14.61% | 11,466 |
+| **[BRZE](https://finance.yahoo.com/quote/BRZE/)** | Braze, Inc. | $26.32 | -3.99 | -13.15% | 109,595 |
+| **[CASY](https://finance.yahoo.com/quote/CASY/)** | Caseys General Stores, Inc. | $646.00 | -87.49 | -11.93% | 30,146 |
+| **[OCC](https://finance.yahoo.com/quote/OCC/)** | Optical Cable Corporation | $12.14 | -1.56 | -11.39% | 209,568 |
+| **[TOELF](https://finance.yahoo.com/quote/TOELF/)** | Tokyo Electron Ltd. | $327.50 | -40.10 | -10.91% | 91 |
+| **[EVMN](https://finance.yahoo.com/quote/EVMN/)** | Evommune, Inc. | $11.90 | -1.18 | -9.02% | 57,502 |
+| **[BKV](https://finance.yahoo.com/quote/BKV/)** | BKV Corporation | $24.50 | -2.26 | -8.45% | 22,015 |
+| **[TH](https://finance.yahoo.com/quote/TH/)** | Target Hospitality Corp. | $18.67 | -1.58 | -7.80% | 446,856 |
+| **[INGM](https://finance.yahoo.com/quote/INGM/)** | Ingram Micro Holding Corporation | $26.30 | -2.08 | -7.33% | 447,746 |
+| **[KYCCF](https://finance.yahoo.com/quote/KYCCF/)** | Keyence Corp. | $470.97 | -36.81 | -7.25% | 8 |
+| **[SB](https://finance.yahoo.com/quote/SB/)** | Safe Bulkers, Inc | $8.33 | -0.60 | -6.72% | 176,644 |
+| **[SAIL](https://finance.yahoo.com/quote/SAIL/)** | SailPoint, Inc. | $16.73 | -1.06 | -5.96% | 328,619 |
+| **[CAOVY](https://finance.yahoo.com/quote/CAOVY/)** | China Overseas Land & Investment Ltd. | $8.39 | -0.51 | -5.73% | 100 |
+
+Source health:
+- NYSE calendar 2026-09-09: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
 
 ### 6:02 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:01 AM ET.
