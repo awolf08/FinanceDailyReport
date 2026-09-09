@@ -3484,6 +3484,1061 @@
           "detail": ""
         }
       ]
+    },
+    {
+      "slot": "07:59",
+      "captured_at": "2026-09-09T11:15:32-07:00",
+      "timezone": "America/Los_Angeles",
+      "market_phase": "regular",
+      "market_status": {
+        "is_open": "yes",
+        "label": "US market open",
+        "open": "9:30 AM ET",
+        "close": "4:00 PM ET",
+        "reason": "Regular session 9:30 AM ET-4:00 PM ET"
+      },
+      "active_stocks": {
+        "Most Active Stocks": [
+          {
+            "symbol": "SPCX",
+            "name": "Space Exploration Technologies",
+            "lastSalePrice": "$148.65",
+            "lastSaleChange": "-4.82",
+            "changePercent": "-3.14%",
+            "change": "92,606,806"
+          },
+          {
+            "symbol": "INTC",
+            "name": "Intel Corporation",
+            "lastSalePrice": "$105.83",
+            "lastSaleChange": "+1.36",
+            "changePercent": "+1.30%",
+            "change": "73,431,831"
+          },
+          {
+            "symbol": "NOK",
+            "name": "Nokia Corporation Sponsored",
+            "lastSalePrice": "$10.82",
+            "lastSaleChange": "+0.18",
+            "changePercent": "+1.64%",
+            "change": "69,080,149"
+          },
+          {
+            "symbol": "NVDA",
+            "name": "NVIDIA Corporation",
+            "lastSalePrice": "$224.15",
+            "lastSaleChange": "-1.58",
+            "changePercent": "-0.70%",
+            "change": "50,427,999"
+          },
+          {
+            "symbol": "NU",
+            "name": "Nu Holdings Ltd.",
+            "lastSalePrice": "$15.20",
+            "lastSaleChange": "-0.12",
+            "changePercent": "-0.82%",
+            "change": "44,682,615"
+          },
+          {
+            "symbol": "ONDS",
+            "name": "Ondas Inc",
+            "lastSalePrice": "$7.42",
+            "lastSaleChange": "-0.20",
+            "changePercent": "-2.60%",
+            "change": "41,390,124"
+          },
+          {
+            "symbol": "F",
+            "name": "Ford Motor Company",
+            "lastSalePrice": "$13.73",
+            "lastSaleChange": "-0.27",
+            "changePercent": "-1.89%",
+            "change": "39,943,627"
+          },
+          {
+            "symbol": "VALE",
+            "name": "VALE S.A.",
+            "lastSalePrice": "$15.38",
+            "lastSaleChange": "-0.19",
+            "changePercent": "-1.19%",
+            "change": "37,898,365"
+          },
+          {
+            "symbol": "PCG",
+            "name": "Pacific Gas & Electric Co.",
+            "lastSalePrice": "$14.46",
+            "lastSaleChange": "-0.36",
+            "changePercent": "-2.43%",
+            "change": "36,019,939"
+          },
+          {
+            "symbol": "PATH",
+            "name": "UiPath, Inc.",
+            "lastSalePrice": "$13.56",
+            "lastSaleChange": "-0.45",
+            "changePercent": "-3.25%",
+            "change": "35,562,200"
+          }
+        ],
+        "Most Active ETFs": [
+          {
+            "symbol": "BITO",
+            "name": "ProShares Bitcoin ETF",
+            "lastSalePrice": "$10.56",
+            "lastSaleChange": "+0.02",
+            "changePercent": "+0.19%",
+            "change": "64,204,459"
+          },
+          {
+            "symbol": "TSLL",
+            "name": "Direxion Daily TSLA Bull 2X ETF",
+            "lastSalePrice": "$9.88",
+            "lastSaleChange": "+0.01",
+            "changePercent": "+0.10%",
+            "change": "53,686,171"
+          },
+          {
+            "symbol": "SNXX",
+            "name": "Tradr 2X Long SNDK Daily ETF",
+            "lastSalePrice": "$18.04",
+            "lastSaleChange": "+0.67",
+            "changePercent": "+3.86%",
+            "change": "53,154,604"
+          },
+          {
+            "symbol": "SOXS",
+            "name": "Direxion Daily Semiconductor Be",
+            "lastSalePrice": "$43.24",
+            "lastSaleChange": "-0.84",
+            "changePercent": "-1.91%",
+            "change": "46,829,975"
+          },
+          {
+            "symbol": "SOXL",
+            "name": "Direxion Daily Semiconductor Bu",
+            "lastSalePrice": "$125.86",
+            "lastSaleChange": "+2.59",
+            "changePercent": "+2.10%",
+            "change": "32,748,015"
+          },
+          {
+            "symbol": "TQQQ",
+            "name": "ProShares UltraPro QQQ",
+            "lastSalePrice": "$71.46",
+            "lastSaleChange": "-0.70",
+            "changePercent": "-0.98%",
+            "change": "32,235,283"
+          },
+          {
+            "symbol": "SQQQ",
+            "name": "ProShares UltraPro Short QQQ",
+            "lastSalePrice": "$38.67",
+            "lastSaleChange": "+0.36",
+            "changePercent": "+0.95%",
+            "change": "32,007,078"
+          },
+          {
+            "symbol": "ETHA",
+            "name": "iShares Ethereum Trust ETF",
+            "lastSalePrice": "$18.77",
+            "lastSaleChange": "+0.06",
+            "changePercent": "+0.29%",
+            "change": "29,934,791"
+          },
+          {
+            "symbol": "TLT",
+            "name": "iShares 20+ Year Treasury Bond",
+            "lastSalePrice": "$81.77",
+            "lastSaleChange": "-0.43",
+            "changePercent": "-0.52%",
+            "change": "28,621,297"
+          },
+          {
+            "symbol": "IBIT",
+            "name": "iShares Bitcoin Trust ETF",
+            "lastSalePrice": "$44.51",
+            "lastSaleChange": "+0.12",
+            "changePercent": "+0.26%",
+            "change": "27,989,095"
+          }
+        ],
+        "Top Gaining Stocks": [
+          {
+            "symbol": "PLSE",
+            "name": "Pulse Biosciences, Inc",
+            "lastSalePrice": "$55.78",
+            "lastSaleChange": "+6.99",
+            "changePercent": "+14.33%",
+            "change": "938,291"
+          },
+          {
+            "symbol": "ASO",
+            "name": "Academy Sports and Outdoors, In",
+            "lastSalePrice": "$49.74",
+            "lastSaleChange": "+5.03",
+            "changePercent": "+11.25%",
+            "change": "3,674,324"
+          },
+          {
+            "symbol": "NET",
+            "name": "Cloudflare, Inc.",
+            "lastSalePrice": "$315.70",
+            "lastSaleChange": "+31.40",
+            "changePercent": "+11.04%",
+            "change": "2,921,853"
+          },
+          {
+            "symbol": "SSL",
+            "name": "Sasol Ltd.",
+            "lastSalePrice": "$14.57",
+            "lastSaleChange": "+1.27",
+            "changePercent": "+9.55%",
+            "change": "3,551,714"
+          },
+          {
+            "symbol": "CMPS",
+            "name": "COMPASS Pathways Plc - American",
+            "lastSalePrice": "$15.30",
+            "lastSaleChange": "+1.26",
+            "changePercent": "+8.97%",
+            "change": "4,589,167"
+          },
+          {
+            "symbol": "AEHR",
+            "name": "Aehr Test Systems",
+            "lastSalePrice": "$98.57",
+            "lastSaleChange": "+7.78",
+            "changePercent": "+8.57%",
+            "change": "3,328,917"
+          },
+          {
+            "symbol": "JMKE",
+            "name": "Jersey Mike's Subs Inc.",
+            "lastSalePrice": "$22.60",
+            "lastSaleChange": "+1.78",
+            "changePercent": "+8.58%",
+            "change": "5,405,999"
+          },
+          {
+            "symbol": "MXL",
+            "name": "MaxLinear, Inc",
+            "lastSalePrice": "$71.50",
+            "lastSaleChange": "+5.00",
+            "changePercent": "+7.52%",
+            "change": "1,697,235"
+          },
+          {
+            "symbol": "SUNB",
+            "name": "Sunbelt Rentals Holdings, Inc.",
+            "lastSalePrice": "$74.33",
+            "lastSaleChange": "+5.01",
+            "changePercent": "+7.23%",
+            "change": "8,959,114"
+          },
+          {
+            "symbol": "DDOG",
+            "name": "Datadog, Inc.",
+            "lastSalePrice": "$224.76",
+            "lastSaleChange": "+14.53",
+            "changePercent": "+6.91%",
+            "change": "3,079,501"
+          }
+        ],
+        "Top Declining Stocks": [
+          {
+            "symbol": "TTAN",
+            "name": "ServiceTitan, Inc.",
+            "lastSalePrice": "$56.98",
+            "lastSaleChange": "-24.60",
+            "changePercent": "-30.15%",
+            "change": "18,381,075"
+          },
+          {
+            "symbol": "RML",
+            "name": "Resolution Minerals Ltd American Depositary Shares",
+            "lastSalePrice": "$10.59",
+            "lastSaleChange": "-3.57",
+            "changePercent": "-25.21%",
+            "change": "1,434,267"
+          },
+          {
+            "symbol": "TBBK",
+            "name": "The Bancorp, Inc.",
+            "lastSalePrice": "$49.92",
+            "lastSaleChange": "-14.49",
+            "changePercent": "-22.50%",
+            "change": "1,748,046"
+          },
+          {
+            "symbol": "BRZE",
+            "name": "Braze, Inc.",
+            "lastSalePrice": "$24.33",
+            "lastSaleChange": "-5.98",
+            "changePercent": "-19.71%",
+            "change": "7,004,021"
+          },
+          {
+            "symbol": "CASY",
+            "name": "Caseys General Stores, Inc.",
+            "lastSalePrice": "$626.95",
+            "lastSaleChange": "-106.54",
+            "changePercent": "-14.53%",
+            "change": "1,945,409"
+          },
+          {
+            "symbol": "UI",
+            "name": "Ubiquiti Inc.",
+            "lastSalePrice": "$506.00",
+            "lastSaleChange": "-74.53",
+            "changePercent": "-12.84%",
+            "change": "237,230"
+          },
+          {
+            "symbol": "CHRN",
+            "name": "ChronoScale Holdings Corporatio",
+            "lastSalePrice": "$18.31",
+            "lastSaleChange": "-2.75",
+            "changePercent": "-13.06%",
+            "change": "204,502"
+          },
+          {
+            "symbol": "PS",
+            "name": "Pershing Square Inc.",
+            "lastSalePrice": "$36.66",
+            "lastSaleChange": "-4.83",
+            "changePercent": "-11.64%",
+            "change": "409,020"
+          },
+          {
+            "symbol": "ORA",
+            "name": "Ormat Technologies, Inc.",
+            "lastSalePrice": "$97.18",
+            "lastSaleChange": "-10.79",
+            "changePercent": "-9.99%",
+            "change": "1,155,751"
+          },
+          {
+            "symbol": "XE",
+            "name": "X-Energy, Inc.",
+            "lastSalePrice": "$17.26",
+            "lastSaleChange": "-1.89",
+            "changePercent": "-9.87%",
+            "change": "6,973,525"
+          }
+        ]
+      },
+      "active_stocks_as_of": "Yahoo Finance market lists as of 2:15 PM ET",
+      "active_stocks_source": "yahoo_regular_market_lists",
+      "news": [
+        {
+          "title": "Why is US Stock Market Down Today? Dow Jones Tumble 400 Points, S&P 500 Slips 0.42%, Nasdaq in Red as Oil Surges, Yields, Inflation & Fed Rate Amid US-Iran Tensions \u2013 Check What Investors Should Know - The Sunday Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPYnVoS1MwTUlUVjY2bllkYWw3cGV2ZVNUM3FsbFZSSXlUTHdmS0RpOFB0TWpzZzFBOGZHcGFvdVYxSVc3RFlGTlVGOHJsOHF0dHdyOFBlS2kweGNrQkNUZVUxdVpUZlJoTjRiQ1QzdHJwdG9IRVZGc0RTandYTnV1OXFKVDdXaUltQTBxYThOOFZhVzljUVhXR05wVzFFTkszMHRPRXFidU9NdW54YXFkS01MWHl5cmxlLTJndlBqSXlPTDI0Sjczbmc5UFdXSzJQcVhzY2x6M2tmaVB5UVk4VjRNS2VaU3l4LWRRdTlVMzZYQ1A4MHo5WHBocnFUcUNnRW9OUGtfWTFaQUlUTHBsWlF0amk5WU42bVJlMFNXTWVCSjhoQ3BUaFZSMmhKRk90VVJJYlFreDdXeUxyc3JKcFFXRjIxMFIzQlVmTVJFY3RBaEg1SFhpNldrMNIB2wJBVV95cUxPYnVoS1MwTUlUVjY2bllkYWw3cGV2ZVNUM3FsbFZSSXlUTHdmS0RpOFB0TWpzZzFBOGZHcGFvdVYxSVc3RFlGTlVGOHJsOHF0dHdyOFBlS2kweGNrQkNUZVUxdVpUZlJoTjRiQ1QzdHJwdG9IRVZGc0RTandYTnV1OXFKVDdXaUltQTBxYThOOFZhVzljUVhXR05wVzFFTkszMHRPRXFidU9NdW54YXFkS01MWHl5cmxlLTJndlBqSXlPTDI0Sjczbmc5UFdXSzJQcVhzY2x6M2tmaVB5UVk4VjRNS2VaU3l4LWRRdTlVMzZYQ1A4MHo5WHBocnFUcUNnRW9OUGtfWTFaQUlUTHBsWlF0amk5WU42bVJlMFNXTWVCSjhoQ3BUaFZSMmhKRk90VVJJYlFreDdXeUxyc3JKcFFXRjIxMFIzQlVmTVJFY3RBaEg1SFhpNldrMA?oc=5",
+          "description": "Why is US Stock Market Down Today? Dow Jones Tumble 400 Points, S&P 500 Slips 0.42%, Nasdaq in Red as Oil Surges, Yields, Inflation & Fed Rate Amid US-Iran Tensions \u2013 Check What Investors Should Know The Sunday Guardian",
+          "published": "Wed, 09 Sep 2026 16:14:04 GMT",
+          "published_sort": "2026-09-09T16:14:04+00:00",
+          "source": "Google News Markets",
+          "priority_score": "14"
+        },
+        {
+          "title": "S&P 500 Today LIVE: Index Falls 0.34% As Oil Prices Crosses $100 Fed Rate-Hike Bets, Treasury Yields & Tech Stocks Amid Amazon, Alphabet, Google Leads Wall Street | Check What Investors Should Watch - The Sunday Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOVHlRWnpzaU9Yc3J5bUNDWUVHTThXZG54WmlRU3hTRVJSMjNYSG1iY3ctM05RT1hRYVlON21tQWtZbXVXQUhvWndsMGprXzJKbndKMWt3bENHOUV5c3l6TldPRG8zcEd5clN1LW9jdGdLVks1azhIendjZ3gzaXFkTTd3c0JhY3ZLUDdXZEhLc0xIaWZqSkFubWs0NFNoTnVVR2c0WDNyZ21kTDIyaHRkMl8waDl6WDJxMXZ2V21Ra0R0UnVZWkUyUDMwaXktVXdGT18xVGFHdlcwNEdaSE1kS09RRWNlcFoweTJ6Q09SSzZYR1ViSXdEejluNnFMMWhzdkdxMTR0eDBzbTRZeGxXY1VlRms2bmpaYmZ0N1I0aDN0U01VQ0pDS01zaVIzVWdkUl8wOUMyVVhVZG9FaEFUUFFMOWxkcFpmLXBvcHRzN2QxcWZP0gHaAkFVX3lxTFAyU2FyUjV6Y1UxWEdERUtiYlFtcXJPYUR3YzJ4YUtSVjA1bF9DelU1RE83NFZkbUwzMDJZVmNxbjRySzhzQk1VRDVwMVBhZnNERkg4dlVrS0IzeGRVM2dXTFhjQkJheXZGSGhISnA0WnhtanVDQmNDd18xa2VkbUlGUXJUczJCTktJX0pqQjd4ZmVuYnBPRVh1QmpGcXdaSFIwbVNqODlsN2FHVjRISC1fU1pSTFljTUtHMFdLSk9vV1NzQXRrbVR4Q0VrcUhUc05QcDVMX0pkY2kwSEZnU09obFhWakZOOFVNend4WC01aFo4d3J0M3RxTktEa1R3SWJvRUZGSTNOMk16Q2JidG1acVZuUGZMUzNWbktoLVpvdER1SHVwUDRLMzdpa1pIQnFyYUo5ei1ZU2tnRDVJVkJfZ3dreUwyX2UzSFp3THdLaTRleVRQOTRaWnc?oc=5",
+          "description": "S&P 500 Today LIVE: Index Falls 0.34% As Oil Prices Crosses $100 Fed Rate-Hike Bets, Treasury Yields & Tech Stocks Amid Amazon, Alphabet, Google Leads Wall Street | Check What Investors Should Watch The Sunday Guardian",
+          "published": "Wed, 09 Sep 2026 15:55:07 GMT",
+          "published_sort": "2026-09-09T15:55:07+00:00",
+          "source": "Google News Markets",
+          "priority_score": "10"
+        },
+        {
+          "title": "Investors worried about rising bond yields are keeping a close eye on this corner of the market",
+          "link": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
+          "description": "U.S. small-cap stocks have hit a pivotal point, trading below a key level as interest rates in the bond market climb ahead of the Federal Reserve\u2019s highly anticipated policy meeting next week.",
+          "published": "Wed, 09 Sep 2026 16:09:00 GMT",
+          "published_sort": "2026-09-09T16:09:00+00:00",
+          "source": "MarketWatch Top Stories",
+          "priority_score": "7"
+        },
+        {
+          "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+          "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
+          "description": "Consumer and wholesale prices are rising again. Just how bad does it have to get for the Fed to act?",
+          "published": "Wed, 09 Sep 2026 16:18:00 GMT",
+          "published_sort": "2026-09-09T16:18:00+00:00",
+          "source": "MarketWatch Top Stories",
+          "priority_score": "5"
+        },
+        {
+          "title": "Treasury will buy more government bonds than previously announced. The market remains \u2018underwhelmed.\u2019",
+          "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
+          "description": "The Treasury Department said it would buy back $6 billion in U.S. government debt, exceeding the amount previously announced in its effort to contain bond yields.",
+          "published": "Wed, 09 Sep 2026 15:53:00 GMT",
+          "published_sort": "2026-09-09T15:53:00+00:00",
+          "source": "MarketWatch Top Stories",
+          "priority_score": "5"
+        },
+        {
+          "title": "Oil\u2019s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+          "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+          "description": "Oil prices rose above $100 a barrel on Wednesday for the first time in seven weeks, reviving concerns about global energy supply disruptions and a fresh inflationary shock just as major central banks prepare to make key interest-rate decisions later this month.",
+          "published": "Wed, 09 Sep 2026 15:14:00 GMT",
+          "published_sort": "2026-09-09T15:14:00+00:00",
+          "source": "MarketWatch Top Stories",
+          "priority_score": "5"
+        },
+        {
+          "title": "COIN Stock Outlook as Wall Street Forecasts 32% S&P 500 Earnings Growth in 2026 - CoinGape",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXhEYXVNbUJxUXNiTzdhRXgzQnJ1anNlZ0NqR0ExSGY1eVRWZkFkc243LWs1NWpiX0lFUHo3WnloeVBVdUZoQVM4N2RLc096YWlxNGRjYTlweGJ0VFVVZGdWNVhmeGtmdk5hREpjVGFieE5ZLThLNm1jSnlfTUNoMVZsVHlDQWNlSzE5X2pOeVl0WUJLNGtvd2dKTXk1NElxTjBsV0ViZnhQbnM?oc=5",
+          "description": "COIN Stock Outlook as Wall Street Forecasts 32% S&P 500 Earnings Growth in 2026 CoinGape",
+          "published": "Wed, 09 Sep 2026 16:53:41 GMT",
+          "published_sort": "2026-09-09T16:53:41+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Dow Tumbles 350 Points; Signet Jewelers Shares Jump Following Upbeat Q2 Earnings - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZkcwSndhSklYVm55R1REUm9TYld6MzVmQnI1LUJnbUF2M05Kc2xXal9OUS0tdHB3UGtYcGh6dWdWQ2s5S00wUXpyN0ZjT2E2RXRlOU5yNXNxLUQ1aFhDTHFOV1pIS2p0WWlXNDNZRm1nX2hDX0JsSnJXVEVDc2hoc0dIaTRxd0REdXdyTFA3b3JFczh3YmJlNVVlNWRodkowRGplMzlyd2pGaWM0SVA0dWdtSzNvR3A4MWFNNE9VU3RyZmdVZEF3QkV0ejJyUGJRcDhZZjEwMWZ4Zw?oc=5",
+          "description": "Dow Tumbles 350 Points; Signet Jewelers Shares Jump Following Upbeat Q2 Earnings Benzinga",
+          "published": "Wed, 09 Sep 2026 13:49:40 GMT",
+          "published_sort": "2026-09-09T13:49:40+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Braze Sinks 12% as Soft Earnings Guide Overshadows Beat and Raise; Klaviyo Advances 3% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFhmTUt6UzFtdDM4Y19MZVMxZDZxUXkwb1hpWW1QYk15OWREVWRRZVFuWWhPbUM2V2lVNmswTVRDMFJVZXNvZHROMXlwU0JkY1JOTmpUNEhtWGV2alNHUG11YUZ4MmVBN1BaQnRObGdUeGZ2ekIxTzEzQ21TZklHdFFMek1iS2ViTXRFWFhoM1RrcDVNOVQ3Z3luTFBWS1pDTW5fYWxEbzl4YkVxMFRERXpYWElEblhvSkpIUkMwOGFzUjMwdnc?oc=5",
+          "description": "Braze Sinks 12% as Soft Earnings Guide Overshadows Beat and Raise; Klaviyo Advances 3% 24/7 Wall St.",
+          "published": "Wed, 09 Sep 2026 13:27:00 GMT",
+          "published_sort": "2026-09-09T13:27:00+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Federal Realty stock sees volatility as analysts trim earnings expectations - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ09CQkFsODBnQXRyUWp2ckEtWmplZUtFX1V1WlVXMzJzT1VmU3VNMVJyVnRxdDRDSmJ0eFllWnlRTFFBN2lsbl9tVWZaUDhwb2Z4bXpZVTUwUlNURll0SkFaT1dWeU16eEh2SzlvVXJWU2NvUDBZSURfUEh1VGNkbUFnRHBlN01ZaHlsUkF5ZUNuN3dzdzNqOHdxcWVjZW9seTE2S1FJX0ctY3pHZ2xJTDVnNXVEeFlUZmprZ0U0bVlaVlU?oc=5",
+          "description": "Federal Realty stock sees volatility as analysts trim earnings expectations AD HOC NEWS",
+          "published": "Wed, 09 Sep 2026 09:56:30 GMT",
+          "published_sort": "2026-09-09T09:56:30+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Federal Reserve: Market mispricing risk into blackout \u2013 TD Securities - FXStreet",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUJ0VXRXYzhOMEZtblpyZ1dMdF9aR1oxTm5yZW9uYXpncHRuT1BjUUptNkFER2NrWTZjT1ItYWJ2U1VKdkNJMlUxbkR4dnRpLU0tOTZ4cksxREFiYjEtazF3ZDBUZFZaZE1uSHNXQkFnMlJQWEYtWGloQjhOalViTURJeHFDbGktdkJpWTU1UW1lUE5IUnV6WENyNVlPSE96WGxiQl9aS3VKZC1EVGc?oc=5",
+          "description": "Federal Reserve: Market mispricing risk into blackout \u2013 TD Securities FXStreet",
+          "published": "Wed, 09 Sep 2026 08:00:19 GMT",
+          "published_sort": "2026-09-09T08:00:19+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        },
+        {
+          "title": "Chinese stocks face US Fed and oil pressures in September, says top fund manager - South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0c3V3dPMmNQRnRIZFRKOGFmeEd5R25seGE3UjQ4anpya29TTGRYM1VhYnJyLXA1ajBPNklVNjF0RDBTZ3VpR1RkTFVTUHc1aGRCdzF1eTRkeEd1cUlFR0ZQYTM5VXkwR3QwaGdrZVVtMFNBMEtHRFVpbC1keUg1blFsV3AtaVpFQTM1VDgwbjYzRE96WmZ5U1BBeUhQNExRN1dSSFBVMVA3MFhMaFlxdWluOEwzUEpnajJEZ05uNm9GSDFvSmZYSnFpbmt1RGRhVnYzQjlqdTBtcFVQeDVv0gHfAUFVX3lxTE5GNElqay1Qd3BpRTk5bHdXa3lrSHd2Nm5pUFlnTzFad0NJeGR5azV4eWE5VDlhcDI3b3R6UmxxZklFMFRmOW54UGNhTXV6SHJ0SEZMYWRHZ2NRT3Yya1ZwbWhTSVJUTkVkdUkzTXlaVUFOclM2bFJtUGdQWlUyUXBoVlc1T2NtZnJydGFsa3hfeUM5d2xSdFhWZUlPMDYxUVBkSG53OW5WbXI0M2xqN0h1ZXpiT2ZiYzlxb1FpM0o4Y0tTQlVmejcwX3FtREgzVXo5Ym1BWGFnTDBGbVpLcjA?oc=5",
+          "description": "Chinese stocks face US Fed and oil pressures in September, says top fund manager South China Morning Post",
+          "published": "Wed, 09 Sep 2026 06:28:48 GMT",
+          "published_sort": "2026-09-09T06:28:48+00:00",
+          "source": "Google News Markets",
+          "priority_score": "4"
+        }
+      ],
+      "economic_events": {
+        "today": [
+          {
+            "time": "06:00",
+            "event": "NFIB Small Business Optimism",
+            "actual": "98.7",
+            "forecast": "99.4",
+            "previous": "99.8",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "10:00",
+            "event": "CB Employment Trends Index",
+            "actual": "108.53",
+            "forecast": "",
+            "previous": "107.76",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "11:00",
+            "event": "NY Fed 1-Year Consumer Inflation Expectations",
+            "actual": "3.6%",
+            "forecast": "",
+            "previous": "3.6%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "11:30",
+            "event": "3-Month Bill Auction",
+            "actual": "3.800%",
+            "forecast": "",
+            "previous": "3.770%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "11:30",
+            "event": "6-Month Bill Auction",
+            "actual": "3.890%",
+            "forecast": "",
+            "previous": "3.885%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "13:00",
+            "event": "3-Year Note Auction",
+            "actual": "4.474%",
+            "forecast": "",
+            "previous": "4.291%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "15:00",
+            "event": "Consumer Credit",
+            "actual": "18.06B",
+            "forecast": "11.90B",
+            "previous": "14.56B",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "10:00 AM",
+            "event": "Quarterly Services Survey (Second Quarter 2026)",
+            "source": "Census"
+          }
+        ],
+        "tomorrow": [
+          {
+            "time": "07:00",
+            "event": "MBA 30-Year Mortgage Rate",
+            "actual": "6.85%",
+            "forecast": "",
+            "previous": "6.79%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "07:00",
+            "event": "MBA Mortgage Applications",
+            "actual": "-2.7%",
+            "forecast": "",
+            "previous": "0.8%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "07:00",
+            "event": "MBA Purchase Index",
+            "actual": "157.5",
+            "forecast": "",
+            "previous": "157.8",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "07:00",
+            "event": "Mortgage Market Index",
+            "actual": "240.6",
+            "forecast": "",
+            "previous": "247.3",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "07:00",
+            "event": "Mortgage Refinance Index",
+            "actual": "687.3",
+            "forecast": "",
+            "previous": "732.6",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "08:14",
+            "event": "ADP Employment Change Weekly",
+            "actual": "10.00K",
+            "forecast": "",
+            "previous": "11.80K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "08:15",
+            "event": "ADP Employment Change Weekly",
+            "actual": "12.00K",
+            "forecast": "",
+            "previous": "10.00K",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "08:55",
+            "event": "Redbook",
+            "actual": "8.3%",
+            "forecast": "",
+            "previous": "9.6%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "11:00",
+            "event": "Thomson Reuters IPSOS PCSI",
+            "actual": "50.45",
+            "forecast": "",
+            "previous": "49.38",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "12:00",
+            "event": "EIA Short-Term Energy Outlook",
+            "actual": "",
+            "forecast": "",
+            "previous": "",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "13:00",
+            "event": "10-Year Note Auction",
+            "actual": "4.834%",
+            "forecast": "",
+            "previous": "4.683%",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "16:30",
+            "event": "API Weekly Crude Oil Stock",
+            "actual": "",
+            "forecast": "",
+            "previous": "-2.600M",
+            "country": "United States",
+            "source": "Nasdaq"
+          },
+          {
+            "time": "10:00 AM",
+            "event": "Monthly Wholesale Trade: Sales and Inventories (July 2026)",
+            "source": "Census"
+          }
+        ]
+      },
+      "earnings": {
+        "today": [
+          {
+            "lastYearRptDt": "8/27/2025",
+            "lastYearEPS": "$1.10",
+            "time": "time-after-hours",
+            "symbol": "COO",
+            "name": "The Cooper Companies, Inc.",
+            "marketCap": "$13,201,623,000",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$1.11",
+            "noOfEsts": "7"
+          },
+          {
+            "lastYearRptDt": "9/09/2025",
+            "lastYearEPS": "$0.07",
+            "time": "time-pre-market",
+            "symbol": "SAIL",
+            "name": "SailPoint, Inc.",
+            "marketCap": "$10,090,185,700",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$0.08",
+            "noOfEsts": "5"
+          },
+          {
+            "lastYearRptDt": "9/10/2025",
+            "lastYearEPS": "$0.14",
+            "time": "time-pre-market",
+            "symbol": "CHWY",
+            "name": "Chewy, Inc.",
+            "marketCap": "$9,527,301,100",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$0.18",
+            "noOfEsts": "8"
+          },
+          {
+            "lastYearRptDt": "9/09/2025",
+            "lastYearEPS": "$0.87",
+            "time": "time-pre-market",
+            "symbol": "CNM",
+            "name": "Core & Main, Inc.",
+            "marketCap": "$8,526,492,700",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$0.91",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-pre-market",
+            "symbol": "JMKE",
+            "name": "Jersey Mike's Subs Inc.",
+            "marketCap": "$8,378,876,400",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$0.23",
+            "noOfEsts": "1"
+          },
+          {
+            "lastYearRptDt": "9/09/2025",
+            "lastYearEPS": "$0.32",
+            "time": "time-after-hours",
+            "symbol": "AVAV",
+            "name": "AeroVironment, Inc.",
+            "marketCap": "$7,561,388,500",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$0.22",
+            "noOfEsts": "6"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-after-hours",
+            "symbol": "NAVN",
+            "name": "Navan, Inc.",
+            "marketCap": "$6,775,384,600",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "($0.12)",
+            "noOfEsts": "1"
+          },
+          {
+            "lastYearRptDt": "9/09/2025",
+            "lastYearEPS": "$1.31",
+            "time": "time-pre-market",
+            "symbol": "KFY",
+            "name": "Korn Ferry",
+            "marketCap": "$4,476,007,900",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$1.35",
+            "noOfEsts": "1"
+          },
+          {
+            "lastYearRptDt": "8/13/2025",
+            "lastYearEPS": "$0.09",
+            "time": "time-not-supplied",
+            "symbol": "SA",
+            "name": "Seabridge Gold, Inc.",
+            "marketCap": "$3,417,053,700",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "",
+            "noOfEsts": "N/A"
+          },
+          {
+            "lastYearRptDt": "9/02/2025",
+            "lastYearEPS": "$1.61",
+            "time": "time-pre-market",
+            "symbol": "SIG",
+            "name": "Signet Jewelers Limited",
+            "marketCap": "$3,251,393,280",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$1.69",
+            "noOfEsts": "3"
+          },
+          {
+            "lastYearRptDt": "9/03/2025",
+            "lastYearEPS": "$0.45",
+            "time": "time-after-hours",
+            "symbol": "AEO",
+            "name": "American Eagle Outfitters, Inc.",
+            "marketCap": "$2,885,612,800",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$0.21",
+            "noOfEsts": "6"
+          },
+          {
+            "lastYearRptDt": "9/02/2025",
+            "lastYearEPS": "$1.82",
+            "time": "time-pre-market",
+            "symbol": "ASO",
+            "name": "Academy Sports and Outdoors, Inc.",
+            "marketCap": "$2,772,841,470",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$2.04",
+            "noOfEsts": "4"
+          },
+          {
+            "lastYearRptDt": "8/06/2025",
+            "lastYearEPS": "($1.34)",
+            "time": "time-not-supplied",
+            "symbol": "ANAB",
+            "name": "AnaptysBio, Inc.",
+            "marketCap": "$1,675,840,000",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "($0.22)",
+            "noOfEsts": "3"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-after-hours",
+            "symbol": "WLTH",
+            "name": "Wealthfront Corporation",
+            "marketCap": "$1,438,348,540",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$0.09",
+            "noOfEsts": "1"
+          },
+          {
+            "lastYearRptDt": "8/04/2025",
+            "lastYearEPS": "$0.76",
+            "time": "time-pre-market",
+            "symbol": "ODD",
+            "name": "ODDITY Tech Ltd.",
+            "marketCap": "$737,953,340",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$0",
+            "noOfEsts": "1"
+          }
+        ],
+        "tomorrow": [
+          {
+            "lastYearRptDt": "9/09/2025",
+            "lastYearEPS": "$1.20",
+            "time": "time-after-hours",
+            "symbol": "ORCL",
+            "name": "Oracle Corporation",
+            "marketCap": "$468,134,134,000",
+            "fiscalQuarterEnding": "Aug/2026",
+            "epsForecast": "$1.40",
+            "noOfEsts": "10"
+          },
+          {
+            "lastYearRptDt": "9/11/2025",
+            "lastYearEPS": "$4.29",
+            "time": "time-after-hours",
+            "symbol": "ADBE",
+            "name": "Adobe Inc.",
+            "marketCap": "$102,260,851,000",
+            "fiscalQuarterEnding": "Aug/2026",
+            "epsForecast": "$4.86",
+            "noOfEsts": "12"
+          },
+          {
+            "lastYearRptDt": "9/04/2025",
+            "lastYearEPS": "$0.41",
+            "time": "time-after-hours",
+            "symbol": "CPRT",
+            "name": "Copart, Inc.",
+            "marketCap": "$30,181,453,800",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$0.39",
+            "noOfEsts": "4"
+          },
+          {
+            "lastYearRptDt": "9/04/2025",
+            "lastYearEPS": "($0.35)",
+            "time": "time-not-supplied",
+            "symbol": "VFS",
+            "name": "VinFast Auto Ltd.",
+            "marketCap": "$7,252,561,400",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "($0.26)",
+            "noOfEsts": "1"
+          },
+          {
+            "lastYearRptDt": "9/03/2025",
+            "lastYearEPS": "$0.43",
+            "time": "time-after-hours",
+            "symbol": "DSGX",
+            "name": "The Descartes Systems Group Inc.",
+            "marketCap": "$6,459,912,700",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$0.57",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "9/03/2025",
+            "lastYearEPS": "$0.41",
+            "time": "time-pre-market",
+            "symbol": "M",
+            "name": "Macy's Inc",
+            "marketCap": "$5,905,202,200",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$0.37",
+            "noOfEsts": "4"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "$0.60",
+            "time": "time-not-supplied",
+            "symbol": "FIZZ",
+            "name": "National Beverage Corp.",
+            "marketCap": "$2,911,435,780",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "",
+            "noOfEsts": "N/A"
+          },
+          {
+            "lastYearRptDt": "9/11/2025",
+            "lastYearEPS": "$2.93",
+            "time": "time-after-hours",
+            "symbol": "RH",
+            "name": "RH",
+            "marketCap": "$2,692,443,140",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$0.42",
+            "noOfEsts": "5"
+          },
+          {
+            "lastYearRptDt": "7/31/2025",
+            "lastYearEPS": "$0.45",
+            "time": "time-not-supplied",
+            "symbol": "HUBG",
+            "name": "Hub Group, Inc.",
+            "marketCap": "$2,205,195,520",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$0.52",
+            "noOfEsts": "3"
+          },
+          {
+            "lastYearRptDt": "9/11/2025",
+            "lastYearEPS": "$0.01",
+            "time": "time-not-supplied",
+            "symbol": "UROY",
+            "name": "Uranium Royalty Corp.",
+            "marketCap": "$1,836,744,450",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "$0.05",
+            "noOfEsts": "1"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "$0.67",
+            "time": "time-pre-market",
+            "symbol": "TEN",
+            "name": "Tsakos Energy Navigation Ltd",
+            "marketCap": "$1,311,153,280",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "N/A",
+            "time": "time-after-hours",
+            "symbol": "REF",
+            "name": "Reformation Inc.",
+            "marketCap": "$863,228,100",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "$0.20",
+            "noOfEsts": "N/A"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "$0.07",
+            "time": "time-after-hours",
+            "symbol": "FEIM",
+            "name": "Frequency Electronics, Inc.",
+            "marketCap": "$729,669,180",
+            "fiscalQuarterEnding": "Jul/2026",
+            "epsForecast": "",
+            "noOfEsts": "2"
+          },
+          {
+            "lastYearRptDt": "9/25/2025",
+            "lastYearEPS": "($0.07)",
+            "time": "time-after-hours",
+            "symbol": "LPTH",
+            "name": "LightPath Technologies, Inc.",
+            "marketCap": "$674,986,110",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "($0.02)",
+            "noOfEsts": "1"
+          },
+          {
+            "lastYearRptDt": "N/A",
+            "lastYearEPS": "$0.90",
+            "time": "time-pre-market",
+            "symbol": "YB",
+            "name": "Yuanbao Inc.",
+            "marketCap": "$621,391,490",
+            "fiscalQuarterEnding": "Jun/2026",
+            "epsForecast": "",
+            "noOfEsts": "2"
+          }
+        ]
+      },
+      "notes": [
+        {
+          "source": "NYSE calendar 2026-09-09",
+          "status": "open",
+          "detail": ""
+        },
+        {
+          "source": "Network readiness",
+          "status": "ok",
+          "detail": "connected to scanner.tradingview.com:443"
+        },
+        {
+          "source": "Yahoo Finance Most Active Stocks",
+          "status": "ok",
+          "detail": "10 rows at or above $5"
+        },
+        {
+          "source": "Yahoo Finance Most Active ETFs",
+          "status": "ok",
+          "detail": "10 rows at or above $5"
+        },
+        {
+          "source": "Yahoo Finance Stock Gainers",
+          "status": "ok",
+          "detail": "10 rows at or above $5"
+        },
+        {
+          "source": "Yahoo Finance Stock Losers",
+          "status": "ok",
+          "detail": "10 rows at or above $5"
+        },
+        {
+          "source": "MarketWatch Top Stories",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Google News Markets",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Federal Reserve",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq economic calendar 2026-09-09",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Census economic indicators",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq economic calendar 2026-09-10",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Census economic indicators",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq earnings 2026-09-09",
+          "status": "ok",
+          "detail": ""
+        },
+        {
+          "source": "Nasdaq earnings 2026-09-10",
+          "status": "ok",
+          "detail": ""
+        }
+      ]
     }
   ]
 }
