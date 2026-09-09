@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-09-09
 
-_Generated: 2026-09-09 06:08:39 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-09-09 10:09:18 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -31,6 +31,73 @@ _Generated: 2026-09-09 06:08:39 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 10:09 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 1:09 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $145.89 | -7.58 | -4.94% | 79,763,848 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.85 | +0.20 | +1.91% | 64,928,177 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $106.09 | +1.62 | +1.55% | 62,368,074 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $224.23 | -1.50 | -0.66% | 45,786,000 |
+| **[NU](https://finance.yahoo.com/quote/NU/)** | Nu Holdings Ltd. | $15.16 | -0.17 | -1.11% | 35,204,098 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $7.45 | -0.16 | -2.17% | 34,836,599 |
+| **[VALE](https://finance.yahoo.com/quote/VALE/)** | VALE S.A. | $15.40 | -0.16 | -1.03% | 33,448,865 |
+| **[CMCSA](https://finance.yahoo.com/quote/CMCSA/)** | Comcast Corporation | $24.53 | -1.80 | -6.82% | 29,045,589 |
+| **[PCG](https://finance.yahoo.com/quote/PCG/)** | Pacific Gas & Electric Co. | $14.40 | -0.42 | -2.87% | 28,600,671 |
+| **[PATH](https://finance.yahoo.com/quote/PATH/)** | UiPath, Inc. | $13.45 | -0.56 | -3.96% | 26,917,642 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $10.58 | +0.04 | +0.42% | 57,708,017 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $18.05 | +0.68 | +3.92% | 50,361,950 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $9.89 | +0.02 | +0.20% | 47,951,450 |
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $43.07 | -1.01 | -2.29% | 44,036,469 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $126.30 | +3.03 | +2.46% | 30,771,099 |
+| **[SQQQ](https://finance.yahoo.com/quote/SQQQ/)** | ProShares UltraPro Short QQQ | $38.60 | +0.29 | +0.76% | 29,537,713 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $71.61 | -0.55 | -0.76% | 29,328,586 |
+| **[SNDQ](https://finance.yahoo.com/quote/SNDQ/)** | Tradr 2X Short SNDK Daily ETF | $11.25 | -0.52 | -4.42% | 25,244,976 |
+| **[TLT](https://finance.yahoo.com/quote/TLT/)** | iShares 20+ Year Treasury Bond | $81.71 | -0.49 | -0.60% | 25,651,343 |
+| **[ETHA](https://finance.yahoo.com/quote/ETHA/)** | iShares Ethereum Trust ETF | $18.83 | +0.11 | +0.59% | 25,044,725 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PLSE](https://finance.yahoo.com/quote/PLSE/)** | Pulse Biosciences, Inc | $56.68 | +7.89 | +16.17% | 802,317 |
+| **[CMPS](https://finance.yahoo.com/quote/CMPS/)** | COMPASS Pathways Plc - American | $15.63 | +1.59 | +11.31% | 3,503,400 |
+| **[ASO](https://finance.yahoo.com/quote/ASO/)** | Academy Sports and Outdoors, In | $49.44 | +4.73 | +10.58% | 3,072,522 |
+| **[SSL](https://finance.yahoo.com/quote/SSL/)** | Sasol Ltd. | $14.67 | +1.37 | +10.30% | 3,233,287 |
+| **[NET](https://finance.yahoo.com/quote/NET/)** | Cloudflare, Inc. | $312.71 | +28.41 | +9.99% | 2,442,895 |
+| **[SUNB](https://finance.yahoo.com/quote/SUNB/)** | Sunbelt Rentals Holdings, Inc. | $75.52 | +6.20 | +8.94% | 7,960,637 |
+| **[AEHR](https://finance.yahoo.com/quote/AEHR/)** | Aehr Test Systems | $97.49 | +6.69 | +7.37% | 3,093,014 |
+| **[JMKE](https://finance.yahoo.com/quote/JMKE/)** | Jersey Mike's Subs Inc. | $22.22 | +1.40 | +6.72% | 4,564,351 |
+| **[DDOG](https://finance.yahoo.com/quote/DDOG/)** | Datadog, Inc. | $224.50 | +14.27 | +6.79% | 2,741,079 |
+| **[SRPT](https://finance.yahoo.com/quote/SRPT/)** | Sarepta Therapeutics, Inc. | $22.24 | +1.30 | +6.21% | 2,508,789 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[TTAN](https://finance.yahoo.com/quote/TTAN/)** | ServiceTitan, Inc. | $57.62 | -23.97 | -29.38% | 16,429,399 |
+| **[RML](https://finance.yahoo.com/quote/RML/)** | Resolution Minerals Ltd American Depositary Shares | $10.85 | -3.31 | -23.38% | 1,397,423 |
+| **[TBBK](https://finance.yahoo.com/quote/TBBK/)** | The Bancorp, Inc. | $50.26 | -14.16 | -21.98% | 1,538,421 |
+| **[BRZE](https://finance.yahoo.com/quote/BRZE/)** | Braze, Inc. | $24.44 | -5.87 | -19.36% | 6,237,179 |
+| **[CASY](https://finance.yahoo.com/quote/CASY/)** | Caseys General Stores, Inc. | $619.27 | -114.22 | -15.57% | 1,772,785 |
+| **[UI](https://finance.yahoo.com/quote/UI/)** | Ubiquiti Inc. | $510.92 | -69.62 | -11.99% | 187,781 |
+| **[CHRN](https://finance.yahoo.com/quote/CHRN/)** | ChronoScale Holdings Corporatio | $18.60 | -2.46 | -11.68% | 157,902 |
+| **[PS](https://finance.yahoo.com/quote/PS/)** | Pershing Square Inc. | $37.24 | -4.25 | -10.25% | 278,471 |
+| **[XE](https://finance.yahoo.com/quote/XE/)** | X-Energy, Inc. | $17.24 | -1.91 | -10.00% | 6,160,883 |
+| **[ORA](https://finance.yahoo.com/quote/ORA/)** | Ormat Technologies, Inc. | $96.98 | -10.99 | -10.18% | 851,841 |
+
+Source health:
+- NYSE calendar 2026-09-09: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
 ### 6:08 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:08 AM ET.
@@ -168,18 +235,18 @@ Source health:
 
 ## 4. Latest Market News
 
-- **Google News Markets** (Tue, 08 Sep 2026 17:02:32 GMT): High priority | [Why is US Stock Market Down Today? Dow Jones Falls 1.10%, S&P 500 Slips 0.42%, Nasdaq Drop 0.24% as Oil Surges, Bond Yields & Fed Rate Concerns Amid US-Iran Tensions – Check What Investors Should Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOdlNHYjZJRDVsSDFkeGk1ZW5vaW1CSG5keEVsNWhRN3RJSzdOaVpBYWd2YTJkR29Bc2x2dnRSNnNCYWhicnRmSGJPaGJJdWdIYjdMSS1VQzdGT1NWMkNScm9KbU5kdWc3S2hjdWl1cWctcl9vNmlkSkJvcWFPa2FIcjVWWE9ZaFFJT1hhS3k0TFJLZWxoOWtpRWVfLVN0eFpUYVg2dXZfMFd6aUJKRXdZTWdZeFc1Y2tjcGM5WjNpOHU3QUFwenRuVXl5andOUmhnaHhob1NMcVA0cmF5MVRzc0h4ck9tNUFnbUs0dkk5cDladE8xRUhxeFc4VlBna3RoV0VkTUZIR2FWeHNLb1VCMDg4cEZscGhNZUZxandwSDNBdU5PaWFJM3l4ck1TUEs0TUFnQzRHTHdXWVFjcWNvUUh1c0NLOFJIN2syOExBTTR4VmvSAdgCQVVfeXFMTzh2R2M0bkhMc1IyeFpkYzJTQ2xEdlp0dUJBY2xjYVg4Q1lxTHlmRl90ZUJ2YnVESTBYaDBURm1MZW9SaFVsNFotYUVGVU1rUl9Mb3lCeFd3NUlYTnRveHVaQnhHbWhKVl84dXlnQ3FXcUZzY3FGZ2N0T2NLNjIzWVNPbUdjeWFpbFkxRmd5SU9QRVVkeF9RWFNtOXBVZlNMbWlrSllxQUtlMGE2cE5GVDNub2w2SF9FV0tzWmNhUHc2MHdGTTFSZ0J6Y0RYeF9QOU9OaFZiRF9LWUVxc1RwRlRHcU1idG1TenRGMW1WRkpLcEZhOWMxV0VmZUJuZ0xRY214ZzJSSGw0ZTI0WjFZWE8zMVZialZhZVJhQ1B6TzdHVDlEZXh3VXliejF1QjlfdEtEakFhTGdlVENDalI5TGc4Xy1MQTNkNHhycC1qSmNUTEItaERVbUQ?oc=5)
-- **Google News Markets** (Tue, 08 Sep 2026 16:28:26 GMT): High priority | [S&P 500 Today LIVE: Index Falls 0.42% as Oil Surges, Treasury Yields Rise & Fed Rate-Hike Bets Weigh on Wall Street Amid US-Iran Hormuz Tensions — Check What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMixgJBVV95cUxOTlRPd3ltQ2VTWEYwZ0Rua04waFAzU2RnY1ZubThLdkpnUFVuRjFLMjRuWUtZWTIyb2c0eTVMdjFKVjNCS0tuanB5eVZfcEQ2VmZJa0lxalRCOUJkZVZ5eHlscGdWRHM1RHRfMFV5cmhaMW1jTzRRZ1I0dk43SzBBQTJfRFZLbm93ZFJ0VXpBVTZPOHV4N3pmR2g3cjlCRTBCb0pNN2o5dG5FX0ZDWTR5ci1OcUZCc2h5VER3RWF5OHk4TFh1YTQ3anZaenhJTEVVMnlrbTRiRXJrN0VGUEdBZlBwRlV0SkkxaDFmRWY4c25Obkg2Vl9vQURYbENkZC1qWFpFUWdpandldm81T0U4OXhDTEhqYndGNzR0MDZQYlhlaTFjZmdCM3RzUUpjZVZja3hQSmthZVVfWl95VFhvOE10Wi1lUdIBxgJBVV95cUxOTlRPd3ltQ2VTWEYwZ0Rua04waFAzU2RnY1ZubThLdkpnUFVuRjFLMjRuWUtZWTIyb2c0eTVMdjFKVjNCS0tuanB5eVZfcEQ2VmZJa0lxalRCOUJkZVZ5eHlscGdWRHM1RHRfMFV5cmhaMW1jTzRRZ1I0dk43SzBBQTJfRFZLbm93ZFJ0VXpBVTZPOHV4N3pmR2g3cjlCRTBCb0pNN2o5dG5FX0ZDWTR5ci1OcUZCc2h5VER3RWF5OHk4TFh1YTQ3anZaenhJTEVVMnlrbTRiRXJrN0VGUEdBZlBwRlV0SkkxaDFmRWY4c25Obkg2Vl9vQURYbENkZC1qWFpFUWdpandldm81T0U4OXhDTEhqYndGNzR0MDZQYlhlaTFjZmdCM3RzUUpjZVZja3hQSmthZVVfWl95VFhvOE10Wi1lUQ?oc=5)
+- **MarketWatch Top Stories** (Wed, 09 Sep 2026 16:09:00 GMT): High priority | [Investors worried about rising bond yields are keeping a close eye on this corner of the market](https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Wed, 09 Sep 2026 16:18:00 GMT): High priority | [Fed rate hike hinges on two key inflation reports in the next two days](https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Wed, 09 Sep 2026 15:53:00 GMT): High priority | [Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’](https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories)
+- **MarketWatch Top Stories** (Wed, 09 Sep 2026 15:14:00 GMT): High priority | [Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates](https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories)
+- **Google News Markets** (Wed, 09 Sep 2026 13:49:40 GMT): High priority | [Dow Tumbles 350 Points; Signet Jewelers Shares Jump Following Upbeat Q2 Earnings - Benzinga](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZkcwSndhSklYVm55R1REUm9TYld6MzVmQnI1LUJnbUF2M05Kc2xXal9OUS0tdHB3UGtYcGh6dWdWQ2s5S00wUXpyN0ZjT2E2RXRlOU5yNXNxLUQ1aFhDTHFOV1pIS2p0WWlXNDNZRm1nX2hDX0JsSnJXVEVDc2hoc0dIaTRxd0REdXdyTFA3b3JFczh3YmJlNVVlNWRodkowRGplMzlyd2pGaWM0SVA0dWdtSzNvR3A4MWFNNE9VU3RyZmdVZEF3QkV0ejJyUGJRcDhZZjEwMWZ4Zw?oc=5)
+- **Google News Markets** (Wed, 09 Sep 2026 13:27:00 GMT): High priority | [Braze Sinks 12% as Soft Earnings Guide Overshadows Beat and Raise; Klaviyo Advances 3% - 24/7 Wall St.](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFhmTUt6UzFtdDM4Y19MZVMxZDZxUXkwb1hpWW1QYk15OWREVWRRZVFuWWhPbUM2V2lVNmswTVRDMFJVZXNvZHROMXlwU0JkY1JOTmpUNEhtWGV2alNHUG11YUZ4MmVBN1BaQnRObGdUeGZ2ekIxTzEzQ21TZklHdFFMek1iS2ViTXRFWFhoM1RrcDVNOVQ3Z3luTFBWS1pDTW5fYWxEbzl4YkVxMFRERXpYWElEblhvSkpIUkMwOGFzUjMwdnc?oc=5)
 - **Google News Markets** (Wed, 09 Sep 2026 09:56:30 GMT): High priority | [Federal Realty stock sees volatility as analysts trim earnings expectations - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ09CQkFsODBnQXRyUWp2ckEtWmplZUtFX1V1WlVXMzJzT1VmU3VNMVJyVnRxdDRDSmJ0eFllWnlRTFFBN2lsbl9tVWZaUDhwb2Z4bXpZVTUwUlNURll0SkFaT1dWeU16eEh2SzlvVXJWU2NvUDBZSURfUEh1VGNkbUFnRHBlN01ZaHlsUkF5ZUNuN3dzdzNqOHdxcWVjZW9seTE2S1FJX0ctY3pHZ2xJTDVnNXVEeFlUZmprZ0U0bVlaVlU?oc=5)
 - **Google News Markets** (Wed, 09 Sep 2026 06:28:48 GMT): High priority | [Chinese stocks face US Fed and oil pressures in September, says top fund manager - South China Morning Post](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0c3V3dPMmNQRnRIZFRKOGFmeEd5R25seGE3UjQ4anpya29TTGRYM1VhYnJyLXA1ajBPNklVNjF0RDBTZ3VpR1RkTFVTUHc1aGRCdzF1eTRkeEd1cUlFR0ZQYTM5VXkwR3QwaGdrZVVtMFNBMEtHRFVpbC1keUg1blFsV3AtaVpFQTM1VDgwbjYzRE96WmZ5U1BBeUhQNExRN1dSSFBVMVA3MFhMaFlxdWluOEwzUEpnajJEZ05uNm9GSDFvSmZYSnFpbmt1RGRhVnYzQjlqdTBtcFVQeDVv0gHfAUFVX3lxTE5GNElqay1Qd3BpRTk5bHdXa3lrSHd2Nm5pUFlnTzFad0NJeGR5azV4eWE5VDlhcDI3b3R6UmxxZklFMFRmOW54UGNhTXV6SHJ0SEZMYWRHZ2NRT3Yya1ZwbWhTSVJUTkVkdUkzTXlaVUFOclM2bFJtUGdQWlUyUXBoVlc1T2NtZnJydGFsa3hfeUM5d2xSdFhWZUlPMDYxUVBkSG53OW5WbXI0M2xqN0h1ZXpiT2ZiYzlxb1FpM0o4Y0tTQlVmejcwX3FtREgzVXo5Ym1BWGFnTDBGbVpLcjA?oc=5)
 - **Google News Markets** (Wed, 09 Sep 2026 05:53:03 GMT): High priority | [JM Financial picks Oil India as top bet, sees 15% earnings-compounding story - CNBC TV18](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXVaY3JXdUltUUw0MTdTTTlORGdrSkhCZTUzbW9SY2ZENjJFOTZMU1hCNVBHSElZMUg4WmhocEtyNHExU1hUVE9ZM05Wd3J2SEczVUY3eEYtVlZrYm5Sd3JQTUQzd0VzNmZTN0VXUlozcURiVTVBdDRybEdPSFBBVWtsVUlpX0VVcUVKVzU2bXkwekEwWXlsV2FRbmJ1c19abGh4MDFuOHVrb3RS0gGyAUFVX3lxTE1DYkozMXozc0lMYm1vekpkYXdqSUZLVktRZ19tMEJ3Ulp0eTdod2FxcmJhSVdlWklkdUVrUF8ycnpQSEtnWjFQSEt4cWlyelVXc3M1bF9reXFCakpoM1lQODlHb2szZ2VhaDVOZVZMNndPR3Aya0lJeDNSdkItLWNsODBUVkhzamRCRl9fWXhyT1FVZ3lsWHVnUzA3N2pLUGRMcUN0M0NmSHdnUTNQZlBJR1E?oc=5)
 - **Google News Markets** (Wed, 09 Sep 2026 05:48:03 GMT): High priority | [Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY) - Benzinga](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnBhUmpiU0c4cURwdFZOVmNHajdLaHNjRFN2UlU0TGltVUYxSG00X2t0cmpPRFQtUkJUZW5IeDB0QkQyX0RoaTV5MWRfNy1zM1NiMFZqOFpYQ3FwamE2VFpwRkJMMXVQUy1YWWNwYmlCRFFLb0pnSEN4MUN1VEdMR0R1R1VxRUJ0SzhvcE52dUtlMjlRcUNYdnpDMkp6YU9xcHNvcTdLZ3FBeE5KRktuaDJ6d0tIeXc?oc=5)
 - **Google News Markets** (Wed, 09 Sep 2026 02:59:27 GMT): High priority | [ServiceTitan Stock Drops 20% After Earnings; Q3 Guidance and CRO Exit Bite - TechStock²](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYkNxbG05VXlhNWEzeXBfRGFDVTk4Z3M3SFF1N1RfZTNHTUpLVVpYY0NNX3FiZjJoYWo4OThBdnVfZnZWTzRMdHJ5SjRZcVdpOHRUazlZbEVTYURlaVltVDlHOGl0OGZZaExmOWJHMzByV2NBbUVESHZoeEotWVlrX0F6dWZSQm5kQ29hdTlvZm5odmVxMTRpcg?oc=5)
-- **Google News Markets** (Tue, 08 Sep 2026 21:30:34 GMT): High priority | [Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum](https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5)
-- **Google News Markets** (Tue, 08 Sep 2026 19:48:33 GMT): High priority | [August Kicks Off: Palantir, AMD, SanDisk Earnings and NFP Jobs Report - 5 Stocks and 3 Macro Events to Watch - TradingKey](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZzZJdXFEWWtqRHRXMDRrd1ZLNTdwY3YtMUk5TzYyUGx2NW1oT3lYc2xkcFZkMVFEMkYzTjZKeWhnY1l5RlcxaTlmSmZFczQ3RkplRk5XZmN6UzdqeDJxc3ZiaDIzWTdwb01OaG5mMzktRG1tNnBxTG5uWnFFZl9wVjhubTFQSHVTOTJhUnpZX3FONUdqOXB5X1N0X2FHZm9rWHl3bXlVcFJSMEg4RFRVcFRtNjJSSHRmYXp6bzlVU1dpdXpwZ3d4ZURxamZHLVQzYWJYQU84cVl5Zw?oc=5)
-- **Google News Markets** (Tue, 08 Sep 2026 14:15:48 GMT): High priority | [Micron stock: a coiled spring ready to pounce ahead of earnings? - Invezz](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSVBSd0lOeFZzampSUlN5M0Y3NjNVOWc3UFp0d2VLU1dEeUNCb1l5Qmk3SHpsWVAwSGFveFlyblMxMU5tdV80bEVJRFlxczBtU1pSTHBlX3lCQ0psOWpJVHhsNnVJQjQwMlh1elJfY2NRc3Rqb1VQVGNBWkQ3ZVA1MU83UklEZWdUaU13aE54TFJDLXdRUnNHd0ZyOFFjLXM?oc=5)
-- **MarketWatch Top Stories** (Wed, 09 Sep 2026 11:24:00 GMT): [Strategists say S&P 500 could top 8,000 — but risks of a pullback are mounting](https://www.marketwatch.com/story/strategists-say-s-p-500-could-top-8-000-but-risks-of-a-pullback-are-mounting-e1629564?mod=mw_rss_topstories)
-- **MarketWatch Top Stories** (Wed, 09 Sep 2026 11:01:00 GMT): [I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?](https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories)
+- **Google News Markets** (Tue, 08 Sep 2026 21:30:34 GMT): High priority | [Tracker: The Federal Reserve’s Balance Sheet Assets - americanactionforum.org](https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5)
 
 ## 5. Economic Calendar
 
@@ -199,7 +266,8 @@ Source health:
 - **07:00** MBA Purchase Index | Previous: 157.8 | Source: Nasdaq
 - **07:00** Mortgage Market Index | Previous: 247.3 | Source: Nasdaq
 - **07:00** Mortgage Refinance Index | Previous: 732.6 | Source: Nasdaq
-- **08:15** ADP Employment Change Weekly | Previous: 11.80K | Source: Nasdaq
+- **08:14** ADP Employment Change Weekly | Previous: 11.80K | Source: Nasdaq
+- **08:15** ADP Employment Change Weekly | Previous: 10.00K | Source: Nasdaq
 - **08:55** Redbook | Previous: 9.6% | Source: Nasdaq
 - **11:00** Thomson Reuters IPSOS PCSI | Previous: 49.38 | Source: Nasdaq
 - **12:00** EIA Short-Term Energy Outlook | Source: Nasdaq
@@ -211,9 +279,10 @@ Source health:
 
 - NYSE calendar 2026-09-09: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
-- TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
-- TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
