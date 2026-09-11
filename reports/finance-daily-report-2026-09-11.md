@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-09-11
 
-_Generated: 2026-09-11 11:07:33 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-09-11 14:32:38 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -28,6 +28,46 @@ _Generated: 2026-09-11 11:07:33 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 2:32 PM After Hours Snapshot
+- Nasdaq market movers captured after the close. Latest source timestamp: Data as of Sep 11, 2026 4:15 PM ET.
+
+#### Most Active
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[KHC](https://finance.yahoo.com/quote/KHC/)** | The Kraft Heinz Company | $24.6 | +0.21 |  | 123,581,965 |
+| **[ACVA](https://finance.yahoo.com/quote/ACVA/)** | ACV Auctions Inc. | $10.415 | +3.195 |  | 114,834,983 |
+| **[TNON](https://finance.yahoo.com/quote/TNON/)** | Tenon Medical, Inc. | $5.93 | +0.63 |  | 107,143,416 |
+| **[ETHA](https://finance.yahoo.com/quote/ETHA/)** | iShares Ethereum Trust ETF | $19.16 | +0.6 |  | 96,212,647 |
+| **[SMR](https://finance.yahoo.com/quote/SMR/)** | NuScale Power Corporation | $8.605 | -1.605 |  | 91,794,919 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $218.29 | -0.07 |  | 85,575,625 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $102.94 | +2.62 |  | 85,085,733 |
+
+#### Gainers
+- No rows at or above $5 returned.
+
+#### Decliners
+- No rows at or above $5 returned.
+
+#### Nasdaq 100 Movers
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ADBE](https://finance.yahoo.com/quote/ADBE/)** | Adobe Inc. Common Stock | 252.23 | -2.6300 | -1.03% |  |
+| **[AMD](https://finance.yahoo.com/quote/AMD/)** | Advanced Micro Devices, Inc. Common Stock | 516.13 | -4.9650 | -0.95% |  |
+| **[ABNB](https://finance.yahoo.com/quote/ABNB/)** | Airbnb, Inc. Class A Common Stock | 170.19 | +0.5600 | +0.33% |  |
+| **[ALNY](https://finance.yahoo.com/quote/ALNY/)** | Alnylam Pharmaceuticals, Inc. Common Stock | 248.68 | -9.3200 | -3.61% |  |
+| **[GOOGL](https://finance.yahoo.com/quote/GOOGL/)** | Alphabet Inc. Class A Common Stock | 338.5 | +7.8500 | +2.37% |  |
+| **[GOOG](https://finance.yahoo.com/quote/GOOG/)** | Alphabet Inc. Class C Capital Stock | 335.45 | +7.0700 | +2.15% |  |
+| **[AMZN](https://finance.yahoo.com/quote/AMZN/)** | Amazon.com, Inc. Common Stock | 256.78 | +4.3800 | +1.74% |  |
+| **[AEP](https://finance.yahoo.com/quote/AEP/)** | American Electric Power Company, Inc. Common Stock | 123.33 | -1.3400 | -1.07% |  |
+| **[AMGN](https://finance.yahoo.com/quote/AMGN/)** | Amgen Inc. Common Stock | 377.35 | -13.9200 | -3.56% |  |
+| **[XEL](https://finance.yahoo.com/quote/XEL/)** | Xcel Energy Inc. Common Stock | 75.5 | -0.6900 | -0.91% |  |
+
+Source health:
+- NYSE calendar 2026-09-11: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Nasdaq market movers: ok - Data as of Sep 11, 2026 4:15 PM ET
+- Nasdaq after-hours article 2026-09-11: skipped - No matching After Hours Most Active article found yet
 
 ### 11:07 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:07 PM ET.
@@ -299,18 +339,18 @@ Source health:
 
 ## 4. Latest Market News
 
-- **Google News Markets** (Fri, 11 Sep 2026 17:04:08 GMT): High priority | [Why is US Stock Market Up Today? Dow Jones Gains 600 Points, S&P 500 Rises 1.10%, Nasdaq Jumps 1.26% as Oil Falls, Treasury Yields, CPI & Fed Rate Hike Drive Market — Check What Investors Should Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMi0wJBVV95cUxQNDdiai05Z0l6Vldna3pTNmZFNVgzSC13V0hWTGdyc0hmdzhBUjUtdzFHU3BLcVF6c1JkTEI5SDhFQUg2bHNPWC1VLWwxMUF2bGZsN3ZOdk1sam5DRVZ0eFlfMVdHVmlsS1IwaHFYbjlRdTg4dk9WZktQaWNCTDAtVkZ4cnlFc0hHWHJGTUxTV3FReWRPMXk2cUdwUHpVNmhKYzVoX2NNTUQ3c3JONXdtNkwzbmJXT1k0Sm9BUkstb2xTY2Z5MFZWVVhab1FpdlZFc3lWVHVFdjFzenpxWFhYXzVTcndIcEJZNU9fUFdZYVI4QlZwNzZzLUFqSmpXT1NzS1dVSElTTWd6eFFza3d2RUpEdkJqd2IxVTVDWHp2WGVBMkRzSlVLRnFtQm9Gc1RBZEY1MjhpX01VZ1FWSWVaeERzS2FnVllCX2J0bzhsNndCMVHSAdgCQVVfeXFMUGZEZ2xlMlFWV2UwN0Z4QTdjbGpQa1JOdXBla1poWUg1TElXUE9zMEc1YzRqTktDbXY4UFhDVXh3VTZ6VW9pbjhkSnR5bFN1MFA2YjFoVlMyNUtVRXRpU0g0eFBuUXhnWlhZWVJTYXBQVUE4LWNqend6NHdrM2ktQWlFUy0xNmJITUNjb0hROFhsYlVQQ0dSVEJmNHMzbHA1TjlPUkNyY1pFQkE5ck42TUdiUks4NXl6bnNJTHM0Y1M2N09wLVpDdDRUbUwycGM1WTFFTVlWamRaNDNhdklKS213eUZZY1lrY3lkUi1DQVFYb1h0NV9xSEdad1VVXy1qTXkxRlE5YTZBb0lySERlb0gzNkhKX011S19YWklINW9FbW1OOE1XMk1VcFpZUXQzZnNtUnZDalIzYkQ2Y1VFY0Y5MlFIMXJHb2JOd015TW16d1JOX1BVUDA?oc=5)
+- **Google News Markets** (Fri, 11 Sep 2026 17:04:13 GMT): High priority | [Why is US Stock Market Up Today? Dow Jones Gains 600 Points, S&P 500 Rises 1.10%, Nasdaq Jumps 1.26% as Oil Falls, Treasury Yields, CPI & Fed Rate Hike Drive Market — Check What Investors Should Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZkRnbGUyUVZXZTA3RnhBN2NsalBrUk51cGVrWmhZSDVMSVdQT3MwRzVjNGpOS0NtdjhQWENVeHdVNnpVb2luOGRKdHlsU3UwUDZiMWhWUzI1S1VFdGlTSDR4UG5ReGdaWFlZUlNhcFBVQTgtY2p6d3o0d2szaS1BaUVTLTE2YkhNQ2NvSFE4WGxiVVBDR1JUQmY0czNscDVOOU9SQ3JjWkVCQTlyTjZNR2JSSzg1eXpuc0lMczRjUzY3T3AtWkN0NFRtTDJwYzVZMUVNWVZqZFo0M2F2SUpLbXd5RlljWWtjeWRSLUNBUVhvWHQ1X3FIR1p3VVVfLWpNeTFGUTlhNkFvSXJIRGVvSDM2SEpfTXVLX1haSUg1b0VtbU44TVcyTVVwWllRdDNmc21SdkNqUjNiRDZjVUVjRjkyUUgxckdvYk53TXlNbXp3Uk5fUFVQMNIB2AJBVV95cUxQZkRnbGUyUVZXZTA3RnhBN2NsalBrUk51cGVrWmhZSDVMSVdQT3MwRzVjNGpOS0NtdjhQWENVeHdVNnpVb2luOGRKdHlsU3UwUDZiMWhWUzI1S1VFdGlTSDR4UG5ReGdaWFlZUlNhcFBVQTgtY2p6d3o0d2szaS1BaUVTLTE2YkhNQ2NvSFE4WGxiVVBDR1JUQmY0czNscDVOOU9SQ3JjWkVCQTlyTjZNR2JSSzg1eXpuc0lMczRjUzY3T3AtWkN0NFRtTDJwYzVZMUVNWVZqZFo0M2F2SUpLbXd5RlljWWtjeWRSLUNBUVhvWHQ1X3FIR1p3VVVfLWpNeTFGUTlhNkFvSXJIRGVvSDM2SEpfTXVLX1haSUg1b0VtbU44TVcyTVVwWllRdDNmc21SdkNqUjNiRDZjVUVjRjkyUUgxckdvYk53TXlNbXp3Uk5fUFVQMA?oc=5)
 - **Google News Markets** (Fri, 11 Sep 2026 15:05:55 GMT): High priority | [Amid the shadow of Federal Reserve rate hikes and inflationary pressures, the battle to breach the 8,000-point threshold for the S&P 500 Index has reached a stalemate. - 富途牛牛](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQks1LWY5d1hJa1c0S2tVNUxTcmZ0c2tqVjRSZ0NoMHFnUVBPYUtFaDFRT2J0WHVMWnVtWURuUk13RnNVaC1JdlhxaUF4Yjh6RndEeWk5VldMcUJKMVZ1bEJpY0ZtaUE2eDhYbWRtaDZhQy1KaHFoeUZOQ2RMeFZkMjYzZno4TDhHY1Fnc3ZrcVR4V05WQW1QV0xfM3ZyNWNTbGxacFd3?oc=5)
+- **Google News Markets** (Fri, 11 Sep 2026 14:38:01 GMT): High priority | [Dow Jones Today LIVE: Index Gains 1.12% As Oil Prices Surges $100 Fed Rate Hike, Treasury Yields & Tech Stocks Amid Intel, Cisco, IBM Leads Wall Street | Check What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMizAJBVV95cUxOaGlDajFyQkRvTUE1V3FxVXpiU0ZHdWhDemE1ZWxVZHh4VkNHUWF2WXlheVZwdDRZbnhxalQ3N2JXS3JUcmhHTFFKVXVTcS1OeVItQUsySHBXdnJkQ2NDcE9TVlQtVXF3SGJvT1pfMGpaNE9QY292eTZubkJfM0xoZjJuVm5iaTJ6N2RHNmk3d1ZJbDdiem1kNlpsMVpQTndmaUhodWxqZFRlOFVXNzV3RHh1Y2xOWWVER3NnMWpGeG9uT3JMRVhGSnB4c3lPNnQ3T1ZfazhOOEhrWHJzT29XLUJQZGIzc002MmJZN1VnRDVHcU1pYy1EaWItaF82cU1tbGpvQ2EtdWg2SnNwbFFOM0dnYnRpQmRMTUlUbUNLQ0dyUzZHQkdzYjd2ZklUSmJLaEljNHhnSEg1bnFhMHNDYUR3RTBrdGI4TXgya9IBzAJBVV95cUxOaGlDajFyQkRvTUE1V3FxVXpiU0ZHdWhDemE1ZWxVZHh4VkNHUWF2WXlheVZwdDRZbnhxalQ3N2JXS3JUcmhHTFFKVXVTcS1OeVItQUsySHBXdnJkQ2NDcE9TVlQtVXF3SGJvT1pfMGpaNE9QY292eTZubkJfM0xoZjJuVm5iaTJ6N2RHNmk3d1ZJbDdiem1kNlpsMVpQTndmaUhodWxqZFRlOFVXNzV3RHh1Y2xOWWVER3NnMWpGeG9uT3JMRVhGSnB4c3lPNnQ3T1ZfazhOOEhrWHJzT29XLUJQZGIzc002MmJZN1VnRDVHcU1pYy1EaWItaF82cU1tbGpvQ2EtdWg2SnNwbFFOM0dnYnRpQmRMTUlUbUNLQ0dyUzZHQkdzYjd2ZklUSmJLaEljNHhnSEg1bnFhMHNDYUR3RTBrdGI4TXgyaw?oc=5)
 - **Google News Markets** (Thu, 10 Sep 2026 22:55:15 GMT): High priority | [S&P 500 ends down as Treasury yields rise and traders fret about inflation - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5)
-- **Google News Markets** (Fri, 11 Sep 2026 17:25:29 GMT): High priority | [Market earnings outlook: selective optimism as oil and inflation set the tone - Investing.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaEd4cldNZWpKTHBoSjB0cThJWFZjMzdGWXdSeWZhRTdBS3pMZWFvd0sxbDJOLXpYSHhNN2tHT3hwYW9leUtJa1JxbzdkZFZWSG5EdXZtRjhFY1JzLUdGWHNQZm1ETHFFZ18yNmJMVWpLMVJreGdING5xUHl6NHp3TEFNMk5ZLV8zamtlbE9TS3dQLTI3RktIdU5iSW1UWnpLMlQ0SURQZjNsbUFHOG1aazZ3cHlUbThtVEV0UVh4YlNmaDJtVk9ZZ19BWWU2ZzVvWFVodQ?oc=5)
+- **Google News Markets** (Fri, 11 Sep 2026 20:54:00 GMT): High priority | [Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple Leads New Buys. - Investor's Business Daily](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWM1ZTV4d1ZVcjR3YTVEcEpPNlh3WnUwRG15VllLWlg3Ym93WGtCQ1lqRGFTV1BMSU54TUMtamtxZURaU2dtOXp3Sm5KUEpsaURnVURtek1NSkVYNTRlblUycnZraVpZTi0tQ1JISWtCZDRfRXpfSHVjYmw4ZXdrZGdXbjJPNTBWOFN6N19aQ3VYT0tTeEhQc3pVRG5RbEZ2NGZKUFBPS3pwamE5Njk3YkM4bEZROVJLbzVvSDhOalNyRFp4ZmloTm9RaEwxSDZ0bXZ6cVVsX0ZTTThyUmIwYzRFZE40dXViSERVVHAwNUJxdw?oc=5)
+- **MarketWatch Top Stories** (Fri, 11 Sep 2026 20:30:00 GMT): High priority | [Why Dell and HPE were the S&P 500’s top-performing stocks today](https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories)
+- **Google News Markets** (Fri, 11 Sep 2026 18:02:34 GMT): High priority | [Market earnings outlook: selective optimism as oil and inflation set the tone - Investing.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaEd4cldNZWpKTHBoSjB0cThJWFZjMzdGWXdSeWZhRTdBS3pMZWFvd0sxbDJOLXpYSHhNN2tHT3hwYW9leUtJa1JxbzdkZFZWSG5EdXZtRjhFY1JzLUdGWHNQZm1ETHFFZ18yNmJMVWpLMVJreGdING5xUHl6NHp3TEFNMk5ZLV8zamtlbE9TS3dQLTI3RktIdU5iSW1UWnpLMlQ0SURQZjNsbUFHOG1aazZ3cHlUbThtVEV0UVh4YlNmaDJtVk9ZZ19BWWU2ZzVvWFVodQ?oc=5)
 - **Federal Reserve** (Fri, 11 Sep 2026 14:00:00 GMT): High priority | [Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm)
-- **Google News Markets** (Fri, 11 Sep 2026 13:55:59 GMT): High priority | [With core CPI exceeding expectations and the Federal Reserve poised for its first rate hike in three years—pending only official announcement—why did U.S. stocks rise instead of fall? - 富途牛牛](https://news.google.com/rss/articles/CBMirAFBVV95cUxOTHBWLVhEWk9YbHhjSkNBZDU5RHFCQkVJdVMtVmRWQ2JLT3czZ0NfTU9aUDNwM0pBMGx1VXYyZEVTQ2pwVGZTdUJ0TDlFYXFueDE4RUVqLXpZa2E0TVhEV1UzLVFfRkNfbHFUbHVhWjN5NWxndzRUb2lIMkh5Z0p0YkdCWFdjY3hoZnkzWmR2NFViNHdjZDBIVUlQVS1qMW5JeGlNbk5wd0FhbXFM?oc=5)
+- **Google News Markets** (Fri, 11 Sep 2026 13:55:00 GMT): High priority | [With core CPI exceeding expectations and the Federal Reserve poised for its first rate hike in three years—pending only official announcement—why did U.S. stocks rise instead of fall? - 富途牛牛](https://news.google.com/rss/articles/CBMirAFBVV95cUxOTHBWLVhEWk9YbHhjSkNBZDU5RHFCQkVJdVMtVmRWQ2JLT3czZ0NfTU9aUDNwM0pBMGx1VXYyZEVTQ2pwVGZTdUJ0TDlFYXFueDE4RUVqLXpZa2E0TVhEV1UzLVFfRkNfbHFUbHVhWjN5NWxndzRUb2lIMkh5Z0p0YkdCWFdjY3hoZnkzWmR2NFViNHdjZDBIVUlQVS1qMW5JeGlNbk5wd0FhbXFM?oc=5)
 - **Google News Markets** (Fri, 11 Sep 2026 13:43:07 GMT): High priority | [Stocks fall for four days amid rising oil prices and bond yields, but strong earnings support market resilience. - Pluang](https://news.google.com/rss/articles/CBMid0FVX3lxTE1jZjdiYnc5d1loaHBKcENvbndHdVVreHQ1ekRZbWw1OFlWSUVoTWplU2FSVDRWcHlXd3NlcHMxd09QNFlGMlhxTXAzd0xvV0loSDdQblFWM3R5S3ZmWjl4OWdFVEVXQlFodlNrM1RuT3BrZDA0U000?oc=5)
-- **Google News Markets** (Fri, 11 Sep 2026 12:49:55 GMT): High priority | [CPI Report Today: Core Inflation Hits 0.3% as Fed Hike Odds Jump to 90% - TechStock²](https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2Q3bWwwUVZxR3F6RzlRbkw2UEh3R3o0NldiaEtTX0xYeDBON29wXzZDVG5xWEhyVXJlZmlSRTEzXzRWUmxyV3lMNjF3S2RmeVp6VFJDTWE1RWEzQTg5RkdPbUFMVUY2UHowRktLamprWWJORDh5UEtwLWc1d3Job0hYZGpqeEVIaFVjdm5CczE2OTg?oc=5)
-- **Google News Markets** (Thu, 10 Sep 2026 20:01:23 GMT): High priority | [Market Ripple: Rising Yields and Oil Prices Push US Stocks Down - devdiscourse.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkJGcERxNmp1WWZMc1RNT2dBRUx2LVotUWo2azN3UWxiUTR3N1BGcG51TXp1eGdZa3VYMGlGQzVITHd6cXNSMWVUazlZZm43SzgySGFBUDJ5WVQ5ZDU5bWYtWld3ZHIzaGM1eDU2N0pGN01UaVF3RmZIR2FYb01UcE52eFlPNzFKWHU5bkFuZ0tkenhzN3gyQjVnaWV1MHo4eXdBZ2J5VFJ1SDFrYy0wZ2VjYVJDWUtuOUY0OdIBvAFBVV95cUxPbkJGcERxNmp1WWZMc1RNT2dBRUx2LVotUWo2azN3UWxiUTR3N1BGcG51TXp1eGdZa3VYMGlGQzVITHd6cXNSMWVUazlZZm43SzgySGFBUDJ5WVQ5ZDU5bWYtWld3ZHIzaGM1eDU2N0pGN01UaVF3RmZIR2FYb01UcE52eFlPNzFKWHU5bkFuZ0tkenhzN3gyQjVnaWV1MHo4eXdBZ2J5VFJ1SDFrYy0wZ2VjYVJDWUtuOUY0OQ?oc=5)
-- **MarketWatch Top Stories** (Fri, 11 Sep 2026 15:23:00 GMT): High priority | [Forget the Fed. The Bank of Japan could deliver next week’s market shock.](https://www.marketwatch.com/story/forget-the-fed-the-bank-of-japan-could-deliver-next-weeks-market-shock-bd8d56d7?mod=mw_rss_topstories)
-- **Google News Markets** (Fri, 11 Sep 2026 16:30:15 GMT): High priority | [U.S. Stock Market Rebounds Amid Oil Price Pullback and Inflation Data - devdiscourse.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxObUhSTHdveDlicURzM3R0Wl9MMjkxVlNvaFA4TEliQUV3SzVFQTFkYktYU3Q0ZFBQYi1zcHYzQUlQMWhIOUcyRVVTRW1XbEpBSmdWSzNGYVctclJfamt6UVpVal92SFZiV3ZlYWZNaFlxa1gxOXgyQTNXcGRPRkxfVk9rTEtvTWNsSi1GdTJwb1Zfcy0zeHNuREJHbWl1c0RlVC1EdlZlZjRZckRKZWZUNzZlUVZxdWtEWGZ4UGlB0gHDAUFVX3lxTFBjeUlMS0pVdjZEcGVDMTg1TzlLa1diU0F3VXdfRmQ4LXQ1V1VSYnctWEpzS19JeFVxay1hT05jQUtGVGEwSkhfcTFkS1B2dkZyY0JpZGZqZEcweVhZbF8yMXEwWGZjQU45ZWpVUnp3ZlVFdDV1N1hydUtNYzE1N1hmYVhQRGlkZEc2cUFjaThmY0RXOXZiZzFTUUllVzQ4TnJFemtCRTBOZXk5SDNCZEVUa01XRkc5a0VoU2lHaEwwdXcxYw?oc=5)
-- **Google News Markets** (Fri, 11 Sep 2026 14:19:10 GMT): High priority | [Global Markets Brace for Fed Rate Hike Amid Inflation Surge - devdiscourse.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2FNdkUzYXZfdXFhMXZ1WDN0alZ1M1ROZXB3MTBFcHVDNFM1ZGhmUXpfZVBxa2xfYlRkaV80NndBdXE3bElSNlBZSGVLbDJSVGh3YWhoSVc3RWNOOVlpVzUwbjlmQTFnUWlnWWFRUHd4OHRlNC0tLU5raUYzMzVDeGppYmZEME45Q0tqbGR2YVlGcDdyS0RGUzYwc3kxTjcwWklZUTNZREJLSlZ3blFnWFhXM25BSGdL0gG4AUFVX3lxTE1rYU12RTNhdl91cWExdnVYM3RqVnUzVE5lcHcxMEVwdUM0UzVkaGZRel9lUHFrbF9iVGRpXzQ2d0F1cTdsSVI2UFlIZUtsMlJUaHdhaGhJVzdFY045WWlXNTBuOWZBMWdRaWdZYVFQd3g4dGU0LS0tTmtpRjMzNUN4amliZkQwTjlDS2psZHZhWUZwN3JLREZTNjBzeTFONzBaSVlRM1lEQktKVnduUWdYWFczbkFIZ0s?oc=5)
+- **Google News Markets** (Fri, 11 Sep 2026 12:49:55 GMT): High priority | [CPI Report Today: Core Inflation Hits 0.3% as Fed Hike Odds Jump to 90% - ts2.tech](https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2Q3bWwwUVZxR3F6RzlRbkw2UEh3R3o0NldiaEtTX0xYeDBON29wXzZDVG5xWEhyVXJlZmlSRTEzXzRWUmxyV3lMNjF3S2RmeVp6VFJDTWE1RWEzQTg5RkdPbUFMVUY2UHowRktLamprWWJORDh5UEtwLWc1d3Job0hYZGpqeEVIaFVjdm5CczE2OTg?oc=5)
+- **MarketWatch Top Stories** (Fri, 11 Sep 2026 19:58:00 GMT): High priority | [The Houthis have opened a new front in the Middle East oil war that’s pushing up prices](https://www.marketwatch.com/story/the-houthis-have-created-a-new-front-in-the-middle-east-oil-war-thats-pushing-up-prices-816a224a?mod=mw_rss_topstories)
 
 ## 5. Economic Calendar
 
@@ -390,10 +430,8 @@ Source health:
 
 - NYSE calendar 2026-09-11: open
 - Network readiness: ok - connected to scanner.tradingview.com:443
-- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
-- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
-- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
-- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
+- Nasdaq market movers: ok - Data as of Sep 11, 2026 4:15 PM ET
+- Nasdaq after-hours article 2026-09-11: skipped - No matching After Hours Most Active article found yet
 - MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
