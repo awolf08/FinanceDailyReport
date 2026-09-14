@@ -1,0 +1,151 @@
+# Finance Daily Report - 2026-09-14
+
+_Generated: 2026-09-14 06:00:46 PDT. Timezone: America/Los_Angeles. Not financial advice._
+
+[Baybell Home](https://www.baybell.com/)
+
+## 1. Earnings
+
+### Today after close (2026-09-14)
+- **[KMTS](https://finance.yahoo.com/quote/KMTS/)** Kestra Medical Technologies, Ltd. | Time: time-after-hours | EPS est: ($0.61) | Quarter: Jul/2026
+- **[RLGT](https://finance.yahoo.com/quote/RLGT/)** Radiant Logistics, Inc. | Time: time-after-hours | EPS est: N/A | Quarter: Jun/2026
+- **[PLAY](https://finance.yahoo.com/quote/PLAY/)** Dave & Buster's Entertainment, Inc. | Time: time-after-hours | EPS est: $0.19 | Quarter: Jul/2026
+- **[HITI](https://finance.yahoo.com/quote/HITI/)** High Tide Inc. | Time: time-after-hours | EPS est: $0.01 | Quarter: Jul/2026
+- **[HYFT](https://finance.yahoo.com/quote/HYFT/)** MindWalk Holdings Corp. | Time: time-after-hours | EPS est: ($0.05) | Quarter: Jul/2026
+- **[BIOX](https://finance.yahoo.com/quote/BIOX/)** Bioceres Crop Solutions Corp. | Time: time-after-hours | EPS est: N/A | Quarter: Jun/2026
+
+### Tomorrow before open (2026-09-15)
+- **[FPS](https://finance.yahoo.com/quote/FPS/)** Forgent Power Solutions, Inc. | Time: time-pre-market | EPS est: $0.22 | Quarter: Jun/2026
+- **[VRA](https://finance.yahoo.com/quote/VRA/)** Vera Bradley, Inc. | Time: time-pre-market | EPS est: ($0.08) | Quarter: Jul/2026
+- **[COE](https://finance.yahoo.com/quote/COE/)** 51Talk Online Education Group | Time: time-pre-market | EPS est: N/A | Quarter: Jun/2026
+
+### Other scheduled earnings (2026-09-14 to 2026-09-15)
+- **[GRFS](https://finance.yahoo.com/quote/GRFS/)** Grifols, S.A. | Time: time-not-supplied | EPS est: $0.27 | Quarter: Jun/2026
+- **[CHRN](https://finance.yahoo.com/quote/CHRN/)** ChronoScale Holdings Corporation | Time: time-not-supplied | EPS est: ($0.06) | Quarter: Jun/2026
+- **[CURR](https://finance.yahoo.com/quote/CURR/)** Currenc Group Inc. | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
+- **[AIV](https://finance.yahoo.com/quote/AIV/)** Apartment Investment and Management Company | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
+- **[CBAT](https://finance.yahoo.com/quote/CBAT/)** CBAK Energy Technology Limited | Time: time-not-supplied | EPS est: ($0.06) | Quarter: Jun/2026
+- **[AREC](https://finance.yahoo.com/quote/AREC/)** American Resources Corporation | Time: time-not-supplied | EPS est: ($0.09) | Quarter: Jun/2026
+- **[ESP](https://finance.yahoo.com/quote/ESP/)** Espey Mfg. & Electronics Corp. | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
+- **[ELME](https://finance.yahoo.com/quote/ELME/)** Elme Communities | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
+- **[ZENA](https://finance.yahoo.com/quote/ZENA/)** ZenaTech, Inc. | Time: time-not-supplied | EPS est: ($0.21) | Quarter: Jun/2026
+- **[UPXI](https://finance.yahoo.com/quote/UPXI/)** Upexi, Inc. | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
+- **[ALPS](https://finance.yahoo.com/quote/ALPS/)** ALPS Group Inc | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
+- **[BRLS](https://finance.yahoo.com/quote/BRLS/)** Borealis Foods Inc. | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
+- **[AAME](https://finance.yahoo.com/quote/AAME/)** Atlantic American Corporation | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
+- **[SEGG](https://finance.yahoo.com/quote/SEGG/)** Sports Entertainment Gaming Global Corporation | Time: time-not-supplied | EPS est: N/A | Quarter: Jun/2026
+- **[BRTX](https://finance.yahoo.com/quote/BRTX/)** BioRestorative Therapies, Inc. | Time: time-not-supplied | EPS est: $3 | Quarter: Jun/2026
+
+## 2. Market Status
+
+- **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
+
+## 3. Intraday Active Stock Snapshots
+
+### 6:00 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:00 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.10 | -1.03 | -9.26% | 8,249,753 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $212.70 | -5.59 | -2.56% | 3,921,250 |
+| **[CRBP](https://finance.yahoo.com/quote/CRBP/)** | Corbus Pharmaceuticals Holdings, Inc. | $8.40 | +0.28 | +3.45% | 3,390,641 |
+| **[RUM](https://finance.yahoo.com/quote/RUM/)** | RUM Group Inc. | $7.88 | +0.71 | +9.90% | 3,232,451 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $96.01 | -6.93 | -6.73% | 2,280,300 |
+| **[MARA](https://finance.yahoo.com/quote/MARA/)** | MARA Holdings, Inc. | $11.18 | -0.80 | -6.68% | 1,986,899 |
+| **[STLA](https://finance.yahoo.com/quote/STLA/)** | Stellantis N.V. | $5.21 | -0.19 | -3.52% | 1,884,063 |
+| **[SLS](https://finance.yahoo.com/quote/SLS/)** | SELLAS Life Sciences Group, Inc. | $10.16 | -1.38 | -12.00% | 1,679,558 |
+| **[ELMT](https://finance.yahoo.com/quote/ELMT/)** | The Elmet Group Co. | $22.44 | +6.25 | +38.59% | 1,647,796 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp | $147.26 | -3.95 | -2.61% | 1,610,985 |
+| **[DV](https://finance.yahoo.com/quote/DV/)** | DoubleVerify Holdings, Inc. | $13.59 | +0.18 | +1.34% | 1,577,076 |
+| **[ORCL](https://finance.yahoo.com/quote/ORCL/)** | Oracle Corporation | $142.62 | -7.66 | -5.10% | 1,574,637 |
+| **[BNC](https://finance.yahoo.com/quote/BNC/)** | CEA Industries Inc. | $5.43 | +0.63 | +13.09% | 1,540,101 |
+| **[IREN](https://finance.yahoo.com/quote/IREN/)** | IREN Limited | $42.12 | -1.71 | -3.90% | 1,257,387 |
+| **[ARMP](https://finance.yahoo.com/quote/ARMP/)** | Armata Pharmaceuticals, Inc. | $5.87 | +0.49 | +9.11% | 1,188,739 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ELMT](https://finance.yahoo.com/quote/ELMT/)** | The Elmet Group Co. | $22.44 | +6.25 | +38.59% | 1,647,796 |
+| **[BMM](https://finance.yahoo.com/quote/BMM/)** | Blue Moon Metals Inc. | $6.40 | +0.94 | +17.27% | 317,195 |
+| **[DFTX](https://finance.yahoo.com/quote/DFTX/)** | Definium Therapeutics, Inc. | $44.00 | +5.11 | +13.14% | 430,693 |
+| **[BNC](https://finance.yahoo.com/quote/BNC/)** | CEA Industries Inc. | $5.43 | +0.63 | +13.09% | 1,540,101 |
+| **[DERM](https://finance.yahoo.com/quote/DERM/)** | Journey Medical Corporation | $8.00 | +0.77 | +10.65% | 450 |
+| **[RUM](https://finance.yahoo.com/quote/RUM/)** | RUM Group Inc. | $7.88 | +0.71 | +9.90% | 3,232,451 |
+| **[ARMP](https://finance.yahoo.com/quote/ARMP/)** | Armata Pharmaceuticals, Inc. | $5.87 | +0.49 | +9.11% | 1,188,739 |
+| **[WXIBF](https://finance.yahoo.com/quote/WXIBF/)** | Wuxi Biologics (Cayman) Inc | $6.55 | +0.54 | +8.99% | 242 |
+| **[IVBXF](https://finance.yahoo.com/quote/IVBXF/)** | Innovent Biologics Inc. | $12.75 | +0.99 | +8.42% | 219 |
+| **[TLX](https://finance.yahoo.com/quote/TLX/)** | Telix Pharmaceuticals Limited | $12.18 | +0.89 | +7.88% | 62,403 |
+| **[ESTC](https://finance.yahoo.com/quote/ESTC/)** | Elastic N.V. | $89.72 | +6.33 | +7.59% | 2,341 |
+| **[INTA](https://finance.yahoo.com/quote/INTA/)** | Intapp, Inc. | $40.00 | +2.77 | +7.44% | 2,334 |
+| **[WLY](https://finance.yahoo.com/quote/WLY/)** | John Wiley & Sons, Inc. | $50.22 | +3.19 | +6.78% | 120 |
+| **[BWIN](https://finance.yahoo.com/quote/BWIN/)** | The Baldwin Insurance Group, Inc. | $31.65 | +2.00 | +6.75% | 13,901 |
+| **[CAPR](https://finance.yahoo.com/quote/CAPR/)** | Capricor Therapeutics, Inc. | $8.90 | +0.53 | +6.33% | 163,432 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[MKDW](https://finance.yahoo.com/quote/MKDW/)** | MKDWELL Tech Inc. | $6.44 | -1.31 | -16.90% | 19,989 |
+| **[SFTBY](https://finance.yahoo.com/quote/SFTBY/)** | Softbank Group Corp | $18.50 | -3.15 | -14.55% | 16,834 |
+| **[SLOIY](https://finance.yahoo.com/quote/SLOIY/)** | Soitec, Bernin | $70.50 | -11.50 | -14.02% | 100 |
+| **[SLS](https://finance.yahoo.com/quote/SLS/)** | SELLAS Life Sciences Group, Inc. | $10.16 | -1.38 | -12.00% | 1,679,558 |
+| **[VMD](https://finance.yahoo.com/quote/VMD/)** | Viemed Healthcare, Inc. | $7.83 | -0.96 | -10.92% | 1,000 |
+| **[AENT](https://finance.yahoo.com/quote/AENT/)** | Alliance Entertainment Holding Corporation | $5.82 | -0.60 | -9.35% | 55,641 |
+| **[OLMA](https://finance.yahoo.com/quote/OLMA/)** | Olema Pharmaceuticals, Inc. | $9.27 | -0.95 | -9.33% | 17,231 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.10 | -1.03 | -9.26% | 8,249,753 |
+| **[SHAZ](https://finance.yahoo.com/quote/SHAZ/)** | SharonAI Holdings, Inc. | $54.00 | -5.41 | -9.11% | 6,484 |
+| **[NBIS](https://finance.yahoo.com/quote/NBIS/)** | Nebius Group N.V. | $204.50 | -20.05 | -8.93% | 665,379 |
+| **[GLW](https://finance.yahoo.com/quote/GLW/)** | Corning Incorporated | $151.69 | -14.71 | -8.84% | 126,351 |
+| **[ICHR](https://finance.yahoo.com/quote/ICHR/)** | Ichor Holdings | $52.30 | -5.05 | -8.81% | 13,570 |
+| **[AEHR](https://finance.yahoo.com/quote/AEHR/)** | Aehr Test Systems | $86.48 | -8.21 | -8.67% | 77,586 |
+| **[VRT](https://finance.yahoo.com/quote/VRT/)** | Vertiv Holdings, LLC | $234.94 | -22.12 | -8.60% | 156,925 |
+| **[BESIY](https://finance.yahoo.com/quote/BESIY/)** | BE Semiconductor Industries N.V. | $200.00 | -18.83 | -8.60% | 99 |
+
+Source health:
+- NYSE calendar 2026-09-14: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
+
+## 4. Latest Market News
+
+- **Google News Markets** (Sun, 13 Sep 2026 19:15:18 GMT): High priority | [US Stock Market Prediction: Dow Jones, S&P 500 & Nasdaq Futures Edge Higher Ahead Of Monday Wall Street Opening Nvidia Earnings, Fed Rate Hike, Oil Prices & Bond Yields In Focus — Check Monday Outlook - The Sunday Guardian](https://news.google.com/rss/articles/CBMi2AJBVV95cUxPcU51RWRsWEFfb2pINFlBUU9VZmVOZFBqMWd6OUNIWDBqb1d1aVVYQ25HYjV5bHpmWXF1b0k1YWdmWFlaRzd3TzVCVV9LaEh4Q2FGVEhVSkM2Q0ZGdTZQN3kySE5iNGEzRGIxLTBNMWZwaUhOREJWZGpQb3lvQXBQYmw0TTk4dVRPT0VQcEpGQmJueUNHUGFBZFdkOXRTUkFvUW1rc0JWXzhZMEw5Rk45TmxEZjNmbU9CdWR6TW02bGtvdThNNGo0N3RCUTZma1ZCekVfU1RMbGRUbTJERXVsS3hEZTlScDJXMS1RdU1nTDZuWFdrWldvM0h0elZISnNfT010TDItQk4yTEx5X3EwUjZmRzhTMmIzSGM4eFVXSjkyZUw4ZjFLTHFzTC00eFBvOUJSN3U1U1RMTlpOYTBiZXZOVDRkWmg4Mm13dDR5d0dRRVRsOTBEWNIB3gJBVV95cUxOOUI2NVpmVko1cElreHkwb1VETXVfMTMxOVZxTHlhaV82UEJLMlBWa3h4MVpDUms3VTdXeHJzY0FhR2poYU53bEpQVUlObm9LSkdaQlNJd1VrZW4zWkR4Uzl5YmsxeWdZRVJBR09vRWFUSG1FRElnQS1VamFpWEJZallYT3d2TFJrTUh1S2sxeDBjYzJobHJLZHBZeW4zdGdWcEVQZzFfUDB3M3dPbWlQUS1DczNiM0Jla0lnT1dxSXdXaWVpY05vQmJNQ3o0anZySXM5aTA0T015M2Zya05Ia2VudWxQZFFqTHNhb2xQVjhBSmtWQ2xnMEt0SVcyRVgzYWRqZWZvbWNPVnJvWWpsQ0piUXRkWGVva3ZfWXdqWjYzWW41ODZmQ3M0QjdoQkdENEpuOFhLYnp1TmhUcnVxdHZzcVA0SmJhZDBXNmx0Mm9jbXlOcVNIWW9ZUkxjZw?oc=5)
+- **MarketWatch Top Stories** (Mon, 14 Sep 2026 10:35:00 GMT): High priority | [Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.](https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories)
+- **Google News Markets** (Mon, 14 Sep 2026 10:08:44 GMT): High priority | [With the Federal Reserve poised to raise interest rates, is the U.S. stock market bull run at risk? Goldman Sachs counters: Earnings growth is the key! - 富途牛牛](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRC1jR3ZDY0gzSzk5SzFsTjVnRzh6YnB5aTROS1BacHp2MUhxbUVoWlRRanpzaXB3NmRTTmtoZTlFX2QtN3lzYUlSX2pVRGZIS1lCVjNGV1ZtVXlkLWEwVkJvVTljRUFodmw0UEJOV2ZyclFvZjF6LXdFWWJybHpBejNoWUs4Z09GUUVRakxBemVNR180WjJfbl9hT2llNkJl?oc=5)
+- **Google News Markets** (Sun, 13 Sep 2026 13:05:54 GMT): High priority | [Federal Reserve rate hike is about Wall Street, not inflation, economist argues - Crypto Briefing](https://news.google.com/rss/articles/CBMidkFVX3lxTE12bXQ0T3hvR2VmS24wUzVmMlVDUGFTdUNidy1URGZUZlNkX01nc1YzdHBabGhnVzYyYk1qa2lDdXB0R0RiRFNrMWxSY1JhLUdZSU1VZ1ktLXJ1M0R2d3Nady05TkhISldCSXpSdXVkT2J2dGVGNUE?oc=5)
+- **Federal Reserve** (Fri, 11 Sep 2026 14:00:00 GMT): High priority | [Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm)
+- **Google News Markets** (Mon, 14 Sep 2026 11:21:44 GMT): High priority | [Citigroup warns AI slowdown could pressure stock market gains built on earnings optimism - Crypto Briefing](https://news.google.com/rss/articles/CBMid0FVX3lxTE9WZGtzT1FDRDBuVFpONG1iVEUyajg5WE5JV1VEWGxFRW9ybE9qZ3lycGR5d0hNYVRkLTltVC1hX1JBV3BpNWdTMm9MSGs1WEh6V05YSjFzS0FNWk9nLXhnSXpDTnBkc1JXR0FSMUJqZGJPLWI1UmVF?oc=5)
+- **Google News Markets** (Mon, 14 Sep 2026 09:30:37 GMT): High priority | [Wall Street Stays Bullish on Stocks Despite Near-Certain Fed Rate Hike, Citing Strong Earnings - bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wX0NoUU1EMm5mOExpX21WLTZ1dVB1MUlVN2NNeXg2cDVPMG5BWnpDQTVBMi1TZVRKMnAwSlR5V3Y0QWlhV2JnNUtxb1BIM1VHbjlubw?oc=5)
+- **Google News Markets** (Mon, 14 Sep 2026 09:24:26 GMT): High priority | [Hyundai Motor Securities analyzed that the Federal Reserve's (Fed) September rate hike is becoming a.. - 매일경제](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtN3FTbGdSX0M3LVB2ZF9QX3ZpX2wtbzFMcGFNQzlZWjFMTllPQXVCMGRycC1wb1JiQlRTWnNxbGFBQVZOaGc1UHQzTE43c0E?oc=5)
+- **Google News Markets** (Mon, 14 Sep 2026 08:13:28 GMT): High priority | [The US Federal Reserve's policy meeting due on Wednesday, September 16; how will it impact stocks, gold, and rupee? - Livemint](https://news.google.com/rss/articles/CBMikgJBVV95cUxPekhjYS1xQzlPX05RMXJvcWlCWHI0WVM3VUxfYVR0R2owYkpqR0RqdHZnWlh5OWU2YnBmRjdGQWtoZktFNUpFZFJxYXVnUmVELWl1U181ODlPSFpIVmM0MWNRQklNSGRYdllmYzVSQVZoSS1rMGpoMlJqYW1CUERJcXgzRUduU19mclItcHk1ZTcyQWw3VHBhdW5nWF9ocFZ6VjNuVmw2YXh1NmNYZmxxMWNQUXc5dXdmRlNEbGFzR1VMNEUzQ2lJZmp2MWEtT1hmSmhqY3ZIeHhPV0xjdldSTkxzd1UtTmJsM2dDY0JQS1JwNTI0QVpSa3M2YlIyUklFNWZhSVdmcV94NDVFSjZLSEd30gGXAkFVX3lxTFBicFdCTlRhTFV1MFprZG9lcE55ZGdhM1g4aEF0VzNrMGF0bnVCTWhOMkJVczB3V3pzNEdSZTFwUEREWHJUcEY3b1hPUUR1Wjh2WjdHejBTaHVRZEQwZFpQR0lURUc0YlNqSzFIME1MQXZvYkFRdWJ4bDJtaHV4N2dJR19wOTNXaWVlaC1rbFM2dGFvNzcwR3hCVXN6VUJRTktiM2Q1MWVfWG5xVm1hY29UV1RmXy1BRHFCQTVacF9jTFRQeTltMlllUVBhMktjdkRaM00teEhxek9NOUNiYmdyZzljcmhxbHVUeF9iSE8zU3ZfOTlYRW9pUk1fMU1fbGR0Z1BqWjVIVzFiZVZSdmY4c1Y1UWpoVQ?oc=5)
+- **Google News Markets** (Mon, 14 Sep 2026 04:12:35 GMT): High priority | [10-year US Treasury yields approach 5%, US stocks pull back: Goldman Sachs remains bullish against the trend—an “insurance-rate hike” or the restart of the tightening cycle? - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0eXhoazZoQkhJUDRTdlBRdnhWN0NrbnpKQW5FbG9OSFRwRjVHejA2dkRjQ05vZVNVcVYzLVg2VzRhNVZmQlNXT0xadVl3OWx3d0MxSXNWanp1c3E2VGo3MFhVc9IBY0FVX3lxTFA0eXhoazZoQkhJUDRTdlBRdnhWN0NrbnpKQW5FbG9OSFRwRjVHejA2dkRjQ05vZVNVcVYzLVg2VzRhNVZmQlNXT0xadVl3OWx3d0MxSXNWanp1c3E2VGo3MFhVcw?oc=5)
+- **Google News Markets** (Mon, 14 Sep 2026 03:44:00 GMT): High priority | [US Stock Market: Wall Street braces for Fed hike as rising yields threaten stock rally - The Economic Times](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQS3Yza29uczBCRUExQWJpSF9sZkJDOU1TbkE2Q1BrOVBpZ2RsQ1Rzb2FuZnRFTXRtX3hFbHRKWFhQY041VTFWVjV1Zm1ISnBFWGNLVzVoOUM1ZUxUQXYwdjh4elplbUNONmQxQkZFaF9QeTVNMC1IN2JFbm1tS2ZRdVpFeHRmYzZwcHU5Xy1Hcks2bHZhU0JLbXNqLUc2MzNVVUJpbjllUllsek5WeFdzcU5UeWJGVWJuZWtkLWszcnMtYkwxUV9xYzlQVThSOExuQzVlWFFZQlRMblN6OGZrOFh6R01Gazg1XzJhbG9fbkhIOVBScUVEYWpNbVhHaW9WYzl0cUVKSUs2VTTSAYsCQVVfeXFMUEt2M2tvbnMwQkVBMUFiaUhfbGZCQzlNU25BNkNQazlQaWdkbENUc29hbmZ0RU10bV94RWx0SlhYUGNONVUxVlY1dWZtSEpwRVhjS1c1aDlDNWVMVEF2MHY4eHpaZW1DTjZkMUJGRWhfUHk1TTAtSDdiRW5tbUtmUXVaRXh0ZmM2cHB1OV8tR3JLNmx2YVNCS21zai1HNjMzVVVCaW45ZVJZbHpOVnhXc3FOVHliRlVibmVrZC1rM3JzLWJMMVFfcWM5UFU4UjhMbkM1ZVhRWUJUTG5TejhmazhYekdNRms4NV8yYWxvX25ISDlQUnFFRGFqTW1YR2lvVmM5dHFFSklLNlU0?oc=5)
+- **Google News Markets** (Mon, 14 Sep 2026 03:08:36 GMT): High priority | [The Federal Reserve’s rate hike this week is imminent! Wall Street debates: Will it end the U.S. stock market bull run? - Moomoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDRWSEprTE92emdOTVFBS2lMZkpoalJXOUprZXROdWFiRUdxaDBDSWY1SWxibXZZbFpaQ0otM0ttSjZMeE1yd0haSzQzcjNoeXdFeHVJWnpXel9QQWp5b0ozMUtFZXg3ZDhlVVhOaEhLTlJfT0tmdHBQM2VZU0ZnbFlUUG1paUZtNGU0UFh2dnF3UmFHUEpnTFlVSQ?oc=5)
+
+## 5. Economic Calendar
+
+### Today (2026-09-14)
+- No major events returned by configured sources.
+
+### Tomorrow (2026-09-15)
+- **11:30** 3-Month Bill Auction | Previous: 3.800% | Source: Nasdaq
+- **11:30** 6-Month Bill Auction | Previous: 3.890% | Source: Nasdaq
+
+## Source Health
+
+- NYSE calendar 2026-09-14: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- MarketWatch Top Stories: ok
+- Google News Markets: ok
+- Federal Reserve: ok
+- Nasdaq economic calendar 2026-09-14: ok
+- Census economic indicators: ok
+- Nasdaq economic calendar 2026-09-15: ok
+- Census economic indicators: ok
+- Nasdaq earnings 2026-09-14: ok
+- Nasdaq earnings 2026-09-15: ok
