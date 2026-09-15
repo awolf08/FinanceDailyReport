@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-09-15
 
-_Generated: 2026-09-15 06:01:26 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-09-15 06:06:01 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -41,6 +41,73 @@ _Generated: 2026-09-15 06:01:26 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:06 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:05 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $9.92 | +0.27 | +2.79% | 4,007,088 |
+| **[SNAP](https://finance.yahoo.com/quote/SNAP/)** | Snap Inc. | $5.90 | +0.06 | +1.03% | 2,143,077 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $99.02 | +1.83 | +1.88% | 1,718,476 |
+| **[CCXI](https://finance.yahoo.com/quote/CCXI/)** | Churchill Capital Corp. XI Class A | $12.05 | +0.05 | +0.42% | 1,511,757 |
+| **[FPS](https://finance.yahoo.com/quote/FPS/)** | Forgent Power Solutions, Inc. | $31.09 | +2.45 | +8.55% | 1,100,887 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $212.56 | +1.60 | +0.76% | 1,067,309 |
+| **[TRMD](https://finance.yahoo.com/quote/TRMD/)** | TORM plc | $32.74 | -2.60 | -7.35% | 1,041,421 |
+| **[BMNR](https://finance.yahoo.com/quote/BMNR/)** | BitMine Immersion Technologies, Inc. | $24.80 | -0.96 | -3.74% | 977,140 |
+| **[PSNYW](https://finance.yahoo.com/quote/PSNYW/)** | Polestar Automotive Holding UK Limited | $5.05 | +1.07 | +26.88% | 976,718 |
+| **[VERA](https://finance.yahoo.com/quote/VERA/)** | Vera Therapeutics, Inc. | $39.60 | +5.55 | +16.30% | 916,720 |
+| **[STLA](https://finance.yahoo.com/quote/STLA/)** | Stellantis N.V. | $5.29 | +0.03 | +0.57% | 677,902 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp | $148.82 | +0.67 | +0.45% | 642,129 |
+| **[RKLB](https://finance.yahoo.com/quote/RKLB/)** | Rocket Lab Corporation | $63.80 | +1.25 | +2.00% | 476,531 |
+| **[SKHY](https://finance.yahoo.com/quote/SKHY/)** | SK hynix Inc. | $177.70 | +2.07 | +1.18% | 448,135 |
+| **[MARA](https://finance.yahoo.com/quote/MARA/)** | MARA Holdings, Inc. | $11.40 | -0.10 | -0.88% | 444,268 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[PSNYW](https://finance.yahoo.com/quote/PSNYW/)** | Polestar Automotive Holding UK Limited | $5.05 | +1.07 | +26.88% | 976,718 |
+| **[VERA](https://finance.yahoo.com/quote/VERA/)** | Vera Therapeutics, Inc. | $39.60 | +5.55 | +16.30% | 916,720 |
+| **[RLGT](https://finance.yahoo.com/quote/RLGT/)** | Radiant Logistics, Inc. | $9.30 | +1.09 | +13.28% | 144,520 |
+| **[WAY](https://finance.yahoo.com/quote/WAY/)** | Waystar Holding Corp. | $27.87 | +2.97 | +11.94% | 87,062 |
+| **[SFTBY](https://finance.yahoo.com/quote/SFTBY/)** | Softbank Group Corp | $20.29 | +1.92 | +10.43% | 10,388 |
+| **[FPS](https://finance.yahoo.com/quote/FPS/)** | Forgent Power Solutions, Inc. | $31.09 | +2.45 | +8.55% | 1,100,887 |
+| **[PMTS](https://finance.yahoo.com/quote/PMTS/)** | CPI Card Group Inc. | $25.90 | +1.64 | +6.76% | 5,121 |
+| **[ALMU](https://finance.yahoo.com/quote/ALMU/)** | Aeluma, Inc. | $13.37 | +0.83 | +6.62% | 48,792 |
+| **[OESX](https://finance.yahoo.com/quote/OESX/)** | Orion Energy Systems, Inc. | $26.94 | +1.65 | +6.52% | 400 |
+| **[TLX](https://finance.yahoo.com/quote/TLX/)** | Telix Pharmaceuticals Limited | $12.54 | +0.76 | +6.45% | 14,345 |
+| **[OBIO](https://finance.yahoo.com/quote/OBIO/)** | Orchestra BioMed Holdings, Inc. | $6.27 | +0.37 | +6.27% | 9,352 |
+| **[AGPU](https://finance.yahoo.com/quote/AGPU/)** | Axe Compute Inc. | $11.42 | +0.66 | +6.13% | 3,848 |
+| **[GMTL](https://finance.yahoo.com/quote/GMTL/)** | Guardian Metal Resources PLC | $11.20 | +0.64 | +6.06% | 17,373 |
+| **[IVBXF](https://finance.yahoo.com/quote/IVBXF/)** | Innovent Biologics Inc. | $12.47 | +0.71 | +6.04% | 370 |
+| **[PDM](https://finance.yahoo.com/quote/PDM/)** | Piedmont Realty Trust, Inc. | $9.75 | +0.55 | +5.98% | 14,923 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ENVA](https://finance.yahoo.com/quote/ENVA/)** | Enova International, Inc. | $177.24 | -49.48 | -21.82% | 5,955 |
+| **[PLAY](https://finance.yahoo.com/quote/PLAY/)** | Dave & Buster's Entertainment, Inc. | $7.39 | -1.08 | -12.75% | 244,678 |
+| **[KMTS](https://finance.yahoo.com/quote/KMTS/)** | Kestra Medical Technologies, Ltd. | $21.70 | -2.36 | -9.81% | 4,246 |
+| **[MNR](https://finance.yahoo.com/quote/MNR/)** | Mach Natural Resources LP | $11.29 | -1.20 | -9.61% | 298,145 |
+| **[TRMD](https://finance.yahoo.com/quote/TRMD/)** | TORM plc | $32.74 | -2.60 | -7.35% | 1,041,421 |
+| **[GNW](https://finance.yahoo.com/quote/GNW/)** | Genworth Financial Inc | $9.90 | -0.70 | -6.60% | 30,866 |
+| **[FJTSF](https://finance.yahoo.com/quote/FJTSF/)** | Fujitsu Ltd. | $24.90 | -1.72 | -6.47% | 100 |
+| **[CTNM](https://finance.yahoo.com/quote/CTNM/)** | Contineum Therapeutics, Inc. | $14.00 | -0.82 | -5.53% | 139 |
+| **[BSTZ](https://finance.yahoo.com/quote/BSTZ/)** | BlackRock Science and Technology Term Trust | $28.76 | -1.68 | -5.52% | 1,300 |
+| **[ARES](https://finance.yahoo.com/quote/ARES/)** | Ares Management Corporation | $124.69 | -6.83 | -5.19% | 460 |
+| **[AZ](https://finance.yahoo.com/quote/AZ/)** | A2Z Cust2Mate Solutions Corp. | $5.50 | -0.30 | -5.17% | 100 |
+| **[RPD](https://finance.yahoo.com/quote/RPD/)** | Rapid7, Inc. | $12.13 | -0.66 | -5.16% | 60,648 |
+| **[TTDKF](https://finance.yahoo.com/quote/TTDKF/)** | TDK Corp. | $18.08 | -0.97 | -5.10% | 300 |
+| **[SHECF](https://finance.yahoo.com/quote/SHECF/)** | Shin-Etsu Chemical Co., Ltd. | $36.49 | -1.95 | -5.07% | 300 |
+| **[CART](https://finance.yahoo.com/quote/CART/)** | Maplebear Inc. | $47.00 | -2.48 | -5.01% | 31,281 |
+
+Source health:
+- NYSE calendar 2026-09-15: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
 
 ### 6:01 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:01 AM ET.
@@ -114,6 +181,7 @@ Source health:
 - **Google News Markets** (Mon, 14 Sep 2026 16:16:46 GMT): High priority | [Why is US Stock Market Down Today? Dow Jones Falls 300 Points, S&P 500 Drops 0.80%, Nasdaq Slips 1.20% as Oil Surges, Treasury Yields Hit, Chip Slide & Fed Rate Hike — Check What Investors Should Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNUlNyNFkxT3RuRHFpNW1ad1hpcEhrdDFXYnVOT09iUFVIajBBTThRZi1XTUhXeEp3SE9mdmRzSzIxZlNHWFNTR1pVSDlJQjlWWmxKaXhadHZEWnJXWU13WDh6WE5LZC1fam45WHVXbWxOWEhzOFNMVHVOVzYzSmZtUmNQelZvMGdZYVJhT2FqMlMxY2xRMmJEYS1RTFl3ZTIzQjZMSUd6dG9aNG96am5YLWhvVUpqdzlTM2VLRnk0WGdVcFBGMktuYmhIRTRUekVBb3hra29nMGwzdFlOV1EtSUlHX2dXUjJ5NUszNGkzcm55RWxURkxNY1hBVm13X1MydkV6T3VBbHVpcTlXQzNSUkM1VnE3QXppemJSYnhsVVk1LUtXcm00ZW1oeHRxVGJ3ZDBSRlpqWEQzY2RTT3JwUGxSSmw2WDRPUGJKYy1YWFBCUnZK0gHaAkFVX3lxTFBfaklJLWRBaFY2d0I4RHJXX2ZyQ18tbDI1SjlreTZVSmstSlBhanBNMFlqZ0VZTGYwczNfVU1vbFhNOEdGTV94OGNKVkRGV1pqUmZCVUo2a3RsdEpBOEx0OTNEazZpWkFZWjF5NmthSDlDTGFYdXZZdnUza3hVc3dORkVwZ25QLWFQcTNRVDdPMmFRQU9zQUVkZjVZbjItSHJpdFF1ejE0T3Z3Zy1GRXEzQzJpWTQxZWxuR1JSeW9TMDZuSDFxR3pmcFBoeUpiRXdObzRmaV9tWTZOanFMQWNsc2EzeHJ0dlBYdjBDWEVuMnFnLUJ3NWNqcnNSWEUwQkdSUlJ5NzEzVnJlMkdzdHJQNlQxT2s5c2FMTEhqZkxzTlNjRnZQd19sWUlwdmlkSm5RSG43RENNVS1FQWJXeEVPU05ZQm5JTVBOMlRQU2ZVV2ttTnNWZDI3VUE?oc=5)
 - **Google News Markets** (Mon, 14 Sep 2026 16:25:48 GMT): High priority | [10-year Treasury yield hits highest level since 2023 as US Federal Reserve decision looms - livemint.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR3BKMU9PTFFXZ2JpZGc3a181bjV3c1FzYjdIUnhBeXkyMVd6RFVQMjJVRDZxTGVLaFBHMXRWZjJ3N2NSVUVLX2J2NFRETVNKSndLTFZVMUk5Tnd0YlpYcnZKSWhfc2hRZVFSLTdwTkNFS1dMWXFvdUJHaHl4dFlzeG8yNGFBYU50SHVMajNIOGJTQllNYVZKbENTdjN2R3VqNTl6dC1ZU29sMkZlRmk4S1M1c3JEMlRzSWFaaHdrTlFvXzhUbUdWYjFKZGlSdDBTN1VNcjAydFBIc3JZb3ZoQkVHU2hoeUNtblc2emVlb9IB9AFBVV95cUxOcWJFdnZDc2N6TUczSWoya2M3R0RfdTRjRzdzS0Y4clRPOEVhendKcVR1dTU1MWgxWVdKNDRpV0VaOWRzSVplWFFzdTg1VVJ6cjNZbDVtT1FuUXc1Ynh3WmZtM3VYbXQ2UlNOdUpicm54VGNaV1hnOTl4NFJaQlZsenUtd1N5NllRbWJvU0JXUGdJbVU0empnR2VKVkNodzBTMGNmWExmT2VCcHZYaHNxWmxwZkktYlo2clUxa04wYnNuUlcySFNZZkF4WWo0NzJvQUY2NkJyaUlha2dRWjE3cXNBNURhN2dELTVVSFJmUkFkaXlK?oc=5)
 - **Google News Markets** (Tue, 15 Sep 2026 09:15:40 GMT): High priority | [European Stocks Fall as Oil Tops $113 Ahead of Federal Reserve Meeting: DAX, CAC, FTSE100 - Yahoo Finance UK](https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTVNUnZVdXU4dUl4VmVOc1FmZG4yZi1uelVtd3RCOFo1TWlsbEZ3NURMc1JwSWF6ZlU2amxLTDU4Z2xLRGlyVDZYSzFSakdIdG5qODlRQjA4WGd2TGdCT3B3eTZhUGZVb2JzV0N6SGJpOHBBVWhPbTJLd3huT3djcVAyT3k?oc=5)
+- **MarketWatch Top Stories** (Tue, 15 Sep 2026 13:03:00 GMT): High priority | [Saudi Arabia may be just days away from not being able to export much oil](https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories)
 - **Google News Markets** (Tue, 15 Sep 2026 11:25:00 GMT): High priority | [Federal Reserve expected to raise benchmark rate, despite Trump's call for cut - tribdem.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZFlGb1NxTG0taWJSdnhEWjU0N3JmSHNyeUZ1ZlhlS3ViUGhNaGo4aHVlcWFpT0lpRHYwd1hicWx1R2pGRkd6MEZWdmlZdUZzMnRWaG1xbXhRZE01YnNSMjRNRkh0Q19pRXZaVTlrU2x4cVhkc1hlRW1sbzBYY002N2dlVnFuRGg4TkhjVU5SeHQyRlAzN3BsQzJHM2RHUlpsTmUtanRsRS02ZTI2eUlOMG5yR2p1ZXFaaFRTU2JSWnVNX1hoajF1U2NjY3dFTTZHb2dsd1JZd1VnbGoyOW10eVFPdWl1aW5ySE00?oc=5)
 - **Google News Markets** (Tue, 15 Sep 2026 10:12:00 GMT): High priority | [Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow. - The Motley Fool](https://news.google.com/rss/articles/CBMipgFBVV95cUxNRk9SQXdpS0ZwMjBha3hTN0tuWlA2S0ZmTVprTlVQdEZFMVBWZzdERTZOVkVnekFOOFh0WlRQbzlvUGNwdmMwOThiT2dqNnVFVWhnV01Da2VfMGQwYmRHYzRjLUk5cThocnhfX2JOY0dJd2lVSmdOWXJvOTRQRVFiY0pWa0NBV2loY3hveTFOV2Y1Y0ZrUkVFMGJKXzFheE5YWXVRQklR?oc=5)
 - **Google News Markets** (Tue, 15 Sep 2026 09:17:26 GMT): High priority | [What if the Federal Reserve doesn't hike rates? - CNBC TV18](https://news.google.com/rss/articles/CBMilwFBVV95cUxON0cwWkNqNmNSMXBrYVh5S0pLdWp6N0NpUi14LWFqM3JwMlVxS0RTZ2lnWEpWM1pxUE83Vk9TVWJnVWRlTmdRcDlKREY0cHhNcHJFOXlnRkdEem5BZUhkZnFaeE52eHFSWTlmam9kUUt4ZnFlWWdaZE9sWEVyTkEtN1J6X18xSDFaZWxENWNQVW1VZUtXLTc40gGcAUFVX3lxTE5iQ3dBUjgzbTNZQ1kwV2ZPNEpoOEY1aVhpc2pNaXotLVA4WE5TVjFjeGhsV3l3UFlvUWZaSHNHcFEtWVVCMEtCRlJlQWNsTmR2eFB6VFpSQ250MVdPbzJYMjlIenZTd2VGckc3NEpXREdOVVMyUUg4dlpGbktvcFp5cy1nMEVUb2hRbzdBODVIMk8teUlhTnYzQ3RIVA?oc=5)
@@ -122,7 +190,6 @@ Source health:
 - **Google News Markets** (Tue, 15 Sep 2026 05:58:02 GMT): High priority | [Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga](https://news.google.com/rss/articles/CBMitwFBVV95cUxObnFlZHNaXy1wampZVmRWcThxQ05hbURudGdSZndLMVFyM1o5TFJUaUJRVkJjbFE4N0s1N1BxR1pkMWZXYklMaWM5TDlTa3YxVjlIbUVCZ1k5d0xtRWNqZE94VWhpaU5iRl93YnUzMkZkQ0VxUG1IT25KaUI1UXFieTZHN2Z1NXdwODdLbnJ4dVBYU1FWNS1vUGpXWkt5ZF9WTTduTl9rVk9zU3VVM1R0ejMta29Ud1U?oc=5)
 - **Google News Markets** (Mon, 14 Sep 2026 18:36:00 GMT): High priority | [The Chances of a Federal Reserve Rate Hike Are Surging. Here's What It Means for the Stock Market. - The Motley Fool](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXlMQW1ZTEFnd2JwVnBkYlRoTEQ5dDlyTFctSlJobUxGUWpnRnhYb0g3dTVYMzRzMjBCdUNZTElaSEd3ZlpwUjFSeW01ODBhUm5RSENOSFZNWFNzQ3ZMVTJWQTZrek5aU1ZnQ20xWXN3SVNhWGFmQ3dzTGtOYXZhSGtlV1RqdUtWb2prRE5mcm4yUQ?oc=5)
 - **Google News Markets** (Mon, 14 Sep 2026 17:57:31 GMT): High priority | [Will Morgan Stanley stock hold $202.24 support as Federal Reserve outlook weakens rate support? - Traders Union](https://news.google.com/rss/articles/CBMijgFBVV95cUxPUHRjZmxJSS1GckJPQi0tdnpJMDJfb3hPUjh6VzBxRUhpbS1MX0dSUVN6SlQ0ekRxcUx0ZDZ3QTRmYmlmb0Fxd1cza0g0cFRXb09UT2VpZjZsQXZ2S3FfeUR6UVpKZDFMNnQtNFlCN0daNTRaSkN4RXV2XzhkWTMzalBrb2JqTHRqc1M0T1hB?oc=5)
-- **Google News Markets** (Mon, 14 Sep 2026 17:27:15 GMT): High priority | [Financing the Future of Agriculture: Delaware Agriculture shares feedback with the Federal Reserve Bank - University of Delaware](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlVvNjJyR01pT0ZiRDZ1OGM1OFpoLWNhT2VWMk0td0hERVdBMzJEZ0ZEOGdybFFsajN0bmpwMWZDQTU3Wk9hOG5FeGZ1Yk42NWtRZlNCZU5iTjVMRmRseDR1TllNSy1hSlJQWTk3Sl9JSmFhZE9xRlVFTlpGa2xMYWdOTGdrUXJLMkRfcHVrWXMwNmFELW5vVEZlZWp4aFNnZF9F?oc=5)
 
 ## 5. Economic Calendar
 
@@ -146,7 +213,7 @@ Source health:
 - TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
 - TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
 - TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
-- MarketWatch Top Stories: unavailable - 400 Client Error: Bad Request for url: https://feeds.marketwatch.com/marketwatch/topstories/
+- MarketWatch Top Stories: ok
 - Google News Markets: ok
 - Federal Reserve: ok
 - Nasdaq economic calendar 2026-09-15: ok
