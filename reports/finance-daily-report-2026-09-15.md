@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-09-15
 
-_Generated: 2026-09-15 10:40:05 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-09-15 11:41:27 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -43,6 +43,73 @@ _Generated: 2026-09-15 10:40:05 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 11:41 AM Regular Snapshot
+- Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 2:41 PM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $9.85 | +0.20 | +2.12% | 66,775,436 |
+| **[AAL](https://finance.yahoo.com/quote/AAL/)** | American Airlines Group, Inc. | $12.77 | -0.34 | -2.56% | 62,442,720 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $96.89 | -0.31 | -0.31% | 57,589,106 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $212.12 | +1.15 | +0.55% | 55,960,603 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies | $144.43 | -3.72 | -2.51% | 55,420,945 |
+| **[PATH](https://finance.yahoo.com/quote/PATH/)** | UiPath, Inc. | $14.56 | -0.10 | -0.72% | 55,188,967 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $7.30 | +0.07 | +1.04% | 54,653,204 |
+| **[RIG](https://finance.yahoo.com/quote/RIG/)** | Transocean Ltd (Switzerland) | $5.86 | +0.41 | +7.43% | 48,842,237 |
+| **[KVUE](https://finance.yahoo.com/quote/KVUE/)** | Kenvue Inc. | $17.83 | -0.08 | -0.42% | 39,349,113 |
+| **[SOFI](https://finance.yahoo.com/quote/SOFI/)** | SoFi Technologies, Inc. | $17.25 | -0.40 | -2.25% | 35,656,837 |
+
+#### Most Active ETFs
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[BITO](https://finance.yahoo.com/quote/BITO/)** | ProShares Bitcoin ETF | $10.20 | -0.40 | -3.82% | 90,380,203 |
+| **[IBIT](https://finance.yahoo.com/quote/IBIT/)** | iShares Bitcoin Trust ETF | $43.03 | -1.72 | -3.83% | 52,879,432 |
+| **[SOXL](https://finance.yahoo.com/quote/SOXL/)** | Direxion Daily Semiconductor Bu | $101.49 | +0.36 | +0.36% | 47,171,174 |
+| **[ETHA](https://finance.yahoo.com/quote/ETHA/)** | iShares Ethereum Trust ETF | $18.04 | -1.13 | -5.89% | 47,026,445 |
+| **[TSLL](https://finance.yahoo.com/quote/TSLL/)** | Direxion Daily TSLA Bull 2X ETF | $9.27 | -0.10 | -1.12% | 45,959,575 |
+| **[SOXS](https://finance.yahoo.com/quote/SOXS/)** | Direxion Daily Semiconductor Be | $51.52 | -0.21 | -0.40% | 36,830,063 |
+| **[QID](https://finance.yahoo.com/quote/QID/)** | ProShares UltraShort QQQ | $14.75 | +0.19 | +1.30% | 33,487,784 |
+| **[TQQQ](https://finance.yahoo.com/quote/TQQQ/)** | ProShares UltraPro QQQ | $67.92 | -1.35 | -1.96% | 31,581,575 |
+| **[HYG](https://finance.yahoo.com/quote/HYG/)** | iShares iBoxx $ High Yield Corp | $78.43 | -0.10 | -0.13% | 28,262,000 |
+| **[SNXX](https://finance.yahoo.com/quote/SNXX/)** | Tradr 2X Long SNDK Daily ETF | $13.02 | -0.71 | -5.21% | 27,316,484 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[FPS](https://finance.yahoo.com/quote/FPS/)** | Forgent Power Solutions, Inc. | $32.63 | +3.99 | +13.93% | 24,774,635 |
+| **[SWKS](https://finance.yahoo.com/quote/SWKS/)** | Skyworks Solutions, Inc. | $87.58 | +8.32 | +10.50% | 8,559,241 |
+| **[TENB](https://finance.yahoo.com/quote/TENB/)** | Tenable Holdings, Inc. | $38.67 | +3.59 | +10.23% | 4,634,039 |
+| **[TLX](https://finance.yahoo.com/quote/TLX/)** | Telix Pharmaceuticals Limited | $12.85 | +1.07 | +9.08% | 901,250 |
+| **[KRMN](https://finance.yahoo.com/quote/KRMN/)** | Karman Holdings Inc. | $37.98 | +3.24 | +9.33% | 2,555,944 |
+| **[WAY](https://finance.yahoo.com/quote/WAY/)** | Waystar Holding Corp. | $26.91 | +2.01 | +8.07% | 4,107,541 |
+| **[CAI](https://finance.yahoo.com/quote/CAI/)** | Caris Life Sciences, Inc. | $28.19 | +2.14 | +8.21% | 6,192,575 |
+| **[RVTY](https://finance.yahoo.com/quote/RVTY/)** | Revvity, Inc. | $139.18 | +10.69 | +8.32% | 1,705,401 |
+| **[ILMN](https://finance.yahoo.com/quote/ILMN/)** | Illumina, Inc. | $225.46 | +17.25 | +8.28% | 1,954,374 |
+| **[MRCY](https://finance.yahoo.com/quote/MRCY/)** | Mercury Systems Inc | $87.44 | +6.41 | +7.91% | 610,282 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[ENVA](https://finance.yahoo.com/quote/ENVA/)** | Enova International, Inc. | $173.09 | -53.63 | -23.66% | 1,486,506 |
+| **[ALHC](https://finance.yahoo.com/quote/ALHC/)** | Alignment Healthcare, Inc. | $10.09 | -2.85 | -22.06% | 16,183,528 |
+| **[WING](https://finance.yahoo.com/quote/WING/)** | Wingstop Inc. | $100.80 | -13.91 | -12.13% | 1,863,509 |
+| **[ASND](https://finance.yahoo.com/quote/ASND/)** | Ascendis Pharma A/S | $237.41 | -27.51 | -10.38% | 1,951,419 |
+| **[CRCL](https://finance.yahoo.com/quote/CRCL/)** | Circle Internet Group, Inc. | $86.67 | -10.75 | -11.03% | 12,308,891 |
+| **[RML](https://finance.yahoo.com/quote/RML/)** | Resolution Minerals Ltd American Depositary Shares | $6.69 | -0.77 | -10.32% | 72,920 |
+| **[BOOT](https://finance.yahoo.com/quote/BOOT/)** | Boot Barn Holdings, Inc. | $128.66 | -14.18 | -9.92% | 1,244,437 |
+| **[COIN](https://finance.yahoo.com/quote/COIN/)** | Coinbase Global, Inc. | $173.14 | -18.31 | -9.57% | 9,043,861 |
+| **[ARWR](https://finance.yahoo.com/quote/ARWR/)** | Arrowhead Pharmaceuticals, Inc. | $72.78 | -7.89 | -9.78% | 2,628,663 |
+| **[CAVA](https://finance.yahoo.com/quote/CAVA/)** | CAVA Group, Inc. | $49.99 | -4.90 | -8.93% | 4,803,001 |
+
+Source health:
+- NYSE calendar 2026-09-15: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- Yahoo Finance Most Active Stocks: ok - 10 rows at or above $5
+- Yahoo Finance Most Active ETFs: ok - 10 rows at or above $5
+- Yahoo Finance Stock Gainers: ok - 10 rows at or above $5
+- Yahoo Finance Stock Losers: ok - 10 rows at or above $5
 
 ### 10:40 AM Regular Snapshot
 - Yahoo Finance regular-session market lists captured during the regular session. Latest source timestamp: Yahoo Finance market lists as of 1:39 PM ET.
@@ -247,18 +314,18 @@ Source health:
 
 ## 4. Latest Market News
 
+- **Google News Markets** (Tue, 15 Sep 2026 16:26:46 GMT): High priority | [Why is US Stock Market Down Today? Dow Jones Falls 500 Points, S&P 500 Drops 0.46%, Nasdaq Slips 0.75% as Oil Surges, Treasury Yields Hit & Fed Rate Hike Bets Rise — Check What Investors Should Know - The Sunday Guardian](https://news.google.com/rss/articles/CBMi0wJBVV95cUxPamwySWtWd2pGU2U5R2tGX0FKb1BoUmdsVndjTWR5WWJ4M0NlTmU5bXRDLVdsSFNhQTl1TzAxdHR2eVQ2bURNWUFHT2Nad1BHbTJQMEZ4bjNJblFJTTZmN1ZsbW1LN3ZNOHZLZUFtdHlFNC0ybXp6Y1h5amUtQjJFTDZURThjXzVRc2dLSFZIajUxTUVBblhPcEFuY0RiYVF1RGFtZXVWZmtKdXYxbkhsaDM5cDB0bVZQVC1MTnBIMUJKeUw1Y0pRSXRfdHJfd3Z3Wmw4OTNfMVhKaUFHMlBxYzI1ZnppVE53bXh3YXNTaWVTRHV6Q2FNLTZ4aThPOUl0SFc1NndKaC1sRTBxNE90MEw5ZlNxeE9yWGtYY3FuUG4zZVF3OV9Nc05IMWtiVW42NDhNVWlScmpyTXZPZVhza2xfSWd6TkV5cldnUnY0b2htWk3SAdgCQVVfeXFMTm9QZktVX29NdHIwV2J6RU16dDRGMXY0eVNJZ2tGUGc3NVZUWHBNUlFLVGlCWHlJSElNRnFiLWhiWG9reXBIM0VGTlhGZXBtLW83Nk16cFZPNjZHZ0theUtpLXR6Tks1cDE5WE02VEpMSVhPLW80aGJfLTA3bVJVOHdCd0JlamtQUC1mRzFOYW5zYVEzQUVzQlByX1c0cWczNm5jSHRNNWR2QkV4N0gzVG5tUFZKdmVkREtUbnlrUXhTd3VDWS1vVzZKT2s3bk9tTGhac2syblVHZXlnMTlIZkRoMUViTmdYeGtJLXJYSGxkSmRoMVhoRE5OOHZ4c3h1enhITlJuWUNkWWN4ekVzRmFUVWZuYmxkSXJRb2VEbmJwTTZpODVCdVM2R2F6RzNENXdZTE9kVENqTzJ0SURyMEJEOFI0RE0xbVc0RTVXMzlkbTdLSXN0M0Y?oc=5)
 - **Google News Markets** (Tue, 15 Sep 2026 16:04:43 GMT): High priority | [Nasdaq Today LIVE: Index Falls 0.80% as Treasury Yield Hits 2007 High, Fed Decision, Oil Prices Surges $107 and Nvidia in Focus | Check What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMisAJBVV95cUxQTTFNa0R6WTFCLWVwQVg2UjBLMkd3aHd5X1lPX0ZwbFktQ3Zsc1pZT283WDhhUFRTV2JheEcxN3AydUJZVHFBb0N5a2tPU18zWGxzZFBxT19tTV9RQ213QTNwazZ2aUt3R1drTmF3REM5am10UXN3VWxINVFZQmFFWUdvRHMxd0Z2MzdfMElPekhaUVBueW0xYjllM0lQQ05EWWhUWXA2YTV4V01oMXR4ajdIbjJHQlFYWVV1SHh5SU1fampSUjRlYWJVcG1ZaHY3MFdIb1c5VVhpcVhiNXlsZ0ZudGZTcnlqOWlEYllCbFhaeVhuQ1VpLU9kY29BOGVPT0NsUzF2WWl6aUJ6SDFlaHNFektZZkZ4MFZKUGphWDV6RXlxbXJTOFNRTVhMQjZk0gGwAkFVX3lxTFBNMU1rRHpZMUItZXBBWDZSMEsyR3dod3lfWU9fRnBsWS1DdmxzWllPbzdYOGFQVFNXYmF4RzE3cDJ1QllUcUFvQ3lra09TXzNYbHNkUHFPX21NX1FDbXdBM3BrNnZpS3dHV2tOYXdEQzlqbXRRc3dVbEg1UVlCYUVZR29EczF3RnYzN18wSU96SFpRUG55bTFiOWUzSVBDTkRZaFRZcDZhNXhXTWgxdHhqN0huMkdCUVhZVXVIeHlJTV9qalJSNGVhYlVwbVlodjcwV0hvVzlVWGlxWGI1eWxnRm50ZlNyeWo5aURiWUJsWFp5WG5DVWktT2Rjb0E4ZU9PQ2xTMXZZaXppQnpIMWVoc0V6S1lmRngwVkpQamFYNXpFeXFtclM4U1FNWExCNmQ?oc=5)
 - **Google News Markets** (Tue, 15 Sep 2026 15:35:34 GMT): High priority | [S&P 500 Today LIVE: Index Falls 0.50% as Oil Surges as Treasury Yield Tops 5%, Fed Decision Looms, Nvidia & AI Chip Stocks Retreat | Check What Investors Should Watch - The Sunday Guardian](https://news.google.com/rss/articles/CBMisAJBVV95cUxNWVJwYl93bG5ob0phMjdBQkVDNFZtcl9wQUpDWmhMNnVsZDFGeUhMSzhSS3dFQ1g5bHJSR1BFOXNVWkY5cm0zZFpBNGRJcmVrRVM5a2RDb2EyZ2tKSkU1UURtTFF2a1RYdk9LZ0laRk9ITlh3ZlBrVkdoNjdneC1fRm1TZzkxRWZMWER6aTUtTElQUkV3eHlXOTg5UENVVEg4cld4bzgxV1ZTUUl2UXQ0SDN1TF8tUGdFQUoxU2NjTHlXZnk5LTVCWTF6VVBuV3dQLTVEeGNTQWRWTXYxNTVIUnlCRGJlSi0taDFMaWJMYVdJQWxVcGJVdmxzZVpXay1sYThyT0NjRTh4OTE3WmE0YUVBLS1nemxlTzd6bm5qVG85cUNaanpIM2JmeG41OXJ10gGwAkFVX3lxTE1ZUnBiX3dsbmhvSmEyN0FCRUM0Vm1yX3BBSkNaaEw2dWxkMUZ5SExLOFJLd0VDWDlsclJHUEU5c1VaRjlybTNkWkE0ZElyZWtFUzlrZENvYTJna0pKRTVRRG1MUXZrVFh2T0tnSVpGT0hOWHdmUGtWR2g2N2d4LV9GbVNnOTFFZkxYRHppNS1MSVBSRXd4eVc5ODlQQ1VUSDhyV3hvODFXVlNRSXZRdDRIM3VMXy1QZ0VBSjFTY2NMeVdmeTktNUJZMXpVUG5Xd1AtNUR4Y1NBZFZNdjE1NUhSeUJEYmVKLS1oMUxpYkxhV0lBbFVwYlV2bHNlWldrLWxhOHJPQ2NFOHg5MTdaYTRhRUEtLWd6bGVPN3pubmpUbzlxQ1pqekgzYmZ4bjU5cnU?oc=5)
+- **MarketWatch Top Stories** (Tue, 15 Sep 2026 17:59:00 GMT): High priority | [Stocks have so far survived rising Treasury yields. But that may be about to change.](https://www.marketwatch.com/story/stocks-have-so-far-survived-rising-treasury-yields-but-that-may-be-about-to-change-b087dbe1?mod=mw_rss_topstories)
 - **MarketWatch Top Stories** (Tue, 15 Sep 2026 16:21:00 GMT): High priority | [Gold is starting to move on something a lot bigger than inflation](https://www.marketwatch.com/story/gold-is-starting-to-move-on-something-a-lot-bigger-than-inflation-39509ac5?mod=mw_rss_topstories)
+- **Google News Markets** (Tue, 15 Sep 2026 18:03:17 GMT): High priority | [Federal Reserve decision, retail sales, and oil inventories due Wednesday - Investing.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWW9oT1ZKVTdpbW5SZlA2bkZVc0pBX3VKc0p4ZGY2Y2JJNXVhMDBNS1k0X2YzZ1dxS3lkOEVjRk9CRDc0aW4xckN6QnhkdlBNV3Y4WURmTEFpLVlaTGNrSnY0a0xKQ1lGNGY4YUFRVGdScFZFY1dBd0ZXN1dVTzR1U2dEZzdtZmlHNDVDNVE4bnpCN2hHcFJ0UndWTmtPV0tkLWpGTFR1Q1FSVWluaVNvNkVOZmFaQjJGcDZPbV9tenpTQTFQRnBBV1ZEZldDQQ?oc=5)
+- **Google News Markets** (Tue, 15 Sep 2026 12:45:00 GMT): High priority | [US Stock Futures Slip as Treasury Yield Tops 5% Ahead of Fed Decision - analyticsinsight.net](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFNVRnBRZjBndkhSek44ZHdFdVFSSV91bFNLa3N3YWR6NXE3NjlSV1NhbV9xdUZDWVpNNHVaVUZEWnpKMmpsY2M1dzV2SXNEc3ljM21hXzFPWXhxRkxQa2lXT0s5UHVzLWt0N0s2bS1Bbm5UWUFFcnRQM0JsMzliSGs5MlJvaWNVSV8zd05XeWlDbHJOS3oyTGRKVGJGTUI3V0F2TFc4aU10NEw20gG6AUFVX3lxTFBOWlJQTUh2YXZGQ09DdEZHMFIwQ2UyWDhmdUNDc1c5NjdfUFZ6a2g3UUpHa2dkUTE4cV9XbmZTTnlueHYzbEhBRDFSSm1zNS1PdlNndzk5bVVnMDJ2eGNrSlZqV0ZKSnA3LTVxR2d2Y2RubURIVHBfak1qdnRvMV9Ha254YUt5UmdPejhxRTQ1M3dFcG95V2V6ZWJmazZsdFBabW9IOHgxVzl2bW12bE5BRXE1NWRPTTVOdw?oc=5)
 - **Google News Markets** (Tue, 15 Sep 2026 09:15:40 GMT): High priority | [European Stocks Fall as Oil Tops $113 Ahead of Federal Reserve Meeting: DAX, CAC, FTSE100 - Yahoo Finance UK](https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTVNUnZVdXU4dUl4VmVOc1FmZG4yZi1uelVtd3RCOFo1TWlsbEZ3NURMc1JwSWF6ZlU2amxLTDU4Z2xLRGlyVDZYSzFSakdIdG5qODlRQjA4WGd2TGdCT3B3eTZhUGZVb2JzV0N6SGJpOHBBVWhPbTJLd3huT3djcVAyT3k?oc=5)
 - **MarketWatch Top Stories** (Tue, 15 Sep 2026 17:08:00 GMT): High priority | [Is the two-decade era of low interest rates over? The Fed has to decide.](https://www.marketwatch.com/story/is-the-two-decade-era-of-low-interest-rates-over-the-fed-has-to-decide-0520f458?mod=mw_rss_topstories)
+- **Google News Markets** (Tue, 15 Sep 2026 17:59:00 GMT): High priority | [Opinion: Stocks have so far survived rising Treasury yields. But that may be about to change. - marketwatch.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZkd6aU5GQ2ROcHZ2d1VfOW9RSnMydkZzUEF6aC13TWpPVjNwSmhYUG43aXI2clVNU1JpdG13bGNyT1hYNHdrWVBkbjdLOEUxY1dvY0llS1J1MWxOcV95ZFppS3dVME5lV0ZHdjhXZTF2LVBROWZoMXVrbDVuNUd4bHVFTFFsTFFsc1p4VEoyTmhzVUhoTXFNSVJxdmhFOTV2ckhIVzN3U2VoTENDN2hPWTAzdTkwOHdtdVdsSDlTTUVDR3c?oc=5)
 - **Google News Markets** (Tue, 15 Sep 2026 16:15:31 GMT): High priority | [Q2 Earnings Roundup: Federal Signal (NYSE:FSS) And The Rest Of The Heavy Transportation Equipment Segment - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVdjcXI4MmJ1ODQydExEMlhaSUhxTzN6cE9ick02LXUxbHc1ZThUeWVhTXdRclg1NTV3R2drOFVmVzNRYVdLNjVhTDBJcHVwVVJZcS1lLXFMYXItN2RDNG1ubFM2WXlXeHpVR1NMcHZrSVFkUXItdVVaSVFqVzZJMmV1by1DTmRnLWM1MlFqeUdDdjRuQjRwalNqNG45ZWxz?oc=5)
 - **Google News Markets** (Tue, 15 Sep 2026 15:27:37 GMT): High priority | [The Case for Federal Reserve Discretion - National Review](https://news.google.com/rss/articles/CBMihgFBVV95cUxOREdWQlgxWW9jQV9MbmVkbk9HUDktVGRGdXczNDJhNGowa29ZMGg2RE1MLTlYNVZlb1hYVUhESlprWGtBYWlLVEg4M2FCQ3JVdlNyclZCUlhiSzVyS25HXzFwYzdVb0REbGYtLW1oUmRNSFU1bE9FS3lWSmNoTjVDci16N090QdIBiwFBVV95cUxNbVczV2RjZHBaTnNLbXBWckNlejZPU2VScEd5UkdpSkVTdkZVRThMT0tOcGc2NGlFekw1Ynp5UzRxNTVTRXUwV1F3WG0yZUpTN1NUWHJib1htRVpqSktKbk41UEdpUEstUm50TnVsdE5oNnMtRnRUWFVGazNFSml5Mjl5TzZkeTVWVFRR?oc=5)
-- **Google News Markets** (Tue, 15 Sep 2026 14:45:40 GMT): High priority | [Will US Federal Reserve raise key interest rates for the US economy? Here’s what investors should know - Upstox](https://news.google.com/rss/articles/CBMijAJBVV95cUxOS1ZSNHJjQS1hZU1nMWV2ZndHbkZ2TmZ2Znl2SWNDb2hSMUpHNEhZZDRhWE5iVVhBSTlwWEd2Y2dkUkVCN1FqQWJCRXdKOEZPOWhBbjBIanM2b3RwUkUxOVdFMUR6NFdwXzhpelRYLV9BNXB0SEJyZDI5aG03UnROMXZya1RpZnJQUENBWUhXNFFLaUExV3BZUk1udHRja1cyN3ZUdGdLZDhXZWhlNUFMd0p1NWtsYklwX1N5OE1FRmJHdmJaM05YNWNKZG9vVkNLVnRlaXRTWGw3aTlrajg5QUxlNnQ2aUZiNDZralZwZzJkNi1ZeVJ5dW9TWXJaWm5GWnM0X0tncnNxRmcw?oc=5)
-- **Google News Markets** (Tue, 15 Sep 2026 13:47:55 GMT): High priority | [AI stocks hold steadier as Wall Street drifts lower ahead of the Federal Reserve's meeting - couriernews.com](https://news.google.com/rss/articles/CBMijgJBVV95cUxOSENOSjQ0T3dCdDZ3cjg1b19icG9zd1FGYVQxX0dUbkNhbXBTM0hULXBwZEkwNVNFMXFwR0VzcWZ6NHhWLUJuSFliVkx1OEVfSENDU1F6UGtZMjhpb2U1WC1JSlMzNWVIS0E0bGxpUVVyZUVHeWtlSFlLZkluVzBhUkhYcDlIV0pOcWxLTlB0al9yOHdPOEVibkJEcWsycUVZeG1wRkhMUllrc0NWcG9uUndXdHA0X2phemJrVUkyZ2pmSDJmM0ppMXg4Z3dVSU1EZWtoT0p3cFdGTVAzeWZwTi1nSnA0cm9CZWYzUjIxdTFvX2ZBbmVBQmY3eWlXZzBOX0NkXzZLTW5FNW5oX1E?oc=5)
-- **Google News Markets** (Tue, 15 Sep 2026 13:15:32 GMT): High priority | [(09/15/26) Market Minute 9/15/26: Rising Yields and Fed in Focus - moneyshow.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVJxbS16YnFEZWFBN1VkNjhiSmtFYi1RZ1BCdmNxenBwVEF4bUR4NVhLSGVZaE5Ya0JQUlkxZVpUejBCOGNKYkJQd0Y2bmp0SnVkQUUxTWp2OEZLdkpLSFpNWGowME0yZ3JTcWJ4Uy03U3Bac0VhQTVyS29mTFhMWFFEOEw5UUp3RlpjM3VJQW51UDJYVF9hb3hyQ0k1ZlJ6R3BnUVVPUVR1Q0k?oc=5)
-- **Google News Markets** (Tue, 15 Sep 2026 11:25:00 GMT): High priority | [Federal Reserve expected to raise benchmark rate, despite Trump's call for cut - The Tribune-Democrat](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZFlGb1NxTG0taWJSdnhEWjU0N3JmSHNyeUZ1ZlhlS3ViUGhNaGo4aHVlcWFpT0lpRHYwd1hicWx1R2pGRkd6MEZWdmlZdUZzMnRWaG1xbXhRZE01YnNSMjRNRkh0Q19pRXZaVTlrU2x4cVhkc1hlRW1sbzBYY002N2dlVnFuRGg4TkhjVU5SeHQyRlAzN3BsQzJHM2RHUlpsTmUtanRsRS02ZTI2eUlOMG5yR2p1ZXFaaFRTU2JSWnVNX1hoajF1U2NjY3dFTTZHb2dsd1JZd1VnbGoyOW10eVFPdWl1aW5ySE00?oc=5)
-- **Google News Markets** (Tue, 15 Sep 2026 10:12:00 GMT): High priority | [Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow. - The Motley Fool](https://news.google.com/rss/articles/CBMipgFBVV95cUxNRk9SQXdpS0ZwMjBha3hTN0tuWlA2S0ZmTVprTlVQdEZFMVBWZzdERTZOVkVnekFOOFh0WlRQbzlvUGNwdmMwOThiT2dqNnVFVWhnV01Da2VfMGQwYmRHYzRjLUk5cThocnhfX2JOY0dJd2lVSmdOWXJvOTRQRVFiY0pWa0NBV2loY3hveTFOV2Y1Y0ZrUkVFMGJKXzFheE5YWXVRQklR?oc=5)
 
 ## 5. Economic Calendar
 
