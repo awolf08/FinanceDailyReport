@@ -1,6 +1,6 @@
 # Finance Daily Report - 2026-09-16
 
-_Generated: 2026-09-16 06:01:30 PDT. Timezone: America/Los_Angeles. Not financial advice._
+_Generated: 2026-09-16 06:06:39 PDT. Timezone: America/Los_Angeles. Not financial advice._
 
 [Baybell Home](https://www.baybell.com/)
 
@@ -45,6 +45,73 @@ _Generated: 2026-09-16 06:01:30 PDT. Timezone: America/Los_Angeles. Not financia
 - **US market open.** Regular session 9:30 AM ET-4:00 PM ET.
 
 ## 3. Intraday Active Stock Snapshots
+
+### 6:06 AM Premarket Snapshot
+- TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:06 AM ET.
+
+#### Most Active Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.38 | +0.54 | +5.51% | 8,278,090 |
+| **[INTC](https://finance.yahoo.com/quote/INTC/)** | Intel Corporation | $100.88 | +3.74 | +3.85% | 4,363,990 |
+| **[AUR](https://finance.yahoo.com/quote/AUR/)** | Aurora Innovation, Inc. | $6.62 | +0.18 | +2.80% | 1,200,323 |
+| **[NVDA](https://finance.yahoo.com/quote/NVDA/)** | NVIDIA Corporation | $214.00 | +1.83 | +0.86% | 1,081,950 |
+| **[STLA](https://finance.yahoo.com/quote/STLA/)** | Stellantis N.V. | $5.03 | -0.08 | -1.59% | 906,308 |
+| **[SPCX](https://finance.yahoo.com/quote/SPCX/)** | Space Exploration Technologies Corp | $144.72 | +1.23 | +0.86% | 880,981 |
+| **[BMNR](https://finance.yahoo.com/quote/BMNR/)** | BitMine Immersion Technologies, Inc. | $23.61 | +0.01 | +0.03% | 848,592 |
+| **[SKHY](https://finance.yahoo.com/quote/SKHY/)** | SK hynix Inc. | $180.38 | +5.55 | +3.17% | 718,643 |
+| **[ONDS](https://finance.yahoo.com/quote/ONDS/)** | Ondas Inc | $7.30 | +0.06 | +0.83% | 561,987 |
+| **[IREN](https://finance.yahoo.com/quote/IREN/)** | IREN Limited | $42.44 | +0.86 | +2.07% | 508,228 |
+| **[NVO](https://finance.yahoo.com/quote/NVO/)** | Novo Nordisk A/S | $42.47 | -0.06 | -0.14% | 474,164 |
+| **[CRWV](https://finance.yahoo.com/quote/CRWV/)** | CoreWeave, Inc. | $83.68 | +2.76 | +3.41% | 448,172 |
+| **[SMCI](https://finance.yahoo.com/quote/SMCI/)** | Super Micro Computer, Inc. | $36.19 | +0.55 | +1.54% | 393,932 |
+| **[ORCL](https://finance.yahoo.com/quote/ORCL/)** | Oracle Corporation | $140.93 | +0.58 | +0.41% | 383,130 |
+| **[EXK](https://finance.yahoo.com/quote/EXK/)** | Endeavour Silver Corporation | $9.89 | +0.25 | +2.59% | 372,838 |
+
+#### Top Gaining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[LUXE](https://finance.yahoo.com/quote/LUXE/)** | LuxExperience B.V. | $8.20 | +1.05 | +14.69% | 43,154 |
+| **[WXIBF](https://finance.yahoo.com/quote/WXIBF/)** | Wuxi Biologics (Cayman) Inc | $6.70 | +0.69 | +11.48% | 357 |
+| **[TGSGY](https://finance.yahoo.com/quote/TGSGY/)** | TGS ASA | $15.70 | +0.88 | +5.97% | 300 |
+| **[LNVGY](https://finance.yahoo.com/quote/LNVGY/)** | Lenovo Group Ltd. | $85.00 | +4.78 | +5.96% | 100 |
+| **[NOK](https://finance.yahoo.com/quote/NOK/)** | Nokia Corporation Sponsored | $10.38 | +0.54 | +5.51% | 8,278,090 |
+| **[ALVO](https://finance.yahoo.com/quote/ALVO/)** | Alvotech | $5.30 | +0.28 | +5.50% | 70,949 |
+| **[SPPP](https://finance.yahoo.com/quote/SPPP/)** | Sprott Physical Platinum and Palladium Trust | $15.08 | +0.75 | +5.24% | 500 |
+| **[NICM](https://finance.yahoo.com/quote/NICM/)** | Nicola Mining Inc. | $5.56 | +0.25 | +4.81% | 1,169 |
+| **[BRCB](https://finance.yahoo.com/quote/BRCB/)** | Black Rock Coffee Bar, Inc. | $7.31 | +0.33 | +4.73% | 1,069 |
+| **[SZKMY](https://finance.yahoo.com/quote/SZKMY/)** | Suzuki Motor Co. | $54.70 | +2.45 | +4.68% | 2 |
+| **[PSNY](https://finance.yahoo.com/quote/PSNY/)** | Polestar Automotive Holding UK Limited | $7.66 | +0.34 | +4.64% | 200 |
+| **[FTK](https://finance.yahoo.com/quote/FTK/)** | Flotek Industries, Inc. | $28.22 | +1.24 | +4.60% | 3,228 |
+| **[SMWB](https://finance.yahoo.com/quote/SMWB/)** | Similarweb Ltd. | $8.85 | +0.38 | +4.49% | 8,491 |
+| **[TCOM](https://finance.yahoo.com/quote/TCOM/)** | Trip.com Group Limited | $40.97 | +1.72 | +4.38% | 134,940 |
+| **[NAMS](https://finance.yahoo.com/quote/NAMS/)** | NewAmsterdam Pharma Company N.V. | $22.08 | +0.92 | +4.35% | 2,466 |
+
+#### Top Declining Stocks
+| Symbol | Name | Price | Change | Change % | Volume |
+|---|---|---:|---:|---:|---:|
+| **[WIGBY](https://finance.yahoo.com/quote/WIGBY/)** | Wisetech Global | $23.45 | -3.22 | -12.07% | 100 |
+| **[JBHT](https://finance.yahoo.com/quote/JBHT/)** | J.B. Hunt Transport Services, Inc. | $243.77 | -29.28 | -10.72% | 48,832 |
+| **[FANG](https://finance.yahoo.com/quote/FANG/)** | Diamondback Energy, Inc. | $200.50 | -11.03 | -5.21% | 304,832 |
+| **[RFAI](https://finance.yahoo.com/quote/RFAI/)** | RF Acquisition Corp II | $31.58 | -1.57 | -4.74% | 281 |
+| **[BBNX](https://finance.yahoo.com/quote/BBNX/)** | Beta Bionics, Inc. | $18.34 | -0.89 | -4.63% | 20,853 |
+| **[KNX](https://finance.yahoo.com/quote/KNX/)** | Knight-Swift Transportation Holdings Inc. | $65.50 | -2.99 | -4.37% | 1,644 |
+| **[LIFE](https://finance.yahoo.com/quote/LIFE/)** | Ethos Technologies Inc. | $38.67 | -1.61 | -4.00% | 325 |
+| **[SSL](https://finance.yahoo.com/quote/SSL/)** | Sasol Ltd. | $14.55 | -0.56 | -3.71% | 18,521 |
+| **[TAVHY](https://finance.yahoo.com/quote/TAVHY/)** | Tav Havalimanlari Holding AS | $20.50 | -0.72 | -3.39% | 1,780 |
+| **[WERN](https://finance.yahoo.com/quote/WERN/)** | Werner Enterprises, Inc. | $36.30 | -1.26 | -3.35% | 8,324 |
+| **[TLX](https://finance.yahoo.com/quote/TLX/)** | Telix Pharmaceuticals Limited | $12.40 | -0.43 | -3.35% | 11,761 |
+| **[ODFL](https://finance.yahoo.com/quote/ODFL/)** | Old Dominion Freight Line, Inc. | $175.00 | -5.96 | -3.29% | 2,735 |
+| **[FSK](https://finance.yahoo.com/quote/FSK/)** | FS KKR Capital Corp. | $11.61 | -0.39 | -3.26% | 10,295 |
+| **[NYAX](https://finance.yahoo.com/quote/NYAX/)** | Nayax Ltd. | $43.67 | -1.45 | -3.22% | 600 |
+| **[MKDW](https://finance.yahoo.com/quote/MKDW/)** | MKDWELL Tech Inc. | $6.37 | -0.21 | -3.21% | 250 |
+
+Source health:
+- NYSE calendar 2026-09-16: open
+- Network readiness: ok - connected to scanner.tradingview.com:443
+- TradingView Premarket Most Active: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Gainers: ok - 15 rows with market cap at or above $100M and price at or above $5
+- TradingView Premarket Losers: ok - 15 rows with market cap at or above $100M and price at or above $5
 
 ### 6:01 AM Premarket Snapshot
 - TradingView premarket scans captured with a $100M minimum market cap and $5 minimum share price. Latest source timestamp: TradingView premarket scan as of 9:01 AM ET.
@@ -145,12 +212,12 @@ Source health:
 - **07:00** MBA Purchase Index | Previous: 157.5 | Source: Nasdaq
 - **07:00** Mortgage Market Index | Previous: 240.6 | Source: Nasdaq
 - **07:00** Mortgage Refinance Index | Previous: 687.3 | Source: Nasdaq
-- **08:30** Core Retail Sales | Forecast: 0.6% | Previous: -0.2% | Source: Nasdaq
-- **08:30** Export Price Index | Previous: 8.1% | Source: Nasdaq
-- **08:30** Import Price Index | Forecast: 0.4% | Previous: -0.3% | Source: Nasdaq
+- **08:30** Core Retail Sales | Forecast: 0.6% | Previous: -0.3% | Source: Nasdaq
+- **08:30** Export Price Index | Forecast: 0.5% | Previous: -1.3% | Source: Nasdaq
+- **08:30** Import Price Index | Forecast: 0.4% | Previous: -0.4% | Source: Nasdaq
 - **08:30** Retail Control | Forecast: 0.4% | Previous: -0.4% | Source: Nasdaq
-- **08:30** Retail Sales | Previous: 5.03% | Source: Nasdaq
-- **08:30** Retail Sales Ex Gas/Autos | Previous: -0.3% | Source: Nasdaq
+- **08:30** Retail Sales | Previous: 5.01% | Source: Nasdaq
+- **08:30** Retail Sales Ex Gas/Autos | Previous: -0.2% | Source: Nasdaq
 - **10:00** Business Inventories | Forecast: 0.6% | Previous: 0.0% | Source: Nasdaq
 - **10:00** NAHB Housing Market Index | Forecast: 34 | Previous: 35 | Source: Nasdaq
 - **10:00** Retail Inventories Ex Auto | Forecast: 0.7% | Previous: -0.4% | Source: Nasdaq
@@ -159,11 +226,11 @@ Source health:
 - **10:30** Crude Oil Imports | Previous: 1.120M | Source: Nasdaq
 - **10:30** Cushing Crude Oil Inventories | Previous: -0.684M | Source: Nasdaq
 - **10:30** Distillate Fuel Production | Previous: 0.222M | Source: Nasdaq
-- **10:30** EIA Weekly Distillates Stocks | Forecast: 0.100M | Previous: 2.087M | Source: Nasdaq
+- **10:30** EIA Weekly Distillates Stocks | Previous: 2.087M | Source: Nasdaq
 - **10:30** Gasoline Production | Previous: -0.537M | Source: Nasdaq
 - **10:30** Heating Oil Stockpiles | Previous: 0.010M | Source: Nasdaq
 - **10:30** EIA Weekly Refinery Utilization Rates | Previous: -0.2% | Source: Nasdaq
-- **10:30** Gasoline Inventories | Forecast: -1.000M | Previous: 1.269M | Source: Nasdaq
+- **10:30** Gasoline Inventories | Previous: 1.269M | Source: Nasdaq
 - **11:30** Atlanta Fed GDPNow | Forecast: 4.4% | Previous: 4.4% | Source: Nasdaq
 - **14:00** Interest Rate Projection - 1st Yr | Previous: 3.6% | Source: Nasdaq
 - **14:00** Interest Rate Projection - 2nd Yr | Previous: 3.4% | Source: Nasdaq
