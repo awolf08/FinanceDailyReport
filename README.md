@@ -1,3 +1,16 @@
+# FinanceDailyReport — moved to Baybell Reports
+
+Active development, daily/weekly generation, snapshots and publishing have moved to [awolf08/reports](https://github.com/awolf08/reports). This repository is retained for its original Git history and report archive.
+
+- [Daily report](https://baybell.com/daily-finance/)
+- [Latest generated daily report](https://baybell.com/daily-finance/latest.html)
+- [Weekly report](https://baybell.com/weekly-finance/)
+- [Generator and publishing instructions](https://github.com/awolf08/reports#readme)
+
+The old daily workflow is disabled. Do not enable it or run the old generator here; use the reports repository. The Pages workflow only maintains compatibility redirects for existing URLs. The stock_dashboard repository remains independent.
+
+<details><summary>Original documentation (historical; commands are retired)</summary>
+
 # Finance Daily Report
 
 Personal daily market brief generator.
@@ -133,3 +146,5 @@ The dated report URLs still exist in both repositories. In the reports site, the
 ## Notes
 
 This first version avoids paid API keys. Public finance endpoints sometimes rate-limit or change shape, so each section degrades independently and shows a clear note when a source is unavailable.
+
+</details>
